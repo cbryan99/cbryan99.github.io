@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birthday</title>
+	<style>
+		body {
+			background-color: black;
+			color: white;
+			font-size: 4em;
+			text-align: center;
+			margin: 0;
+			height: 100vh;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.animate {
+			animation-name: color-change;
+			animation-duration: 2s;
+			animation-timing-function: ease-in-out;
+			animation-iteration-count: infinite;
+		}
+
+		@keyframes color-change {
+			0% {
+				color: white;
+			}
+			50% {
+				color: red;
+			}
+			100% {
+				color: white;
+			}
+		}
+	</style>
+</head>
+<body>
+	<h1 class="animate">Happy Birthday</h1>
+</body>
+</html>
