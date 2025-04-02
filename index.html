@@ -3,162 +3,438 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adicionar à Playlist do Spotify</title>
+    <title>Gerenciador Spotify VIP</title>
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: Arial, sans-serif;
+            font-family: 'Circular', Arial, sans-serif;
         }
+        
         body {
+            background: #121212;
+            color: white;
             min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #f0f2f5;
+            padding: 20px;
         }
+        
         .container {
-            background: white;
-            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #181818;
             border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            width: 90%;
-            max-width: 500px;
+            padding: 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
         }
-        h1 {
+        
+        /* Header da Playlist */
+        .playlist-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #282828;
+        }
+        
+        .playlist-cover {
+            width: 150px;
+            height: 150px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+        
+        .playlist-info {
+            flex: 1;
+        }
+        
+        .playlist-name {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: white;
+        }
+        
+        .playlist-description {
+            color: #b3b3b3;
+            margin-bottom: 15px;
+            font-size: 0.9rem;
+        }
+        
+        .playlist-stats {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .stat-item {
+            color: #b3b3b3;
+            font-size: 0.8rem;
+        }
+        
+        /* Lista de Músicas */
+        .tracks-container {
+            margin-top: 20px;
+        }
+        
+        .track-list {
+            list-style: none;
+        }
+        
+        .track-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-radius: 5px;
+            transition: background 0.2s;
+        }
+        
+        .track-item:hover {
+            background: #282828;
+        }
+        
+        .track-number {
+            width: 30px;
             text-align: center;
-            color: #1DB954; /* Verde Spotify */
-            margin-bottom: 1.5rem;
+            color: #b3b3b3;
         }
+        
+        .track-info {
+            flex: 1;
+            margin-left: 15px;
+        }
+        
+        .track-name {
+            font-size: 0.95rem;
+            margin-bottom: 3px;
+        }
+        
+        .track-artist {
+            font-size: 0.8rem;
+            color: #b3b3b3;
+        }
+        
+        /* Botão de Adicionar */
+        .add-button {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 60px;
+            height: 60px;
+            background: #1DB954;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);
+            cursor: pointer;
+            z-index: 100;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+        }
+        
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-content {
+            background: #282828;
+            width: 90%;
+            max-width: 400px;
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 4px 30px rgba(0,0,0,0.5);
+        }
+        
+        .modal-header {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .modal-title {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+        
         .input-group {
-            margin-bottom: 1.5rem;
+            margin-bottom: 20px;
         }
+        
         input[type="url"] {
             width: 100%;
-            padding: 0.8rem;
-            border: 1px solid #ddd;
+            padding: 12px 15px;
             border-radius: 5px;
+            border: none;
+            background: #404040;
+            color: white;
             font-size: 1rem;
         }
-        button {
+        
+        input[type="url"]:focus {
+            outline: 2px solid #1DB954;
+        }
+        
+        .submit-btn {
             width: 100%;
-            padding: 0.8rem;
-            background: #1DB954; /* Verde Spotify */
+            padding: 12px;
+            background: #1DB954;
             color: white;
             border: none;
             border-radius: 5px;
-            cursor: pointer;
             font-size: 1rem;
-            transition: background 0.3s ease;
+            cursor: pointer;
+            transition: background 0.2s;
         }
-        button:hover {
-            background: #1aa34a;
+        
+        .submit-btn:hover {
+            background: #1ed760;
         }
+        
         #mensagem {
-            text-align: center;
-            margin-top: 1rem;
-            padding: 0.5rem;
+            margin-top: 15px;
+            padding: 10px;
             border-radius: 5px;
+            text-align: center;
+            display: none;
+        }
+        
+        .success {
+            background: rgba(29, 185, 84, 0.2);
+            color: #1DB954;
+            display: block;
+        }
+        
+        .error {
+            background: rgba(255, 0, 0, 0.2);
+            color: #ff4d4d;
+            display: block;
+        }
+        
+        .loading {
+            background: rgba(66, 133, 244, 0.2);
+            color: #4285f4;
+            display: block;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Adicionar à Minha Playlist</h1>
-        <form id="linkForm">
-            <div class="input-group">
-                <input type="url" 
-                       id="linkInput" 
-                       placeholder="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
-                       required>
+        <!-- Cabeçalho da Playlist -->
+        <div class="playlist-header">
+            <img src="https://via.placeholder.com/150" class="playlist-cover" id="playlistCover" alt="Capa da Playlist">
+            <div class="playlist-info">
+                <h1 class="playlist-name" id="playlistName">Carregando...</h1>
+                <p class="playlist-description" id="playlistDescription"></p>
+                <div class="playlist-stats">
+                    <span class="stat-item" id="totalTracks">🎵 0 músicas</span>
+                    <span class="stat-item" id="followers">👥 0 seguidores</span>
+                </div>
             </div>
-            <button type="submit">Adicionar Música</button>
-        </form>
-        <div id="mensagem"></div>
+        </div>
+        
+        <!-- Lista de Músicas -->
+        <div class="tracks-container">
+            <ul class="track-list" id="trackList">
+                <!-- As músicas serão carregadas aqui -->
+            </ul>
+        </div>
+    </div>
+    
+    <!-- Botão Flutuante -->
+    <button class="add-button" id="openModal">+</button>
+    
+    <!-- Modal -->
+    <div class="modal" id="addModal">
+        <div class="modal-content">
+            <button class="modal-close" id="closeModal">&times;</button>
+            <div class="modal-header">
+                <h2 class="modal-title">Adicionar Música</h2>
+                <p>Cole o link do Spotify</p>
+            </div>
+            <form id="linkForm">
+                <div class="input-group">
+                    <input type="url" 
+                           id="linkInput" 
+                           placeholder="https://open.spotify.com/track/..."
+                           required>
+                </div>
+                <button type="submit" class="submit-btn">Adicionar</button>
+                <div id="mensagem"></div>
+            </form>
+        </div>
     </div>
 
     <script>
-        // Configurações do Spotify (JÁ COM SEUS DADOS INSERIDOS)
-        const token = 'BQCBCwueBsJlIN0ODur1yy2kw4U1qdRl76vJo3SOrEajyEHXhsbogKaUANu7pCw3vpZ0zz4gzQs9b5eczsYYEUkECr6gAkLcUroDX1SUIbEC0h4BpJG9irxNxT0Seuxop516RIEqKP0DlPf_aia0YnOIYkx5h2-ym2zIUoZAjtBqROPIcq3bFIdbs5mg7VfgaVCQZSDKGODLI_5NtudwDbJUJzUzKL4Sz7hCVKv747bZ9p5EgWEqzCLQaqNRbK-mH8SJBobh6eor1ukfCyfTQqHcdZyhxlglPciaJZm63fpZsEVSOckir_Hm';
+        // Configurações do Spotify
+        const token = 'BQA-p8S2kH3C2BJU0dTBhw1fDWX2X3IA-eMtl-5Oc67r-PaGE-gogr0m8LXpymT8QrJDHZF5UUfWGFidIE1kFO1luiQL8H6az-tApW6vE-xT_tIkHoe6BSRq2Fi3qtztRq_vup-e11Y5c6cGjkUK_9qabR0LwE7pJ0yiZmMiqPZptp_ge7zhyhS8GGuafZBGsACGpQdYA9PUVZm7XTYEKLxLQvNApNq1IifS72J7k3ZTuUnuMAIRzSPLLmi-Q513D4BqynHZqnMIH5A88x5Sj2V8iNAJyhxcW-MJLmCWssu1neHT4kwmkDM7B2LTLsgij7jnf0nM-s-S0ZmSYWRrFZl8TFf5lfy_-ro4ZxQMPy5wBi-4zzMAa2-H';
         const playlistId = '0eeBGb4DuNFCMEgwnazjbE';
 
-        // Função para chamar a API do Spotify
+        // Elementos do DOM
+        const modal = document.getElementById('addModal');
+        const openModalBtn = document.getElementById('openModal');
+        const closeModalBtn = document.getElementById('closeModal');
+        const form = document.getElementById('linkForm');
+        const linkInput = document.getElementById('linkInput');
+        const messageDiv = document.getElementById('mensagem');
+
+        // Controle do Modal
+        openModalBtn.addEventListener('click', () => {
+            modal.style.display = 'flex';
+            linkInput.focus();
+        });
+
+        closeModalBtn.addEventListener('click', () => {
+            modal.style.display = 'none';
+        });
+
+        // Funções da API
         async function fetchWebApi(endpoint, method, body) {
-            const res = await fetch(`https://api.spotify.com/${endpoint}`, {
-                headers: { Authorization: `Bearer ${token}` },
-                method,
-                body: JSON.stringify(body)
-            });
-            return await res.json();
+            try {
+                const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+                    headers: { Authorization: `Bearer ${token}` },
+                    method,
+                    body: body ? JSON.stringify(body) : null
+                });
+
+                if(!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+                return await res.json();
+            } catch (error) {
+                console.error('Erro na API:', error);
+                throw error;
+            }
         }
 
-        // Extrai o ID da música do URL
+        // Carregar informações da playlist
+        async function loadPlaylistInfo() {
+            try {
+                const data = await fetchWebApi(`v1/playlists/${playlistId}`, 'GET');
+                
+                document.getElementById('playlistName').textContent = data.name;
+                document.getElementById('playlistDescription').textContent = data.description || 'Playlist criada com ❤️';
+                document.getElementById('totalTracks').textContent = `🎵 ${data.tracks.total} músicas`;
+                document.getElementById('followers').textContent = `👥 ${data.followers.total} seguidores`;
+                
+                const coverImg = document.getElementById('playlistCover');
+                coverImg.src = data.images[0]?.url || 'https://via.placeholder.com/150';
+                
+                await loadTracks();
+            } catch (error) {
+                showMessage(`Erro ao carregar playlist: ${error.message}`, 'error');
+            }
+        }
+
+        // Carregar músicas da playlist
+        async function loadTracks() {
+            try {
+                const data = await fetchWebApi(`v1/playlists/${playlistId}/tracks`, 'GET');
+                const trackList = document.getElementById('trackList');
+                trackList.innerHTML = '';
+                
+                data.items.forEach((item, index) => {
+                    const track = item.track;
+                    const li = document.createElement('li');
+                    li.className = 'track-item';
+                    li.innerHTML = `
+                        <div class="track-number">${index + 1}</div>
+                        <div class="track-info">
+                            <div class="track-name">${track.name}</div>
+                            <div class="track-artist">${track.artists.map(a => a.name).join(', ')}</div>
+                        </div>
+                    `;
+                    trackList.appendChild(li);
+                });
+            } catch (error) {
+                console.error('Erro ao carregar músicas:', error);
+            }
+        }
+
+        // Extrair ID da música
         function extractTrackId(url) {
-            const regex = /track\/([a-zA-Z0-9]+)/;
-            const match = url.match(regex);
+            const match = url.match(/track\/([a-zA-Z0-9]+)/);
             return match ? match[1] : null;
         }
 
-        // Adiciona música à SUA playlist existente
+        // Adicionar música à playlist
         async function addToPlaylist(trackUri) {
             try {
-                const response = await fetchWebApi(
+                await fetchWebApi(
                     `v1/playlists/${playlistId}/tracks?uris=${trackUri}`,
                     'POST'
                 );
-                return { success: true, snapshot_id: response.snapshot_id };
+                return true;
             } catch (error) {
-                console.error('Erro:', error);
-                return { success: false, error: error.message };
+                console.error('Erro ao adicionar música:', error);
+                return false;
             }
         }
 
-        // Controle do formulário
-        const form = document.getElementById('linkForm');
-        const linkInput = document.getElementById('linkInput');
-        const mensagem = document.getElementById('mensagem');
+        // Mostrar mensagens
+        function showMessage(text, type) {
+            messageDiv.textContent = text;
+            messageDiv.className = type;
+            messageDiv.style.display = 'block';
+            
+            setTimeout(() => {
+                messageDiv.style.display = 'none';
+            }, 5000);
+        }
 
+        // Envio do formulário
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
             
-            if(!linkInput.validity.valid) {
-                showMessage('Por favor, insira um URL válido do Spotify!', 'error');
+            const url = linkInput.value.trim();
+            if(!url) {
+                showMessage('Por favor, insira um link', 'error');
                 return;
             }
 
-            const trackId = extractTrackId(linkInput.value);
+            const trackId = extractTrackId(url);
             if(!trackId) {
-                showMessage('URL inválido. Certifique-se de usar um link de música do Spotify', 'error');
+                showMessage('Link inválido. Use um link do Spotify', 'error');
                 return;
             }
 
-            showMessage('Adicionando à playlist...', 'loading');
-
+            showMessage('Adicionando música...', 'loading');
+            
             try {
-                const trackUri = `spotify:track:${trackId}`;
-                const result = await addToPlaylist(trackUri);
-
-                if(result.success) {
-                    showMessage('Música adicionada com sucesso! 🎵', 'success');
+                const success = await addToPlaylist(`spotify:track:${trackId}`);
+                if(success) {
+                    showMessage('Música adicionada com sucesso!', 'success');
                     linkInput.value = '';
+                    await loadPlaylistInfo();
+                    setTimeout(() => modal.style.display = 'none', 2000);
                 } else {
-                    showMessage('Erro ao adicionar. Tente novamente.', 'error');
+                    showMessage('Erro ao adicionar música', 'error');
                 }
             } catch (error) {
-                showMessage('Erro na conexão com o Spotify', 'error');
+                showMessage(`Erro: ${error.message}`, 'error');
             }
         });
 
-        function showMessage(text, type) {
-            mensagem.textContent = text;
-            mensagem.style.background = 
-                type === 'error' ? '#ffebee' : 
-                type === 'success' ? '#e8f5e9' : '#e3f2fd';
-            mensagem.style.color = 
-                type === 'error' ? '#c62828' : 
-                type === 'success' ? '#2e7d32' : '#1565c0';
-        }
+        // Inicialização
+        document.addEventListener('DOMContentLoaded', loadPlaylistInfo);
     </script>
 </body>
 </html>
