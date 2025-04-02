@@ -1,41 +1,164 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
-	<title>LOL</title>
-	<style>
-		body {
-			background-color: black;
-			color: white;
-			font-size: 4em;
-			text-align: center;
-			margin: 0;
-			height: 100vh;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-		}
-
-		.animate {
-			animation-name: color-change;
-			animation-duration: 2s;
-			animation-timing-function: ease-in-out;
-			animation-iteration-count: infinite;
-		}
-
-		@keyframes color-change {
-			0% {
-				color: white;
-			}
-			50% {
-				color: red;
-			}
-			100% {
-				color: white;
-			}
-		}
-	</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar à Playlist do Spotify</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #f0f2f5;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            width: 90%;
+            max-width: 500px;
+        }
+        h1 {
+            text-align: center;
+            color: #1DB954; /* Verde Spotify */
+            margin-bottom: 1.5rem;
+        }
+        .input-group {
+            margin-bottom: 1.5rem;
+        }
+        input[type="url"] {
+            width: 100%;
+            padding: 0.8rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+        button {
+            width: 100%;
+            padding: 0.8rem;
+            background: #1DB954; /* Verde Spotify */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s ease;
+        }
+        button:hover {
+            background: #1aa34a;
+        }
+        #mensagem {
+            text-align: center;
+            margin-top: 1rem;
+            padding: 0.5rem;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-	<h1 class="animate">Boa tarde gatona <3</h1>
+    <div class="container">
+        <h1>Adicionar à Minha Playlist</h1>
+        <form id="linkForm">
+            <div class="input-group">
+                <input type="url" 
+                       id="linkInput" 
+                       placeholder="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+                       required>
+            </div>
+            <button type="submit">Adicionar Música</button>
+        </form>
+        <div id="mensagem"></div>
+    </div>
+
+    <script>
+        // Configurações do Spotify (JÁ COM SEUS DADOS INSERIDOS)
+        const token = 'BQCBCwueBsJlIN0ODur1yy2kw4U1qdRl76vJo3SOrEajyEHXhsbogKaUANu7pCw3vpZ0zz4gzQs9b5eczsYYEUkECr6gAkLcUroDX1SUIbEC0h4BpJG9irxNxT0Seuxop516RIEqKP0DlPf_aia0YnOIYkx5h2-ym2zIUoZAjtBqROPIcq3bFIdbs5mg7VfgaVCQZSDKGODLI_5NtudwDbJUJzUzKL4Sz7hCVKv747bZ9p5EgWEqzCLQaqNRbK-mH8SJBobh6eor1ukfCyfTQqHcdZyhxlglPciaJZm63fpZsEVSOckir_Hm';
+        const playlistId = '0eeBGb4DuNFCMEgwnazjbE';
+
+        // Função para chamar a API do Spotify
+        async function fetchWebApi(endpoint, method, body) {
+            const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+                headers: { Authorization: `Bearer ${token}` },
+                method,
+                body: JSON.stringify(body)
+            });
+            return await res.json();
+        }
+
+        // Extrai o ID da música do URL
+        function extractTrackId(url) {
+            const regex = /track\/([a-zA-Z0-9]+)/;
+            const match = url.match(regex);
+            return match ? match[1] : null;
+        }
+
+        // Adiciona música à SUA playlist existente
+        async function addToPlaylist(trackUri) {
+            try {
+                const response = await fetchWebApi(
+                    `v1/playlists/${playlistId}/tracks?uris=${trackUri}`,
+                    'POST'
+                );
+                return { success: true, snapshot_id: response.snapshot_id };
+            } catch (error) {
+                console.error('Erro:', error);
+                return { success: false, error: error.message };
+            }
+        }
+
+        // Controle do formulário
+        const form = document.getElementById('linkForm');
+        const linkInput = document.getElementById('linkInput');
+        const mensagem = document.getElementById('mensagem');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            if(!linkInput.validity.valid) {
+                showMessage('Por favor, insira um URL válido do Spotify!', 'error');
+                return;
+            }
+
+            const trackId = extractTrackId(linkInput.value);
+            if(!trackId) {
+                showMessage('URL inválido. Certifique-se de usar um link de música do Spotify', 'error');
+                return;
+            }
+
+            showMessage('Adicionando à playlist...', 'loading');
+
+            try {
+                const trackUri = `spotify:track:${trackId}`;
+                const result = await addToPlaylist(trackUri);
+
+                if(result.success) {
+                    showMessage('Música adicionada com sucesso! 🎵', 'success');
+                    linkInput.value = '';
+                } else {
+                    showMessage('Erro ao adicionar. Tente novamente.', 'error');
+                }
+            } catch (error) {
+                showMessage('Erro na conexão com o Spotify', 'error');
+            }
+        });
+
+        function showMessage(text, type) {
+            mensagem.textContent = text;
+            mensagem.style.background = 
+                type === 'error' ? '#ffebee' : 
+                type === 'success' ? '#e8f5e9' : '#e3f2fd';
+            mensagem.style.color = 
+                type === 'error' ? '#c62828' : 
+                type === 'success' ? '#2e7d32' : '#1565c0';
+        }
+    </script>
 </body>
 </html>
