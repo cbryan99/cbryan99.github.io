@@ -331,7 +331,7 @@
                 const data = await fetchWebApi(`v1/playlists/${playlistId}`, 'GET');
                 
                 document.getElementById('playlistName').textContent = data.name;
-                document.getElementById('playlistDescription').textContent = data.description || 'Playlist criada com ❤️';
+                document.getElementById('playlistDescription').textContent = data.description || 'pra você botar umas musiquinha pra eu ouvir, seja pq fez você lembrar de mim ou pq imaginou a gente :)';
                 document.getElementById('totalTracks').textContent = `🎵 ${data.tracks.total} músicas`;
                 document.getElementById('followers').textContent = `👥 ${data.followers.total} seguidores`;
                 
