@@ -3,73 +3,91 @@
 <head>
     <title>Fotos Diárias</title>
     <style>
-        body {
+        /* ... (mantenha o CSS anterior) ... */
+
+        /* Novos estilos */
+        .debug-controls {
+            margin: 20px;
             display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            gap: 10px;
         }
-        .container {
-            text-align: center;
-            padding: 20px;
+
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            transition: background-color 0.3s;
         }
-        img {
-            max-width: 90%;
-            max-height: 70vh;
-            margin: 20px 0;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+        button:hover {
+            background-color: #45a049;
         }
-        .description-box {
-            background-color: white;
-            padding: 20px;
-            border-radius: 10px;
-            max-width: 600px;
-            margin: 20px auto;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .loading {
-            font-style: italic;
-            color: #666;
+
+        #cycle-info {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e8f5e9;
+            border-radius: 5px;
+            display: inline-block;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Foto do Dia</h1>
+        <div class="debug-controls">
+            <button id="prevDay">Anterior</button>
+            <button id="nextDay">Próximo</button>
+            <button id="resetDay">Resetar</button>
+        </div>
         <div id="image-container">
             <img id="dailyPhoto" alt="Foto do dia">
         </div>
         <div class="description-box">
             <div id="description" class="loading">Carregando descrição...</div>
         </div>
+        <div id="cycle-info">
+            Foto atual: <span id="currentPhoto">1</span> |
+            Dias restantes no ciclo: <span id="remainingDays">4</span>
+        </div>
     </div>
 
     <script>
-        // Configurações - Altere conforme necessário
         const config = {
-            totalPhotos: 5,            // Total de fotos disponíveis
-            sourcesPath: 'sources/',   // Pasta das fotos e descrições
-            fallbackImage: 'erro.jpg'  // Imagem para erro de carregamento
+            totalPhotos: 5,
+            sourcesPath: 'sources/',
+            fallbackImage: 'erro.jpg'
         };
 
-        // Calcula o dia atual (considerando fuso horário local)
-        const today = new Date();
-        const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
-        const dayNumber = Math.floor(startOfDay.getTime() / (86400000)); // 86400000 ms = 1 dia
-        const photoIndex = (dayNumber % config.totalPhotos) + 1;
+        // Sistema de debug
+        let currentDayOffset = parseInt(localStorage.getItem('debugDayOffset')) || 0;
 
-        // Elementos da página
+        function getPhotoIndex() {
+            const today = new Date();
+            const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+            const dayNumber = Math.floor(startOfDay.getTime() / 86400000);
+            return (dayNumber + currentDayOffset) % config.totalPhotos + 1;
+        }
+
+        function updateControls() {
+            localStorage.setItem('debugDayOffset', currentDayOffset);
+            loadPhoto();
+            loadDescription();
+            updateCycleInfo();
+        }
+
+        // Elementos
         const photoElement = document.getElementById('dailyPhoto');
         const descriptionElement = document.getElementById('description');
 
-        // Carrega a foto
         function loadPhoto() {
-            photoElement.src = `${config.sourcesPath}${photoIndex}.jpg`;
-            
+            const photoIndex = getPhotoIndex();
+            const photoPath = `${config.sourcesPath}${photoIndex}.jpg`;
+            photoElement.src = photoPath;
+
             photoElement.onerror = () => {
                 photoElement.src = config.fallbackImage;
                 descriptionElement.textContent = 'Foto não disponível';
@@ -77,27 +95,48 @@
             };
         }
 
-        // Carrega a descrição
         async function loadDescription() {
+            const photoIndex = getPhotoIndex();
+            const descIndex = (photoIndex % config.totalPhotos) + 1;
+            
             try {
-                const response = await fetch(`${config.sourcesPath}${photoIndex + 1}.txt`);
-                
-                if (!response.ok) throw new Error();
-                
+                const response = await fetch(`${config.sourcesPath}${descIndex}.txt`);
                 const text = await response.text();
                 descriptionElement.textContent = text;
                 descriptionElement.classList.remove('loading');
             } catch (error) {
                 descriptionElement.textContent = 'Descrição não disponível';
                 descriptionElement.classList.remove('loading');
-                console.error('Erro ao carregar descrição:', error);
             }
         }
 
+        // Atualiza informações do ciclo
+        function updateCycleInfo() {
+            const photoIndex = getPhotoIndex();
+            const remaining = config.totalPhotos - (photoIndex - 1) - 1;
+            document.getElementById('remainingDays').textContent = remaining;
+            document.getElementById('currentPhoto').textContent = photoIndex;
+        }
+
+        // Event listeners
+        document.getElementById('nextDay').addEventListener('click', () => {
+            currentDayOffset++;
+            updateControls();
+        });
+
+        document.getElementById('prevDay').addEventListener('click', () => {
+            currentDayOffset--;
+            updateControls();
+        });
+
+        document.getElementById('resetDay').addEventListener('click', () => {
+            currentDayOffset = 0;
+            updateControls();
+        });
+
         // Inicialização
         window.addEventListener('DOMContentLoaded', () => {
-            loadPhoto();
-            loadDescription();
+            updateControls();
         });
     </script>
 </body>
