@@ -1,143 +1,227 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fotos Diárias</title>
+    <title>Foto do Dia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <style>
-        /* ... (mantenha o CSS anterior) ... */
+        :root {
+            --primary: #6C63FF;
+            --secondary: #FF6584;
+            --background: #f8f9fa;
+        }
 
-        /* Novos estilos */
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background: var(--background);
+            padding: 15px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+
+        h1 {
+            color: var(--primary);
+            text-align: center;
+            margin: 0 0 25px 0;
+            font-size: 1.8rem;
+        }
+
+        .photo-frame {
+            background: #fff;
+            border-radius: 15px;
+            padding: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+            aspect-ratio: 4/3;
+            object-fit: cover;
+            display: block;
+        }
+
         .debug-controls {
-            margin: 20px;
             display: flex;
             gap: 10px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+            justify-content: center;
         }
 
         button {
-            padding: 10px 20px;
+            padding: 12px 25px;
             border: none;
-            border-radius: 5px;
+            border-radius: 50px;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
             cursor: pointer;
-            background-color: #4CAF50;
+            transition: all 0.3s ease;
+            background: linear-gradient(45deg, var(--primary), var(--secondary));
             color: white;
-            transition: background-color 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
 
         button:hover {
-            background-color: #45a049;
+            opacity: 0.9;
+            transform: translateY(-2px);
+        }
+
+        .description-box {
+            background: rgba(108, 99, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+            margin: 20px 0;
+            line-height: 1.6;
+            color: #444;
+            border: 2px dashed rgba(108, 99, 255, 0.1);
         }
 
         #cycle-info {
+            text-align: center;
+            padding: 15px;
+            background: rgba(108, 99, 255, 0.1);
+            border-radius: 12px;
             margin-top: 20px;
-            padding: 10px;
-            background-color: #e8f5e9;
-            border-radius: 5px;
-            display: inline-block;
+            font-size: 0.9rem;
+        }
+
+        .loading {
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 15px;
+                border-radius: 15px;
+            }
+            
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            button {
+                width: 100%;
+                justify-content: center;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Foto do Dia</h1>
+        <h1>📸 Foto do Dia</h1>
+        
         <div class="debug-controls">
-            <button id="prevDay">Anterior</button>
-            <button id="nextDay">Próximo</button>
-            <button id="resetDay">Resetar</button>
+            <button id="prevDay">⏪ Anterior</button>
+            <button id="nextDay">Próximo ⏩</button>
+            <button id="resetDay">🔁 Resetar</button>
         </div>
-        <div id="image-container">
+
+        <div class="photo-frame">
             <img id="dailyPhoto" alt="Foto do dia">
         </div>
+
         <div class="description-box">
             <div id="description" class="loading">Carregando descrição...</div>
         </div>
+
         <div id="cycle-info">
-            Foto atual: <span id="currentPhoto">1</span> |
-            Dias restantes no ciclo: <span id="remainingDays">4</span>
+            🗓️ Dia <span id="currentPhoto">1</span> de ${config.totalPhotos}<br>
+            ⏳ Faltam <span id="remainingDays">4</span> dias para reiniciar
         </div>
     </div>
 
-    <script>
-        const config = {
-            totalPhotos: 5,
-            sourcesPath: 'sources/',
-            fallbackImage: 'erro.jpg'
+      <script>
+    // Configurações - Altere conforme necessário
+    const config = {
+        totalPhotos: 5,            // Total de fotos disponíveis
+        sourcesPath: 'pintk/',   // Pasta das fotos e descrições
+        fallbackImage: 'erro.jpg'  // Imagem para erro de carregamento
+    };
+
+    // Mostra informações de depuração
+    console.log("Iniciando...");
+    console.log("Configurações:", config);
+
+    // Calcula o dia atual
+    const today = new Date();
+    const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    const dayNumber = Math.floor(startOfDay.getTime() / (86400000));
+    const photoIndex = (dayNumber % config.totalPhotos) + 1;
+    
+    console.log("Data atual:", today);
+    console.log("Dia calculado:", dayNumber);
+    console.log("Índice da foto:", photoIndex);
+
+    // Elementos da página
+    const photoElement = document.getElementById('dailyPhoto');
+    const descriptionElement = document.getElementById('description');
+
+    // Carrega a foto
+    function loadPhoto() {
+        const photoPath = `${config.sourcesPath}${photoIndex}.jpg`;
+        console.log("Tentando carregar foto:", photoPath);
+        
+        photoElement.src = photoPath;
+        
+        photoElement.onerror = () => {
+            console.error("Erro ao carregar foto:", photoPath);
+            photoElement.src = config.fallbackImage;
+            descriptionElement.textContent = 'Foto não disponível';
+            descriptionElement.classList.remove('loading');
         };
+    }
 
-        // Sistema de debug
-        let currentDayOffset = parseInt(localStorage.getItem('debugDayOffset')) || 0;
-
-        function getPhotoIndex() {
-            const today = new Date();
-            const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
-            const dayNumber = Math.floor(startOfDay.getTime() / 86400000);
-            return (dayNumber + currentDayOffset) % config.totalPhotos + 1;
-        }
-
-        function updateControls() {
-            localStorage.setItem('debugDayOffset', currentDayOffset);
-            loadPhoto();
-            loadDescription();
-            updateCycleInfo();
-        }
-
-        // Elementos
-        const photoElement = document.getElementById('dailyPhoto');
-        const descriptionElement = document.getElementById('description');
-
-        function loadPhoto() {
-            const photoIndex = getPhotoIndex();
-            const photoPath = `${config.sourcesPath}${photoIndex}.jpg`;
-            photoElement.src = photoPath;
-
-            photoElement.onerror = () => {
-                photoElement.src = config.fallbackImage;
-                descriptionElement.textContent = 'Foto não disponível';
-                descriptionElement.classList.remove('loading');
-            };
-        }
-
-        async function loadDescription() {
-            const photoIndex = getPhotoIndex();
-            const descIndex = (photoIndex % config.totalPhotos) + 1;
+    // Carrega a descrição
+    async function loadDescription() {
+        const descIndex = photoIndex + 1;
+        const descPath = `${config.sourcesPath}${descIndex}.txt`;
+        console.log("Tentando carregar descrição:", descPath);
+        
+        try {
+            const response = await fetch(descPath);
             
-            try {
-                const response = await fetch(`${config.sourcesPath}${descIndex}.txt`);
-                const text = await response.text();
-                descriptionElement.textContent = text;
-                descriptionElement.classList.remove('loading');
-            } catch (error) {
-                descriptionElement.textContent = 'Descrição não disponível';
-                descriptionElement.classList.remove('loading');
-            }
+            if (!response.ok) throw new Error(`HTTP status ${response.status}`);
+            
+            const text = await response.text();
+            console.log("Descrição carregada:", text);
+            descriptionElement.textContent = text;
+            descriptionElement.classList.remove('loading');
+        } catch (error) {
+            console.error("Erro ao carregar descrição:", error);
+            descriptionElement.textContent = 'Descrição não disponível';
+            descriptionElement.classList.remove('loading');
         }
+    }
 
-        // Atualiza informações do ciclo
-        function updateCycleInfo() {
-            const photoIndex = getPhotoIndex();
-            const remaining = config.totalPhotos - (photoIndex - 1) - 1;
-            document.getElementById('remainingDays').textContent = remaining;
-            document.getElementById('currentPhoto').textContent = photoIndex;
-        }
-
-        // Event listeners
-        document.getElementById('nextDay').addEventListener('click', () => {
-            currentDayOffset++;
-            updateControls();
-        });
-
-        document.getElementById('prevDay').addEventListener('click', () => {
-            currentDayOffset--;
-            updateControls();
-        });
-
-        document.getElementById('resetDay').addEventListener('click', () => {
-            currentDayOffset = 0;
-            updateControls();
-        });
-
-        // Inicialização
-        window.addEventListener('DOMContentLoaded', () => {
-            updateControls();
-        });
-    </script>
+    // Inicialização
+    window.addEventListener('DOMContentLoaded', () => {
+        console.log("DOM carregado - iniciando carga");
+        loadPhoto();
+        loadDescription();
+    });
+</script>
 </body>
 </html>
