@@ -1,227 +1,401 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-    <title>Foto do Dia</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de FTP-Elektro</title>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://unpkg.com/docx@7.1.0/build/index.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
     <style>
+        /* --- CORES PADRÃO (CLARO) --- */
         :root {
-            --primary: #6C63FF;
-            --secondary: #FF6584;
-            --background: #f8f9fa;
+            --bg-body: #f0f2f5;
+            --bg-container: #ffffff;
+            --text-color: #333333;
+            --card-bg: #ffffff;
+            --card-border: #e1e4e8;
+            --input-bg: #ffffff;
+            --input-border: #ddd;
+            --highlight: #28a745;       /* Verde */
+            --danger: #dc3545;          /* Vermelho */
         }
 
-        body {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            font-family: 'Poppins', sans-serif;
-            background: var(--background);
-            padding: 15px;
+        /* --- CORES MODO ESCURO --- */
+        body.dark-mode {
+            --bg-body: #121212;
+            --bg-container: #1e1e1e;
+            --text-color: #e0e0e0;
+            --card-bg: #2d2d2d;
+            --card-border: #444444;
+            --input-bg: #333333;
+            --input-border: #555555;
+            --highlight: #2ea44f;
+            --danger: #e63749;
         }
 
-        .container {
-            width: 100%;
-            max-width: 600px;
-            background: white;
-            border-radius: 20px;
-            padding: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: var(--bg-body); color: var(--text-color); transition: background-color 0.3s, color 0.3s; }
+        
+        .container { background: var(--bg-container); padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); position: relative; transition: background-color 0.3s; }
+        
+        /* Cabeçalho com Switch */
+        .header-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        h1 { margin: 0; color: var(--text-color); font-size: 24px; }
+        
+        /* Switch Dark Mode */
+        .theme-switch-wrapper { display: flex; align-items: center; }
+        .theme-switch { display: inline-block; height: 24px; position: relative; width: 50px; }
+        .theme-switch input { display:none; }
+        .slider { background-color: #ccc; bottom: 0; cursor: pointer; left: 0; position: absolute; right: 0; top: 0; transition: .4s; border-radius: 34px; }
+        .slider:before { background-color: #fff; bottom: 4px; content: ""; height: 16px; left: 4px; position: absolute; transition: .4s; width: 16px; border-radius: 50%; }
+        input:checked + .slider { background-color: var(--highlight); }
+        input:checked + .slider:before { transform: translateX(26px); }
+
+        .input-group { margin-bottom: 25px; }
+        label { display: block; margin-bottom: 8px; font-weight: 600; color: var(--text-color); }
+        
+        input[type="text"], input[type="file"], select, textarea { 
+            width: 100%; padding: 12px; border: 1px solid var(--input-border); 
+            border-radius: 6px; box-sizing: border-box; transition: 0.3s; 
+            background-color: var(--input-bg); color: var(--text-color);
+        }
+        input[type="text"]:focus, select:focus, textarea:focus { border-color: var(--highlight); outline: none; }
+        
+        #preview-area { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; margin-top: 30px; margin-bottom: 30px; }
+        
+        .photo-card { 
+            background: var(--card-bg); border: 1px solid var(--card-border); padding: 15px; border-radius: 8px; 
+            text-align: center; display: flex; flex-direction: column; 
+            transition: transform 0.2s, box-shadow 0.2s, background-color 0.3s;
+        }
+        .photo-card:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+
+        .photo-card img { 
+            width: 100%; height: 160px; object-fit: contain; margin-bottom: 12px; 
+            cursor: zoom-in; border-radius: 4px; background-color: #888; 
+        }
+
+        .comment-box { 
+            height: 70px; border: 1px solid #ffc107; resize: vertical; display: none; margin-top: 5px; font-size: 13px;
+        }
+        
+        /* Footer area */
+        .footer-actions {
+            border-top: 1px solid var(--card-border);
+            padding-top: 20px;
             margin-top: 20px;
         }
 
-        h1 {
-            color: var(--primary);
-            text-align: center;
-            margin: 0 0 25px 0;
-            font-size: 1.8rem;
+        /* Botões */
+        .btn { 
+            display: block; width: 100%; padding: 16px; 
+            color: white; border: none; border-radius: 6px; font-size: 18px; font-weight: bold;
+            cursor: pointer; transition: opacity 0.3s; margin-top: 10px;
         }
+        .btn-success { background-color: var(--highlight); }
+        .btn-success:hover { opacity: 0.9; }
+        
+        .btn-danger { background-color: var(--danger); margin-top: 15px; font-size: 16px; }
+        .btn-danger:hover { opacity: 0.9; }
 
-        .photo-frame {
-            background: #fff;
-            border-radius: 15px;
-            padding: 10px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            position: relative;
-            overflow: hidden;
-        }
+        .btn:disabled { background-color: #95a5a6; cursor: not-allowed; }
 
-        img {
-            width: 100%;
-            border-radius: 10px;
-            aspect-ratio: 4/3;
-            object-fit: cover;
-            display: block;
+        /* --- MODAL (POPUP) --- */
+        .modal {
+            display: none; position: fixed; z-index: 1000; left: 0; top: 0;
+            width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.92);
+            backdrop-filter: blur(5px);
         }
-
-        .debug-controls {
-            display: flex;
-            gap: 10px;
-            margin: 20px 0;
-            flex-wrap: wrap;
-            justify-content: center;
+        .modal-content {
+            margin: auto; display: block; max-width: 90%; max-height: 90vh;
+            margin-top: 2%; border: 3px solid #fff; box-shadow: 0 0 30px rgba(0,0,0,0.8);
+            border-radius: 4px;
         }
-
-        button {
-            padding: 12px 25px;
-            border: none;
-            border-radius: 50px;
-            font-family: 'Poppins', sans-serif;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            background: linear-gradient(45deg, var(--primary), var(--secondary));
-            color: white;
-            display: flex;
-            align-items: center;
-            gap: 8px;
+        .close {
+            position: absolute; top: 20px; right: 40px; color: #fff;
+            font-size: 45px; font-weight: bold; transition: 0.3s; cursor: pointer;
+            text-shadow: 0 0 10px #000;
         }
-
-        button:hover {
-            opacity: 0.9;
-            transform: translateY(-2px);
-        }
-
-        .description-box {
-            background: rgba(108, 99, 255, 0.05);
-            padding: 20px;
-            border-radius: 15px;
-            margin: 20px 0;
-            line-height: 1.6;
-            color: #444;
-            border: 2px dashed rgba(108, 99, 255, 0.1);
-        }
-
-        #cycle-info {
-            text-align: center;
-            padding: 15px;
-            background: rgba(108, 99, 255, 0.1);
-            border-radius: 12px;
-            margin-top: 20px;
-            font-size: 0.9rem;
-        }
-
-        .loading {
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.5; }
-            100% { opacity: 1; }
-        }
-
-        @media (max-width: 480px) {
-            .container {
-                padding: 15px;
-                border-radius: 15px;
-            }
-            
-            h1 {
-                font-size: 1.5rem;
-            }
-            
-            button {
-                width: 100%;
-                justify-content: center;
-            }
-        }
+        .close:hover { color: #ccc; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>📸 Foto do Dia</h1>
+
+<div class="container">
+    <div class="header-top">
+        <h1>Gerador de FTP</h1>
         
-        <div class="debug-controls">
-            <button id="prevDay">⏪ Anterior</button>
-            <button id="nextDay">Próximo ⏩</button>
-            <button id="resetDay">🔁 Resetar</button>
-        </div>
-
-        <div class="photo-frame">
-            <img id="dailyPhoto" alt="Foto do dia">
-        </div>
-
-        <div class="description-box">
-            <div id="description" class="loading">Carregando descrição...</div>
-        </div>
-
-        <div id="cycle-info">
-            🗓️ Dia <span id="currentPhoto">1</span> de ${config.totalPhotos}<br>
-            ⏳ Faltam <span id="remainingDays">4</span> dias para reiniciar
+        <div class="theme-switch-wrapper">
+            <label class="theme-switch" for="checkbox">
+                <input type="checkbox" id="checkbox" onclick="toggleDarkMode()">
+                <div class="slider"></div>
+            </label>
+            <span style="margin-left: 10px; font-size: 14px;">Modo Escuro</span>
         </div>
     </div>
 
-      <script>
-    // Configurações - Altere conforme necessário
-    const config = {
-        totalPhotos: 5,            // Total de fotos disponíveis
-        sourcesPath: 'sources/',   // Pasta das fotos e descrições
-        fallbackImage: 'erro.jpg'  // Imagem para erro de carregamento
-    };
+    <div class="input-group">
+        <label for="imageInput">1. Selecione as Fotos:</label>
+        <input type="file" id="imageInput" multiple accept="image/*">
+    </div>
 
-    // Mostra informações de depuração
-    console.log("Iniciando...");
-    console.log("Configurações:", config);
+    <div id="preview-area"></div>
 
-    // Calcula o dia atual
-    const today = new Date();
-    const startOfDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
-    const dayNumber = Math.floor(startOfDay.getTime() / (86400000));
-    const photoIndex = (dayNumber % config.totalPhotos) + 1;
-    
-    console.log("Data atual:", today);
-    console.log("Dia calculado:", dayNumber);
-    console.log("Índice da foto:", photoIndex);
+    <div class="footer-actions" id="footerActions" style="display:none;">
+        <div class="input-group">
+            <label for="filename">2. Nome do Arquivo Final:</label>
+            <input type="text" id="filename" placeholder="Ex: Relatorio_Obra_X" value="Relatorio">
+        </div>
 
-    // Elementos da página
-    const photoElement = document.getElementById('dailyPhoto');
-    const descriptionElement = document.getElementById('description');
-
-    // Carrega a foto
-    function loadPhoto() {
-        const photoPath = `${config.sourcesPath}${photoIndex}.jpg`;
-        console.log("Tentando carregar foto:", photoPath);
+        <button id="generateBtn" class="btn btn-success" onclick="generateDocuments()">Baixar PDF e DOCX</button>
         
-        photoElement.src = photoPath;
-        
-        photoElement.onerror = () => {
-            console.error("Erro ao carregar foto:", photoPath);
-            photoElement.src = config.fallbackImage;
-            descriptionElement.textContent = 'Foto não disponível';
-            descriptionElement.classList.remove('loading');
-        };
+        <button id="clearBtn" class="btn btn-danger" onclick="resetForm()">Limpar Tudo / Novo FTP</button>
+    </div>
+</div>
+
+<div id="imageModal" class="modal" onclick="closeModal(event)">
+  <span class="close" onclick="closeModalButton()">&times;</span>
+  <img class="modal-content" id="img01">
+</div>
+
+<script>
+    // --- Lógica do Modo Escuro ---
+    function toggleDarkMode() {
+        document.body.classList.toggle("dark-mode");
     }
 
-    // Carrega a descrição
-    async function loadDescription() {
-        const descIndex = photoIndex + 1;
-        const descPath = `${config.sourcesPath}${descIndex}.txt`;
-        console.log("Tentando carregar descrição:", descPath);
-        
-        try {
-            const response = await fetch(descPath);
+    // --- LISTA DE ORDEM DE PRIORIDADE ---
+    const OPCOES_TITULO = [
+        "Formulário",       // 1
+        "Carga",            // 2
+        "Termo",            // 3
+        "Fachada",          // 4
+        "Padrão",           // 5
+        "Irregularidade",   // 6
+        "Regularização",    // 7
+        "Outro (Sem Título)"// 8
+    ];
+
+    let filesData = []; 
+
+    // --- FUNÇÕES DE ZOOM ---
+    function openModal(src) {
+        document.getElementById("imageModal").style.display = "block";
+        document.getElementById("img01").src = src;
+    }
+    function closeModalButton() { document.getElementById("imageModal").style.display = "none"; }
+    function closeModal(event) {
+        if (event.target.id === "imageModal") document.getElementById("imageModal").style.display = "none";
+    }
+
+    // --- FUNÇÃO LIMPAR / RESET ---
+    function resetForm() {
+        if(confirm("Tem certeza que deseja limpar tudo e começar um novo relatório?")) {
+            filesData = [];
+            document.getElementById('preview-area').innerHTML = '';
+            document.getElementById('imageInput').value = ''; // Limpa o input de arquivo
+            document.getElementById('filename').value = 'Relatorio';
+            document.getElementById('footerActions').style.display = 'none';
             
-            if (!response.ok) throw new Error(`HTTP status ${response.status}`);
-            
-            const text = await response.text();
-            console.log("Descrição carregada:", text);
-            descriptionElement.textContent = text;
-            descriptionElement.classList.remove('loading');
-        } catch (error) {
-            console.error("Erro ao carregar descrição:", error);
-            descriptionElement.textContent = 'Descrição não disponível';
-            descriptionElement.classList.remove('loading');
+            // Reseta botão de gerar caso esteja travado
+            const btn = document.getElementById('generateBtn');
+            btn.disabled = false;
+            btn.innerText = "Baixar PDF e DOCX";
         }
     }
 
-    // Inicialização
-    window.addEventListener('DOMContentLoaded', () => {
-        console.log("DOM carregado - iniciando carga");
-        loadPhoto();
-        loadDescription();
+    // --- CARREGAMENTO DE IMAGENS ---
+    document.getElementById('imageInput').addEventListener('change', function(e) {
+        const files = Array.from(e.target.files);
+        const previewArea = document.getElementById('preview-area');
+        previewArea.innerHTML = ''; 
+        filesData = [];
+
+        if (files.length > 0) {
+            document.getElementById('footerActions').style.display = 'block';
+        }
+
+        files.forEach((file, index) => {
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const div = document.createElement('div');
+                div.className = 'photo-card';
+                
+                const img = document.createElement('img');
+                img.src = event.target.result;
+                img.title = "Clique para ampliar";
+                img.onclick = function() { openModal(this.src); };
+                
+                const select = document.createElement('select');
+                OPCOES_TITULO.forEach(opt => {
+                    const option = document.createElement('option');
+                    option.value = opt; option.text = opt; select.appendChild(option);
+                });
+
+                const textarea = document.createElement('textarea');
+                textarea.className = 'comment-box';
+                textarea.placeholder = "Descreva a irregularidade...";
+                
+                select.addEventListener('change', function() {
+                    textarea.style.display = (this.value === "Irregularidade") ? 'block' : 'none';
+                    if (this.value !== "Irregularidade") textarea.value = '';
+                });
+
+                // Auto-seleção inteligente
+                if (index === 0) select.value = "Formulário";
+                else select.value = "Outro (Sem Título)";
+
+                div.appendChild(img); div.appendChild(select); div.appendChild(textarea);
+                previewArea.appendChild(div);
+
+                filesData.push({
+                    file: file, dataUrl: event.target.result,
+                    selectElement: select, textAreaElement: textarea,
+                    width: 0, height: 0
+                });
+                
+                const i = new Image();
+                i.onload = function() {
+                    filesData[index].width = this.width;
+                    filesData[index].height = this.height;
+                };
+                i.src = event.target.result;
+            };
+            reader.readAsDataURL(file);
+        });
     });
+
+    // --- GERAÇÃO DOS DOCUMENTOS ---
+    async function generateDocuments() {
+        const btn = document.getElementById('generateBtn');
+        const filenameInput = document.getElementById('filename');
+        const filename = filenameInput.value.trim() || "Relatorio";
+        
+        btn.disabled = true; btn.innerText = "Organizando e Gerando...";
+
+        try {
+            // 1. ORGANIZAÇÃO (SORTING) RIGOROSA
+            const sortedFiles = [...filesData].sort((a, b) => {
+                const titleA = a.selectElement.value;
+                const titleB = b.selectElement.value;
+                return OPCOES_TITULO.indexOf(titleA) - OPCOES_TITULO.indexOf(titleB);
+            });
+
+            // --- PDF GENERATION ---
+            const { jsPDF } = window.jspdf;
+            const pdf = new jsPDF();
+            const pageWidth = pdf.internal.pageSize.getWidth();
+            const pageHeight = pdf.internal.pageSize.getHeight();
+            const margin = 20;
+
+            for (let i = 0; i < sortedFiles.length; i++) {
+                if (i > 0) pdf.addPage();
+                const item = sortedFiles[i];
+                const title = item.selectElement.value;
+                const comment = item.textAreaElement.value.trim();
+
+                if (title !== "Outro (Sem Título)") {
+                    pdf.setFontSize(16); pdf.setFont("helvetica", "bold");
+                    pdf.text(title, pageWidth / 2, margin, { align: 'center' });
+                }
+
+                let spaceForImageH = pageHeight - (margin * 2) - 20;
+                let textHeightBlock = 0;
+
+                if (title === "Irregularidade" && comment) {
+                    pdf.setFontSize(12); pdf.setFont("helvetica", "normal");
+                    const textLines = pdf.splitTextToSize(comment, pageWidth - (margin * 2));
+                    textHeightBlock = textLines.length * 7;
+                    spaceForImageH -= (textHeightBlock + 10); 
+                }
+
+                let w = item.width; let h = item.height;
+                const maxW = pageWidth - (margin * 2);
+                const ratio = Math.min(maxW / w, spaceForImageH / h);
+                const newW = w * ratio; const newH = h * ratio;
+                const x = (pageWidth - newW) / 2;
+                const y = margin + 10; 
+
+                pdf.addImage(item.dataUrl, 'JPEG', x, y, newW, newH);
+
+                if (title === "Irregularidade" && comment) {
+                    const textY = y + newH + 10;
+                    const textLines = pdf.splitTextToSize(comment, pageWidth - (margin * 2));
+                    pdf.text(textLines, margin, textY);
+                }
+            }
+            pdf.save(`${filename}.pdf`);
+
+            // --- DOCX GENERATION ---
+            const doc = new docx.Document({
+                sections: [{
+                    properties: {
+                        page: { margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } },
+                    },
+                    children: await Promise.all(sortedFiles.map(async (item) => {
+                        const title = item.selectElement.value;
+                        const comment = item.textAreaElement.value.trim();
+                        const elements = [];
+
+                        if (title !== "Outro (Sem Título)") {
+                            elements.push(new docx.Paragraph({
+                                text: title,
+                                heading: docx.HeadingLevel.HEADING_1,
+                                alignment: docx.AlignmentType.CENTER,
+                                spacing: { after: 300 } 
+                            }));
+                        }
+
+                        const imageBlob = await fetch(item.dataUrl).then(r => r.blob());
+                        const imageBuffer = await imageBlob.arrayBuffer();
+                        const standardWidth = (title === "Irregularidade" && comment) ? 500 : 600;
+                        
+                        elements.push(new docx.Paragraph({
+                            children: [
+                                new docx.ImageRun({
+                                    data: imageBuffer,
+                                    transformation: {
+                                        width: standardWidth, 
+                                        height: (item.height / item.width) * standardWidth 
+                                    }
+                                })
+                            ],
+                            alignment: docx.AlignmentType.CENTER,
+                            spacing: { after: 300 } 
+                        }));
+
+                        if (title === "Irregularidade" && comment) {
+                            elements.push(new docx.Paragraph({
+                                children: [ new docx.TextRun({ text: comment, font: "Arial", size: 24 }) ],
+                                alignment: docx.AlignmentType.BOTH, 
+                                spacing: { before: 100 }
+                            }));
+                        }
+                        
+                        if (item !== sortedFiles[sortedFiles.length -1]) {
+                           elements.push(new docx.Paragraph({ children: [new docx.PageBreak()] }));
+                        }
+
+                        return elements;
+                    })).then(results => results.flat())
+                }]
+            });
+
+            const blob = await docx.Packer.toBlob(doc);
+            saveAs(blob, `${filename}.docx`);
+
+
+        } catch (error) {
+            console.error(error);
+            alert("Erro ao gerar. Verifique o console.");
+        } finally {
+            btn.disabled = false;
+            btn.innerText = "Baixar PDF e DOCX";
+        }
+    }
 </script>
+
 </body>
 </html>
