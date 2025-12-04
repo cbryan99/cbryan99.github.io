@@ -96,6 +96,17 @@
         .footer-actions {
             border-top: 1px solid var(--card-border); padding-top: 20px; margin-top: 20px;
         }
+        
+        .ar-option {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: rgba(40, 167, 69, 0.1);
+            border-radius: 6px;
+        }
+        .ar-option input { width: auto; margin-right: 10px; }
+        .ar-option label { margin: 0; cursor: pointer; }
 
         /* Botões */
         .btn { 
@@ -158,6 +169,11 @@
             <input type="text" id="filename" placeholder="Ex: Relatorio_Obra_X" value="Relatorio">
         </div>
 
+        <div class="ar-option">
+            <input type="checkbox" id="includeAR" checked>
+            <label for="includeAR">Incluir página "AR" em branco (Seção 4)</label>
+        </div>
+
         <button id="generateBtn" class="btn btn-success" onclick="generateDocuments()">Baixar PDF e DOCX</button>
         <button id="clearBtn" class="btn btn-danger" onclick="resetForm()">Limpar Tudo / Novo Relatório</button>
     </div>
@@ -174,16 +190,17 @@
         document.body.classList.toggle("dark-mode");
     }
 
-    // --- LISTA DE ORDEM DE PRIORIDADE ---
+    // --- LISTA DE ORDEM DE PRIORIDADE (ATUALIZADA COM AR NA POSIÇÃO 4) ---
     const OPCOES_TITULO = [
         "Formulário",       // 1
         "Carga",            // 2
         "Termo",            // 3
-        "Fachada",          // 4
-        "Padrão",           // 5
-        "Irregularidade",   // 6
-        "Regularização",    // 7
-        "Outro (Sem Título)"// 8
+        "AR",               // 4 <-- NOVO
+        "Fachada",          // 5
+        "Padrão",           // 6
+        "Irregularidade",   // 7
+        "Regularização",    // 8
+        "Outro (Sem Título)"// 9
     ];
 
     let filesData = []; 
@@ -233,7 +250,7 @@
                 const dataObj = {
                     file: file, dataUrl: event.target.result,
                     selectElement: null, textAreaElement: null,
-                    width: 0, height: 0
+                    width: 0, height: 0, isBlank: false // Marca como foto normal
                 };
 
                 const div = document.createElement('div');
@@ -258,6 +275,8 @@
                 
                 const select = document.createElement('select');
                 OPCOES_TITULO.forEach(opt => {
+                    // Não mostra "AR" no dropdown se ele for inserido automaticamente como página em branco,
+                    // mas se o usuário quiser usar uma foto de AR, ele pode.
                     const option = document.createElement('option');
                     option.value = opt; option.text = opt; select.appendChild(option);
                 });
@@ -304,13 +323,28 @@
         const btn = document.getElementById('generateBtn');
         const filenameInput = document.getElementById('filename');
         const filename = filenameInput.value.trim() || "Relatorio";
+        const includeAR = document.getElementById('includeAR').checked;
         
-        if(filesData.length === 0) { alert("Adicione pelo menos uma foto."); return; }
+        if(filesData.length === 0 && !includeAR) { alert("Adicione pelo menos uma foto."); return; }
 
         btn.disabled = true; btn.innerText = "Organizando e Gerando...";
 
         try {
-            const sortedFiles = [...filesData].sort((a, b) => {
+            // 1. PREPARAÇÃO DA LISTA (INCLUINDO AR VIRTUAL SE NECESSÁRIO)
+            let filesToProcess = [...filesData];
+            
+            if (includeAR) {
+                // Adiciona um item "virtual" que representa a página em branco
+                filesToProcess.push({
+                    isBlank: true, // Marcador especial
+                    selectElement: { value: "AR" },
+                    textAreaElement: { value: "" },
+                    width: 0, height: 0, dataUrl: null
+                });
+            }
+
+            // 2. ORDENAÇÃO
+            const sortedFiles = filesToProcess.sort((a, b) => {
                 const titleA = a.selectElement.value;
                 const titleB = b.selectElement.value;
                 return OPCOES_TITULO.indexOf(titleA) - OPCOES_TITULO.indexOf(titleB);
@@ -327,11 +361,17 @@
                 if (i > 0) pdf.addPage();
                 const item = sortedFiles[i];
                 const title = item.selectElement.value;
-                const comment = item.textAreaElement.value.trim();
+                const comment = item.textAreaElement ? item.textAreaElement.value.trim() : "";
 
+                // Título
                 if (title !== "Outro (Sem Título)") {
                     pdf.setFontSize(16); pdf.setFont("helvetica", "bold");
                     pdf.text(title, pageWidth / 2, margin, { align: 'center' });
+                }
+
+                // Se for a página em branco (AR), pula a parte de imagem
+                if (item.isBlank) {
+                    continue; // Vai para o próximo item (apenas página vazia com título)
                 }
 
                 let spaceForImageH = pageHeight - (margin * 2) - 20;
@@ -367,9 +407,10 @@
                     properties: { page: { margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } } },
                     children: await Promise.all(sortedFiles.map(async (item) => {
                         const title = item.selectElement.value;
-                        const comment = item.textAreaElement.value.trim();
+                        const comment = item.textAreaElement ? item.textAreaElement.value.trim() : "";
                         const elements = [];
 
+                        // Header
                         if (title !== "Outro (Sem Título)") {
                             elements.push(new docx.Paragraph({
                                 text: title, heading: docx.HeadingLevel.HEADING_1,
@@ -377,12 +418,20 @@
                             }));
                         }
 
+                        // Se for página em branco (AR), insere quebra de página e sai
+                        if (item.isBlank) {
+                            if (item !== sortedFiles[sortedFiles.length -1]) {
+                                elements.push(new docx.Paragraph({ children: [new docx.PageBreak()] }));
+                            }
+                            return elements;
+                        }
+
                         const imageBlob = await fetch(item.dataUrl).then(r => r.blob());
                         const imageBuffer = await imageBlob.arrayBuffer();
                         
                         // --- LÓGICA DE REDIMENSIONAMENTO NO DOCX ---
                         let docxWidth = 600; 
-                        if (["Formulário", "Carga", "Termo"].includes(title)) {
+                        if (["Formulário", "Carga", "Termo", "AR"].includes(title)) { // AR aqui caso usem foto
                             docxWidth = 450;
                         } 
                         else if (title === "Irregularidade" && comment) {
@@ -400,8 +449,7 @@
                                 alignment: docx.AlignmentType.BOTH, spacing: { before: 100 }
                             }));
                         }
-                        
-                        if (item !== sortedFiles[sortedFiles.length -1]) {
+        if (item !== sortedFiles[sortedFiles.length -1]) {
                            elements.push(new docx.Paragraph({ children: [new docx.PageBreak()] }));
                         }
                         return elements;
