@@ -3,430 +3,211 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gerador de Relatório Profissional</title>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-    <script src="https://unpkg.com/docx@7.1.0/build/index.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
-
-    <style>
-        /* --- CORES PADRÃO (CLARO) --- */
-        :root {
-            --bg-body: #f0f2f5;
-            --bg-container: #ffffff;
-            --text-color: #333333;
-            --card-bg: #ffffff;
-            --card-border: #e1e4e8;
-            --input-bg: #ffffff;
-            --input-border: #ddd;
-            --highlight: #28a745;       /* Verde */
-            --danger: #dc3545;          /* Vermelho */
-        }
-
-        /* --- CORES MODO ESCURO --- */
-        body.dark-mode {
-            --bg-body: #121212;
-            --bg-container: #1e1e1e;
-            --text-color: #e0e0e0;
-            --card-bg: #2d2d2d;
-            --card-border: #444444;
-            --input-bg: #333333;
-            --input-border: #555555;
-            --highlight: #2ea44f;
-            --danger: #e63749;
-        }
-
-        body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: var(--bg-body); color: var(--text-color); transition: background-color 0.3s, color 0.3s; }
-        
-        .container { background: var(--bg-container); padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); position: relative; transition: background-color 0.3s; }
-        
-        /* Cabeçalho com Switch */
-        .header-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
-        h1 { margin: 0; color: var(--text-color); font-size: 24px; }
-        
-        /* Switch Dark Mode */
-        .theme-switch-wrapper { display: flex; align-items: center; }
-        .theme-switch { display: inline-block; height: 24px; position: relative; width: 50px; flex-shrink: 0; }
-        .theme-switch input { display:none; }
-        .slider { background-color: #ccc; bottom: 0; cursor: pointer; left: 0; position: absolute; right: 0; top: 0; transition: .4s; border-radius: 34px; }
-        .slider:before { background-color: #fff; bottom: 4px; content: ""; height: 16px; left: 4px; position: absolute; transition: .4s; width: 16px; border-radius: 50%; }
-        input:checked + .slider { background-color: var(--highlight); }
-        input:checked + .slider:before { transform: translateX(26px); }
-
-        .input-group { margin-bottom: 25px; }
-        label { display: block; margin-bottom: 8px; font-weight: 600; color: var(--text-color); }
-        
-        input[type="text"], input[type="file"], select, textarea { 
-            width: 100%; padding: 12px; border: 1px solid var(--input-border); 
-            border-radius: 6px; box-sizing: border-box; transition: 0.3s; 
-            background-color: var(--input-bg); color: var(--text-color);
-        }
-        input[type="text"]:focus, select:focus, textarea:focus { border-color: var(--highlight); outline: none; }
-        
-        #preview-area { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 25px; margin-top: 30px; margin-bottom: 30px; }
-        
-        .photo-card { 
-            background: var(--card-bg); border: 1px solid var(--card-border); padding: 15px; border-radius: 8px; 
-            text-align: center; display: flex; flex-direction: column; 
-            transition: transform 0.2s, box-shadow 0.2s, background-color 0.3s;
-            position: relative; 
-        }
-        .photo-card:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
-
-        /* Botão de Deletar (Lixeira) */
-        .delete-btn {
-            position: absolute; top: -10px; right: -10px;
-            background-color: var(--danger); color: white; border: none;
-            border-radius: 50%; width: 30px; height: 30px;
-            cursor: pointer; display: flex; align-items: center; justify-content: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2); font-size: 16px; transition: transform 0.2s; z-index: 10;
-        }
-        .delete-btn:hover { transform: scale(1.1); background-color: #c82333; }
-
-        .photo-card img { 
-            width: 100%; height: 160px; object-fit: contain; margin-bottom: 12px; 
-            cursor: zoom-in; border-radius: 4px; background-color: #888; 
-        }
-
-        .comment-box { 
-            height: 70px; border: 1px solid #ffc107; resize: vertical; display: none; margin-top: 5px; font-size: 13px;
-        }
-        
-        /* Footer area */
-        .footer-actions {
-            border-top: 1px solid var(--card-border); padding-top: 20px; margin-top: 20px;
-        }
-
-        /* Botões */
-        .btn { 
-            display: block; width: 100%; padding: 16px; 
-            color: white; border: none; border-radius: 6px; font-size: 18px; font-weight: bold;
-            cursor: pointer; transition: opacity 0.3s; margin-top: 10px;
-        }
-        .btn-success { background-color: var(--highlight); }
-        .btn-success:hover { opacity: 0.9; }
-        
-        .btn-danger { background-color: var(--danger); margin-top: 15px; font-size: 16px; }
-        .btn-danger:hover { opacity: 0.9; }
-
-        .btn:disabled { background-color: #95a5a6; cursor: not-allowed; }
-
-        /* --- MODAL (POPUP) --- */
-        .modal {
-            display: none; position: fixed; z-index: 1000; left: 0; top: 0;
-            width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.92);
-            backdrop-filter: blur(5px);
-        }
-        .modal-content {
-            margin: auto; display: block; max-width: 90%; max-height: 90vh;
-            margin-top: 2%; border: 3px solid #fff; box-shadow: 0 0 30px rgba(0,0,0,0.8);
-            border-radius: 4px;
-        }
-        .close {
-            position: absolute; top: 20px; right: 40px; color: #fff;
-            font-size: 45px; font-weight: bold; transition: 0.3s; cursor: pointer;
-            text-shadow: 0 0 10px #000;
-        }
-        .close:hover { color: #ccc; }
-    </style>
+    <title>Amazon Gold Box Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gray-900 text-gray-100 font-sans min-h-screen selection:bg-amber-500 selection:text-gray-900">
 
-<div class="container">
-    <div class="header-top">
-        <h1>Gerador de Relatórios</h1>
-        
-        <div class="theme-switch-wrapper">
-            <label class="theme-switch" for="checkbox">
-                <input type="checkbox" id="checkbox" onclick="toggleDarkMode()">
-                <div class="slider"></div>
-            </label>
-            <span style="margin-left: 10px; font-size: 14px;">Modo Escuro</span>
+    <div class="container mx-auto px-2 py-4 sm:p-6">
+        <div class="flex flex-col sm:flex-row justify-between items-center border-b border-gray-800 pb-4 mb-6 gap-3">
+            <div class="text-center sm:text-left">
+                <h1 class="text-xl sm:text-2xl font-extrabold text-amber-500 tracking-tight">Amazon Monitor</h1>
+                <p class="text-[11px] text-gray-400 mt-0.5">Scraper via GitHub Actions</p>
+            </div>
+            
+            <div class="flex flex-col sm:flex-row items-center gap-3 w-full sm:w-auto">
+                <button id="btn-notification" class="hidden text-xs px-3 py-1.5 rounded bg-gray-800 border border-gray-700 text-gray-300 hover:bg-gray-700 transition-all">
+                    🔔 Ativar Notificações
+                </button>
+                
+                <div class="flex items-center gap-2 w-full sm:w-auto justify-between sm:justify-end">
+                    <div class="flex flex-col items-end">
+                        <span id="label-last-check" class="text-[10px] text-gray-500 font-mono">Último: Carregando...</span>
+                        <span id="label-timer" class="text-[10px] text-amber-400 font-mono font-bold">Atualizando em: 10:00</span>
+                    </div>
+                    <button id="btn-refresh" class="bg-amber-500 hover:bg-amber-600 text-gray-950 font-bold px-3 py-1.5 rounded-md transition-all text-xs flex items-center gap-1">
+                        <span id="spinner" class="hidden animate-spin h-3.5 w-3.5 border-2 border-gray-950 border-t-transparent rounded-full"></span>
+                        Atualizar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="grid-container" class="grid grid-cols-2 gap-2 sm:gap-4"></div>
+
+        <div id="empty-state" class="hidden text-center py-16 bg-gray-800 rounded-xl border border-dashed border-gray-700">
+            <p class="text-gray-400 text-sm">Nenhum match nos filtros ou aguardando dados...</p>
         </div>
     </div>
 
-    <div class="input-group">
-        <label for="imageInput">1. Selecione as Fotos (Adicione quantas quiser):</label>
-        <input type="file" id="imageInput" multiple accept="image/*">
-    </div>
+    <script>
+        let appState = { data: [] };
+        let knownAsins = new Set();
+        const checkInterval = 600; 
+        let secondsLeft = checkInterval;
+        let countdownTimer = null;
+        let isFetching = false;
 
-    <div id="preview-area"></div>
+        const gridContainer = document.getElementById('grid-container');
+        const emptyState = document.getElementById('empty-state');
+        const labelLastCheck = document.getElementById('label-last-check');
+        const labelTimer = document.getElementById('label-timer');
+        const btnRefresh = document.getElementById('btn-refresh');
+        const spinner = document.getElementById('spinner');
 
-    <div class="footer-actions" id="footerActions" style="display:none;">
-        <div class="input-group">
-            <label for="filename">2. Nome do Arquivo Final:</label>
-            <input type="text" id="filename" placeholder="Ex: Relatorio_Obra_X" value="Relatorio">
-        </div>
-
-        <button id="generateBtn" class="btn btn-success" onclick="generateDocuments()">Baixar PDF e DOCX</button>
-        <button id="clearBtn" class="btn btn-danger" onclick="resetForm()">Limpar Tudo / Novo Relatório</button>
-    </div>
-</div>
-
-<div id="imageModal" class="modal" onclick="closeModal(event)">
-  <span class="close" onclick="closeModalButton()">&times;</span>
-  <img class="modal-content" id="img01">
-</div>
-
-<script>
-    // --- Lógica do Modo Escuro ---
-    function toggleDarkMode() {
-        document.body.classList.toggle("dark-mode");
-    }
-
-    // --- LISTA DE ORDEM DE PRIORIDADE ---
-    const OPCOES_TITULO = [
-        "Formulário",       // 1
-        "Carga",            // 2
-        "Termo",            // 3
-        "AR",               // 4 <-- Foto normal agora
-        "Fachada",          // 5
-        "Padrão",           // 6
-        "Irregularidade",   // 7
-        "Regularização",    // 8
-        "Outro (Sem Título)"// 9
-    ];
-
-    let filesData = []; 
-
-    // --- FUNÇÕES DE ZOOM ---
-    function openModal(src) {
-        document.getElementById("imageModal").style.display = "block";
-        document.getElementById("img01").src = src;
-    }
-    function closeModalButton() { document.getElementById("imageModal").style.display = "none"; }
-    function closeModal(event) {
-        if (event.target.id === "imageModal") document.getElementById("imageModal").style.display = "none";
-    }
-
-    // --- FUNÇÃO LIMPAR / RESET ---
-    function resetForm() {
-        if(confirm("Tem certeza que deseja limpar tudo e começar um novo relatório?")) {
-            filesData = [];
-            document.getElementById('preview-area').innerHTML = '';
-            document.getElementById('imageInput').value = ''; 
-            document.getElementById('filename').value = 'Relatorio';
-            document.getElementById('footerActions').style.display = 'none';
-            const btn = document.getElementById('generateBtn');
-            btn.disabled = false;
-            btn.innerText = "Baixar PDF e DOCX";
-        }
-    }
-
-    // --- CARREGAMENTO DE IMAGENS ---
-    const imgInput = document.getElementById('imageInput');
-    const newImgInput = imgInput.cloneNode(true);
-    imgInput.parentNode.replaceChild(newImgInput, imgInput);
-
-    newImgInput.addEventListener('change', function(e) {
-        const newFiles = Array.from(e.target.files);
-        const previewArea = document.getElementById('preview-area');
-
-        if (newFiles.length > 0) {
-            document.getElementById('footerActions').style.display = 'block';
-        }
-
-        const existingCount = filesData.length;
-
-        newFiles.forEach((file, index) => {
-            const reader = new FileReader();
-            reader.onload = function(event) {
-                const dataObj = {
-                    file: file, dataUrl: event.target.result,
-                    selectElement: null, textAreaElement: null,
-                    width: 0, height: 0
-                };
-
-                const div = document.createElement('div');
-                div.className = 'photo-card';
-                
-                // Botão de Deletar
-                const deleteBtn = document.createElement('button');
-                deleteBtn.innerHTML = '🗑️'; 
-                deleteBtn.className = 'delete-btn';
-                deleteBtn.title = 'Remover foto';
-                deleteBtn.onclick = function() {
-                    const idx = filesData.indexOf(dataObj);
-                    if (idx > -1) filesData.splice(idx, 1);
-                    div.remove();
-                    if (filesData.length === 0) document.getElementById('footerActions').style.display = 'none';
-                };
-
-                const img = document.createElement('img');
-                img.src = event.target.result;
-                img.title = "Clique para ampliar";
-                img.onclick = function() { openModal(this.src); };
-                
-                const select = document.createElement('select');
-                OPCOES_TITULO.forEach(opt => {
-                    const option = document.createElement('option');
-                    option.value = opt; option.text = opt; select.appendChild(option);
+        function triggerPushNotification(deal) {
+            if (Notification.permission === 'granted') {
+                new Notification("🚨 Nova Oferta Encontrada!", {
+                    body: `${deal.title.substring(0, 50)}... R$ ${deal.current_price}`,
+                    icon: deal.image || "https://www.amazon.com.br/favicon.ico",
+                    tag: deal.asin
                 });
-
-                const textarea = document.createElement('textarea');
-                textarea.className = 'comment-box';
-                textarea.placeholder = "Descreva a irregularidade...";
-                
-                select.addEventListener('change', function() {
-                    textarea.style.display = (this.value === "Irregularidade") ? 'block' : 'none';
-                    if (this.value !== "Irregularidade") textarea.value = '';
-                });
-
-                if (existingCount === 0 && index === 0) select.value = "Formulário";
-                else select.value = "Outro (Sem Título)";
-
-                dataObj.selectElement = select;
-                dataObj.textAreaElement = textarea;
-
-                div.appendChild(deleteBtn); 
-                div.appendChild(img); 
-                div.appendChild(select); 
-                div.appendChild(textarea);
-                previewArea.appendChild(div);
-
-                const i = new Image();
-                i.onload = function() {
-                    dataObj.width = this.width;
-                    dataObj.height = this.height;
-                };
-                i.src = event.target.result;
-
-                filesData.push(dataObj);
-            };
-            reader.readAsDataURL(file);
-        });
-        
-        this.value = ''; 
-    });
-
-
-    // --- GERAÇÃO DOS DOCUMENTOS ---
-    async function generateDocuments() {
-        const btn = document.getElementById('generateBtn');
-        const filenameInput = document.getElementById('filename');
-        const filename = filenameInput.value.trim() || "Relatorio";
-        
-        if(filesData.length === 0) { alert("Adicione pelo menos uma foto."); return; }
-
-        btn.disabled = true; btn.innerText = "Organizando e Gerando...";
-
-        try {
-            // 2. ORDENAÇÃO
-            const sortedFiles = [...filesData].sort((a, b) => {
-                const titleA = a.selectElement.value;
-                const titleB = b.selectElement.value;
-                return OPCOES_TITULO.indexOf(titleA) - OPCOES_TITULO.indexOf(titleB);
-            });
-
-            // --- PDF ---
-            const { jsPDF } = window.jspdf;
-            const pdf = new jsPDF();
-            const pageWidth = pdf.internal.pageSize.getWidth();
-            const pageHeight = pdf.internal.pageSize.getHeight();
-            const margin = 20;
-
-            for (let i = 0; i < sortedFiles.length; i++) {
-                if (i > 0) pdf.addPage();
-                const item = sortedFiles[i];
-                const title = item.selectElement.value;
-                const comment = item.textAreaElement.value.trim();
-
-                // Título
-                if (title !== "Outro (Sem Título)") {
-                    pdf.setFontSize(16); pdf.setFont("helvetica", "bold");
-                    pdf.text(title, pageWidth / 2, margin, { align: 'center' });
-                }
-
-                let spaceForImageH = pageHeight - (margin * 2) - 20;
-                let textHeightBlock = 0;
-
-                if (title === "Irregularidade" && comment) {
-                    pdf.setFontSize(12); pdf.setFont("helvetica", "normal");
-                    const textLines = pdf.splitTextToSize(comment, pageWidth - (margin * 2));
-                    textHeightBlock = textLines.length * 7;
-                    spaceForImageH -= (textHeightBlock + 10); 
-                }
-
-                let w = item.width; let h = item.height;
-                const maxW = pageWidth - (margin * 2);
-                const ratio = Math.min(maxW / w, spaceForImageH / h);
-                const newW = w * ratio; const newH = h * ratio;
-                const x = (pageWidth - newW) / 2;
-                const y = margin + 10; 
-
-                pdf.addImage(item.dataUrl, 'JPEG', x, y, newW, newH);
-
-                if (title === "Irregularidade" && comment) {
-                    const textY = y + newH + 10;
-                    const textLines = pdf.splitTextToSize(comment, pageWidth - (margin * 2));
-                    pdf.text(textLines, margin, textY);
-                }
             }
-            pdf.save(`${filename}.pdf`);
-
-            // --- DOCX ---
-            const doc = new docx.Document({
-                sections: [{
-                    properties: { page: { margin: { top: 1440, right: 1440, bottom: 1440, left: 1440 } } },
-                    children: await Promise.all(sortedFiles.map(async (item) => {
-                        const title = item.selectElement.value;
-                        const comment = item.textAreaElement.value.trim();
-                        const elements = [];
-
-                        // Header
-                        if (title !== "Outro (Sem Título)") {
-                            elements.push(new docx.Paragraph({
-                                text: title, heading: docx.HeadingLevel.HEADING_1,
-                                alignment: docx.AlignmentType.CENTER, spacing: { after: 300 } 
-                            }));
-                        }
-
-                        const imageBlob = await fetch(item.dataUrl).then(r => r.blob());
-                        const imageBuffer = await imageBlob.arrayBuffer();
-                        
-                        // --- LÓGICA DE REDIMENSIONAMENTO NO DOCX ---
-                        let docxWidth = 600; 
-                        // AR incluído aqui para ficar com tamanho reduzido
-                        if (["Formulário", "Carga", "Termo", "AR"].includes(title)) { 
-                            docxWidth = 450;
-                        } 
-                        else if (title === "Irregularidade" && comment) {
-                            docxWidth = 500;
-                        }
-                        
-                        elements.push(new docx.Paragraph({
-                            children: [ new docx.ImageRun({ data: imageBuffer, transformation: { width: docxWidth, height: (item.height / item.width) * docxWidth } }) ],
-                            alignment: docx.AlignmentType.CENTER, spacing: { after: 300 } 
-                        }));
-
-                        if (title === "Irregularidade" && comment) {
-                            elements.push(new docx.Paragraph({
-                                children: [ new docx.TextRun({ text: comment, font: "Arial", size: 24 }) ],
-                                alignment: docx.AlignmentType.BOTH, spacing: { before: 100 }
-                            }));
-                        }
-                        
-                        if (item !== sortedFiles[sortedFiles.length -1]) {
-                           elements.push(new docx.Paragraph({ children: [new docx.PageBreak()] }));
-                        }
-                        return elements;
-                    })).then(results => results.flat())
-                }]
-            });
-
-            const blob = await docx.Packer.toBlob(doc);
-            saveAs(blob, `${filename}.docx`);
-
-            alert("Arquivos gerados com sucesso!");
-        } catch (error) {
-            console.error(error);
-            alert("Erro ao gerar. Verifique o console.");
-        } finally {
-            btn.disabled = false;
-            btn.innerText = "Baixar PDF e DOCX";
         }
-    }
-</script>
 
+        function renderDeals(deals) {
+            if (!deals || deals.length === 0) {
+                gridContainer.innerHTML = '';
+                emptyState.classList.remove('hidden');
+                return;
+            }
+            emptyState.classList.add('hidden');
+
+            const cardsHTML = deals.map(deal => {
+                const discountBadge = deal.discount > 0 
+                    ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
+                
+                const newBadge = deal.is_new 
+                    ? `<span class="absolute top-1 left-1 bg-emerald-500 text-gray-900 text-[10px] font-extrabold px-1.5 py-0.5 rounded shadow animate-pulse border border-emerald-300">NOVO</span>` : '';
+                    
+                const originalPriceLine = deal.original_price !== 'N/A' 
+                    ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
+                    
+                const criteriaBadges = (deal.criteria || []).map(crit => `
+                    <span class="bg-gray-700/60 text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-650">${crit}</span>
+                `).join('');
+
+                const imageHTML = deal.image 
+                    ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain" referrerpolicy="no-referrer">`
+                    : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
+
+                const borderClass = deal.is_new ? "border-emerald-500/60 shadow-[0_0_10px_rgba(16,185,129,0.2)]" : "border-gray-700 hover:border-amber-500/40";
+
+                return `
+                    <div class="bg-gray-800 rounded-lg overflow-hidden border flex flex-col justify-between transition-all duration-200 ${borderClass}">
+                        <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
+                            ${imageHTML}
+                            ${newBadge}
+                            ${discountBadge}
+                        </div>
+                        <div class="p-3 flex-1 flex flex-col justify-between gap-2">
+                            <div>
+                                <div class="flex justify-between items-start gap-1">
+                                    <span class="text-[9px] font-bold uppercase text-amber-400 block tracking-wide truncate">
+                                        ${deal.badge || 'Oferta Ativa'}
+                                    </span>
+                                    <span class="text-[9px] font-bold uppercase text-fuchsia-400 block tracking-wide bg-gray-900/60 px-1 rounded truncate flex-shrink-0">
+                                        ${deal.category || ''}
+                                    </span>
+                                </div>
+                                <h2 class="text-xs font-medium text-gray-200 line-clamp-2 mt-0.5" title="${deal.title}">
+                                    ${deal.title}
+                                </h2>
+                            </div>
+                            <div>
+                                <div class="flex flex-wrap items-baseline gap-1">
+                                    <span class="text-sm font-bold text-emerald-400">R$ ${deal.current_price}</span>
+                                    ${originalPriceLine}
+                                </div>
+                                <div class="mt-1.5 flex flex-wrap gap-1">
+                                    ${criteriaBadges}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-3 pt-0">
+                            <a href="${deal.link}" target="_blank" class="w-full block text-center bg-gray-700 hover:bg-amber-500 hover:text-gray-950 text-gray-200 font-bold py-1.5 rounded text-xs transition-colors">
+                                Ver na Amazon ↗
+                            </a>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            gridContainer.innerHTML = cardsHTML;
+        }
+
+        async function fetchUpdatedDeals() {
+            if (isFetching) return;
+            isFetching = true;
+            spinner.classList.remove('hidden');
+            btnRefresh.disabled = true;
+
+            try {
+                // Fetch diretamente do arquivo de persistência com cache busting
+                const response = await fetch('deals.json?t=' + new Date().getTime());
+                const newState = await response.json();
+                
+                if (newState && newState.data) {
+                    let hasNewItems = false;
+                    newState.data.forEach(deal => {
+                        if (!knownAsins.has(deal.asin)) {
+                            knownAsins.add(deal.asin);
+                            hasNewItems = true;
+                            if (appState.data && appState.data.length > 0) {
+                                triggerPushNotification(deal);
+                            }
+                        }
+                    });
+
+                    appState = newState;
+                    labelLastCheck.textContent = `Último: ${newState.last_check}`;
+                    renderDeals(newState.data);
+                }
+            } catch (err) {
+                console.error("Falha ao puxar JSON:", err);
+            } finally {
+                isFetching = false;
+                spinner.classList.add('hidden');
+                btnRefresh.disabled = false;
+                resetTimer();
+            }
+        }
+
+        function startTimer() {
+            if (countdownTimer) clearInterval(countdownTimer);
+            countdownTimer = setInterval(() => {
+                secondsLeft--;
+                if (secondsLeft <= 0) {
+                    fetchUpdatedDeals();
+                } else {
+                    const mins = Math.floor(secondsLeft / 60);
+                    const secs = secondsLeft % 60;
+                    labelTimer.textContent = `Atualizando em: ${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+                }
+            }, 1000);
+        }
+
+        function resetTimer() {
+            secondsLeft = checkInterval;
+            startTimer();
+        }
+
+        btnRefresh.addEventListener('click', () => {
+            fetchUpdatedDeals();
+        });
+
+        window.onload = () => {
+            if ("Notification" in window && Notification.permission === 'default') {
+                const btnNotif = document.getElementById('btn-notification');
+                btnNotif.classList.remove('hidden');
+                btnNotif.addEventListener('click', async () => {
+                    const perm = await Notification.requestPermission();
+                    if (perm === 'granted') btnNotif.classList.add('hidden');
+                });
+            }
+            // Chama imediatamente no load
+            fetchUpdatedDeals();
+        };
+    </script>
 </body>
 </html>
