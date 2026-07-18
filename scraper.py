@@ -4,7 +4,7 @@
 import os
 import re
 import json
-import requests
+from curl_cffi import requests
 from datetime import datetime
 
 URL = "https://www.amazon.com.br/gp/goldbox"
