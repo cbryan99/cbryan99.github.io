@@ -2,8 +2,8 @@ name: Amazon Scraper Motor
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Roda a cada 10 minutos
-  workflow_dispatch: # Permite você rodar manualmente na aba Actions do GitHub
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-and-update:
@@ -18,20 +18,20 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependências
-        run: pip install requests
+        # Trocamos requests normal pela versão com Spoofing TLS
+        run: pip install curl_cffi
 
       - name: Rodar Scraper
         run: python scraper.py
 
-      - name: Commit e Push (Se houver mudança)
+      - name: Commit e Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Verifica se o arquivo existe antes de tentar commitar
           if [ -f deals.json ]; then
             git add deals.json
             git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 [Auto] Preços/Ofertas atualizados" && git push)
           else
-            echo "⚠️ deals.json não encontrado. A Amazon bloqueou a requisição nesta rodada (Erro 503)."
+            echo "⚠️ deals.json não encontrado. A Amazon bloqueou a requisição (Erro 503) ou não houve dados."
           fi
