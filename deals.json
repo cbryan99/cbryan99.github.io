@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 11:35:16",
+  "last_check": "19/07/2026 12:31:50",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -341,9 +341,113 @@
           "date": "2026-07-19T11:35:16.651402"
         }
       ]
+    },
+    "B0FPBQQ4TN": {
+      "discovery_date": "2026-07-19T12:31:50.552537",
+      "price_history": [
+        {
+          "price": "2528.98",
+          "date": "2026-07-19T12:31:50.552537"
+        }
+      ]
+    },
+    "B004V54ZVK": {
+      "discovery_date": "2026-07-19T12:31:50.552537",
+      "price_history": [
+        {
+          "price": "76.9",
+          "date": "2026-07-19T12:31:50.552537"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": "2528.98",
+      "original_price": "3199.0",
+      "discount": 20.9,
+      "difference": 670.02,
+      "criteria": [
+        "R$ 670.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784464310.552537
+    },
+    {
+      "asin": "B004V54ZVK",
+      "title": "Vodka Absolut - 1 Litro",
+      "link": "https://www.amazon.com.br/Absolut-Vodka-Original-Sueca-1L/dp/B004V54ZVK",
+      "current_price": "76.9",
+      "original_price": "136.9",
+      "discount": 43.8,
+      "difference": 60.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613sQ8zlsuL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
+      "is_new": true,
+      "discovery_ts": 1784464310.552537
+    },
+    {
+      "asin": "B0D4NRBBMR",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
+      "current_price": "3998.98",
+      "original_price": "5799.0",
+      "discount": 31.0,
+      "difference": 1800.02,
+      "criteria": [
+        "R$ 1800.02 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0DM6VH5KF",
+      "title": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
+      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR12DYFAAWKNAZ/dp/B0DM6VH5KF",
+      "current_price": "2199.0",
+      "original_price": "3929.31",
+      "discount": 44.0,
+      "difference": 1730.31,
+      "criteria": [
+        "44.0% OFF",
+        "R$ 1730.31 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61SqDV4ba2L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0D4NSS9XV",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
+      "current_price": "3379.0",
+      "original_price": "4699.0",
+      "discount": 28.1,
+      "difference": 1320.0,
+      "criteria": [
+        "R$ 1320.0 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
     {
       "asin": "B0CSPRNRZC",
       "title": "MSI GeForce RTX 3050 LP 6G OC (6GB GDDR6/PCI Express 4.0/1492MHz/14000MHz/Perfil baixo)",
@@ -358,77 +462,8 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Z9DLS29FL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1784456728.176841
-    },
-    {
-      "asin": "B071DY742N",
-      "title": "Tênis Mizuno Calçado Mizuno Neo Vortex adulto-unissex",
-      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B071DY742N",
-      "current_price": "339.99",
-      "original_price": "699.99",
-      "discount": 51.4,
-      "difference": 360.0,
-      "criteria": [
-        "51.4% OFF",
-        "R$ 360.0 desc."
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+MeuHAoML._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784460916.651402
-    },
-    {
-      "asin": "B08DHW4CT9",
-      "title": "My Way Giorgio Armani - Perfume Feminino - EDP",
-      "link": "https://www.amazon.com.br/Refil%C3%A1vel-Amadeirado-Fragr%C3%A2ncia-Bergamota-Laranjeira/dp/B08DHW4CT9",
-      "current_price": "302.99",
-      "original_price": "569.0",
-      "discount": 46.8,
-      "difference": 266.01,
-      "criteria": [
-        "46.8% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61rNxZ4QCrL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
-      "is_new": true,
-      "discovery_ts": 1784460916.651402
-    },
-    {
-      "asin": "B07M6KHQKT",
-      "title": "NexGard Antipulgas e Carrapatos para Cães de - 3 tabletes",
-      "link": "https://www.amazon.com.br/NexGard-Antipulgas-Carrapatos-Merial-C%C3%A3es/dp/B07M6KHQKT",
-      "current_price": "127.2",
-      "original_price": "293.0",
-      "discount": 56.6,
-      "difference": 165.8,
-      "criteria": [
-        "56.6% OFF"
-      ],
-      "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Ftegwk5zL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784460916.651402
-    },
-    {
-      "asin": "B0GHS7QVMB",
-      "title": "Tênis Mizuno Calçado Mizuno Space 6 adulto-unissex",
-      "link": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Branco-Tamanho/dp/B0GHS7QVMB",
-      "current_price": "224.99",
-      "original_price": "379.99",
-      "discount": 40.8,
-      "difference": 155.0,
-      "criteria": [
-        "40.8% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61R0t2jEQaL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784460916.651402
     },
     {
       "asin": "B0H4J13B2M",
@@ -464,6 +499,23 @@
       "category": "💧 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B07S8BMFPD",
+      "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
+      "link": "https://www.amazon.com.br/Antipulgas-Carrapatos-Nexgard-para-C%C3%A3es/dp/B07S8BMFPD",
+      "current_price": "148.67",
+      "original_price": "342.0",
+      "discount": 56.5,
+      "difference": 193.33,
+      "criteria": [
+        "56.5% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ycX-Yb0PL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784451384.878312
     },
     {
       "asin": "B07Y3B33KG",
@@ -517,23 +569,6 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B07VMW4YJ3",
-      "title": "Camiseta Zico Retro BrazilineMasculino",
-      "link": "https://www.amazon.com.br/Braziline-Camiseta-Flamengo-Branco-Vermelho/dp/B07VMW4YJ3",
-      "current_price": "64.9",
-      "original_price": "139.9",
-      "discount": 53.6,
-      "difference": 75.0,
-      "criteria": [
-        "53.6% OFF"
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/519UpDdknpL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
       "asin": "B0GHP4NL1J",
       "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
       "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
@@ -547,23 +582,6 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B07FPW95CM",
-      "title": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM",
-      "current_price": "69.08",
-      "original_price": "130.0",
-      "discount": 46.9,
-      "difference": 60.92,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51syfbaTceL._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
       "is_new": false,
       "discovery_ts": 1784433482.515947
     },
