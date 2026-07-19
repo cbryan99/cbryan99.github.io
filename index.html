@@ -11,8 +11,11 @@
     <div class="container mx-auto px-2 py-4 sm:p-6">
         <div class="flex flex-col sm:flex-row justify-between items-center border-b border-gray-800 pb-4 mb-6 gap-3">
             <div class="text-center sm:text-left">
-                <h1 class="text-xl sm:text-2xl font-extrabold text-amber-500 tracking-tight">Amazon Monitor</h1>
-                <p class="text-[11px] text-gray-400 mt-0.5">Scraper via GitHub Actions</p>
+                <h1 class="text-xl sm:text-2xl font-extrabold text-amber-500 tracking-tight flex items-baseline gap-2 justify-center sm:justify-start">
+                    Amazon Monitor 
+                    <span id="item-counter" class="text-sm font-medium text-gray-400 bg-gray-800 px-2 py-0.5 rounded-md border border-gray-700">0 ofertas</span>
+                </h1>
+                <p class="text-[11px] text-gray-400 mt-1">Scraper via GitHub Actions</p>
             </div>
             
             <div class="flex flex-col sm:flex-row items-center gap-3 w-full sm:w-auto">
@@ -54,6 +57,7 @@
         const labelTimer = document.getElementById('label-timer');
         const btnRefresh = document.getElementById('btn-refresh');
         const spinner = document.getElementById('spinner');
+        const itemCounter = document.getElementById('item-counter');
 
         function triggerPushNotification(deal) {
             if (Notification.permission === 'granted') {
@@ -66,6 +70,9 @@
         }
 
         function renderDeals(deals) {
+            // Atualiza o contador de itens no topo
+            itemCounter.textContent = `${deals ? deals.length : 0} ofertas`;
+
             if (!deals || deals.length === 0) {
                 gridContainer.innerHTML = '';
                 emptyState.classList.remove('hidden');
@@ -77,8 +84,13 @@
                 const discountBadge = deal.discount > 0 
                     ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
                 
-                const newBadge = deal.is_new 
-                    ? `<span class="absolute top-1 left-1 bg-emerald-500 text-gray-900 text-[10px] font-extrabold px-1.5 py-0.5 rounded shadow animate-pulse border border-emerald-300">NOVO</span>` : '';
+                // Pega o Timestamp do Backend e formata
+                const dateObj = new Date(deal.discovery_ts * 1000);
+                const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+                const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+                
+                // Novo badge de Horário no lugar do badge de NOVO
+                const timeBadge = `<span class="absolute top-1 left-1 bg-gray-900/80 backdrop-blur text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-700 shadow">🕒 ${dateString} ${timeString}</span>`;
                     
                 const originalPriceLine = deal.original_price !== 'N/A' 
                     ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
@@ -91,13 +103,11 @@
                     ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain" referrerpolicy="no-referrer">`
                     : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
 
-                const borderClass = deal.is_new ? "border-emerald-500/60 shadow-[0_0_10px_rgba(16,185,129,0.2)]" : "border-gray-700 hover:border-amber-500/40";
-
                 return `
-                    <div class="bg-gray-800 rounded-lg overflow-hidden border flex flex-col justify-between transition-all duration-200 ${borderClass}">
+                    <div class="bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-amber-500/40 flex flex-col justify-between transition-all duration-200">
                         <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
                             ${imageHTML}
-                            ${newBadge}
+                            ${timeBadge}
                             ${discountBadge}
                         </div>
                         <div class="p-3 flex-1 flex flex-col justify-between gap-2">
@@ -143,7 +153,7 @@
             btnRefresh.disabled = true;
 
             try {
-                // Fetch diretamente do arquivo de persistência com cache busting
+                // Tenta puxar o JSON com timestamp para quebrar cache (Técnica Cache Busting)
                 const response = await fetch('deals.json?t=' + new Date().getTime());
                 const newState = await response.json();
                 
@@ -205,7 +215,6 @@
                     if (perm === 'granted') btnNotif.classList.add('hidden');
                 });
             }
-            // Chama imediatamente no load
             fetchUpdatedDeals();
         };
     </script>
