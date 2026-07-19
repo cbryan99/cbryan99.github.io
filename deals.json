@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 21:23:24",
+  "last_check": "19/07/2026 22:23:37",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -422,25 +422,86 @@
           "date": "2026-07-19T20:26:29.403287"
         }
       ]
+    },
+    "B0FNRSLDZ3": {
+      "discovery_date": "2026-07-19T22:23:37.953621",
+      "price_history": [
+        {
+          "price": "2448.99",
+          "date": "2026-07-19T22:23:37.953621"
+        }
+      ]
+    },
+    "B0DYKWFDV2": {
+      "discovery_date": "2026-07-19T22:23:37.953621",
+      "price_history": [
+        {
+          "price": "3059.99",
+          "date": "2026-07-19T22:23:37.953621"
+        }
+      ]
+    },
+    "B0F4RVF119": {
+      "discovery_date": "2026-07-19T22:23:37.953621",
+      "price_history": [
+        {
+          "price": "3649.0",
+          "date": "2026-07-19T22:23:37.953621"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GYB56QM9",
-      "title": "Drone DJI Lito 1 Fly More Combo (Sem tela) BR - DJI080",
-      "link": "https://www.amazon.com.br/Drone-DJI-Lito-More-Combo/dp/B0GYB56QM9",
-      "current_price": "4486.29",
-      "original_price": "6369.0",
-      "discount": 29.6,
-      "difference": 1882.71,
+      "asin": "B0FNRSLDZ3",
+      "title": "Lavadora de Roupas Midea Slim 11kg HealthGuard Smart Inverter Água Fria e Quente Titanium MF201W110WB/GK-01",
+      "link": "https://www.amazon.com.br/M%C3%81QUINA-INVERTER-HEALTHGUARD-TITANIUM-MF201W110WB/dp/B0FNRSLDZ3",
+      "current_price": "2448.99",
+      "original_price": "3939.0",
+      "discount": 37.8,
+      "difference": 1490.01,
       "criteria": [
-        "R$ 1882.71 desc."
+        "R$ 1490.01 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/419PBdY0UwL._AC_UL210_SR210,210_.jpg",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JXDiGkNLL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784492789.403287
+      "discovery_ts": 1784499817.953621
+    },
+    {
+      "asin": "B0F4RVF119",
+      "title": "Midea Geladeira Inverse Frost Free 416L Inverter cor Inox Midea MDRB593FGD463 - Bivolt",
+      "link": "https://www.amazon.com.br/Midea-Geladeira-Inverse-Inverter-MDRB593FGD463/dp/B0F4RVF119",
+      "current_price": "3649.0",
+      "original_price": "4799.0",
+      "discount": 24.0,
+      "difference": 1150.0,
+      "criteria": [
+        "R$ 1150.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41RdW-u9JZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784499817.953621
+    },
+    {
+      "asin": "B0DYKWFDV2",
+      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
+      "current_price": "3059.99",
+      "original_price": "3437.78",
+      "discount": 11.0,
+      "difference": 377.79,
+      "criteria": [
+        "R$ 377.79 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784499817.953621
     },
     {
       "asin": "B0D4NRBBMR",
@@ -476,6 +537,23 @@
       "category": "❄️ Eletrodomésticos",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0B5ZCFHJW",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Quente e Fria Branca WD11A4453BW",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B5ZCFHJW",
+      "current_price": "3754.91",
+      "original_price": "5129.23",
+      "discount": 26.8,
+      "difference": 1374.32,
+      "criteria": [
+        "R$ 1374.32 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41wb0lxaEhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784473933.589445
     },
     {
       "asin": "B0D4NSS9XV",
@@ -528,6 +606,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784473933.589445
+    },
+    {
+      "asin": "B0D4NR66ZL",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL",
+      "current_price": "5449.0",
+      "original_price": "6199.0",
+      "discount": 12.1,
+      "difference": 750.0,
+      "criteria": [
+        "R$ 750.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784419934.633826
     },
     {
       "asin": "B0FPBQQ4TN",
@@ -615,39 +710,21 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B08ZFKB8ZK",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
-      "current_price": "453.89",
-      "original_price": "879.0",
-      "discount": 48.4,
-      "difference": 425.11,
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
       "criteria": [
-        "48.4% OFF",
-        "R$ 425.11 desc."
+        "54.2% OFF"
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
       "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0GND7R7Z8",
-      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-24-000/dp/B0GND7R7Z8",
-      "current_price": "3899.0",
-      "original_price": "4299.0",
-      "discount": 9.3,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51XtHBetEOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784473933.589445
     },
     {
       "asin": "B0918FHY6P",
@@ -665,40 +742,6 @@
       "category": "✂️ Autocuidado",
       "is_new": false,
       "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B07FPW95CM",
-      "title": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM",
-      "current_price": "69.08",
-      "original_price": "130.0",
-      "discount": 46.9,
-      "difference": 60.92,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51syfbaTceL._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B0DKVJ1HWB",
