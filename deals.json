@@ -1,5 +1,5 @@
 {
-  "last_check": "18/07/2026 23:25:23",
+  "last_check": "19/07/2026 00:12:14",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -153,6 +153,42 @@
           "date": "2026-07-18T23:25:23.485030"
         }
       ]
+    },
+    "B0D4NR66ZL": {
+      "discovery_date": "2026-07-19T00:12:14.633826",
+      "price_history": [
+        {
+          "price": "5449.0",
+          "date": "2026-07-19T00:12:14.633826"
+        }
+      ]
+    },
+    "B093M7RFL5": {
+      "discovery_date": "2026-07-19T00:12:14.633826",
+      "price_history": [
+        {
+          "price": "2689.0",
+          "date": "2026-07-19T00:12:14.633826"
+        }
+      ]
+    },
+    "B0FP5R9BDZ": {
+      "discovery_date": "2026-07-19T00:12:14.633826",
+      "price_history": [
+        {
+          "price": "1439.9",
+          "date": "2026-07-19T00:12:14.633826"
+        }
+      ]
+    },
+    "B0F67HS3N7": {
+      "discovery_date": "2026-07-19T00:12:14.633826",
+      "price_history": [
+        {
+          "price": "219.99",
+          "date": "2026-07-19T00:12:14.633826"
+        }
+      ]
     }
   },
   "data": [
@@ -227,6 +263,24 @@
       "discovery_ts": 1784417123.48503
     },
     {
+      "asin": "B0FP5R9BDZ",
+      "title": "GoPro LIT HERO - Câmera de Ação Compacta 4K60 Ultra HD com Luz Integrada",
+      "link": "https://www.amazon.com.br/GoPro-LIT-HERO-Estabiliza%C3%A7%C3%A3o-HyperSmooth/dp/B0FP5R9BDZ",
+      "current_price": "1439.9",
+      "original_price": "2699.9",
+      "discount": 46.7,
+      "difference": 1260.0,
+      "criteria": [
+        "46.7% OFF",
+        "R$ 1260.0 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612bn+1zfJL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784419934.633826
+    },
+    {
       "asin": "B0DYVNRG3B",
       "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
@@ -245,21 +299,21 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0FB9MS6K1",
-      "title": "Samsung Vision AI TV 55\" The Frame 4K LS03F 2025, Tela Matte antirreflexo, Molduras customizáveis, Modo Arte, 7 Anos de Atualização",
-      "link": "https://www.amazon.com.br/Samsung-antirreflexo-Molduras-customiz%C3%A1veis-Atualiza%C3%A7%C3%A3o/dp/B0FB9MS6K1",
-      "current_price": "4195.54",
-      "original_price": "5299.0",
-      "discount": 20.8,
-      "difference": 1103.46,
+      "asin": "B0D4NR66ZL",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL",
+      "current_price": "5449.0",
+      "original_price": "6199.0",
+      "discount": 12.1,
+      "difference": 750.0,
       "criteria": [
-        "R$ 1103.46 desc."
+        "R$ 750.0 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61cKmTjtqdL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": true,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784419934.633826
     },
     {
       "asin": "B0H4HYLQ71",
@@ -292,23 +346,6 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eOsLaJbxL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0FL2QF7YJ",
-      "title": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
-      "link": "https://www.amazon.com.br/JBL-PartyBox-Essential-Bluetooth-Respingos/dp/B0FL2QF7YJ",
-      "current_price": "1328.99",
-      "original_price": "1899.0",
-      "discount": 30.0,
-      "difference": 570.01,
-      "criteria": [
-        "R$ 570.01 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Ar78y955L._AC_UL210_SR210,210_.jpg",
-      "category": "🔊 Eletrônicos",
       "is_new": true,
       "discovery_ts": 1784417123.48503
     },
@@ -365,38 +402,38 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B07V9W6N8P",
-      "title": "NexGard Antipulgas e Carrapatos para Cães de 25,1 a 50kg - 3 tabletes",
-      "link": "https://www.amazon.com.br/Nexgard-Antipulgas-Carrapatos-Merial-para/dp/B07V9W6N8P",
-      "current_price": "169.9",
-      "original_price": "402.0",
-      "discount": 57.7,
-      "difference": 232.1,
+      "asin": "B093M7RFL5",
+      "title": "LAVA-LOUCAS MIDEA 14 SERVICOS BRANCA 127V",
+      "link": "https://www.amazon.com.br/LAVA-LOUCAS-MIDEA-SERVICOS-BRANCA-127V/dp/B093M7RFL5",
+      "current_price": "2689.0",
+      "original_price": "2999.0",
+      "discount": 10.3,
+      "difference": 310.0,
       "criteria": [
-        "57.7% OFF"
+        "R$ 310.0 desc."
       ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71p142qWDpL._AC_UL210_SR210,210_.jpg",
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Nf-2jk1eS._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784419934.633826
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
+      "asin": "B0F67HS3N7",
+      "title": "Ralph Lauren Polo Sport Perfume Masculino, Fragrância Aromática Cítrica para Homens com Estilo de Vida Ativo, Eau de Toilette Refrescante e Energizante 100ml",
+      "link": "https://www.amazon.com.br/Masculino-Fragr%C3%A2ncia-Arom%C3%A1tica-Refrescante-Energizante/dp/B0F67HS3N7",
+      "current_price": "219.99",
+      "original_price": "399.0",
+      "discount": 44.9,
+      "difference": 179.01,
       "criteria": [
-        "54.2% OFF"
+        "44.9% OFF"
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615GjIDcMqL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
       "is_new": true,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784419934.633826
     },
     {
       "asin": "B0918FHY6P",
