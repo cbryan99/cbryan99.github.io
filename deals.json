@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 10:25:28",
+  "last_check": "19/07/2026 11:35:16",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -47,6 +47,10 @@
         {
           "price": "102.0",
           "date": "2026-07-19T06:31:30.455916"
+        },
+        {
+          "price": "123.39",
+          "date": "2026-07-19T11:35:16.651402"
         }
       ]
     },
@@ -301,6 +305,42 @@
           "date": "2026-07-19T10:25:28.176841"
         }
       ]
+    },
+    "B07M6KHQKT": {
+      "discovery_date": "2026-07-19T11:35:16.651402",
+      "price_history": [
+        {
+          "price": "127.2",
+          "date": "2026-07-19T11:35:16.651402"
+        }
+      ]
+    },
+    "B071DY742N": {
+      "discovery_date": "2026-07-19T11:35:16.651402",
+      "price_history": [
+        {
+          "price": "339.99",
+          "date": "2026-07-19T11:35:16.651402"
+        }
+      ]
+    },
+    "B0GHS7QVMB": {
+      "discovery_date": "2026-07-19T11:35:16.651402",
+      "price_history": [
+        {
+          "price": "224.99",
+          "date": "2026-07-19T11:35:16.651402"
+        }
+      ]
+    },
+    "B08DHW4CT9": {
+      "discovery_date": "2026-07-19T11:35:16.651402",
+      "price_history": [
+        {
+          "price": "302.99",
+          "date": "2026-07-19T11:35:16.651402"
+        }
+      ]
     }
   },
   "data": [
@@ -322,69 +362,87 @@
       "discovery_ts": 1784456728.176841
     },
     {
-      "asin": "B07S8BMFPD",
-      "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
-      "link": "https://www.amazon.com.br/Antipulgas-Carrapatos-Nexgard-para-C%C3%A3es/dp/B07S8BMFPD",
-      "current_price": "148.67",
-      "original_price": "342.0",
-      "discount": 56.5,
-      "difference": 193.33,
+      "asin": "B071DY742N",
+      "title": "Tênis Mizuno Calçado Mizuno Neo Vortex adulto-unissex",
+      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B071DY742N",
+      "current_price": "339.99",
+      "original_price": "699.99",
+      "discount": 51.4,
+      "difference": 360.0,
       "criteria": [
-        "56.5% OFF"
+        "51.4% OFF",
+        "R$ 360.0 desc."
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+MeuHAoML._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784460916.651402
+    },
+    {
+      "asin": "B08DHW4CT9",
+      "title": "My Way Giorgio Armani - Perfume Feminino - EDP",
+      "link": "https://www.amazon.com.br/Refil%C3%A1vel-Amadeirado-Fragr%C3%A2ncia-Bergamota-Laranjeira/dp/B08DHW4CT9",
+      "current_price": "302.99",
+      "original_price": "569.0",
+      "discount": 46.8,
+      "difference": 266.01,
+      "criteria": [
+        "46.8% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rNxZ4QCrL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1784460916.651402
+    },
+    {
+      "asin": "B07M6KHQKT",
+      "title": "NexGard Antipulgas e Carrapatos para Cães de - 3 tabletes",
+      "link": "https://www.amazon.com.br/NexGard-Antipulgas-Carrapatos-Merial-C%C3%A3es/dp/B07M6KHQKT",
+      "current_price": "127.2",
+      "original_price": "293.0",
+      "discount": 56.6,
+      "difference": 165.8,
+      "criteria": [
+        "56.6% OFF"
       ],
       "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ycX-Yb0PL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Ftegwk5zL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784451384.878312
+      "discovery_ts": 1784460916.651402
     },
     {
-      "asin": "B07NDM6C36",
-      "title": "Camiseta Zico Retro BrazilineMasculino",
-      "link": "https://www.amazon.com.br/Braziline-Camisa-Flamengo-Zico-Retr%C3%B4/dp/B07NDM6C36",
-      "current_price": "64.9",
-      "original_price": "119.9",
-      "discount": 45.9,
-      "difference": 55.0,
+      "asin": "B0GHS7QVMB",
+      "title": "Tênis Mizuno Calçado Mizuno Space 6 adulto-unissex",
+      "link": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Branco-Tamanho/dp/B0GHS7QVMB",
+      "current_price": "224.99",
+      "original_price": "379.99",
+      "discount": 40.8,
+      "difference": 155.0,
       "criteria": [
-        "45.9% OFF"
+        "40.8% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/519UpDdknpL._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61R0t2jEQaL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784456728.176841
+      "discovery_ts": 1784460916.651402
     },
     {
-      "asin": "B076HYZQMW",
-      "title": "ELG, PWC-R5, PowerCube, Multiplicador 5 Tomadas, Disjuntor Integrado de 10A, Filtro de Linha com Protetor de Surto, Bivolt, Branco e Verde",
-      "link": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW",
-      "current_price": "50.0",
-      "original_price": "91.0",
-      "discount": 45.1,
-      "difference": 41.0,
+      "asin": "B0H4J13B2M",
+      "title": "Notebook Lenovo Gamer LOQ Essential Intel Core i5-12450HX 16GB 1TB SSD RTX 4050 144Hz Windows 11 15.6\" - 83ME0001BR",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-Essential-i5-12450HX-Windows/dp/B0H4J13B2M",
+      "current_price": "6099.99",
+      "original_price": "6665.56",
+      "discount": 8.5,
+      "difference": 565.57,
       "criteria": [
-        "45.1% OFF"
+        "R$ 565.57 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51CsZOBHOoL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784456728.176841
-    },
-    {
-      "asin": "B0D4NSS9XV",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
-      "current_price": "3379.0",
-      "original_price": "4699.0",
-      "discount": 28.1,
-      "difference": 1320.0,
-      "criteria": [
-        "R$ 1320.0 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81L8oOFpueL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784417123.48503
@@ -428,14 +486,14 @@
       "asin": "B0918FHY6P",
       "title": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
       "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P",
-      "current_price": "102.0",
+      "current_price": "123.39",
       "original_price": "247.9",
-      "discount": 58.9,
-      "difference": 145.9,
+      "discount": 50.2,
+      "difference": 124.51,
       "criteria": [
-        "58.9% OFF"
+        "50.2% OFF"
       ],
-      "badge": "",
+      "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61wfwHNv-NL._AC_UL210_SR210,210_.jpg",
       "category": "✂️ Autocuidado",
       "is_new": false,
@@ -459,6 +517,23 @@
       "discovery_ts": 1784417123.48503
     },
     {
+      "asin": "B07VMW4YJ3",
+      "title": "Camiseta Zico Retro BrazilineMasculino",
+      "link": "https://www.amazon.com.br/Braziline-Camiseta-Flamengo-Branco-Vermelho/dp/B07VMW4YJ3",
+      "current_price": "64.9",
+      "original_price": "139.9",
+      "discount": 53.6,
+      "difference": 75.0,
+      "criteria": [
+        "53.6% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519UpDdknpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
+    },
+    {
       "asin": "B0GHP4NL1J",
       "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
       "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
@@ -472,6 +547,23 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
+    },
+    {
+      "asin": "B07FPW95CM",
+      "title": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM",
+      "current_price": "69.08",
+      "original_price": "130.0",
+      "discount": 46.9,
+      "difference": 60.92,
+      "criteria": [
+        "46.9% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51syfbaTceL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
       "is_new": false,
       "discovery_ts": 1784433482.515947
     },
