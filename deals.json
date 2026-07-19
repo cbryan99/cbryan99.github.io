@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 18:12:17",
+  "last_check": "19/07/2026 19:34:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -404,9 +404,35 @@
           "date": "2026-07-19T16:12:40.307231"
         }
       ]
+    },
+    "B0DYF9X6KX": {
+      "discovery_date": "2026-07-19T19:34:58.927305",
+      "price_history": [
+        {
+          "price": "2048.99",
+          "date": "2026-07-19T19:34:58.927305"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DYF9X6KX",
+      "title": "Máquina de lavar 12Kg Philco 16 Modos de operação PLR12A 220V",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-lavar-Philco-opera%C3%A7%C3%A3o-PLR12A/dp/B0DYF9X6KX",
+      "current_price": "2048.99",
+      "original_price": "2499.9",
+      "discount": 18.0,
+      "difference": 450.91,
+      "criteria": [
+        "R$ 450.91 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ylYrhL7ML._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784489698.927305
+    },
     {
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
@@ -443,23 +469,6 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0D4NSS9XV",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
-      "current_price": "3379.0",
-      "original_price": "4699.0",
-      "discount": 28.1,
-      "difference": 1320.0,
-      "criteria": [
-        "R$ 1320.0 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
       "asin": "B0DYVNRG3B",
       "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
@@ -476,23 +485,6 @@
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0D9YQNT3Y",
-      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YQNT3Y",
-      "current_price": "2719.15",
-      "original_price": "3577.89",
-      "discount": 24.0,
-      "difference": 858.74,
-      "criteria": [
-        "R$ 858.74 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Hw5cBatiL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784473933.589445
     },
     {
       "asin": "B0FPBQQ4TN",
@@ -580,38 +572,22 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0FKD1SFPC",
-      "title": "Samsung Vision AI TV 43\" NEO QLED ULTRA 4K QN90F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC",
-      "current_price": "3999.0",
-      "original_price": "4499.0",
-      "discount": 11.1,
-      "difference": 500.0,
+      "asin": "B08ZFKB8ZK",
+      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
+      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
+      "current_price": "453.89",
+      "original_price": "879.0",
+      "discount": 48.4,
+      "difference": 425.11,
       "criteria": [
-        "R$ 500.0 desc."
+        "48.4% OFF",
+        "R$ 425.11 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61fT1Y28bkL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0GND7R7Z8",
-      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-24-000/dp/B0GND7R7Z8",
-      "current_price": "3899.0",
-      "original_price": "4299.0",
-      "discount": 9.3,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51XtHBetEOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784473933.589445
     },
     {
       "asin": "B0918FHY6P",
@@ -661,23 +637,6 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B07FPW95CM",
-      "title": "Jameson - Whiskey Irlandês, 750 ml",
-      "link": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM",
-      "current_price": "69.08",
-      "original_price": "130.0",
-      "discount": 46.9,
-      "difference": 60.92,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51syfbaTceL._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
       "is_new": false,
       "discovery_ts": 1784433482.515947
     },
