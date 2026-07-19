@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 12:31:50",
+  "last_check": "19/07/2026 14:08:16",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -359,42 +359,34 @@
           "date": "2026-07-19T12:31:50.552537"
         }
       ]
+    },
+    "B0DDDQL4KV": {
+      "discovery_date": "2026-07-19T14:08:16.553895",
+      "price_history": [
+        {
+          "price": "5055.24",
+          "date": "2026-07-19T14:08:16.553895"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
+      "asin": "B0DDDQL4KV",
+      "title": "Notebook ASUS Vivobook 16 Intel Core i7, 16 GB, 512 GB SSD, W 11 Home, 16'' FHD, Cool Silver - X1605VA-MB763W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1605VA-Windows/dp/B0DDDQL4KV",
+      "current_price": "5055.24",
+      "original_price": "5799.0",
+      "discount": 12.8,
+      "difference": 743.76,
       "criteria": [
-        "R$ 670.02 desc."
+        "R$ 743.76 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/711d6UupE+L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": true,
-      "discovery_ts": 1784464310.552537
-    },
-    {
-      "asin": "B004V54ZVK",
-      "title": "Vodka Absolut - 1 Litro",
-      "link": "https://www.amazon.com.br/Absolut-Vodka-Original-Sueca-1L/dp/B004V54ZVK",
-      "current_price": "76.9",
-      "original_price": "136.9",
-      "discount": 43.8,
-      "difference": 60.0,
-      "criteria": [
-        "43.8% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613sQ8zlsuL._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
-      "is_new": true,
-      "discovery_ts": 1784464310.552537
+      "discovery_ts": 1784470096.553895
     },
     {
       "asin": "B0D4NRBBMR",
@@ -445,6 +437,24 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0DYVNRG3B",
+      "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
+      "current_price": "1449.0",
+      "original_price": "2699.0",
+      "discount": 46.3,
+      "difference": 1250.0,
+      "criteria": [
+        "46.3% OFF",
+        "R$ 1250.0 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613Vrz+GcaL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784417123.48503
     },
@@ -501,6 +511,23 @@
       "discovery_ts": 1784417123.48503
     },
     {
+      "asin": "B093M7RFL5",
+      "title": "LAVA-LOUCAS MIDEA 14 SERVICOS BRANCA 127V",
+      "link": "https://www.amazon.com.br/LAVA-LOUCAS-MIDEA-SERVICOS-BRANCA-127V/dp/B093M7RFL5",
+      "current_price": "2689.0",
+      "original_price": "2999.0",
+      "discount": 10.3,
+      "difference": 310.0,
+      "criteria": [
+        "R$ 310.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Nf-2jk1eS._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784419934.633826
+    },
+    {
       "asin": "B07S8BMFPD",
       "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
       "link": "https://www.amazon.com.br/Antipulgas-Carrapatos-Nexgard-para-C%C3%A3es/dp/B07S8BMFPD",
@@ -516,23 +543,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784451384.878312
-    },
-    {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0918FHY6P",
