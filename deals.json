@@ -1,5 +1,5 @@
 {
-  "last_check": "19/07/2026 08:56:24",
+  "last_check": "19/07/2026 10:25:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -274,9 +274,53 @@
           "date": "2026-07-19T08:56:24.878312"
         }
       ]
+    },
+    "B07NDM6C36": {
+      "discovery_date": "2026-07-19T10:25:28.176841",
+      "price_history": [
+        {
+          "price": "64.9",
+          "date": "2026-07-19T10:25:28.176841"
+        }
+      ]
+    },
+    "B076HYZQMW": {
+      "discovery_date": "2026-07-19T10:25:28.176841",
+      "price_history": [
+        {
+          "price": "50.0",
+          "date": "2026-07-19T10:25:28.176841"
+        }
+      ]
+    },
+    "B0CSPRNRZC": {
+      "discovery_date": "2026-07-19T10:25:28.176841",
+      "price_history": [
+        {
+          "price": "999.0",
+          "date": "2026-07-19T10:25:28.176841"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CSPRNRZC",
+      "title": "MSI GeForce RTX 3050 LP 6G OC (6GB GDDR6/PCI Express 4.0/1492MHz/14000MHz/Perfil baixo)",
+      "link": "https://www.amazon.com.br/MSI-GeForce-Express-1492MHz-14000MHz/dp/B0CSPRNRZC",
+      "current_price": "999.0",
+      "original_price": "1641.57",
+      "discount": 39.1,
+      "difference": 642.57,
+      "criteria": [
+        "R$ 642.57 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z9DLS29FL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784456728.176841
+    },
     {
       "asin": "B07S8BMFPD",
       "title": "NexGard Antipulgas e Carrapatos para Cães de 10.1 a 25kg - 3 tabletes",
@@ -295,21 +339,38 @@
       "discovery_ts": 1784451384.878312
     },
     {
-      "asin": "B0D4NRBBMR",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
-      "current_price": "3998.98",
-      "original_price": "5799.0",
-      "discount": 31.0,
-      "difference": 1800.02,
+      "asin": "B07NDM6C36",
+      "title": "Camiseta Zico Retro BrazilineMasculino",
+      "link": "https://www.amazon.com.br/Braziline-Camisa-Flamengo-Zico-Retr%C3%B4/dp/B07NDM6C36",
+      "current_price": "64.9",
+      "original_price": "119.9",
+      "discount": 45.9,
+      "difference": 55.0,
       "criteria": [
-        "R$ 1800.02 desc."
+        "45.9% OFF"
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519UpDdknpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784456728.176841
+    },
+    {
+      "asin": "B076HYZQMW",
+      "title": "ELG, PWC-R5, PowerCube, Multiplicador 5 Tomadas, Disjuntor Integrado de 10A, Filtro de Linha com Protetor de Surto, Bivolt, Branco e Verde",
+      "link": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW",
+      "current_price": "50.0",
+      "original_price": "91.0",
+      "discount": 45.1,
+      "difference": 41.0,
+      "criteria": [
+        "45.1% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CsZOBHOoL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784456728.176841
     },
     {
       "asin": "B0D4NSS9XV",
@@ -329,56 +390,22 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0DYVNRG3B",
-      "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
-      "current_price": "1449.0",
-      "original_price": "2699.0",
-      "discount": 46.3,
-      "difference": 1250.0,
+      "asin": "B08ZFKB8ZK",
+      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
+      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
+      "current_price": "453.89",
+      "original_price": "879.0",
+      "discount": 48.4,
+      "difference": 425.11,
       "criteria": [
-        "46.3% OFF",
-        "R$ 1250.0 desc."
+        "48.4% OFF",
+        "R$ 425.11 desc."
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613Vrz+GcaL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0H4HYLQ71",
-      "title": "Notebook Gamer Lenovo Loq 15irx9, 15.6\" Full Hd 144hz, Intel Core I5-13450hx, 16gb, 512gb Ssd, Nvidia Rtx 4050, Linux - 83khs00300",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-15irx9-I5-13450hx-Nvidia/dp/B0H4HYLQ71",
-      "current_price": "5899.0",
-      "original_price": "6555.54",
-      "discount": 10.0,
-      "difference": 656.54,
-      "criteria": [
-        "R$ 656.54 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+CippnCvL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B088WCR8M3",
-      "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
-      "link": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3",
-      "current_price": "186.99",
-      "original_price": "379.0",
-      "discount": 50.7,
-      "difference": 192.01,
-      "criteria": [
-        "50.7% OFF"
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hLsRGbFXL._AC_UL210_SR210,210_.jpg",
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
       "category": "💧 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784442690.455916
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B07Y3B33KG",
