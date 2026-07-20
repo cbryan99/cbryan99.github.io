@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 16:21:20",
+  "last_check": "20/07/2026 18:27:32",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -682,9 +682,87 @@
           "date": "2026-07-20T16:21:20.506233"
         }
       ]
+    },
+    "B081DJZRC9": {
+      "discovery_date": "2026-07-20T18:27:32.683130",
+      "price_history": [
+        {
+          "price": "7394.2",
+          "date": "2026-07-20T18:27:32.683130"
+        }
+      ]
+    },
+    "B0DX2M9CGP": {
+      "discovery_date": "2026-07-20T18:27:32.683130",
+      "price_history": [
+        {
+          "price": "3243.33",
+          "date": "2026-07-20T18:27:32.683130"
+        }
+      ]
+    },
+    "B000CNKITS": {
+      "discovery_date": "2026-07-20T18:27:32.683130",
+      "price_history": [
+        {
+          "price": "154.99",
+          "date": "2026-07-20T18:27:32.683130"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B081DJZRC9",
+      "title": "Ar Condicionado Split Cassete Gree G-Prime Compact Inverter 36000 BTU/h Frio Monofásico GULD36T1/A-S – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Gree-Inverter-Monof%C3%A1sico-GULD36T1/dp/B081DJZRC9",
+      "current_price": "7394.2",
+      "original_price": "9855.0",
+      "discount": 25.0,
+      "difference": 2460.8,
+      "criteria": [
+        "R$ 2460.8 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513zoogzzGL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784572052.68313
+    },
+    {
+      "asin": "B0DX2M9CGP",
+      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
+      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
+      "current_price": "3243.33",
+      "original_price": "3623.75",
+      "discount": 10.5,
+      "difference": 380.42,
+      "criteria": [
+        "R$ 380.42 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784572052.68313
+    },
+    {
+      "asin": "B000CNKITS",
+      "title": "Azzaro Pour Homme Perfume Masculino Eau de Toilette",
+      "link": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS",
+      "current_price": "154.99",
+      "original_price": "299.0",
+      "discount": 48.2,
+      "difference": 144.01,
+      "criteria": [
+        "48.2% OFF"
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xKlHoVKhL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1784572052.68313
+    },
     {
       "asin": "B099P1DB5N",
       "title": "Roland TD-07DMK Electronic V-Drums Legendary Double Ply All Mesh Head Kit com expressão e capacidade de reprodução superiores – Áudio Bluetooth e MIDI – 40 aulas de melódicos gratuitas, preto",
@@ -699,92 +777,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Xe6OxND6L._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0CPFBBHP4",
-      "title": "eufy X10 Pro Omni Robô Aspirador da Anker, Estação Completa, Até 68 Dias Sem Manutenção, Lava e Seca com Ar Quente a 45°C, Esvazia Pó e Repõe Água, IA e Laser, Antiembaraço, para Pets, 220V",
-      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
-      "current_price": "4899.0",
-      "original_price": "5999.0",
-      "discount": 18.3,
-      "difference": 1100.0,
-      "criteria": [
-        "R$ 1100.0 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0GJG1WY2F",
-      "title": "Freezer Horizontal 198L Inverter Bivolt Branco Midea",
-      "link": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0GJG1WY2F",
-      "current_price": "1702.89",
-      "original_price": "2249.0",
-      "discount": 24.3,
-      "difference": 546.11,
-      "criteria": [
-        "R$ 546.11 desc."
-      ],
-      "badge": "",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Lgqz+DcqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.16",
-      "discount": 11.3,
-      "difference": 331.52,
-      "criteria": [
-        "R$ 331.52 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B091BK1VWD",
-      "title": "Sofá 3 Lugares Retrátil e Reclinável Cama Inbox Compact 1,80m Velusoft Cinza",
-      "link": "https://www.amazon.com.br/Lugares-Retr%C3%A1til-Reclin%C3%A1vel-Compact-Velusoft/dp/B091BK1VWD",
-      "current_price": "999.0",
-      "original_price": "1299.0",
-      "discount": 23.1,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61rk8yHsdbL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0GHSGN613",
-      "title": "Tênis Mizuno Calçado Mizuno Space 6 adulto-unissex",
-      "link": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Azul-Tamanho/dp/B0GHSGN613",
-      "current_price": "224.99",
-      "original_price": "379.99",
-      "discount": 40.8,
-      "difference": 155.0,
-      "criteria": [
-        "40.8% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61bfecTnOzL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1784564480.506233
     },
     {
@@ -806,6 +799,23 @@
       "discovery_ts": 1784417123.48503
     },
     {
+      "asin": "B0CPFBBHP4",
+      "title": "eufy X10 Pro Omni Robô Aspirador da Anker, Estação Completa, Até 68 Dias Sem Manutenção, Lava e Seca com Ar Quente a 45°C, Esvazia Pó e Repõe Água, IA e Laser, Antiembaraço, para Pets, 220V",
+      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
+      "current_price": "4899.0",
+      "original_price": "5999.0",
+      "discount": 18.3,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784564480.506233
+    },
+    {
       "asin": "B0D9YQNT3Y",
       "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YQNT3Y",
@@ -823,39 +833,56 @@
       "discovery_ts": 1784473933.589445
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
+      "asin": "B0GNCJSWF5",
+      "title": "MONDIAL, Cafeteira Espresso Automática Dolce Latte 20 bar, Preto/Inox 1250W, 110V - CCL-01",
+      "link": "https://www.amazon.com.br/MONDIAL-Cafeteira-Espresso-Autom%C3%A1tica-Dolce/dp/B0GNCJSWF5",
+      "current_price": "899.0",
+      "original_price": "1546.9",
+      "discount": 41.9,
+      "difference": 647.9,
       "criteria": [
-        "R$ 670.02 desc."
+        "41.9% OFF",
+        "R$ 647.9 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784464310.552537
+      "discovery_ts": 1784559188.206797
     },
     {
-      "asin": "B08ZFKB8ZK",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
-      "current_price": "453.89",
-      "original_price": "879.0",
-      "discount": 48.4,
-      "difference": 425.11,
+      "asin": "B0GND7R7Z8",
+      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 24.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-24-000/dp/B0GND7R7Z8",
+      "current_price": "3899.0",
+      "original_price": "4299.0",
+      "discount": 9.3,
+      "difference": 400.0,
       "criteria": [
-        "48.4% OFF",
-        "R$ 425.11 desc."
+        "R$ 400.0 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XtHBetEOL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784473933.589445
+    },
+    {
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.16",
+      "discount": 11.3,
+      "difference": 331.52,
+      "criteria": [
+        "R$ 331.52 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784564480.506233
     },
     {
       "asin": "B0F7J2KKFW",
@@ -873,6 +900,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
+      "criteria": [
+        "54.2% OFF"
+      ],
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0918FHY6P",
@@ -909,23 +953,6 @@
       "discovery_ts": 1784433482.515947
     },
     {
-      "asin": "B0713TJNJ5",
-      "title": "Máscara Reconstrutora Expertise Complete Repair Amend 300g",
-      "link": "https://www.amazon.com.br/Reconstrutora-Intensiva-Complete-Repair-Amend/dp/B0713TJNJ5",
-      "current_price": "25.39",
-      "original_price": "69.9",
-      "discount": 63.7,
-      "difference": 44.51,
-      "criteria": [
-        "63.7% OFF"
-      ],
-      "badge": "63% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/411GPwWxO9L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784543605.650005
-    },
-    {
       "asin": "B07MLQ34YP",
       "title": "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
       "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Frescor-Primavera/dp/B07MLQ34YP",
@@ -941,40 +968,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0CJLDWS2J",
-      "title": "Ápice Creme de Pentear África Baobá | Hidratação, Definição e Proteção Térmica para Cabelos Cacheados, Crespos e Ondulados | 500g",
-      "link": "https://www.amazon.com.br/Hidrata%C3%A7%C3%A3o-Defini%C3%A7%C3%A3o-Prote%C3%A7%C3%A3o-Cacheados-Ondulados/dp/B0CJLDWS2J",
-      "current_price": "28.49",
-      "original_price": "54.5",
-      "discount": 47.7,
-      "difference": 26.01,
-      "criteria": [
-        "47.7% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/7102phwGKcL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
-      "is_new": false,
-      "discovery_ts": 1784550984.978286
     }
   ]
 }
