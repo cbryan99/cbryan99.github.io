@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 04:47:21",
+  "last_check": "20/07/2026 07:47:09",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -494,76 +494,112 @@
           "date": "2026-07-20T04:47:21.687335"
         }
       ]
+    },
+    "B097C3MKSH": {
+      "discovery_date": "2026-07-20T07:47:09.534156",
+      "price_history": [
+        {
+          "price": "44.99",
+          "date": "2026-07-20T07:47:09.534156"
+        }
+      ]
+    },
+    "B0DPGHBLMY": {
+      "discovery_date": "2026-07-20T07:47:09.534156",
+      "price_history": [
+        {
+          "price": "15.29",
+          "date": "2026-07-20T07:47:09.534156"
+        }
+      ]
+    },
+    "B0719S9TPB": {
+      "discovery_date": "2026-07-20T07:47:09.534156",
+      "price_history": [
+        {
+          "price": "328.99",
+          "date": "2026-07-20T07:47:09.534156"
+        }
+      ]
+    },
+    "B08T68T1T6": {
+      "discovery_date": "2026-07-20T07:47:09.534156",
+      "price_history": [
+        {
+          "price": "79.0",
+          "date": "2026-07-20T07:47:09.534156"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FVMNQPNB",
-      "title": "Samsung Ar-condicionado Split Digital Inverter Ultra Connect AI 24.000 BTUs Frio AR50F24D1AHNAZ Branco",
-      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Digital-Inverter-AR50F24D1AHNAZ/dp/B0FVMNQPNB",
-      "current_price": "3699.0",
-      "original_price": "4110.0",
-      "discount": 10.0,
-      "difference": 411.0,
+      "asin": "B0719S9TPB",
+      "title": "Armani Beauty, Stronger With You Eau de Toilette, Giorgio Armani Perfume Masculino, Fragrância Fougère Amadeirada com Notas Sálvia, Castanha, Baunilha e Lavanda",
+      "link": "https://www.amazon.com.br/Armani-Beauty-Masculino-Fragr%C3%A2ncia-Amadeirada/dp/B0719S9TPB",
+      "current_price": "328.99",
+      "original_price": "549.0",
+      "discount": 40.1,
+      "difference": 220.01,
       "criteria": [
-        "R$ 411.0 desc."
+        "40.1% OFF"
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31QfgukQeTL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71eKjHBuTVL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
       "is_new": true,
-      "discovery_ts": 1784515877.212874
+      "discovery_ts": 1784533629.534156
     },
     {
-      "asin": "B0F7J2KKFW",
-      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
-      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
-      "current_price": "235.98",
-      "original_price": "406.25",
-      "discount": 41.9,
-      "difference": 170.27,
+      "asin": "B08T68T1T6",
+      "title": "Mouse Gamer Redragon Predator RGB M612-RGB, Preto",
+      "link": "https://www.amazon.com.br/Mouse-Gamer-Predator-Redragon-M612/dp/B08T68T1T6",
+      "current_price": "79.0",
+      "original_price": "159.0",
+      "discount": 50.3,
+      "difference": 80.0,
       "criteria": [
-        "41.9% OFF"
+        "50.3% OFF"
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51AVGfhKbOL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784533629.534156
     },
     {
-      "asin": "B09GSQMVJS",
-      "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
-      "current_price": "67.4",
-      "original_price": "116.9",
-      "discount": 42.3,
-      "difference": 49.5,
+      "asin": "B097C3MKSH",
+      "title": "Cobertor Casal Manta Microfibra Fleece 01 Peça Caqui",
+      "link": "https://www.amazon.com.br/Cobertor-Casal-Manta-Microfibra-Fleece/dp/B097C3MKSH",
+      "current_price": "44.99",
+      "original_price": "97.0",
+      "discount": 53.6,
+      "difference": 52.01,
       "criteria": [
-        "42.3% OFF"
+        "53.6% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TvgvfNA9L._AC_UL210_SR210,210_.jpg",
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51t10hmx5mS._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784533629.534156
     },
     {
-      "asin": "B07MLQ34YP",
-      "title": "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
-      "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Frescor-Primavera/dp/B07MLQ34YP",
-      "current_price": "39.98",
-      "original_price": "71.82",
-      "discount": 44.3,
-      "difference": 31.84,
+      "asin": "B0DPGHBLMY",
+      "title": "Colgate Creme dental Sensitive Pro Alívio Imediato Xtreme 3x90g",
+      "link": "https://www.amazon.com.br/dental-Sensitive-Al%C3%ADvio-Imediato-Xtreme/dp/B0DPGHBLMY",
+      "current_price": "15.29",
+      "original_price": "33.22",
+      "discount": 54.0,
+      "difference": 17.93,
       "criteria": [
-        "44.3% OFF"
+        "54.0% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6128SQWxddL._AC_UL210_SR210,210_.jpg",
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714O0BAOA+L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784533629.534156
     },
     {
       "asin": "B0DM6VH5KF",
@@ -584,37 +620,36 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0D9YQNT3Y",
-      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YQNT3Y",
-      "current_price": "2719.15",
-      "original_price": "3577.89",
-      "discount": 24.0,
-      "difference": 858.74,
+      "asin": "B08DHW4CT9",
+      "title": "My Way Giorgio Armani - Perfume Feminino - EDP",
+      "link": "https://www.amazon.com.br/Refil%C3%A1vel-Amadeirado-Fragr%C3%A2ncia-Bergamota-Laranjeira/dp/B08DHW4CT9",
+      "current_price": "302.99",
+      "original_price": "569.0",
+      "discount": 46.8,
+      "difference": 266.01,
       "criteria": [
-        "R$ 858.74 desc."
+        "46.8% OFF"
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Hw5cBatiL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rNxZ4QCrL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784473933.589445
+      "discovery_ts": 1784460916.651402
     },
     {
-      "asin": "B08ZFKB8ZK",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
-      "current_price": "453.89",
-      "original_price": "879.0",
-      "discount": 48.4,
-      "difference": 425.11,
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
       "criteria": [
-        "48.4% OFF",
-        "R$ 425.11 desc."
+        "54.2% OFF"
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
       "discovery_ts": 1784417123.48503
     },
@@ -636,21 +671,21 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
+      "asin": "B07MLQ34YP",
+      "title": "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
+      "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Frescor-Primavera/dp/B07MLQ34YP",
+      "current_price": "39.98",
+      "original_price": "71.82",
+      "discount": 44.3,
+      "difference": 31.84,
       "criteria": [
-        "51.2% OFF"
+        "44.3% OFF"
       ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6128SQWxddL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784433482.515947
+      "discovery_ts": 1784522841.687335
     },
     {
       "asin": "B0DKVJ1HWB",
