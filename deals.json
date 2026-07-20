@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 20:06:47",
+  "last_check": "20/07/2026 21:20:14",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -736,6 +736,15 @@
           "date": "2026-07-20T20:06:47.009292"
         }
       ]
+    },
+    "B09V83L8G8": {
+      "discovery_date": "2026-07-20T21:20:14.204060",
+      "price_history": [
+        {
+          "price": "99.79",
+          "date": "2026-07-20T21:20:14.204060"
+        }
+      ]
     }
   },
   "data": [
@@ -752,23 +761,6 @@
       ],
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51M+TLOyOJL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": true,
-      "discovery_ts": 1784578007.009292
-    },
-    {
-      "asin": "B0GFX14YD9",
-      "title": "Ar­Condicionado Philco Portátil 10000BTUs Frio PAC10FN 127v",
-      "link": "https://www.amazon.com.br/Ar%C2%ADCondicionado-Philco-Port%C3%A1til-10000BTUs-PAC10FN/dp/B0GFX14YD9",
-      "current_price": "1899.99",
-      "original_price": "2291.16",
-      "discount": 17.1,
-      "difference": 391.17,
-      "criteria": [
-        "R$ 391.17 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/519wu29AyYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos",
       "is_new": true,
       "discovery_ts": 1784578007.009292
@@ -791,6 +783,23 @@
       "discovery_ts": 1784578007.009292
     },
     {
+      "asin": "B09V83L8G8",
+      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
+      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
+      "current_price": "99.79",
+      "original_price": "182.27",
+      "discount": 45.3,
+      "difference": 82.48,
+      "criteria": [
+        "45.3% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784582414.20406
+    },
+    {
       "asin": "B0DM6VH5KF",
       "title": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
       "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR12DYFAAWKNAZ/dp/B0DM6VH5KF",
@@ -805,6 +814,24 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61SqDV4ba2L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0DYVNRG3B",
+      "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
+      "current_price": "1449.0",
+      "original_price": "2699.0",
+      "discount": 46.3,
+      "difference": 1250.0,
+      "criteria": [
+        "46.3% OFF",
+        "R$ 1250.0 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613Vrz+GcaL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784417123.48503
     },
@@ -824,23 +851,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784473933.589445
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
-      "criteria": [
-        "R$ 670.02 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784464310.552537
     },
     {
       "asin": "B0GNCJSWF5",
@@ -878,6 +888,40 @@
       "discovery_ts": 1784473933.589445
     },
     {
+      "asin": "B0DX2M9CGP",
+      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
+      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
+      "current_price": "3243.33",
+      "original_price": "3623.75",
+      "discount": 10.5,
+      "difference": 380.42,
+      "criteria": [
+        "R$ 380.42 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784572052.68313
+    },
+    {
+      "asin": "B0DYKWFDV2",
+      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
+      "current_price": "3059.99",
+      "original_price": "3437.78",
+      "discount": 11.0,
+      "difference": 377.79,
+      "criteria": [
+        "R$ 377.79 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784499817.953621
+    },
+    {
       "asin": "B0F7J2KKFW",
       "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
       "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
@@ -893,23 +937,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "B0918FHY6P",
-      "title": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P",
-      "current_price": "123.39",
-      "original_price": "247.9",
-      "discount": 50.2,
-      "difference": 124.51,
-      "criteria": [
-        "50.2% OFF"
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61wfwHNv-NL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0GHP4NL1J",
