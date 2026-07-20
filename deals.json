@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 12:36:24",
+  "last_check": "20/07/2026 14:53:08",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -55,6 +55,10 @@
         {
           "price": "102.0",
           "date": "2026-07-20T12:36:24.978286"
+        },
+        {
+          "price": "123.39",
+          "date": "2026-07-20T14:53:08.206797"
         }
       ]
     },
@@ -597,31 +601,58 @@
           "date": "2026-07-20T12:36:24.978286"
         }
       ]
+    },
+    "B0GNCJSWF5": {
+      "discovery_date": "2026-07-20T14:53:08.206797",
+      "price_history": [
+        {
+          "price": "899.0",
+          "date": "2026-07-20T14:53:08.206797"
+        }
+      ]
+    },
+    "B07JFTS6BS": {
+      "discovery_date": "2026-07-20T14:53:08.206797",
+      "price_history": [
+        {
+          "price": "119.9",
+          "date": "2026-07-20T14:53:08.206797"
+        }
+      ]
+    },
+    "B0GHS7QRB5": {
+      "discovery_date": "2026-07-20T14:53:08.206797",
+      "price_history": [
+        {
+          "price": "224.99",
+          "date": "2026-07-20T14:53:08.206797"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FFVCKCW5",
-      "title": "Tênis Mizuno Calçado Mizuno Neo Vortex adulto-unissex",
-      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B0FFVCKCW5",
-      "current_price": "339.99",
-      "original_price": "699.99",
-      "discount": 51.4,
-      "difference": 360.0,
+      "asin": "B0GNCJSWF5",
+      "title": "MONDIAL, Cafeteira Espresso Automática Dolce Latte 20 bar, Preto/Inox 1250W, 110V - CCL-01",
+      "link": "https://www.amazon.com.br/MONDIAL-Cafeteira-Espresso-Autom%C3%A1tica-Dolce/dp/B0GNCJSWF5",
+      "current_price": "899.0",
+      "original_price": "1546.9",
+      "discount": 41.9,
+      "difference": 647.9,
       "criteria": [
-        "51.4% OFF",
-        "R$ 360.0 desc."
+        "41.9% OFF",
+        "R$ 647.9 desc."
       ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oileqD-IL._AC_UL210_SR210,210_.jpg",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784550984.978286
+      "discovery_ts": 1784559188.206797
     },
     {
-      "asin": "B0GHSDKF8N",
+      "asin": "B0GHS7QRB5",
       "title": "Tênis Mizuno Calçado Mizuno Space 6 adulto-unissex",
-      "link": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Preto-Tamanho/dp/B0GHSDKF8N",
+      "link": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Space-Branco-Tamanho/dp/B0GHS7QRB5",
       "current_price": "224.99",
       "original_price": "379.99",
       "discount": 40.8,
@@ -630,61 +661,27 @@
         "40.8% OFF"
       ],
       "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UBiV5I+KL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61R0t2jEQaL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784550984.978286
+      "discovery_ts": 1784559188.206797
     },
     {
-      "asin": "B08GBB1Q51",
-      "title": "Melano CC® Lotion Moist - Loção Hidratante com Vitamina C pura pra controle de oleosidade e uniformização da pele 170ml",
-      "link": "https://www.amazon.com.br/Lo%C3%A7%C3%A3o-Hidratante-Lotion-Moist-Melano/dp/B08GBB1Q51",
-      "current_price": "48.69",
-      "original_price": "145.0",
-      "discount": 66.4,
-      "difference": 96.31,
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
       "criteria": [
-        "66.4% OFF"
+        "40.0% OFF"
       ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51sDpUxke7L._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784550984.978286
-    },
-    {
-      "asin": "B077BY915Y",
-      "title": "Máscara Matizadora Specialist Blonde Amend 300g",
-      "link": "https://www.amazon.com.br/M%C3%A1scara-Matizadora-Specialist-Blonde-Amend/dp/B077BY915Y",
-      "current_price": "29.29",
-      "original_price": "69.9",
-      "discount": 58.1,
-      "difference": 40.61,
-      "criteria": [
-        "58.1% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51RMP-9e4fL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": true,
-      "discovery_ts": 1784550984.978286
-    },
-    {
-      "asin": "B0CJLDWS2J",
-      "title": "Ápice Creme de Pentear África Baobá | Hidratação, Definição e Proteção Térmica para Cabelos Cacheados, Crespos e Ondulados | 500g",
-      "link": "https://www.amazon.com.br/Hidrata%C3%A7%C3%A3o-Defini%C3%A7%C3%A3o-Prote%C3%A7%C3%A3o-Cacheados-Ondulados/dp/B0CJLDWS2J",
-      "current_price": "28.49",
-      "original_price": "54.5",
-      "discount": 47.7,
-      "difference": 26.01,
-      "criteria": [
-        "47.7% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/7102phwGKcL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
-      "is_new": true,
-      "discovery_ts": 1784550984.978286
+      "discovery_ts": 1784559188.206797
     },
     {
       "asin": "B0DM6VH5KF",
@@ -722,21 +719,39 @@
       "discovery_ts": 1784473933.589445
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
+      "asin": "B0FKD1SFPC",
+      "title": "Samsung Vision AI TV 43\" NEO QLED ULTRA 4K QN90F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC",
+      "current_price": "3999.0",
+      "original_price": "4499.0",
+      "discount": 11.1,
+      "difference": 500.0,
       "criteria": [
-        "R$ 670.02 desc."
+        "R$ 500.0 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fT1Y28bkL._AC_UL210_SR210,210_.jpg",
       "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784464310.552537
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B08ZFKB8ZK",
+      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
+      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
+      "current_price": "453.89",
+      "original_price": "879.0",
+      "discount": 48.4,
+      "difference": 425.11,
+      "criteria": [
+        "48.4% OFF",
+        "R$ 425.11 desc."
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0F7J2KKFW",
@@ -759,14 +774,14 @@
       "asin": "B0918FHY6P",
       "title": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
       "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P",
-      "current_price": "102.0",
+      "current_price": "123.39",
       "original_price": "247.9",
-      "discount": 58.9,
-      "difference": 145.9,
+      "discount": 50.2,
+      "difference": 124.51,
       "criteria": [
-        "58.9% OFF"
+        "50.2% OFF"
       ],
-      "badge": "",
+      "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61wfwHNv-NL._AC_UL210_SR210,210_.jpg",
       "category": "✂️ Autocuidado",
       "is_new": false,
@@ -839,6 +854,23 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0CJLDWS2J",
+      "title": "Ápice Creme de Pentear África Baobá | Hidratação, Definição e Proteção Térmica para Cabelos Cacheados, Crespos e Ondulados | 500g",
+      "link": "https://www.amazon.com.br/Hidrata%C3%A7%C3%A3o-Defini%C3%A7%C3%A3o-Prote%C3%A7%C3%A3o-Cacheados-Ondulados/dp/B0CJLDWS2J",
+      "current_price": "28.49",
+      "original_price": "54.5",
+      "discount": 47.7,
+      "difference": 26.01,
+      "criteria": [
+        "47.7% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/7102phwGKcL._AC_UL210_SR210,210_.jpg",
+      "category": "✂️ Autocuidado",
+      "is_new": false,
+      "discovery_ts": 1784550984.978286
     }
   ]
 }
