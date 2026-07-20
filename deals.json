@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 07:47:09",
+  "last_check": "20/07/2026 10:33:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -530,111 +530,77 @@
           "date": "2026-07-20T07:47:09.534156"
         }
       ]
+    },
+    "B0FPN7WWF8": {
+      "discovery_date": "2026-07-20T10:33:25.650005",
+      "price_history": [
+        {
+          "price": "22.27",
+          "date": "2026-07-20T10:33:25.650005"
+        }
+      ]
+    },
+    "B0713TJNJ5": {
+      "discovery_date": "2026-07-20T10:33:25.650005",
+      "price_history": [
+        {
+          "price": "25.39",
+          "date": "2026-07-20T10:33:25.650005"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0719S9TPB",
-      "title": "Armani Beauty, Stronger With You Eau de Toilette, Giorgio Armani Perfume Masculino, Fragrância Fougère Amadeirada com Notas Sálvia, Castanha, Baunilha e Lavanda",
-      "link": "https://www.amazon.com.br/Armani-Beauty-Masculino-Fragr%C3%A2ncia-Amadeirada/dp/B0719S9TPB",
-      "current_price": "328.99",
-      "original_price": "549.0",
-      "discount": 40.1,
-      "difference": 220.01,
+      "asin": "B0713TJNJ5",
+      "title": "Máscara Reconstrutora Expertise Complete Repair Amend 300g",
+      "link": "https://www.amazon.com.br/Reconstrutora-Intensiva-Complete-Repair-Amend/dp/B0713TJNJ5",
+      "current_price": "25.39",
+      "original_price": "69.9",
+      "discount": 63.7,
+      "difference": 44.51,
       "criteria": [
-        "40.1% OFF"
+        "63.7% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71eKjHBuTVL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "63% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/411GPwWxO9L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
       "is_new": true,
-      "discovery_ts": 1784533629.534156
+      "discovery_ts": 1784543605.650005
     },
     {
-      "asin": "B08T68T1T6",
-      "title": "Mouse Gamer Redragon Predator RGB M612-RGB, Preto",
-      "link": "https://www.amazon.com.br/Mouse-Gamer-Predator-Redragon-M612/dp/B08T68T1T6",
-      "current_price": "79.0",
-      "original_price": "159.0",
-      "discount": 50.3,
-      "difference": 80.0,
+      "asin": "B0FPN7WWF8",
+      "title": "Colgate Creme Dental Total Original Mint 2x180g | Prevenção Ativa, Anticárie com Flúor, Combate o Mau Hálito",
+      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
+      "current_price": "22.27",
+      "original_price": "38.45",
+      "discount": 42.1,
+      "difference": 16.18,
       "criteria": [
-        "50.3% OFF"
+        "42.1% OFF"
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51AVGfhKbOL._AC_UL210_SR210,210_.jpg",
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784533629.534156
+      "discovery_ts": 1784543605.650005
     },
     {
-      "asin": "B097C3MKSH",
-      "title": "Cobertor Casal Manta Microfibra Fleece 01 Peça Caqui",
-      "link": "https://www.amazon.com.br/Cobertor-Casal-Manta-Microfibra-Fleece/dp/B097C3MKSH",
-      "current_price": "44.99",
-      "original_price": "97.0",
-      "discount": 53.6,
-      "difference": 52.01,
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
       "criteria": [
-        "53.6% OFF"
+        "41.9% OFF"
       ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51t10hmx5mS._AC_UL210_SR210,210_.jpg",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
-      "discovery_ts": 1784533629.534156
-    },
-    {
-      "asin": "B0DPGHBLMY",
-      "title": "Colgate Creme dental Sensitive Pro Alívio Imediato Xtreme 3x90g",
-      "link": "https://www.amazon.com.br/dental-Sensitive-Al%C3%ADvio-Imediato-Xtreme/dp/B0DPGHBLMY",
-      "current_price": "15.29",
-      "original_price": "33.22",
-      "discount": 54.0,
-      "difference": 17.93,
-      "criteria": [
-        "54.0% OFF"
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/714O0BAOA+L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784533629.534156
-    },
-    {
-      "asin": "B0DM6VH5KF",
-      "title": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
-      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR12DYFAAWKNAZ/dp/B0DM6VH5KF",
-      "current_price": "2199.0",
-      "original_price": "3929.31",
-      "discount": 44.0,
-      "difference": 1730.31,
-      "criteria": [
-        "44.0% OFF",
-        "R$ 1730.31 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61SqDV4ba2L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B08DHW4CT9",
-      "title": "My Way Giorgio Armani - Perfume Feminino - EDP",
-      "link": "https://www.amazon.com.br/Refil%C3%A1vel-Amadeirado-Fragr%C3%A2ncia-Bergamota-Laranjeira/dp/B08DHW4CT9",
-      "current_price": "302.99",
-      "original_price": "569.0",
-      "discount": 46.8,
-      "difference": 266.01,
-      "criteria": [
-        "46.8% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61rNxZ4QCrL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784460916.651402
+      "discovery_ts": 1784522841.687335
     },
     {
       "asin": "B07Y3B33KG",
@@ -671,6 +637,23 @@
       "discovery_ts": 1784417123.48503
     },
     {
+      "asin": "B097C3MKSH",
+      "title": "Cobertor Casal Manta Microfibra Fleece 01 Peça Caqui",
+      "link": "https://www.amazon.com.br/Cobertor-Casal-Manta-Microfibra-Fleece/dp/B097C3MKSH",
+      "current_price": "44.99",
+      "original_price": "97.0",
+      "discount": 53.6,
+      "difference": 52.01,
+      "criteria": [
+        "53.6% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51t10hmx5mS._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784533629.534156
+    },
+    {
       "asin": "B07MLQ34YP",
       "title": "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
       "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Frescor-Primavera/dp/B07MLQ34YP",
@@ -703,6 +686,23 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0DPGHBLMY",
+      "title": "Colgate Creme dental Sensitive Pro Alívio Imediato Xtreme 3x90g",
+      "link": "https://www.amazon.com.br/dental-Sensitive-Al%C3%ADvio-Imediato-Xtreme/dp/B0DPGHBLMY",
+      "current_price": "15.29",
+      "original_price": "33.22",
+      "discount": 54.0,
+      "difference": 17.93,
+      "criteria": [
+        "54.0% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/714O0BAOA+L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784533629.534156
     }
   ]
 }
