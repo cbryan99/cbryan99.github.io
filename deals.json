@@ -1,5 +1,5 @@
 {
-  "last_check": "20/07/2026 23:32:46",
+  "last_check": "21/07/2026 01:03:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -745,9 +745,139 @@
           "date": "2026-07-20T21:20:14.204060"
         }
       ]
+    },
+    "B0F6GGBRYR": {
+      "discovery_date": "2026-07-21T01:03:25.500833",
+      "price_history": [
+        {
+          "price": "5799.0",
+          "date": "2026-07-21T01:03:25.500833"
+        }
+      ]
+    },
+    "B0CD1JTBSC": {
+      "discovery_date": "2026-07-21T01:03:25.500833",
+      "price_history": [
+        {
+          "price": "4067.0",
+          "date": "2026-07-21T01:03:25.500833"
+        }
+      ]
+    },
+    "B0B8Z8LHKX": {
+      "discovery_date": "2026-07-21T01:03:25.500833",
+      "price_history": [
+        {
+          "price": "6999.0",
+          "date": "2026-07-21T01:03:25.500833"
+        }
+      ]
+    },
+    "B0GM21RWWM": {
+      "discovery_date": "2026-07-21T01:03:25.500833",
+      "price_history": [
+        {
+          "price": "2499.0",
+          "date": "2026-07-21T01:03:25.500833"
+        }
+      ]
+    },
+    "B0C8BVGCSM": {
+      "discovery_date": "2026-07-21T01:03:25.500833",
+      "price_history": [
+        {
+          "price": "144.99",
+          "date": "2026-07-21T01:03:25.500833"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0F6GGBRYR",
+      "title": "ASUS TUF Gaming F16 Intel Core 5, RTX 4050, 8 GB, 512 GB SSD, KeepOS,16.0'' FHD, Mecha Gray - FX607VU-RL054",
+      "link": "https://www.amazon.com.br/ASUS-Gaming-Intel-KeepOS-Mecha/dp/B0F6GGBRYR",
+      "current_price": "5799.0",
+      "original_price": "7499.0",
+      "discount": 22.7,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": true,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": "6999.0",
+      "original_price": "7999.0",
+      "discount": 12.5,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": true,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0CD1JTBSC",
+      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
+      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
+      "current_price": "4067.0",
+      "original_price": "4490.0",
+      "discount": 9.4,
+      "difference": 423.0,
+      "criteria": [
+        "R$ 423.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0GM21RWWM",
+      "title": "Samsung Ar-condicionado Inverter WindFree AI Pro 12000 BTU QF 220V",
+      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-12000/dp/B0GM21RWWM",
+      "current_price": "2499.0",
+      "original_price": "2899.0",
+      "discount": 13.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Syumu+kTL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0C8BVGCSM",
+      "title": "MONDIAL Escova Secadora By Juliette, Azul/Rosa, Bivolt - ES-JU-03",
+      "link": "https://www.amazon.com.br/Escova-Secadora-Juliette-Mondial-Bivolt/dp/B0C8BVGCSM",
+      "current_price": "144.99",
+      "original_price": "289.9",
+      "discount": 50.0,
+      "difference": 144.91,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81WL+4KtYHL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784595805.500833
+    },
     {
       "asin": "B0DM6VH5KF",
       "title": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
@@ -802,6 +932,23 @@
       "discovery_ts": 1784473933.589445
     },
     {
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
+    },
+    {
       "asin": "B0F7J2KKFW",
       "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
       "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
@@ -817,6 +964,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784559188.206797
     },
     {
       "asin": "B0GHP4NL1J",
@@ -868,6 +1032,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0CJLDWS2J",
