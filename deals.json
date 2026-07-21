@@ -1,5 +1,5 @@
 {
-  "last_check": "21/07/2026 20:42:27",
+  "last_check": "21/07/2026 21:46:45",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -925,9 +925,35 @@
           "date": "2026-07-21T20:42:27.984759"
         }
       ]
+    },
+    "B0CB4Q36H7": {
+      "discovery_date": "2026-07-21T21:46:45.602911",
+      "price_history": [
+        {
+          "price": "37.98",
+          "date": "2026-07-21T21:46:45.602911"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CB4Q36H7",
+      "title": "Darrow Actine Aquaforce Gel Hidratante Dermatológico -",
+      "link": "https://www.amazon.com.br/Darrow-Actine-Aquaforce-Hidratante-Dermatol%C3%B3gico/dp/B0CB4Q36H7",
+      "current_price": "37.98",
+      "original_price": "74.99",
+      "discount": 49.4,
+      "difference": 37.01,
+      "criteria": [
+        "49.4% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51yfj3A08fL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784670405.602911
+    },
     {
       "asin": "B079VRM6H6",
       "title": "Cicatricure Creme Anti-idade 50g, Cicatricure",
@@ -978,23 +1004,6 @@
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784595805.500833
-    },
-    {
-      "asin": "B0BZT6SMRS",
-      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
-      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
-      "current_price": "3198.0",
-      "original_price": "4699.0",
-      "discount": 31.9,
-      "difference": 1501.0,
-      "criteria": [
-        "R$ 1501.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B0FLGD78Z4",
@@ -1048,38 +1057,55 @@
       "discovery_ts": 1784417123.48503
     },
     {
-      "asin": "B0F7J2KKFW",
-      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
-      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
-      "current_price": "235.98",
-      "original_price": "406.25",
-      "discount": 41.9,
-      "difference": 170.27,
+      "asin": "B0CD1JTBSC",
+      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
+      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
+      "current_price": "4067.0",
+      "original_price": "4490.0",
+      "discount": 9.4,
+      "difference": 423.0,
       "criteria": [
-        "41.9% OFF"
+        "R$ 423.0 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784595805.500833
     },
     {
-      "asin": "B000CNKITS",
-      "title": "Azzaro Pour Homme Perfume Masculino Eau de Toilette",
-      "link": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS",
-      "current_price": "154.99",
-      "original_price": "299.0",
-      "discount": 48.2,
-      "difference": 144.01,
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
       "criteria": [
-        "48.2% OFF"
+        "R$ 300.01 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xKlHoVKhL._AC_UL210_SR210,210_.jpg",
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
+    },
+    {
+      "asin": "B088WCR8M3",
+      "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
+      "link": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3",
+      "current_price": "186.99",
+      "original_price": "379.0",
+      "discount": 50.7,
+      "difference": 192.01,
+      "criteria": [
+        "50.7% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hLsRGbFXL._AC_UL210_SR210,210_.jpg",
       "category": "💧 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784572052.68313
+      "discovery_ts": 1784442690.455916
     },
     {
       "asin": "B0812BFKXP",
@@ -1099,21 +1125,21 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
+      "asin": "B08VBXJY7P",
+      "title": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Blonde-700ml/dp/B08VBXJY7P",
+      "current_price": "44.9",
+      "original_price": "115.9",
+      "discount": 61.3,
+      "difference": 71.0,
       "criteria": [
-        "40.0% OFF"
+        "61.3% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JsUkgA+KL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
       "is_new": false,
-      "discovery_ts": 1784559188.206797
+      "discovery_ts": 1784607971.268491
     },
     {
       "asin": "B0GHP4NL1J",
