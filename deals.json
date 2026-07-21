@@ -1,5 +1,5 @@
 {
-  "last_check": "21/07/2026 12:52:17",
+  "last_check": "21/07/2026 15:00:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -880,77 +880,60 @@
           "date": "2026-07-21T12:52:17.836970"
         }
       ]
+    },
+    "B0812BFKXP": {
+      "discovery_date": "2026-07-21T15:00:38.083462",
+      "price_history": [
+        {
+          "price": "169.0",
+          "date": "2026-07-21T15:00:38.083462"
+        }
+      ]
+    },
+    "B0BZT6SMRS": {
+      "discovery_date": "2026-07-21T15:00:38.083462",
+      "price_history": [
+        {
+          "price": "3198.0",
+          "date": "2026-07-21T15:00:38.083462"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FLGD78Z4",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8600F-Soundbar-HW-B400F/dp/B0FLGD78Z4",
-      "current_price": "2479.86",
-      "original_price": "3499.0",
-      "discount": 29.1,
-      "difference": 1019.14,
+      "asin": "B0BZT6SMRS",
+      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
+      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
+      "current_price": "3198.0",
+      "original_price": "4699.0",
+      "discount": 31.9,
+      "difference": 1501.0,
       "criteria": [
-        "R$ 1019.14 desc."
+        "R$ 1501.0 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MIeqZCK8L._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": true,
-      "discovery_ts": 1784633172.014457
-    },
-    {
-      "asin": "B09VCHQHZ6",
-      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
-      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
-      "current_price": "1199.99",
-      "original_price": "2186.92",
-      "discount": 45.1,
-      "difference": 986.93,
-      "criteria": [
-        "45.1% OFF",
-        "R$ 986.93 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784638337.83697
+      "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B0977TDYVS",
-      "title": "NexGard Spectra Antipulgas e Vermífugo para Cães de 3,6 a 7,5 kg – 1 Tablete",
-      "link": "https://www.amazon.com.br/Nexgard-Spectra-Antipulgas-Carrapatos-Marrom/dp/B0977TDYVS",
-      "current_price": "62.59",
-      "original_price": "124.0",
-      "discount": 49.5,
-      "difference": 61.41,
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
       "criteria": [
-        "49.5% OFF"
+        "44.0% OFF"
       ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+keIopfAL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
       "is_new": true,
-      "discovery_ts": 1784638337.83697
-    },
-    {
-      "asin": "B08NF6PTG4",
-      "title": "Mop Spray FIT com reservatório 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
-      "link": "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4",
-      "current_price": "57.98",
-      "original_price": "114.78",
-      "discount": 49.5,
-      "difference": 56.8,
-      "criteria": [
-        "49.5% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6149kZdmG0L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784638337.83697
+      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B0F6GGBRYR",
@@ -970,38 +953,72 @@
       "discovery_ts": 1784595805.500833
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
+      "asin": "B0FTHPN3PL",
+      "title": "Samsung Combo Smart TV 55\" Crystal UHD 4K U8600F + Soundbar HW-B400F",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8600F-Soundbar-HW-B400F/dp/B0FTHPN3PL",
+      "current_price": "2789.94",
+      "original_price": "4148.0",
+      "discount": 32.7,
+      "difference": 1358.06,
       "criteria": [
-        "R$ 670.02 desc."
+        "R$ 1358.06 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XdlGX-g8L._AC_UL210_SR210,210_.jpg",
       "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784464310.552537
+      "discovery_ts": 1784607971.268491
     },
     {
-      "asin": "B0FKD1SFPC",
-      "title": "Samsung Vision AI TV 43\" NEO QLED ULTRA 4K QN90F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC",
-      "current_price": "3999.0",
-      "original_price": "4499.0",
-      "discount": 11.1,
-      "difference": 500.0,
+      "asin": "B0FLGD78Z4",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8600F-Soundbar-HW-B400F/dp/B0FLGD78Z4",
+      "current_price": "2479.86",
+      "original_price": "3499.0",
+      "discount": 29.1,
+      "difference": 1019.14,
       "criteria": [
-        "R$ 500.0 desc."
+        "R$ 1019.14 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61fT1Y28bkL._AC_UL210_SR210,210_.jpg",
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MIeqZCK8L._AC_UL210_SR210,210_.jpg",
       "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784633172.014457
+    },
+    {
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.17",
+      "discount": 11.3,
+      "difference": 331.53,
+      "criteria": [
+        "R$ 331.53 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784564480.506233
+    },
+    {
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
     },
     {
       "asin": "B0F7J2KKFW",
@@ -1019,40 +1036,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0C8BVGCSM",
-      "title": "MONDIAL Escova Secadora By Juliette, Azul/Rosa, Bivolt - ES-JU-03",
-      "link": "https://www.amazon.com.br/Escova-Secadora-Juliette-Mondial-Bivolt/dp/B0C8BVGCSM",
-      "current_price": "144.99",
-      "original_price": "289.9",
-      "discount": 50.0,
-      "difference": 144.91,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81WL+4KtYHL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
     },
     {
       "asin": "B09V83L8G8",
@@ -1106,6 +1089,23 @@
       "discovery_ts": 1784607971.268491
     },
     {
+      "asin": "B0977TDYVS",
+      "title": "NexGard Spectra Antipulgas e Vermífugo para Cães de 3,6 a 7,5 kg – 1 Tablete",
+      "link": "https://www.amazon.com.br/Nexgard-Spectra-Antipulgas-Carrapatos-Marrom/dp/B0977TDYVS",
+      "current_price": "62.59",
+      "original_price": "124.0",
+      "discount": 49.5,
+      "difference": 61.41,
+      "criteria": [
+        "49.5% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+keIopfAL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784638337.83697
+    },
+    {
       "asin": "B0GHP4NL1J",
       "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
       "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
@@ -1123,38 +1123,21 @@
       "discovery_ts": 1784433482.515947
     },
     {
-      "asin": "B09GSQMVJS",
-      "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
-      "current_price": "67.4",
-      "original_price": "116.9",
-      "discount": 42.3,
-      "difference": 49.5,
+      "asin": "B08NF6PTG4",
+      "title": "Mop Spray FIT com reservatório 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
+      "link": "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4",
+      "current_price": "57.98",
+      "original_price": "114.78",
+      "discount": 49.5,
+      "difference": 56.8,
       "criteria": [
-        "42.3% OFF"
+        "49.5% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TvgvfNA9L._AC_UL210_SR210,210_.jpg",
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6149kZdmG0L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784638337.83697
     }
   ]
 }
