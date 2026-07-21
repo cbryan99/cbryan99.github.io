@@ -1,5 +1,5 @@
 {
-  "last_check": "21/07/2026 09:35:29",
+  "last_check": "21/07/2026 11:26:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -844,43 +844,87 @@
           "date": "2026-07-21T09:35:29.653121"
         }
       ]
+    },
+    "B0FLGD78Z4": {
+      "discovery_date": "2026-07-21T11:26:12.014457",
+      "price_history": [
+        {
+          "price": "2479.86",
+          "date": "2026-07-21T11:26:12.014457"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B09F6WF4JD",
-      "title": "Cabo HDMI de ultra-alta velocidade PowerA para PlayStation 5, Cabo HDMI 2.1, PS5, Oficialmente Licenciado",
-      "link": "https://www.amazon.com.br/Cabo-ultra-alta-velocidade-PowerA-Playstation/dp/B09F6WF4JD",
-      "current_price": "167.13",
-      "original_price": "319.0",
-      "discount": 47.6,
-      "difference": 151.87,
+      "asin": "B0FLGD78Z4",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8600F-Soundbar-HW-B400F/dp/B0FLGD78Z4",
+      "current_price": "2479.86",
+      "original_price": "3499.0",
+      "discount": 29.1,
+      "difference": 1019.14,
       "criteria": [
-        "47.6% OFF"
+        "R$ 1019.14 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61y1IGnzX1L._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MIeqZCK8L._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": true,
-      "discovery_ts": 1784626529.653121
+      "discovery_ts": 1784633172.014457
     },
     {
-      "asin": "B08ZFKB8ZK",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
-      "current_price": "453.89",
-      "original_price": "879.0",
-      "discount": 48.4,
-      "difference": 425.11,
+      "asin": "B0DYVNRG3B",
+      "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
+      "current_price": "1449.0",
+      "original_price": "2699.0",
+      "discount": 46.3,
+      "difference": 1250.0,
       "criteria": [
-        "48.4% OFF",
-        "R$ 425.11 desc."
+        "46.3% OFF",
+        "R$ 1250.0 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613Vrz+GcaL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B08ZFKKPDS",
+      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
+      "link": "https://www.amazon.com.br/Azzaro-Most-Wanted-Parfum-Intense/dp/B08ZFKKPDS",
+      "current_price": "353.99",
+      "original_price": "679.0",
+      "discount": 47.9,
+      "difference": 325.01,
+      "criteria": [
+        "47.9% OFF",
+        "R$ 325.01 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+wtLEUYuL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784607971.268491
+    },
+    {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
+      "criteria": [
+        "41.9% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
     },
     {
       "asin": "B07Y3B33KG",
@@ -917,21 +961,38 @@
       "discovery_ts": 1784595805.500833
     },
     {
-      "asin": "B0918FHY6P",
-      "title": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0918FHY6P",
-      "current_price": "123.39",
-      "original_price": "247.9",
-      "discount": 50.2,
-      "difference": 124.51,
+      "asin": "B000CNKITS",
+      "title": "Azzaro Pour Homme Perfume Masculino Eau de Toilette",
+      "link": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS",
+      "current_price": "154.99",
+      "original_price": "299.0",
+      "discount": 48.2,
+      "difference": 144.01,
       "criteria": [
-        "50.2% OFF"
+        "48.2% OFF"
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61wfwHNv-NL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xKlHoVKhL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784572052.68313
+    },
+    {
+      "asin": "B09V83L8G8",
+      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
+      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
+      "current_price": "99.79",
+      "original_price": "182.27",
+      "discount": 45.3,
+      "difference": 82.48,
+      "criteria": [
+        "45.3% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784582414.20406
     },
     {
       "asin": "B07JFTS6BS",
@@ -968,6 +1029,23 @@
       "discovery_ts": 1784607971.268491
     },
     {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
+    },
+    {
       "asin": "B09GSQMVJS",
       "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
       "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
@@ -985,21 +1063,21 @@
       "discovery_ts": 1784522841.687335
     },
     {
-      "asin": "B07MLQ34YP",
-      "title": "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
-      "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Frescor-Primavera/dp/B07MLQ34YP",
-      "current_price": "39.98",
-      "original_price": "71.82",
-      "discount": 44.3,
-      "difference": 31.84,
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
       "criteria": [
-        "44.3% OFF"
+        "44.5% OFF"
       ],
       "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6128SQWxddL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784417123.48503
     }
   ]
 }
