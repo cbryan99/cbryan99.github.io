@@ -1,5 +1,5 @@
 {
-  "last_check": "21/07/2026 11:26:12",
+  "last_check": "21/07/2026 12:52:17",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -853,6 +853,33 @@
           "date": "2026-07-21T11:26:12.014457"
         }
       ]
+    },
+    "B09VCHQHZ6": {
+      "discovery_date": "2026-07-21T12:52:17.836970",
+      "price_history": [
+        {
+          "price": "1199.99",
+          "date": "2026-07-21T12:52:17.836970"
+        }
+      ]
+    },
+    "B08NF6PTG4": {
+      "discovery_date": "2026-07-21T12:52:17.836970",
+      "price_history": [
+        {
+          "price": "57.98",
+          "date": "2026-07-21T12:52:17.836970"
+        }
+      ]
+    },
+    "B0977TDYVS": {
+      "discovery_date": "2026-07-21T12:52:17.836970",
+      "price_history": [
+        {
+          "price": "62.59",
+          "date": "2026-07-21T12:52:17.836970"
+        }
+      ]
     }
   },
   "data": [
@@ -874,40 +901,107 @@
       "discovery_ts": 1784633172.014457
     },
     {
-      "asin": "B0DYVNRG3B",
-      "title": "Celular Samsung Galaxy A36 5G 128GB, 6GB RAM, Câmera 50MP, IP67, Super AMOLED 6.7\", Recursos AI, Branco",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B",
-      "current_price": "1449.0",
-      "original_price": "2699.0",
-      "discount": 46.3,
-      "difference": 1250.0,
+      "asin": "B09VCHQHZ6",
+      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
+      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
+      "current_price": "1199.99",
+      "original_price": "2186.92",
+      "discount": 45.1,
+      "difference": 986.93,
       "criteria": [
-        "46.3% OFF",
-        "R$ 1250.0 desc."
+        "45.1% OFF",
+        "R$ 986.93 desc."
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613Vrz+GcaL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784638337.83697
     },
     {
-      "asin": "B08ZFKKPDS",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Most-Wanted-Parfum-Intense/dp/B08ZFKKPDS",
-      "current_price": "353.99",
-      "original_price": "679.0",
-      "discount": 47.9,
-      "difference": 325.01,
+      "asin": "B0977TDYVS",
+      "title": "NexGard Spectra Antipulgas e Vermífugo para Cães de 3,6 a 7,5 kg – 1 Tablete",
+      "link": "https://www.amazon.com.br/Nexgard-Spectra-Antipulgas-Carrapatos-Marrom/dp/B0977TDYVS",
+      "current_price": "62.59",
+      "original_price": "124.0",
+      "discount": 49.5,
+      "difference": 61.41,
       "criteria": [
-        "47.9% OFF",
-        "R$ 325.01 desc."
+        "49.5% OFF"
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+wtLEUYuL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+keIopfAL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784638337.83697
+    },
+    {
+      "asin": "B08NF6PTG4",
+      "title": "Mop Spray FIT com reservatório 365ml, Borrifa Limpa e Seca , MOP0556, Flash Limp",
+      "link": "https://www.amazon.com.br/Spray-MOP0556-Verde-Flash-Limp/dp/B08NF6PTG4",
+      "current_price": "57.98",
+      "original_price": "114.78",
+      "discount": 49.5,
+      "difference": 56.8,
+      "criteria": [
+        "49.5% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6149kZdmG0L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784638337.83697
+    },
+    {
+      "asin": "B0F6GGBRYR",
+      "title": "ASUS TUF Gaming F16 Intel Core 5, RTX 4050, 8 GB, 512 GB SSD, KeepOS,16.0'' FHD, Mecha Gray - FX607VU-RL054",
+      "link": "https://www.amazon.com.br/ASUS-Gaming-Intel-KeepOS-Mecha/dp/B0F6GGBRYR",
+      "current_price": "5799.0",
+      "original_price": "7499.0",
+      "discount": 22.7,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": false,
-      "discovery_ts": 1784607971.268491
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": "2528.98",
+      "original_price": "3199.0",
+      "discount": 20.9,
+      "difference": 670.02,
+      "criteria": [
+        "R$ 670.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784464310.552537
+    },
+    {
+      "asin": "B0FKD1SFPC",
+      "title": "Samsung Vision AI TV 43\" NEO QLED ULTRA 4K QN90F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC",
+      "current_price": "3999.0",
+      "original_price": "4499.0",
+      "discount": 11.1,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fT1Y28bkL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0F7J2KKFW",
@@ -959,23 +1053,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784595805.500833
-    },
-    {
-      "asin": "B000CNKITS",
-      "title": "Azzaro Pour Homme Perfume Masculino Eau de Toilette",
-      "link": "https://www.amazon.com.br/Azzaro-115689-Edt-M%C3%A1scara-50Ml/dp/B000CNKITS",
-      "current_price": "154.99",
-      "original_price": "299.0",
-      "discount": 48.2,
-      "difference": 144.01,
-      "criteria": [
-        "48.2% OFF"
-      ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xKlHoVKhL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784572052.68313
     },
     {
       "asin": "B09V83L8G8",
