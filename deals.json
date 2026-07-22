@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 20:36:40",
+  "last_check": "22/07/2026 21:41:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1199,6 +1199,15 @@
           "date": "2026-07-22T20:36:40.373367"
         }
       ]
+    },
+    "B0CGBZDNHQ": {
+      "discovery_date": "2026-07-22T21:41:34.798487",
+      "price_history": [
+        {
+          "price": "11.98",
+          "date": "2026-07-22T21:41:34.798487"
+        }
+      ]
     }
   },
   "data": [
@@ -1254,6 +1263,23 @@
       "discovery_ts": 1784752600.373367
     },
     {
+      "asin": "B0CGBZDNHQ",
+      "title": "Xapadinha Máscara Disciplinante 100g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Lola-Cosmetics-Xapadinha-M%C3%A1scara-Disciplinante/dp/B0CGBZDNHQ",
+      "current_price": "11.98",
+      "original_price": "34.9",
+      "discount": 65.7,
+      "difference": 22.92,
+      "criteria": [
+        "65.7% OFF"
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JBE-YR-9L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1784756494.798487
+    },
+    {
       "asin": "B09VCHQHZ6",
       "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
       "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
@@ -1270,23 +1296,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784638337.83697
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
-      "criteria": [
-        "R$ 670.02 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784464310.552537
     },
     {
       "asin": "B0GL3YFDQ9",
@@ -1323,21 +1332,21 @@
       "discovery_ts": 1784725632.865556
     },
     {
-      "asin": "B0CC3VK2Y5",
-      "title": "Barbeador Elétrico Masculino Philips SkinIQ S5898/17 Uso Seco e Molhado, Cabeças flexíveis 360-D, com Aparador de 5 alturas, Carregamento Rápido - Bivolt",
-      "link": "https://www.amazon.com.br/Barbeador-el%C3%A9trico-S%C3%A9rie-5000-molhado/dp/B0CC3VK2Y5",
-      "current_price": "598.0",
-      "original_price": "941.57",
-      "discount": 36.5,
-      "difference": 343.57,
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.17",
+      "discount": 11.3,
+      "difference": 331.53,
       "criteria": [
-        "R$ 343.57 desc."
+        "R$ 331.53 desc."
       ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4104VINNC4L._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784743052.777175
+      "discovery_ts": 1784564480.506233
     },
     {
       "asin": "B0812BFKXP",
@@ -1374,23 +1383,6 @@
       "discovery_ts": 1784677180.276634
     },
     {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784559188.206797
-    },
-    {
       "asin": "B094YN8SXT",
       "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
       "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
@@ -1406,6 +1398,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784725632.865556
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     }
   ]
 }
