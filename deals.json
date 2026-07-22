@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 15:13:01",
+  "last_check": "22/07/2026 16:49:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1141,6 +1141,15 @@
           "date": "2026-07-22T15:13:01.055293"
         }
       ]
+    },
+    "B0FNN7YW9M": {
+      "discovery_date": "2026-07-22T16:49:58.471960",
+      "price_history": [
+        {
+          "price": "299.99",
+          "date": "2026-07-22T16:49:58.471960"
+        }
+      ]
     }
   },
   "data": [
@@ -1162,9 +1171,9 @@
       "discovery_ts": 1784733181.055293
     },
     {
-      "asin": "B0FNN72Z4R",
+      "asin": "B0FNN7YW9M",
       "title": "Tenis New Balance 480 Low Unisex",
-      "link": "https://www.amazon.com.br/Tenis-New-Balance-Unisex-Marinho/dp/B0FNN72Z4R",
+      "link": "https://www.amazon.com.br/Tenis-New-Balance-Unisex-Marinho/dp/B0FNN7YW9M",
       "current_price": "299.99",
       "original_price": "549.99",
       "discount": 45.5,
@@ -1176,7 +1185,7 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/61RpnYLxJeL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784733181.055293
+      "discovery_ts": 1784738998.47196
     },
     {
       "asin": "B0BZT6SMRS",
@@ -1196,23 +1205,6 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
-      "discount": 12.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
       "asin": "B0FPRGKBL3",
       "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
       "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
@@ -1228,6 +1220,40 @@
       "category": "📺 Eletrodomésticos",
       "is_new": false,
       "discovery_ts": 1784578007.009292
+    },
+    {
+      "asin": "B0GS3TTJ1P",
+      "title": "Fritadeira Air Fryer Family Oven Fry Elgin 12L 220V 1.900W 10 funções e Painel Digital",
+      "link": "https://www.amazon.com.br/Fritadeira-Family-Elgin-fun%C3%A7%C3%B5es-Digital/dp/B0GS3TTJ1P",
+      "current_price": "322.92",
+      "original_price": "619.0",
+      "discount": 47.8,
+      "difference": 296.08,
+      "criteria": [
+        "47.8% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cJOzPFdXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784682353.861696
+    },
+    {
+      "asin": "B0BPYR83CF",
+      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
+      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
+      "current_price": "194.64",
+      "original_price": "369.9",
+      "discount": 47.4,
+      "difference": 175.26,
+      "criteria": [
+        "47.4% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784713238.005138
     },
     {
       "asin": "B0812BFKXP",
@@ -1247,6 +1273,23 @@
       "discovery_ts": 1784646038.083462
     },
     {
+      "asin": "B0DCLXRD5X",
+      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 220V",
+      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X",
+      "current_price": "63.78",
+      "original_price": "159.9",
+      "discount": 60.1,
+      "difference": 96.12,
+      "criteria": [
+        "60.1% OFF"
+      ],
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784677180.276634
+    },
+    {
       "asin": "B07JFTS6BS",
       "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
       "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
@@ -1262,23 +1305,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B094YN8SXT",
@@ -1313,40 +1339,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784682353.861696
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0754KMGFN",
-      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
-      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
-      "current_price": "17.21",
-      "original_price": "43.02",
-      "discount": 60.0,
-      "difference": 25.81,
-      "criteria": [
-        "60.0% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784704431.833333
     },
     {
       "asin": "B08553P1JV",
