@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 22:43:48",
+  "last_check": "22/07/2026 23:44:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1217,9 +1217,61 @@
           "date": "2026-07-22T22:43:48.898259"
         }
       ]
+    },
+    "B0H5D7HXP4": {
+      "discovery_date": "2026-07-22T23:44:20.102483",
+      "price_history": [
+        {
+          "price": "900.48",
+          "date": "2026-07-22T23:44:20.102483"
+        }
+      ]
+    },
+    "B0DT8PV51T": {
+      "discovery_date": "2026-07-22T23:44:20.102483",
+      "price_history": [
+        {
+          "price": "4055.55",
+          "date": "2026-07-22T23:44:20.102483"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DT8PV51T",
+      "title": "Impressora 3D de resina ELEGOO Saturn 4 Ultra 16K, Aquecimento de tanque inteligente, Impressão de alta velocidade de 150 mm/h, Tamanho de impressão grande de 8,33 × 4,66 × 8,66 polegadas",
+      "link": "https://www.amazon.com.br/Impressora-ELEGOO-Saturn-Aquecimento-inteligente/dp/B0DT8PV51T",
+      "current_price": "4055.55",
+      "original_price": "4599.0",
+      "discount": 11.8,
+      "difference": 543.45,
+      "criteria": [
+        "R$ 543.45 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61sDy9rRRRL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784763860.102483
+    },
+    {
+      "asin": "B0H5D7HXP4",
+      "title": "Kit 2 Cadeiras de Jantar Madeira Maciça Estofada em Linho Bege Claro Encosto Rattan - Lilia Renew",
+      "link": "https://www.amazon.com.br/Cadeiras-Jantar-Madeira-Estofada-Encosto/dp/B0H5D7HXP4",
+      "current_price": "900.48",
+      "original_price": "1259.9",
+      "discount": 28.5,
+      "difference": 359.42,
+      "criteria": [
+        "R$ 359.42 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FzbiWEB8L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784763860.102483
+    },
     {
       "asin": "B0GZWH9D3W",
       "title": "Kit Morte Súbita - Shampoo e Máscara - Edição comemorativa - Lola From Rio",
@@ -1236,91 +1288,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": true,
       "discovery_ts": 1784760228.898259
-    },
-    {
-      "asin": "B0B8MCB6KK",
-      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
-      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
-      "current_price": "3598.99",
-      "original_price": "4899.0",
-      "discount": 26.5,
-      "difference": 1300.01,
-      "criteria": [
-        "R$ 1300.01 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
-      "discount": 12.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
-      "asin": "B0F5X6NDTR",
-      "title": "Samsung Smart TV 85\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X6NDTR",
-      "current_price": "6749.0",
-      "original_price": "7299.99",
-      "discount": 7.5,
-      "difference": 550.99,
-      "criteria": [
-        "R$ 550.99 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6181BLtQnFL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784743052.777175
-    },
-    {
-      "asin": "B0GL3YFDQ9",
-      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
-      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
-      "current_price": "3599.0",
-      "original_price": "4099.0",
-      "discount": 12.2,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784733181.055293
-    },
-    {
-      "asin": "B0DYKWFDV2",
-      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
-      "current_price": "3059.99",
-      "original_price": "3437.78",
-      "discount": 11.0,
-      "difference": 377.79,
-      "criteria": [
-        "R$ 377.79 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784499817.953621
     },
     {
       "asin": "B0DKFMSMYK",
@@ -1340,21 +1307,21 @@
       "discovery_ts": 1784564480.506233
     },
     {
-      "asin": "B0BPYR83CF",
-      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
-      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
-      "current_price": "194.64",
-      "original_price": "369.9",
-      "discount": 47.4,
-      "difference": 175.26,
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
       "criteria": [
-        "47.4% OFF"
+        "R$ 300.01 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784713238.005138
+      "discovery_ts": 1784578007.009292
     },
     {
       "asin": "B0812BFKXP",
@@ -1374,57 +1341,6 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B09VQ39F41",
-      "title": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
-      "link": "https://www.amazon.com.br/Mixer-Turbo-Elgin-42MIX2001000-Preto/dp/B09VQ39F41",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yYe4QlyQL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784677180.276634
-    },
-    {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
       "asin": "B094YN8SXT",
       "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
       "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
@@ -1442,6 +1358,40 @@
       "discovery_ts": 1784725632.865556
     },
     {
+      "asin": "B09GSQMVJS",
+      "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
+      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
+      "current_price": "67.4",
+      "original_price": "116.9",
+      "discount": 42.3,
+      "difference": 49.5,
+      "criteria": [
+        "42.3% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TvgvfNA9L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B0DCCGJQZS",
+      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
+      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
+      "current_price": "52.47",
+      "original_price": "99.0",
+      "discount": 47.0,
+      "difference": 46.53,
+      "criteria": [
+        "47.0% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784752600.373367
+    },
+    {
       "asin": "B08PPKQTFB",
       "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
       "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
@@ -1457,23 +1407,6 @@
       "category": "✂️ Autocuidado",
       "is_new": false,
       "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0754KMGFN",
