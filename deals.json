@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 19:20:20",
+  "last_check": "22/07/2026 20:36:40",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1172,9 +1172,139 @@
           "date": "2026-07-22T17:57:32.777175"
         }
       ]
+    },
+    "B0B8MCB6KK": {
+      "discovery_date": "2026-07-22T20:36:40.373367",
+      "price_history": [
+        {
+          "price": "3598.99",
+          "date": "2026-07-22T20:36:40.373367"
+        }
+      ]
+    },
+    "B08PPKQTFB": {
+      "discovery_date": "2026-07-22T20:36:40.373367",
+      "price_history": [
+        {
+          "price": "18.9",
+          "date": "2026-07-22T20:36:40.373367"
+        }
+      ]
+    },
+    "B0DCCGJQZS": {
+      "discovery_date": "2026-07-22T20:36:40.373367",
+      "price_history": [
+        {
+          "price": "52.47",
+          "date": "2026-07-22T20:36:40.373367"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": "3598.99",
+      "original_price": "4899.0",
+      "discount": 26.5,
+      "difference": 1300.01,
+      "criteria": [
+        "R$ 1300.01 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": true,
+      "discovery_ts": 1784752600.373367
+    },
+    {
+      "asin": "B0DCCGJQZS",
+      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
+      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
+      "current_price": "52.47",
+      "original_price": "99.0",
+      "discount": 47.0,
+      "difference": 46.53,
+      "criteria": [
+        "47.0% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784752600.373367
+    },
+    {
+      "asin": "B08PPKQTFB",
+      "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
+      "current_price": "18.9",
+      "original_price": "54.9",
+      "discount": 65.6,
+      "difference": 36.0,
+      "criteria": [
+        "65.6% OFF"
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNJekcJSL._AC_UL210_SR210,210_.jpg",
+      "category": "✂️ Autocuidado",
+      "is_new": true,
+      "discovery_ts": 1784752600.373367
+    },
+    {
+      "asin": "B09VCHQHZ6",
+      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
+      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
+      "current_price": "1199.99",
+      "original_price": "2186.92",
+      "discount": 45.1,
+      "difference": 986.93,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 986.93 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784638337.83697
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": "2528.98",
+      "original_price": "3199.0",
+      "discount": 20.9,
+      "difference": 670.02,
+      "criteria": [
+        "R$ 670.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784464310.552537
+    },
+    {
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784733181.055293
+    },
     {
       "asin": "B0F5X4LL89",
       "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
@@ -1193,55 +1323,21 @@
       "discovery_ts": 1784725632.865556
     },
     {
-      "asin": "B0FNN7YW9M",
-      "title": "Tenis New Balance 480 Low Unisex",
-      "link": "https://www.amazon.com.br/Tenis-New-Balance-Unisex-Marinho/dp/B0FNN7YW9M",
-      "current_price": "299.99",
-      "original_price": "549.99",
-      "discount": 45.5,
-      "difference": 250.0,
+      "asin": "B0CC3VK2Y5",
+      "title": "Barbeador Elétrico Masculino Philips SkinIQ S5898/17 Uso Seco e Molhado, Cabeças flexíveis 360-D, com Aparador de 5 alturas, Carregamento Rápido - Bivolt",
+      "link": "https://www.amazon.com.br/Barbeador-el%C3%A9trico-S%C3%A9rie-5000-molhado/dp/B0CC3VK2Y5",
+      "current_price": "598.0",
+      "original_price": "941.57",
+      "discount": 36.5,
+      "difference": 343.57,
       "criteria": [
-        "45.5% OFF"
+        "R$ 343.57 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61RpnYLxJeL._AC_UL210_SR210,210_.jpg",
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4104VINNC4L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784738998.47196
-    },
-    {
-      "asin": "B0BPYR83CF",
-      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
-      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
-      "current_price": "194.64",
-      "original_price": "369.9",
-      "discount": 47.4,
-      "difference": 175.26,
-      "criteria": [
-        "47.4% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784713238.005138
-    },
-    {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784743052.777175
     },
     {
       "asin": "B0812BFKXP",
@@ -1293,23 +1389,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B094YN8SXT",
