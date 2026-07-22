@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 21:41:34",
+  "last_check": "22/07/2026 22:43:48",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1208,9 +1208,35 @@
           "date": "2026-07-22T21:41:34.798487"
         }
       ]
+    },
+    "B0GZWH9D3W": {
+      "discovery_date": "2026-07-22T22:43:48.898259",
+      "price_history": [
+        {
+          "price": "39.9",
+          "date": "2026-07-22T22:43:48.898259"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GZWH9D3W",
+      "title": "Kit Morte Súbita - Shampoo e Máscara - Edição comemorativa - Lola From Rio",
+      "link": "https://www.amazon.com.br/Kit-Morte-S%C3%BAbita-Shampoo-comemorativa/dp/B0GZWH9D3W",
+      "current_price": "39.9",
+      "original_price": "89.9",
+      "discount": 55.6,
+      "difference": 50.0,
+      "criteria": [
+        "55.6% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8148kkYPYUL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1784760228.898259
+    },
     {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
@@ -1225,77 +1251,42 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos",
-      "is_new": true,
-      "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0DCCGJQZS",
-      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
-      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
-      "current_price": "52.47",
-      "original_price": "99.0",
-      "discount": 47.0,
-      "difference": 46.53,
-      "criteria": [
-        "47.0% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B08PPKQTFB",
-      "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
-      "current_price": "18.9",
-      "original_price": "54.9",
-      "discount": 65.6,
-      "difference": 36.0,
-      "criteria": [
-        "65.6% OFF"
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNJekcJSL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
-      "is_new": true,
-      "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0CGBZDNHQ",
-      "title": "Xapadinha Máscara Disciplinante 100g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Lola-Cosmetics-Xapadinha-M%C3%A1scara-Disciplinante/dp/B0CGBZDNHQ",
-      "current_price": "11.98",
-      "original_price": "34.9",
-      "discount": 65.7,
-      "difference": 22.92,
-      "criteria": [
-        "65.7% OFF"
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61JBE-YR-9L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": true,
-      "discovery_ts": 1784756494.798487
-    },
-    {
-      "asin": "B09VCHQHZ6",
-      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
-      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
-      "current_price": "1199.99",
-      "original_price": "2186.92",
-      "discount": 45.1,
-      "difference": 986.93,
-      "criteria": [
-        "45.1% OFF",
-        "R$ 986.93 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
-      "category": null,
       "is_new": false,
-      "discovery_ts": 1784638337.83697
+      "discovery_ts": 1784752600.373367
+    },
+    {
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": "6999.0",
+      "original_price": "7999.0",
+      "discount": 12.5,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0F5X6NDTR",
+      "title": "Samsung Smart TV 85\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X6NDTR",
+      "current_price": "6749.0",
+      "original_price": "7299.99",
+      "discount": 7.5,
+      "difference": 550.99,
+      "criteria": [
+        "R$ 550.99 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6181BLtQnFL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784743052.777175
     },
     {
       "asin": "B0GL3YFDQ9",
@@ -1315,21 +1306,21 @@
       "discovery_ts": 1784733181.055293
     },
     {
-      "asin": "B0F5X4LL89",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
-      "current_price": "2239.0",
-      "original_price": "2599.99",
-      "discount": 13.9,
-      "difference": 360.99,
+      "asin": "B0DYKWFDV2",
+      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
+      "current_price": "3059.99",
+      "original_price": "3437.78",
+      "discount": 11.0,
+      "difference": 377.79,
       "criteria": [
-        "R$ 360.99 desc."
+        "R$ 377.79 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784725632.865556
+      "discovery_ts": 1784499817.953621
     },
     {
       "asin": "B0DKFMSMYK",
@@ -1347,6 +1338,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784564480.506233
+    },
+    {
+      "asin": "B0BPYR83CF",
+      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
+      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
+      "current_price": "194.64",
+      "original_price": "369.9",
+      "discount": 47.4,
+      "difference": 175.26,
+      "criteria": [
+        "47.4% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784713238.005138
     },
     {
       "asin": "B0812BFKXP",
@@ -1383,6 +1391,40 @@
       "discovery_ts": 1784677180.276634
     },
     {
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
+    },
+    {
       "asin": "B094YN8SXT",
       "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
       "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
@@ -1400,6 +1442,23 @@
       "discovery_ts": 1784725632.865556
     },
     {
+      "asin": "B08PPKQTFB",
+      "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
+      "current_price": "18.9",
+      "original_price": "54.9",
+      "discount": 65.6,
+      "difference": 36.0,
+      "criteria": [
+        "65.6% OFF"
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNJekcJSL._AC_UL210_SR210,210_.jpg",
+      "category": "✂️ Autocuidado",
+      "is_new": false,
+      "discovery_ts": 1784752600.373367
+    },
+    {
       "asin": "B0DKVJ1HWB",
       "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
       "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
@@ -1415,6 +1474,23 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0754KMGFN",
+      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
+      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
+      "current_price": "17.21",
+      "original_price": "43.02",
+      "discount": 60.0,
+      "difference": 25.81,
+      "criteria": [
+        "60.0% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784704431.833333
     }
   ]
 }
