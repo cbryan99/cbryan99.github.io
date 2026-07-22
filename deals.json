@@ -1,5 +1,5 @@
 {
-  "last_check": "21/07/2026 23:39:40",
+  "last_check": "22/07/2026 01:05:53",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1024,94 +1024,69 @@
           "date": "2026-07-21T23:39:40.276634"
         }
       ]
+    },
+    "B0DCLGCFZG": {
+      "discovery_date": "2026-07-22T01:05:53.861696",
+      "price_history": [
+        {
+          "price": "38.26",
+          "date": "2026-07-22T01:05:53.861696"
+        }
+      ]
+    },
+    "B0GS3TTJ1P": {
+      "discovery_date": "2026-07-22T01:05:53.861696",
+      "price_history": [
+        {
+          "price": "322.92",
+          "date": "2026-07-22T01:05:53.861696"
+        }
+      ]
+    },
+    "B0BSVM7QS8": {
+      "discovery_date": "2026-07-22T01:05:53.861696",
+      "price_history": [
+        {
+          "price": "20.61",
+          "date": "2026-07-22T01:05:53.861696"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B07XYKL5BF",
-      "title": "Cadeira Ergonômica Yama1 Ciano ThunderX3",
-      "link": "https://www.amazon.com.br/Cadeira-Ergonomic-Yama1-THUNDERX3-Thunderx3/dp/B07XYKL5BF",
-      "current_price": "1029.0",
-      "original_price": "2500.0",
-      "discount": 58.8,
-      "difference": 1471.0,
+      "asin": "B0GS3TTJ1P",
+      "title": "Fritadeira Air Fryer Family Oven Fry Elgin 12L 220V 1.900W 10 funções e Painel Digital",
+      "link": "https://www.amazon.com.br/Fritadeira-Family-Elgin-fun%C3%A7%C3%B5es-Digital/dp/B0GS3TTJ1P",
+      "current_price": "322.92",
+      "original_price": "619.0",
+      "discount": 47.8,
+      "difference": 296.08,
       "criteria": [
-        "58.8% OFF",
-        "R$ 1471.0 desc."
+        "47.8% OFF"
       ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51az8C1F+3L._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cJOzPFdXL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784677180.276634
+      "discovery_ts": 1784682353.861696
     },
     {
-      "asin": "B0DCLXRD5X",
-      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 220V",
-      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X",
-      "current_price": "63.78",
-      "original_price": "159.9",
-      "discount": 60.1,
-      "difference": 96.12,
+      "asin": "B0DCLGCFZG",
+      "title": "Fogão Elétrico Portátil Cooktop Elgin Single Cook 1 Boca - 220V",
+      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Single/dp/B0DCLGCFZG",
+      "current_price": "38.26",
+      "original_price": "99.9",
+      "discount": 61.7,
+      "difference": 61.64,
       "criteria": [
-        "60.1% OFF"
+        "61.7% OFF"
       ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51w83ZtbHZL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784677180.276634
-    },
-    {
-      "asin": "B09VQ39F41",
-      "title": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
-      "link": "https://www.amazon.com.br/Mixer-Turbo-Elgin-42MIX2001000-Preto/dp/B09VQ39F41",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yYe4QlyQL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784677180.276634
-    },
-    {
-      "asin": "B0FYRL45F2",
-      "title": "Mochila Unisex Fila Basic Outline, Preto, G",
-      "link": "https://www.amazon.com.br/Mochila-Unisex-Basic-Outline-Preto/dp/B0FYRL45F2",
-      "current_price": "69.99",
-      "original_price": "129.99",
-      "discount": 46.2,
-      "difference": 60.0,
-      "criteria": [
-        "46.2% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61DtF-lPhWL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784677180.276634
-    },
-    {
-      "asin": "B0BJQQZ27Q",
-      "title": "Ferro de Passar a Seco Iron Force Elgin Super Leve Branco e Azul Base Antiaderente 220V",
-      "link": "https://www.amazon.com.br/Ferro-Passar-Elgin-Branco-Antiaderente/dp/B0BJQQZ27Q",
-      "current_price": "40.29",
-      "original_price": "98.1",
-      "discount": 58.9,
-      "difference": 57.81,
-      "criteria": [
-        "58.9% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oNkPt9dqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784677180.276634
+      "discovery_ts": 1784682353.861696
     },
     {
       "asin": "B0BDZXLS77",
@@ -1131,21 +1106,21 @@
       "discovery_ts": 1784677180.276634
     },
     {
-      "asin": "B07WWZ3L2V",
-      "title": "Lâmpada Super Bulbo LED T 30W 6500K Elgin Bivolt Luz Branca Fria",
-      "link": "https://www.amazon.com.br/L%C3%A2mpada-Super-Elgin-Bivolt-Branca/dp/B07WWZ3L2V",
-      "current_price": "11.8",
-      "original_price": "45.25",
-      "discount": 73.9,
-      "difference": 33.45,
+      "asin": "B0BSVM7QS8",
+      "title": "Pilha Alcalina AA com 16 unidades Elgin Comum",
+      "link": "https://www.amazon.com.br/Pilha-Alcalina-unidades-Elgin-Comum/dp/B0BSVM7QS8",
+      "current_price": "20.61",
+      "original_price": "55.9",
+      "discount": 63.1,
+      "difference": 35.29,
       "criteria": [
-        "73.9% OFF"
+        "63.1% OFF"
       ],
-      "badge": "73% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51kEqsMnx9L._AC_UL210_SR210,210_.jpg",
+      "badge": "63% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71RnTuLpZeL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784677180.276634
+      "discovery_ts": 1784682353.861696
     },
     {
       "asin": "B08553P1JV",
@@ -1160,23 +1135,6 @@
       ],
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61xDTzzq-HL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784677180.276634
-    },
-    {
-      "asin": "B075X31K7K",
-      "title": "Luminária De Emergência 30 LEDS 2W Elgin Bivolt Bateria até 6 horas Luz Branca Fria",
-      "link": "https://www.amazon.com.br/Lumin%C3%A1ria-Emerg%C3%AAncia-Elgin-Bivolt-Bateria/dp/B075X31K7K",
-      "current_price": "10.85",
-      "original_price": "21.88",
-      "discount": 50.4,
-      "difference": 11.03,
-      "criteria": [
-        "50.4% OFF"
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ZC+b6x8ML._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
       "discovery_ts": 1784677180.276634
@@ -1233,23 +1191,6 @@
       "discovery_ts": 1784633172.014457
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": "2528.98",
-      "original_price": "3199.0",
-      "discount": 20.9,
-      "difference": 670.02,
-      "criteria": [
-        "R$ 670.02 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784464310.552537
-    },
-    {
       "asin": "B0DKFMSMYK",
       "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
       "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
@@ -1265,23 +1206,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
     },
     {
       "asin": "B0F7J2KKFW",
@@ -1333,6 +1257,40 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     }
   ]
 }
