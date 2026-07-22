@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 04:29:04",
+  "last_check": "22/07/2026 07:13:51",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1069,76 +1069,87 @@
           "date": "2026-07-22T04:29:04.987565"
         }
       ]
+    },
+    "B0CQXG17RL": {
+      "discovery_date": "2026-07-22T07:13:51.833333",
+      "price_history": [
+        {
+          "price": "336.0",
+          "date": "2026-07-22T07:13:51.833333"
+        }
+      ]
+    },
+    "B08T6JZC6D": {
+      "discovery_date": "2026-07-22T07:13:51.833333",
+      "price_history": [
+        {
+          "price": "20.27",
+          "date": "2026-07-22T07:13:51.833333"
+        }
+      ]
+    },
+    "B0754KMGFN": {
+      "discovery_date": "2026-07-22T07:13:51.833333",
+      "price_history": [
+        {
+          "price": "17.21",
+          "date": "2026-07-22T07:13:51.833333"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B07DQC4F4M",
-      "title": "Caixa com Tampa Trama Plasútil 14L E",
-      "link": "https://www.amazon.com.br/Caixa-Tampa-Trama-Plas%C3%BAtil-Am%C3%AAndoa/dp/B07DQC4F4M",
-      "current_price": "29.97",
-      "original_price": "89.46",
-      "discount": 66.5,
-      "difference": 59.49,
+      "asin": "B0CQXG17RL",
+      "title": "soundcore P40i da Anker, Fone de Ouvido Bluetooth 5.3, Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo com Suporte, 60H de Reprodução, Resistência à Água, IPX5, Carregamento Sem Fio, Preto",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Reprodu%C3%A7%C3%A3o-Carregamento/dp/B0CQXG17RL",
+      "current_price": "336.0",
+      "original_price": "659.0",
+      "discount": 49.0,
+      "difference": 323.0,
       "criteria": [
-        "66.5% OFF"
+        "49.0% OFF",
+        "R$ 323.0 desc."
       ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yPWi8Uw+L._AC_UL210_SR210,210_.jpg",
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zp-5PsY4L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784694544.987565
+      "discovery_ts": 1784704431.833333
     },
     {
-      "asin": "B0DCCFRMX8",
-      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 110V",
-      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCFRMX8",
-      "current_price": "50.86",
-      "original_price": "99.0",
-      "discount": 48.6,
-      "difference": 48.14,
+      "asin": "B0754KMGFN",
+      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
+      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
+      "current_price": "17.21",
+      "original_price": "43.02",
+      "discount": 60.0,
+      "difference": 25.81,
       "criteria": [
-        "48.6% OFF"
+        "60.0% OFF"
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616KpA994OL._AC_UL210_SR210,210_.jpg",
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784694544.987565
+      "discovery_ts": 1784704431.833333
     },
     {
-      "asin": "B0F6GGBRYR",
-      "title": "ASUS TUF Gaming F16 Intel Core 5, RTX 4050, 8 GB, 512 GB SSD, KeepOS,16.0'' FHD, Mecha Gray - FX607VU-RL054",
-      "link": "https://www.amazon.com.br/ASUS-Gaming-Intel-KeepOS-Mecha/dp/B0F6GGBRYR",
-      "current_price": "5799.0",
-      "original_price": "7499.0",
-      "discount": 22.7,
-      "difference": 1700.0,
+      "asin": "B08T6JZC6D",
+      "title": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
+      "link": "https://www.amazon.com.br/Repelente-Corporal-Infantil-SBP-Laranja/dp/B08T6JZC6D",
+      "current_price": "20.27",
+      "original_price": "40.49",
+      "discount": 49.9,
+      "difference": 20.22,
       "criteria": [
-        "R$ 1700.0 desc."
+        "49.9% OFF"
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
-      "asin": "B0BZT6SMRS",
-      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
-      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
-      "current_price": "3198.0",
-      "original_price": "4699.0",
-      "discount": 31.9,
-      "difference": 1501.0,
-      "criteria": [
-        "R$ 1501.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NwUjr3q5L._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": false,
-      "discovery_ts": 1784646038.083462
+      "is_new": true,
+      "discovery_ts": 1784704431.833333
     },
     {
       "asin": "B0CPFBBHP4",
@@ -1158,23 +1169,6 @@
       "discovery_ts": 1784564480.506233
     },
     {
-      "asin": "B0FLGD78Z4",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025 + Soundbar HW-B400F/ZD",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8600F-Soundbar-HW-B400F/dp/B0FLGD78Z4",
-      "current_price": "2479.86",
-      "original_price": "3499.0",
-      "discount": 29.1,
-      "difference": 1019.14,
-      "criteria": [
-        "R$ 1019.14 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MIeqZCK8L._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784633172.014457
-    },
-    {
       "asin": "B0DKFMSMYK",
       "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
       "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
@@ -1190,23 +1184,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
     },
     {
       "asin": "B0GS3TTJ1P",
@@ -1226,21 +1203,21 @@
       "discovery_ts": 1784682353.861696
     },
     {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
       "criteria": [
-        "44.0% OFF"
+        "54.2% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784646038.083462
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0DCLXRD5X",
@@ -1275,23 +1252,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B08553P1JV",
