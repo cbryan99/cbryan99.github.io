@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 13:07:12",
+  "last_check": "22/07/2026 15:13:01",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1123,42 +1123,60 @@
           "date": "2026-07-22T13:07:12.865556"
         }
       ]
+    },
+    "B0FNN72Z4R": {
+      "discovery_date": "2026-07-22T15:13:01.055293",
+      "price_history": [
+        {
+          "price": "299.99",
+          "date": "2026-07-22T15:13:01.055293"
+        }
+      ]
+    },
+    "B0GL3YFDQ9": {
+      "discovery_date": "2026-07-22T15:13:01.055293",
+      "price_history": [
+        {
+          "price": "3599.0",
+          "date": "2026-07-22T15:13:01.055293"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F5X4LL89",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
-      "current_price": "2209.0",
-      "original_price": "2599.99",
-      "discount": 15.0,
-      "difference": 390.99,
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
       "criteria": [
-        "R$ 390.99 desc."
+        "R$ 500.0 desc."
       ],
-      "badge": "",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
       "is_new": true,
-      "discovery_ts": 1784725632.865556
+      "discovery_ts": 1784733181.055293
     },
     {
-      "asin": "B094YN8SXT",
-      "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
-      "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
-      "current_price": "47.01",
-      "original_price": "99.0",
-      "discount": 52.5,
-      "difference": 51.99,
+      "asin": "B0FNN72Z4R",
+      "title": "Tenis New Balance 480 Low Unisex",
+      "link": "https://www.amazon.com.br/Tenis-New-Balance-Unisex-Marinho/dp/B0FNN72Z4R",
+      "current_price": "299.99",
+      "original_price": "549.99",
+      "discount": 45.5,
+      "difference": 250.0,
       "criteria": [
-        "52.5% OFF"
+        "45.5% OFF"
       ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL210_SR210,210_.jpg",
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61RpnYLxJeL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784725632.865556
+      "discovery_ts": 1784733181.055293
     },
     {
       "asin": "B0BZT6SMRS",
@@ -1178,6 +1196,40 @@
       "discovery_ts": 1784646038.083462
     },
     {
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": "6999.0",
+      "original_price": "7999.0",
+      "discount": 12.5,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
+    },
+    {
       "asin": "B0812BFKXP",
       "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
       "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
@@ -1193,23 +1245,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784646038.083462
-    },
-    {
-      "asin": "B0DCLXRD5X",
-      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 220V",
-      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X",
-      "current_price": "63.78",
-      "original_price": "159.9",
-      "discount": 60.1,
-      "difference": 96.12,
-      "criteria": [
-        "60.1% OFF"
-      ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784677180.276634
     },
     {
       "asin": "B07JFTS6BS",
@@ -1246,38 +1281,21 @@
       "discovery_ts": 1784433482.515947
     },
     {
-      "asin": "B0DCCFRMX8",
-      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 110V",
-      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCFRMX8",
-      "current_price": "50.86",
+      "asin": "B094YN8SXT",
+      "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
+      "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
+      "current_price": "47.01",
       "original_price": "99.0",
-      "discount": 48.6,
-      "difference": 48.14,
+      "discount": 52.5,
+      "difference": 51.99,
       "criteria": [
-        "48.6% OFF"
+        "52.5% OFF"
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616KpA994OL._AC_UL210_SR210,210_.jpg",
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784694544.987565
-    },
-    {
-      "asin": "B0CB4Q36H7",
-      "title": "Darrow Actine Aquaforce Gel Hidratante Dermatológico -",
-      "link": "https://www.amazon.com.br/Darrow-Actine-Aquaforce-Hidratante-Dermatol%C3%B3gico/dp/B0CB4Q36H7",
-      "current_price": "37.98",
-      "original_price": "74.99",
-      "discount": 49.4,
-      "difference": 37.01,
-      "criteria": [
-        "49.4% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yfj3A08fL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784670405.602911
+      "discovery_ts": 1784725632.865556
     },
     {
       "asin": "B0BSVM7QS8",
@@ -1295,6 +1313,40 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784682353.861696
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0754KMGFN",
+      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
+      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
+      "current_price": "17.21",
+      "original_price": "43.02",
+      "discount": 60.0,
+      "difference": 25.81,
+      "criteria": [
+        "60.0% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784704431.833333
     },
     {
       "asin": "B08553P1JV",
