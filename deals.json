@@ -1,5 +1,5 @@
 {
-  "last_check": "22/07/2026 11:31:26",
+  "last_check": "22/07/2026 13:07:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1105,42 +1105,77 @@
           "date": "2026-07-22T09:40:38.005138"
         }
       ]
+    },
+    "B094YN8SXT": {
+      "discovery_date": "2026-07-22T13:07:12.865556",
+      "price_history": [
+        {
+          "price": "47.01",
+          "date": "2026-07-22T13:07:12.865556"
+        }
+      ]
+    },
+    "B0F5X4LL89": {
+      "discovery_date": "2026-07-22T13:07:12.865556",
+      "price_history": [
+        {
+          "price": "2209.0",
+          "date": "2026-07-22T13:07:12.865556"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F6GGBRYR",
-      "title": "ASUS TUF Gaming F16 Intel Core 5, RTX 4050, 8 GB, 512 GB SSD, KeepOS,16.0'' FHD, Mecha Gray - FX607VU-RL054",
-      "link": "https://www.amazon.com.br/ASUS-Gaming-Intel-KeepOS-Mecha/dp/B0F6GGBRYR",
-      "current_price": "5799.0",
-      "original_price": "7499.0",
-      "discount": 22.7,
-      "difference": 1700.0,
+      "asin": "B0F5X4LL89",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
+      "current_price": "2209.0",
+      "original_price": "2599.99",
+      "discount": 15.0,
+      "difference": 390.99,
       "criteria": [
-        "R$ 1700.0 desc."
+        "R$ 390.99 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
+      "badge": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784725632.865556
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
+      "asin": "B094YN8SXT",
+      "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
+      "link": "https://www.amazon.com.br/Mixer-Elgin-Vertical-200w-127v/dp/B094YN8SXT",
+      "current_price": "47.01",
+      "original_price": "99.0",
+      "discount": 52.5,
+      "difference": 51.99,
       "criteria": [
-        "54.2% OFF"
+        "52.5% OFF"
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784725632.865556
+    },
+    {
+      "asin": "B0BZT6SMRS",
+      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
+      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
+      "current_price": "3198.0",
+      "original_price": "4699.0",
+      "discount": 31.9,
+      "difference": 1501.0,
+      "criteria": [
+        "R$ 1501.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B0812BFKXP",
@@ -1160,55 +1195,55 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
+      "asin": "B0DCLXRD5X",
+      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 220V",
+      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCLXRD5X",
+      "current_price": "63.78",
+      "original_price": "159.9",
+      "discount": 60.1,
+      "difference": 96.12,
       "criteria": [
-        "45.3% OFF"
+        "60.1% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784582414.20406
-    },
-    {
-      "asin": "B0DCLGCFZG",
-      "title": "Fogão Elétrico Portátil Cooktop Elgin Single Cook 1 Boca - 220V",
-      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Single/dp/B0DCLGCFZG",
-      "current_price": "38.26",
-      "original_price": "99.9",
-      "discount": 61.7,
-      "difference": 61.64,
-      "criteria": [
-        "61.7% OFF"
-      ],
-      "badge": "61% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51w83ZtbHZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784682353.861696
-    },
-    {
-      "asin": "B0FYRL45F2",
-      "title": "Mochila Unisex Fila Basic Outline, Preto, G",
-      "link": "https://www.amazon.com.br/Mochila-Unisex-Basic-Outline-Preto/dp/B0FYRL45F2",
-      "current_price": "69.99",
-      "original_price": "129.99",
-      "discount": 46.2,
-      "difference": 60.0,
-      "criteria": [
-        "46.2% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61DtF-lPhWL._AC_UL210_SR210,210_.jpg",
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
       "discovery_ts": 1784677180.276634
+    },
+    {
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B0DCCFRMX8",
@@ -1226,6 +1261,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784694544.987565
+    },
+    {
+      "asin": "B0CB4Q36H7",
+      "title": "Darrow Actine Aquaforce Gel Hidratante Dermatológico -",
+      "link": "https://www.amazon.com.br/Darrow-Actine-Aquaforce-Hidratante-Dermatol%C3%B3gico/dp/B0CB4Q36H7",
+      "current_price": "37.98",
+      "original_price": "74.99",
+      "discount": 49.4,
+      "difference": 37.01,
+      "criteria": [
+        "49.4% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51yfj3A08fL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784670405.602911
     },
     {
       "asin": "B0BSVM7QS8",
