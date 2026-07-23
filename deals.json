@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 20:44:32",
+  "last_check": "23/07/2026 21:46:05",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1383,39 +1383,74 @@
           "date": "2026-07-23T19:43:21.542638"
         }
       ]
+    },
+    "B0FQHFV3WB": {
+      "discovery_date": "2026-07-23T21:46:05.256528",
+      "price_history": [
+        {
+          "price": "15749.0",
+          "date": "2026-07-23T21:46:05.256528"
+        }
+      ]
+    },
+    "B0GP1F45V4": {
+      "discovery_date": "2026-07-23T21:46:05.256528",
+      "price_history": [
+        {
+          "price": "2099.0",
+          "date": "2026-07-23T21:46:05.256528"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0G4DV2ZPJ",
-      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
-      "current_price": "5699.0",
-      "original_price": "6513.84",
-      "discount": 12.5,
-      "difference": 814.84,
+      "asin": "B0FQHFV3WB",
+      "title": "Apple iPhone 17 Pro Max (2 TB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQHFV3WB",
+      "current_price": "15749.0",
+      "original_price": "18499.0",
+      "discount": 14.9,
+      "difference": 2750.0,
       "criteria": [
-        "R$ 814.84 desc."
+        "R$ 2750.0 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": true,
-      "discovery_ts": 1784835801.542638
+      "discovery_ts": 1784843165.256528
     },
     {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B0GP1F45V4",
+      "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GP1F45V4",
+      "current_price": "2099.0",
+      "original_price": "2399.0",
+      "discount": 12.5,
+      "difference": 300.0,
       "criteria": [
-        "R$ 1900.0 desc."
+        "R$ 300.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784843165.256528
+    },
+    {
+      "asin": "B0FQHXYK1Y",
+      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
+      "current_price": "9699.0",
+      "original_price": "11499.0",
+      "discount": 15.7,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784830133.087011
@@ -1438,21 +1473,21 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
+      "asin": "B0G4DV2ZPJ",
+      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
+      "current_price": "5699.0",
+      "original_price": "6513.84",
       "discount": 12.5,
-      "difference": 1000.0,
+      "difference": 814.84,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 814.84 desc."
       ],
       "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos",
       "is_new": false,
-      "discovery_ts": 1784595805.500833
+      "discovery_ts": 1784835801.542638
     },
     {
       "asin": "B0CD1JTBSC",
@@ -1472,55 +1507,21 @@
       "discovery_ts": 1784595805.500833
     },
     {
-      "asin": "B0DYKWFDV2",
-      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
-      "current_price": "3059.99",
-      "original_price": "3437.78",
-      "discount": 11.0,
-      "difference": 377.79,
+      "asin": "B0DX2M9CGP",
+      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
+      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
+      "current_price": "3243.33",
+      "original_price": "3623.75",
+      "discount": 10.5,
+      "difference": 380.42,
       "criteria": [
-        "R$ 377.79 desc."
+        "R$ 380.42 desc."
       ],
       "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784499817.953621
-    },
-    {
-      "asin": "B0F5X4LL89",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
-      "current_price": "2239.0",
-      "original_price": "2599.99",
-      "discount": 13.9,
-      "difference": 360.99,
-      "criteria": [
-        "R$ 360.99 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784725632.865556
-    },
-    {
-      "asin": "B0FTGL2XBC",
-      "title": "Smart TV TCL 32 Polegadas HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 32S5K",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-32S5K/dp/B0FTGL2XBC",
-      "current_price": "959.89",
-      "original_price": "1299.0",
-      "discount": 26.1,
-      "difference": 339.11,
-      "criteria": [
-        "R$ 339.11 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81iCR9kQFbL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784572052.68313
     },
     {
       "asin": "B0DKFMSMYK",
@@ -1557,23 +1558,6 @@
       "discovery_ts": 1784825707.553482
     },
     {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
-    },
-    {
       "asin": "B0812BFKXP",
       "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
       "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
@@ -1591,6 +1575,23 @@
       "discovery_ts": 1784646038.083462
     },
     {
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784559188.206797
+    },
+    {
       "asin": "B08VBXJY7P",
       "title": "Whisky Johnnie Walker Blonde 750ml",
       "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Blonde-700ml/dp/B08VBXJY7P",
@@ -1606,40 +1607,6 @@
       "category": "🥃 Bebidas",
       "is_new": false,
       "discovery_ts": 1784607971.268491
-    },
-    {
-      "asin": "B0DCCGJQZS",
-      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
-      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
-      "current_price": "52.47",
-      "original_price": "99.0",
-      "discount": 47.0,
-      "difference": 46.53,
-      "criteria": [
-        "47.0% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     }
   ]
 }
