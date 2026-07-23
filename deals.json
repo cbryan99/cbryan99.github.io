@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 11:30:40",
+  "last_check": "23/07/2026 13:09:53",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1280,9 +1280,35 @@
           "date": "2026-07-23T09:38:52.826355"
         }
       ]
+    },
+    "B0DGLZC96M": {
+      "discovery_date": "2026-07-23T13:09:53.410006",
+      "price_history": [
+        {
+          "price": "6499.0",
+          "date": "2026-07-23T13:09:53.410006"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DGLZC96M",
+      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
+      "current_price": "6499.0",
+      "original_price": "8499.0",
+      "discount": 23.5,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": true,
+      "discovery_ts": 1784812193.410006
+    },
     {
       "asin": "B09B8VWZRG",
       "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
@@ -1302,55 +1328,89 @@
       "discovery_ts": 1784769327.210855
     },
     {
-      "asin": "B0CPFBBHP4",
-      "title": "eufy X10 Pro Omni Robô Aspirador da Anker, Estação Completa, Até 68 Dias Sem Manutenção, Lava e Seca com Ar Quente a 45°C, Esvazia Pó e Repõe Água, IA e Laser, Antiembaraço, para Pets, 220V",
-      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
-      "current_price": "4899.0",
-      "original_price": "5999.0",
-      "discount": 18.3,
-      "difference": 1100.0,
+      "asin": "B0BZT6SMRS",
+      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
+      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
+      "current_price": "3198.0",
+      "original_price": "4699.0",
+      "discount": 31.9,
+      "difference": 1501.0,
       "criteria": [
-        "R$ 1100.0 desc."
+        "R$ 1501.0 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784564480.506233
+      "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.17",
-      "discount": 11.3,
-      "difference": 331.53,
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": "3598.99",
+      "original_price": "4899.0",
+      "discount": 26.5,
+      "difference": 1300.01,
       "criteria": [
-        "R$ 331.53 desc."
+        "R$ 1300.01 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": false,
-      "discovery_ts": 1784564480.506233
+      "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
+      "asin": "B0DYKWFDV2",
+      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
+      "current_price": "3059.99",
+      "original_price": "3437.78",
+      "discount": 11.0,
+      "difference": 377.79,
       "criteria": [
-        "54.2% OFF"
+        "R$ 377.79 desc."
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784499817.953621
+    },
+    {
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
+    },
+    {
+      "asin": "B088WCR8M3",
+      "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
+      "link": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3",
+      "current_price": "186.99",
+      "original_price": "379.0",
+      "discount": 50.7,
+      "difference": 192.01,
+      "criteria": [
+        "50.7% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hLsRGbFXL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784442690.455916
     },
     {
       "asin": "B0812BFKXP",
@@ -1370,23 +1430,6 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
-      "criteria": [
-        "45.3% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784582414.20406
-    },
-    {
       "asin": "B07JFTS6BS",
       "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
       "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
@@ -1402,6 +1445,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B0GZWH9D3W",
@@ -1455,38 +1515,21 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0BSVM7QS8",
-      "title": "Pilha Alcalina AA com 16 unidades Elgin Comum",
-      "link": "https://www.amazon.com.br/Pilha-Alcalina-unidades-Elgin-Comum/dp/B0BSVM7QS8",
-      "current_price": "20.61",
-      "original_price": "55.9",
-      "discount": 63.1,
-      "difference": 35.29,
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
       "criteria": [
-        "63.1% OFF"
+        "44.5% OFF"
       ],
-      "badge": "63% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71RnTuLpZeL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784682353.861696
-    },
-    {
-      "asin": "B0754KMGFN",
-      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
-      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
-      "current_price": "17.21",
-      "original_price": "43.02",
-      "discount": 60.0,
-      "difference": 25.81,
-      "criteria": [
-        "60.0% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784704431.833333
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B08553P1JV",
