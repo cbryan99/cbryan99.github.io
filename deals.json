@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 18:08:53",
+  "last_check": "23/07/2026 19:43:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1356,9 +1356,53 @@
           "date": "2026-07-23T18:08:53.087011"
         }
       ]
+    },
+    "B0G4DV2ZPJ": {
+      "discovery_date": "2026-07-23T19:43:21.542638",
+      "price_history": [
+        {
+          "price": "5699.0",
+          "date": "2026-07-23T19:43:21.542638"
+        }
+      ]
+    },
+    "B0FQH5C9T9": {
+      "discovery_date": "2026-07-23T19:43:21.542638",
+      "price_history": [
+        {
+          "price": "15749.0",
+          "date": "2026-07-23T19:43:21.542638"
+        }
+      ]
+    },
+    "B0F5X5CP4G": {
+      "discovery_date": "2026-07-23T19:43:21.542638",
+      "price_history": [
+        {
+          "price": "2499.0",
+          "date": "2026-07-23T19:43:21.542638"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQH5C9T9",
+      "title": "Apple iPhone 17 Pro Max (2 TB) - Laranja cósmico",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQH5C9T9",
+      "current_price": "15749.0",
+      "original_price": "18499.0",
+      "discount": 14.9,
+      "difference": 2750.0,
+      "criteria": [
+        "R$ 2750.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51k0qRQFcuL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": true,
+      "discovery_ts": 1784835801.542638
+    },
     {
       "asin": "B0DJFSZ2ML",
       "title": "Apple iPhone 16 (256 GB) – Branco",
@@ -1377,38 +1421,38 @@
       "discovery_ts": 1784830133.087011
     },
     {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
+      "asin": "B0G4DV2ZPJ",
+      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
+      "current_price": "5699.0",
+      "original_price": "6513.84",
+      "discount": 12.5,
+      "difference": 814.84,
       "criteria": [
-        "R$ 1800.0 desc."
+        "R$ 814.84 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": true,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0FTGL2XBC",
-      "title": "Smart TV TCL 32 Polegadas HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 32S5K",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-32S5K/dp/B0FTGL2XBC",
-      "current_price": "959.89",
-      "original_price": "1299.0",
-      "discount": 26.1,
-      "difference": 339.11,
+      "asin": "B0F5X5CP4G",
+      "title": "Samsung Vision AI TV 50\" QLED 4K Q7F 4K 2025",
+      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-Q7F-2025/dp/B0F5X5CP4G",
+      "current_price": "2499.0",
+      "original_price": "2999.99",
+      "discount": 16.7,
+      "difference": 500.99,
       "criteria": [
-        "R$ 339.11 desc."
+        "R$ 500.99 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81iCR9kQFbL._AC_UL210_SR210,210_.jpg",
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81JGZqS1yKL._AC_UL210_SR210,210_.jpg",
       "category": "📺 Eletrodomésticos",
       "is_new": true,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784835801.542638
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1426,41 +1470,6 @@
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
-      "discount": 12.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
-      "asin": "B09VCHQHZ6",
-      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
-      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
-      "current_price": "1199.99",
-      "original_price": "2186.92",
-      "discount": 45.1,
-      "difference": 986.93,
-      "criteria": [
-        "45.1% OFF",
-        "R$ 986.93 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784638337.83697
     },
     {
       "asin": "B0F5X4LL89",
@@ -1497,23 +1506,6 @@
       "discovery_ts": 1784564480.506233
     },
     {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
-    },
-    {
       "asin": "B0BGT1VQGJ",
       "title": "Webcam Full HD Logitech Brio 500, Câmera para PC com Microfones Duplos, Privacidade Integrada, RightLight 4 e Enquadramento Automático - Grafite",
       "link": "https://www.amazon.com.br/Webcam-Logitech-BRIO-500-Grafite/dp/B0BGT1VQGJ",
@@ -1529,23 +1521,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784820182.122358
-    },
-    {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B0812BFKXP",
@@ -1599,23 +1574,6 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0DLQDL629",
-      "title": "Decolab Jogo De Tapetes Para Banheiro Completo | Kit Tapetes Banheiro Ultra Absorvente | Tapetes Antiderrapantes Super Soft Multiuso Decoração (Cinza-escuro, 3 Peças)",
-      "link": "https://www.amazon.com.br/Decolab-Tapete-Antiderrapante-Banheiro-Cinza-escuro/dp/B0DLQDL629",
-      "current_price": "56.43",
-      "original_price": "101.9",
-      "discount": 44.6,
-      "difference": 45.47,
-      "criteria": [
-        "44.6% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71RWZFzYmrL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784820182.122358
-    },
-    {
       "asin": "B0DKVJ1HWB",
       "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
       "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
@@ -1631,23 +1589,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B08553P1JV",
-      "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
-      "link": "https://www.amazon.com.br/Amaciante-Downy-Frescor-Primavera-5L/dp/B08553P1JV",
-      "current_price": "23.4",
-      "original_price": "39.42",
-      "discount": 40.6,
-      "difference": 16.02,
-      "criteria": [
-        "40.6% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xDTzzq-HL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784677180.276634
     }
   ]
 }
