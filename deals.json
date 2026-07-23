@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 21:46:05",
+  "last_check": "23/07/2026 22:40:18",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1401,6 +1401,15 @@
           "date": "2026-07-23T21:46:05.256528"
         }
       ]
+    },
+    "B0DJFSKVZ5": {
+      "discovery_date": "2026-07-23T22:40:18.539129",
+      "price_history": [
+        {
+          "price": "5699.0",
+          "date": "2026-07-23T22:40:18.539129"
+        }
+      ]
     }
   },
   "data": [
@@ -1422,38 +1431,21 @@
       "discovery_ts": 1784843165.256528
     },
     {
-      "asin": "B0GP1F45V4",
-      "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GP1F45V4",
-      "current_price": "2099.0",
-      "original_price": "2399.0",
-      "discount": 12.5,
-      "difference": 300.0,
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": "5699.0",
+      "original_price": "7599.0",
+      "discount": 25.0,
+      "difference": 1900.0,
       "criteria": [
-        "R$ 300.0 desc."
+        "R$ 1900.0 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": true,
-      "discovery_ts": 1784843165.256528
-    },
-    {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
-      "criteria": [
-        "R$ 1800.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "is_new": true,
+      "discovery_ts": 1784846418.539129
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1490,55 +1482,72 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0CD1JTBSC",
-      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
-      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
-      "current_price": "4067.0",
-      "original_price": "4469.0",
-      "discount": 9.0,
-      "difference": 402.0,
+      "asin": "B0F5X5CP4G",
+      "title": "Samsung Vision AI TV 50\" QLED 4K Q7F 4K 2025",
+      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-Q7F-2025/dp/B0F5X5CP4G",
+      "current_price": "2499.0",
+      "original_price": "2999.99",
+      "discount": 16.7,
+      "difference": 500.99,
       "criteria": [
-        "R$ 402.0 desc."
+        "R$ 500.99 desc."
       ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81JGZqS1yKL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784595805.500833
+      "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0DX2M9CGP",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
-      "current_price": "3243.33",
-      "original_price": "3623.75",
-      "discount": 10.5,
-      "difference": 380.42,
+      "asin": "B0FKD1SFPC",
+      "title": "Samsung Vision AI TV 43\" NEO QLED ULTRA 4K QN90F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Vision-QLED-ULTRA-QN90F/dp/B0FKD1SFPC",
+      "current_price": "3999.0",
+      "original_price": "4499.0",
+      "discount": 11.1,
+      "difference": 500.0,
       "criteria": [
-        "R$ 380.42 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784572052.68313
-    },
-    {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.17",
-      "discount": 11.3,
-      "difference": 331.53,
-      "criteria": [
-        "R$ 331.53 desc."
+        "R$ 500.0 desc."
       ],
       "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fT1Y28bkL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784564480.506233
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784733181.055293
+    },
+    {
+      "asin": "B0FTGL2XBC",
+      "title": "Smart TV TCL 32 Polegadas HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 32S5K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-32S5K/dp/B0FTGL2XBC",
+      "current_price": "959.89",
+      "original_price": "1299.0",
+      "discount": 26.1,
+      "difference": 339.11,
+      "criteria": [
+        "R$ 339.11 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81iCR9kQFbL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0FXMX7SGL",
@@ -1575,38 +1584,21 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
+      "asin": "B0DCCGJQZS",
+      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
+      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
+      "current_price": "52.47",
+      "original_price": "99.0",
+      "discount": 47.0,
+      "difference": 46.53,
       "criteria": [
-        "40.0% OFF"
+        "47.0% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B08VBXJY7P",
-      "title": "Whisky Johnnie Walker Blonde 750ml",
-      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Blonde-700ml/dp/B08VBXJY7P",
-      "current_price": "44.9",
-      "original_price": "115.9",
-      "discount": 61.3,
-      "difference": 71.0,
-      "criteria": [
-        "61.3% OFF"
-      ],
-      "badge": "61% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51JsUkgA+KL._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
-      "is_new": false,
-      "discovery_ts": 1784607971.268491
+      "discovery_ts": 1784752600.373367
     }
   ]
 }
