@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 13:09:53",
+  "last_check": "23/07/2026 15:23:02",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1289,25 +1289,60 @@
           "date": "2026-07-23T13:09:53.410006"
         }
       ]
+    },
+    "B0BGT1VQGJ": {
+      "discovery_date": "2026-07-23T15:23:02.122358",
+      "price_history": [
+        {
+          "price": "499.9",
+          "date": "2026-07-23T15:23:02.122358"
+        }
+      ]
+    },
+    "B0DLQDL629": {
+      "discovery_date": "2026-07-23T15:23:02.122358",
+      "price_history": [
+        {
+          "price": "56.43",
+          "date": "2026-07-23T15:23:02.122358"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DGLZC96M",
-      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
-      "current_price": "6499.0",
-      "original_price": "8499.0",
-      "discount": 23.5,
-      "difference": 2000.0,
+      "asin": "B0BGT1VQGJ",
+      "title": "Webcam Full HD Logitech Brio 500, Câmera para PC com Microfones Duplos, Privacidade Integrada, RightLight 4 e Enquadramento Automático - Grafite",
+      "link": "https://www.amazon.com.br/Webcam-Logitech-BRIO-500-Grafite/dp/B0BGT1VQGJ",
+      "current_price": "499.9",
+      "original_price": "799.9",
+      "discount": 37.5,
+      "difference": 300.0,
       "criteria": [
-        "R$ 2000.0 desc."
+        "R$ 300.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WUh26fLBL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": true,
-      "discovery_ts": 1784812193.410006
+      "discovery_ts": 1784820182.122358
+    },
+    {
+      "asin": "B0DLQDL629",
+      "title": "Decolab Jogo De Tapetes Para Banheiro Completo | Kit Tapetes Banheiro Ultra Absorvente | Tapetes Antiderrapantes Super Soft Multiuso Decoração (Cinza-escuro, 3 Peças)",
+      "link": "https://www.amazon.com.br/Decolab-Tapete-Antiderrapante-Banheiro-Cinza-escuro/dp/B0DLQDL629",
+      "current_price": "56.43",
+      "original_price": "101.9",
+      "discount": 44.6,
+      "difference": 45.47,
+      "criteria": [
+        "44.6% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71RWZFzYmrL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784820182.122358
     },
     {
       "asin": "B09B8VWZRG",
@@ -1328,23 +1363,6 @@
       "discovery_ts": 1784769327.210855
     },
     {
-      "asin": "B0BZT6SMRS",
-      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
-      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
-      "current_price": "3198.0",
-      "original_price": "4699.0",
-      "discount": 31.9,
-      "difference": 1501.0,
-      "criteria": [
-        "R$ 1501.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784646038.083462
-    },
-    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -1362,21 +1380,38 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0DYKWFDV2",
-      "title": "Ar Condicionado Split Hi Wall Inverter LG Dual Compact +AI 18000 BTU/h Quente e Frio S3-W18KLQAL – 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-LG-Compact-S3-W18KLQAL/dp/B0DYKWFDV2",
-      "current_price": "3059.99",
-      "original_price": "3437.78",
-      "discount": 11.0,
-      "difference": 377.79,
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": "6999.0",
+      "original_price": "7999.0",
+      "discount": 12.5,
+      "difference": 1000.0,
       "criteria": [
-        "R$ 377.79 desc."
+        "R$ 1000.0 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k+8htJqCL._AC_UL210_SR210,210_.jpg",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784595805.500833
+    },
+    {
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784499817.953621
+      "discovery_ts": 1784733181.055293
     },
     {
       "asin": "B0FPRGKBL3",
@@ -1396,23 +1431,6 @@
       "discovery_ts": 1784578007.009292
     },
     {
-      "asin": "B088WCR8M3",
-      "title": "Azzaro, Azzaro Sport, Perfume Masculino, Fragrância Fougère Fresca com Notas de Grapefruit e Sândalo, Eau de Toilette com Fixação Equilibrada, Ideal para Pré-treino e Pós-treino, 100ml",
-      "link": "https://www.amazon.com.br/Azzaro-Fragr%C3%A2ncia-Grapefruit-Equilibrada-Pr%C3%A9-treino/dp/B088WCR8M3",
-      "current_price": "186.99",
-      "original_price": "379.0",
-      "discount": 50.7,
-      "difference": 192.01,
-      "criteria": [
-        "50.7% OFF"
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hLsRGbFXL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784442690.455916
-    },
-    {
       "asin": "B0812BFKXP",
       "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
       "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
@@ -1430,21 +1448,21 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
+      "asin": "B09V83L8G8",
+      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
+      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
+      "current_price": "99.79",
+      "original_price": "182.27",
+      "discount": 45.3,
+      "difference": 82.48,
       "criteria": [
-        "40.0% OFF"
+        "45.3% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784559188.206797
+      "discovery_ts": 1784582414.20406
     },
     {
       "asin": "B0GHP4NL1J",
@@ -1462,23 +1480,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B0GZWH9D3W",
-      "title": "Kit Morte Súbita - Shampoo e Máscara - Edição comemorativa - Lola From Rio",
-      "link": "https://www.amazon.com.br/Kit-Morte-S%C3%BAbita-Shampoo-comemorativa/dp/B0GZWH9D3W",
-      "current_price": "39.9",
-      "original_price": "89.9",
-      "discount": 55.6,
-      "difference": 50.0,
-      "criteria": [
-        "55.6% OFF"
-      ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/8148kkYPYUL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784760228.898259
     },
     {
       "asin": "B0DCCGJQZS",
@@ -1513,23 +1514,6 @@
       "category": "✂️ Autocuidado",
       "is_new": false,
       "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B08553P1JV",
