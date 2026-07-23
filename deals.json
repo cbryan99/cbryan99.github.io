@@ -1,5 +1,5 @@
 {
-  "last_check": "23/07/2026 01:15:27",
+  "last_check": "23/07/2026 04:36:44",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1244,9 +1244,35 @@
           "date": "2026-07-23T01:15:27.210855"
         }
       ]
+    },
+    "B07ZD69QXX": {
+      "discovery_date": "2026-07-23T04:36:44.889906",
+      "price_history": [
+        {
+          "price": "65.89",
+          "date": "2026-07-23T04:36:44.889906"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B07ZD69QXX",
+      "title": "Hada Labo® Gokujyun Lotion – Loção Hidratante facial com Ácido Hialurônico fermentado com lactobacilos 170ml",
+      "link": "https://www.amazon.com.br/Hada-Labo-Gokujyun-Lotion/dp/B07ZD69QXX",
+      "current_price": "65.89",
+      "original_price": "119.0",
+      "discount": 44.6,
+      "difference": 53.11,
+      "criteria": [
+        "44.6% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eqUUL6WDL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784781404.889906
+    },
     {
       "asin": "B09B8VWZRG",
       "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
@@ -1262,7 +1288,7 @@
       "badge": "58% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jXZmfuQoL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1784769327.210855
     },
     {
@@ -1300,23 +1326,6 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
-      "discount": 12.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
       "asin": "B0FPBQQ4TN",
       "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
@@ -1334,21 +1343,21 @@
       "discovery_ts": 1784464310.552537
     },
     {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.17",
-      "discount": 11.3,
-      "difference": 331.53,
+      "asin": "B0F5X4LL89",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
+      "current_price": "2239.0",
+      "original_price": "2599.99",
+      "discount": 13.9,
+      "difference": 360.99,
       "criteria": [
-        "R$ 331.53 desc."
+        "R$ 360.99 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784564480.506233
+      "discovery_ts": 1784725632.865556
     },
     {
       "asin": "B0FPRGKBL3",
@@ -1419,36 +1428,19 @@
       "discovery_ts": 1784760228.898259
     },
     {
-      "asin": "B09GSQMVJS",
-      "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
-      "current_price": "67.4",
-      "original_price": "116.9",
-      "discount": 42.3,
-      "difference": 49.5,
+      "asin": "B0DCCGJQZS",
+      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
+      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
+      "current_price": "52.47",
+      "original_price": "99.0",
+      "discount": 47.0,
+      "difference": 46.53,
       "criteria": [
-        "42.3% OFF"
+        "47.0% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TvgvfNA9L._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": false,
-      "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "B08PPKQTFB",
-      "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
-      "current_price": "18.9",
-      "original_price": "54.9",
-      "discount": 65.6,
-      "difference": 36.0,
-      "criteria": [
-        "65.6% OFF"
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNJekcJSL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
       "is_new": false,
       "discovery_ts": 1784752600.373367
     },
