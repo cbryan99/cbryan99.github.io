@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 01:12:08",
+  "last_check": "24/07/2026 04:34:52",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1419,59 +1419,86 @@
           "date": "2026-07-24T01:12:08.896726"
         }
       ]
+    },
+    "B097NRKZYH": {
+      "discovery_date": "2026-07-24T04:34:52.162797",
+      "price_history": [
+        {
+          "price": "17.44",
+          "date": "2026-07-24T04:34:52.162797"
+        }
+      ]
+    },
+    "B0BV4Y6N8G": {
+      "discovery_date": "2026-07-24T04:34:52.162797",
+      "price_history": [
+        {
+          "price": "119.79",
+          "date": "2026-07-24T04:34:52.162797"
+        }
+      ]
+    },
+    "B0DCM31SDG": {
+      "discovery_date": "2026-07-24T04:34:52.162797",
+      "price_history": [
+        {
+          "price": "63.78",
+          "date": "2026-07-24T04:34:52.162797"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FCSMPWKZ",
-      "title": "Ar Condicionado Split Hi Wall Inverter Elgin 24000 Btus Quente e Frio Eco Inverter Ii Wi-fi C 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Elgin-Quente/dp/B0FCSMPWKZ",
-      "current_price": "3584.0",
-      "original_price": "4096.0",
-      "discount": 12.5,
-      "difference": 512.0,
+      "asin": "B0DCM31SDG",
+      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
+      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCM31SDG",
+      "current_price": "63.78",
+      "original_price": "159.9",
+      "discount": 60.1,
+      "difference": 96.12,
       "criteria": [
-        "R$ 512.0 desc."
+        "60.1% OFF"
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51v5SlDBhAL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": true,
-      "discovery_ts": 1784855528.896726
+      "discovery_ts": 1784867692.162797
     },
     {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B0BV4Y6N8G",
+      "title": "Panela de Arroz Elétrica Elgin Capacidade 5 Xícaras 1 Litro 400W 110V",
+      "link": "https://www.amazon.com.br/Panela-El%C3%A9trica-Elgin-Capacidade-X%C3%ADcaras/dp/B0BV4Y6N8G",
+      "current_price": "119.79",
+      "original_price": "215.0",
+      "discount": 44.3,
+      "difference": 95.21,
       "criteria": [
-        "R$ 1900.0 desc."
+        "44.3% OFF"
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OVQVfae2L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784867692.162797
     },
     {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
+      "asin": "B097NRKZYH",
+      "title": "Colgate Creme Dental para sensibilidade Sensitive Pro Alívio Imediato 90 g, 3 Unidades, Alívio da Sensibilidade com Arginina, Sensação Imediata",
+      "link": "https://www.amazon.com.br/Colgate-Pro-Al%C3%ADvio-Creme-dental/dp/B097NRKZYH",
+      "current_price": "17.44",
+      "original_price": "33.22",
+      "discount": 47.5,
+      "difference": 15.78,
       "criteria": [
-        "R$ 1800.0 desc."
+        "47.5% OFF"
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SHEEZ7RjL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784867692.162797
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1491,38 +1518,22 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0CPFBBHP4",
-      "title": "eufy X10 Pro Omni Robô Aspirador da Anker, Estação Completa, Até 68 Dias Sem Manutenção, Lava e Seca com Ar Quente a 45°C, Esvazia Pó e Repõe Água, IA e Laser, Antiembaraço, para Pets, 220V",
-      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
-      "current_price": "4899.0",
-      "original_price": "5999.0",
-      "discount": 18.3,
-      "difference": 1100.0,
+      "asin": "B09VCHQHZ6",
+      "title": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 36MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
+      "link": "https://www.amazon.com.br/PROCESSADOR-AMD-5700X-100-100000926WOF-Cer%C3%A2mica/dp/B09VCHQHZ6",
+      "current_price": "1199.99",
+      "original_price": "2186.92",
+      "discount": 45.1,
+      "difference": 986.93,
       "criteria": [
-        "R$ 1100.0 desc."
+        "45.1% OFF",
+        "R$ 986.93 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gRv8z+K6L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784564480.506233
-    },
-    {
-      "asin": "B0FCYPSZ9G",
-      "title": "Soundbar Série Q HW-Q990F 11.1.4 canais Subwoofer e Caixas traseiras 2025",
-      "link": "https://www.amazon.com.br/Soundbar-HW-Q990F-11-1-4-Subwoofer-traseiras/dp/B0FCYPSZ9G",
-      "current_price": "6099.0",
-      "original_price": "6999.0",
-      "discount": 12.9,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31zlAtKT0PL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784790885.942754
+      "discovery_ts": 1784638337.83697
     },
     {
       "asin": "B0G4DV2ZPJ",
@@ -1540,6 +1551,23 @@
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784835801.542638
+    },
+    {
+      "asin": "B0FCSMPWKZ",
+      "title": "Ar Condicionado Split Hi Wall Inverter Elgin 24000 Btus Quente e Frio Eco Inverter Ii Wi-fi C 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Elgin-Quente/dp/B0FCSMPWKZ",
+      "current_price": "3584.0",
+      "original_price": "4096.0",
+      "discount": 12.5,
+      "difference": 512.0,
+      "criteria": [
+        "R$ 512.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51v5SlDBhAL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784855528.896726
     },
     {
       "asin": "B0F5X5CP4G",
@@ -1642,6 +1670,23 @@
       "category": "❄️ Eletrodomésticos",
       "is_new": false,
       "discovery_ts": 1784843165.256528
+    },
+    {
+      "asin": "B08553P1JV",
+      "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
+      "link": "https://www.amazon.com.br/Amaciante-Downy-Frescor-Primavera-5L/dp/B08553P1JV",
+      "current_price": "23.4",
+      "original_price": "39.42",
+      "discount": 40.6,
+      "difference": 16.02,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xDTzzq-HL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784677180.276634
     }
   ]
 }
