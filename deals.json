@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 14:50:11",
+  "last_check": "24/07/2026 19:17:23",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1518,9 +1518,87 @@
           "date": "2026-07-24T14:50:11.259359"
         }
       ]
+    },
+    "B0H2DR1SGP": {
+      "discovery_date": "2026-07-24T19:17:23.156706",
+      "price_history": [
+        {
+          "price": "1919.1",
+          "date": "2026-07-24T19:17:23.156706"
+        }
+      ]
+    },
+    "B076X5ZLZQ": {
+      "discovery_date": "2026-07-24T19:17:23.156706",
+      "price_history": [
+        {
+          "price": "18.2",
+          "date": "2026-07-24T19:17:23.156706"
+        }
+      ]
+    },
+    "B0FTHRL7C4": {
+      "discovery_date": "2026-07-24T19:17:23.156706",
+      "price_history": [
+        {
+          "price": "6096.48",
+          "date": "2026-07-24T19:17:23.156706"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FTHRL7C4",
+      "title": "Samsung Combo Vision AI TV 75\" QLED 4K QEF1 + Soundbar HW-B450F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Vision-Soundbar-HW-B450F/dp/B0FTHRL7C4",
+      "current_price": "6096.48",
+      "original_price": "8248.0",
+      "discount": 26.1,
+      "difference": 2151.52,
+      "criteria": [
+        "R$ 2151.52 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41YmIaqSe0L._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1784920643.156706
+    },
+    {
+      "asin": "B0H2DR1SGP",
+      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
+      "link": "https://www.amazon.com.br/DREAME-L40-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
+      "current_price": "1919.1",
+      "original_price": "2499.0",
+      "discount": 23.2,
+      "difference": 579.9,
+      "criteria": [
+        "R$ 579.9 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784920643.156706
+    },
+    {
+      "asin": "B076X5ZLZQ",
+      "title": "Mor - Tábua Retangular Bamboo 35cm x 25cm",
+      "link": "https://www.amazon.com.br/T%C3%A1bua-Retangular-Bamboo-Mor-35/dp/B076X5ZLZQ",
+      "current_price": "18.2",
+      "original_price": "31.1",
+      "discount": 41.5,
+      "difference": 12.9,
+      "criteria": [
+        "41.5% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61sVKvVjClL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784920643.156706
+    },
     {
       "asin": "B0FQJ2FS3T",
       "title": "Apple iPhone 17 Pro Max (1 TB) - Azul intenso",
@@ -1535,25 +1613,25 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1784904611.259359
     },
     {
-      "asin": "B0DGLZC96M",
-      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
-      "current_price": "6499.0",
-      "original_price": "8499.0",
-      "discount": 23.5,
-      "difference": 2000.0,
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": "5699.0",
+      "original_price": "7599.0",
+      "discount": 25.0,
+      "difference": 1900.0,
       "criteria": [
-        "R$ 2000.0 desc."
+        "R$ 1900.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784812193.410006
+      "discovery_ts": 1784846418.539129
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1590,21 +1668,21 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0FXMX7SGL",
-      "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
-      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
-      "current_price": "1999.0",
-      "original_price": "2299.9",
-      "discount": 13.1,
-      "difference": 300.9,
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.17",
+      "discount": 11.3,
+      "difference": 331.53,
       "criteria": [
-        "R$ 300.9 desc."
+        "R$ 331.53 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784825707.553482
+      "discovery_ts": 1784564480.506233
     },
     {
       "asin": "B0FPRGKBL3",
@@ -1639,23 +1717,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784646038.083462
-    },
-    {
-      "asin": "B0BV4Y6N8G",
-      "title": "Panela de Arroz Elétrica Elgin Capacidade 5 Xícaras 1 Litro 400W 110V",
-      "link": "https://www.amazon.com.br/Panela-El%C3%A9trica-Elgin-Capacidade-X%C3%ADcaras/dp/B0BV4Y6N8G",
-      "current_price": "119.79",
-      "original_price": "215.0",
-      "discount": 44.3,
-      "difference": 95.21,
-      "criteria": [
-        "44.3% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OVQVfae2L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784867692.162797
     },
     {
       "asin": "B09V83L8G8",
