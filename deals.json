@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 12:54:20",
+  "last_check": "24/07/2026 14:50:11",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1509,9 +1509,69 @@
           "date": "2026-07-24T09:36:24.075693"
         }
       ]
+    },
+    "B0FQJ2FS3T": {
+      "discovery_date": "2026-07-24T14:50:11.259359",
+      "price_history": [
+        {
+          "price": "13099.0",
+          "date": "2026-07-24T14:50:11.259359"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQJ2FS3T",
+      "title": "Apple iPhone 17 Pro Max (1 TB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQJ2FS3T",
+      "current_price": "13099.0",
+      "original_price": "15499.0",
+      "discount": 15.5,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": true,
+      "discovery_ts": 1784904611.259359
+    },
+    {
+      "asin": "B0DGLZC96M",
+      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
+      "current_price": "6499.0",
+      "original_price": "8499.0",
+      "discount": 23.5,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": false,
+      "discovery_ts": 1784812193.410006
+    },
+    {
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": "3598.99",
+      "original_price": "4899.0",
+      "discount": 26.5,
+      "difference": 1300.01,
+      "criteria": [
+        "R$ 1300.01 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784752600.373367
+    },
     {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
@@ -1530,6 +1590,40 @@
       "discovery_ts": 1784835801.542638
     },
     {
+      "asin": "B0FXMX7SGL",
+      "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
+      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
+      "current_price": "1999.0",
+      "original_price": "2299.9",
+      "discount": 13.1,
+      "difference": 300.9,
+      "criteria": [
+        "R$ 300.9 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784825707.553482
+    },
+    {
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784578007.009292
+    },
+    {
       "asin": "B0812BFKXP",
       "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
       "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
@@ -1545,6 +1639,23 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784646038.083462
+    },
+    {
+      "asin": "B0BV4Y6N8G",
+      "title": "Panela de Arroz Elétrica Elgin Capacidade 5 Xícaras 1 Litro 400W 110V",
+      "link": "https://www.amazon.com.br/Panela-El%C3%A9trica-Elgin-Capacidade-X%C3%ADcaras/dp/B0BV4Y6N8G",
+      "current_price": "119.79",
+      "original_price": "215.0",
+      "discount": 44.3,
+      "difference": 95.21,
+      "criteria": [
+        "44.3% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OVQVfae2L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784867692.162797
     },
     {
       "asin": "B09V83L8G8",
@@ -1579,23 +1690,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B0GHPGBPSR",
-      "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
-      "current_price": "56.88",
-      "original_price": "119.9",
-      "discount": 52.6,
-      "difference": 63.02,
-      "criteria": [
-        "52.6% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784799532.826355
     }
   ]
 }
