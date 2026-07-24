@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 19:17:23",
+  "last_check": "24/07/2026 20:42:03",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1545,76 +1545,60 @@
           "date": "2026-07-24T19:17:23.156706"
         }
       ]
+    },
+    "B0FQGZLNY5": {
+      "discovery_date": "2026-07-24T20:42:03.942405",
+      "price_history": [
+        {
+          "price": "15749.0",
+          "date": "2026-07-24T20:42:03.942405"
+        }
+      ]
+    },
+    "B0CP6CJ8JG": {
+      "discovery_date": "2026-07-24T20:42:03.942405",
+      "price_history": [
+        {
+          "price": "5199.0",
+          "date": "2026-07-24T20:42:03.942405"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FTHRL7C4",
-      "title": "Samsung Combo Vision AI TV 75\" QLED 4K QEF1 + Soundbar HW-B450F",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Vision-Soundbar-HW-B450F/dp/B0FTHRL7C4",
-      "current_price": "6096.48",
-      "original_price": "8248.0",
-      "discount": 26.1,
-      "difference": 2151.52,
+      "asin": "B0FQGZLNY5",
+      "title": "Apple iPhone 17 Pro Max (2 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQGZLNY5",
+      "current_price": "15749.0",
+      "original_price": "18499.0",
+      "discount": 14.9,
+      "difference": 2750.0,
       "criteria": [
-        "R$ 2151.52 desc."
+        "R$ 2750.0 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YmIaqSe0L._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Vti34Yv+L._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": true,
-      "discovery_ts": 1784920643.156706
+      "discovery_ts": 1784925723.942405
     },
     {
-      "asin": "B0H2DR1SGP",
-      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
-      "link": "https://www.amazon.com.br/DREAME-L40-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
-      "current_price": "1919.1",
-      "original_price": "2499.0",
-      "discount": 23.2,
-      "difference": 579.9,
+      "asin": "B0CP6CJ8JG",
+      "title": "Apple iPhone 15 (256 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
+      "current_price": "5199.0",
+      "original_price": "6799.0",
+      "discount": 23.5,
+      "difference": 1600.0,
       "criteria": [
-        "R$ 579.9 desc."
+        "R$ 1600.0 desc."
       ],
       "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784920643.156706
-    },
-    {
-      "asin": "B076X5ZLZQ",
-      "title": "Mor - Tábua Retangular Bamboo 35cm x 25cm",
-      "link": "https://www.amazon.com.br/T%C3%A1bua-Retangular-Bamboo-Mor-35/dp/B076X5ZLZQ",
-      "current_price": "18.2",
-      "original_price": "31.1",
-      "discount": 41.5,
-      "difference": 12.9,
-      "criteria": [
-        "41.5% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61sVKvVjClL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784920643.156706
-    },
-    {
-      "asin": "B0FQJ2FS3T",
-      "title": "Apple iPhone 17 Pro Max (1 TB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQJ2FS3T",
-      "current_price": "13099.0",
-      "original_price": "15499.0",
-      "discount": 15.5,
-      "difference": 2400.0,
-      "criteria": [
-        "R$ 2400.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784904611.259359
+      "is_new": true,
+      "discovery_ts": 1784925723.942405
     },
     {
       "asin": "B0DJFSKVZ5",
@@ -1651,6 +1635,23 @@
       "discovery_ts": 1784752600.373367
     },
     {
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": "6999.0",
+      "original_price": "7999.0",
+      "discount": 12.5,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
+      "is_new": false,
+      "discovery_ts": 1784595805.500833
+    },
+    {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
@@ -1668,21 +1669,38 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.17",
-      "discount": 11.3,
-      "difference": 331.53,
+      "asin": "B0H4RQCLJ2",
+      "title": "Lava Louças Midea 16 Serviços MDWEF1633GSS1 Inox 110V",
+      "link": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-MDWEF1633GSS1/dp/B0H4RQCLJ2",
+      "current_price": "3825.0",
+      "original_price": "4499.0",
+      "discount": 15.0,
+      "difference": 674.0,
       "criteria": [
-        "R$ 331.53 desc."
+        "R$ 674.0 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hqzNHIbvL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784564480.506233
+      "discovery_ts": 1784877248.775103
+    },
+    {
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784733181.055293
     },
     {
       "asin": "B0FPRGKBL3",
@@ -1702,55 +1720,21 @@
       "discovery_ts": 1784578007.009292
     },
     {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
+      "asin": "B08VBXJY7P",
+      "title": "Whisky Johnnie Walker Blonde 750ml",
+      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Blonde-700ml/dp/B08VBXJY7P",
+      "current_price": "44.9",
+      "original_price": "115.9",
+      "discount": 61.3,
+      "difference": 71.0,
       "criteria": [
-        "44.0% OFF"
+        "61.3% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JsUkgA+KL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
       "is_new": false,
-      "discovery_ts": 1784646038.083462
-    },
-    {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
-      "criteria": [
-        "45.3% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784582414.20406
-    },
-    {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784559188.206797
+      "discovery_ts": 1784607971.268491
     }
   ]
 }
