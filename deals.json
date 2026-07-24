@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 21:47:02",
+  "last_check": "24/07/2026 22:45:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1589,6 +1589,15 @@
           "date": "2026-07-24T21:47:02.888228"
         }
       ]
+    },
+    "B0CB6TK5J8": {
+      "discovery_date": "2026-07-24T22:45:21.394618",
+      "price_history": [
+        {
+          "price": "3819.0",
+          "date": "2026-07-24T22:45:21.394618"
+        }
+      ]
     }
   },
   "data": [
@@ -1610,21 +1619,21 @@
       "discovery_ts": 1784929622.888228
     },
     {
-      "asin": "B0GX2MN152",
-      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
-      "current_price": "5599.0",
-      "original_price": "6999.0",
-      "discount": 20.0,
-      "difference": 1400.0,
+      "asin": "B0CB6TK5J8",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
+      "link": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
+      "current_price": "3819.0",
+      "original_price": "5058.9",
+      "discount": 24.5,
+      "difference": 1239.9,
       "criteria": [
-        "R$ 1400.0 desc."
+        "R$ 1239.9 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HELBbb0WL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784929622.888228
+      "discovery_ts": 1784933121.394618
     },
     {
       "asin": "B09B8VWZRG",
@@ -1645,21 +1654,55 @@
       "discovery_ts": 1784769327.210855
     },
     {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B0FQGZLNY5",
+      "title": "Apple iPhone 17 Pro Max (2 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQGZLNY5",
+      "current_price": "15749.0",
+      "original_price": "18499.0",
+      "discount": 14.9,
+      "difference": 2750.0,
       "criteria": [
-        "R$ 1900.0 desc."
+        "R$ 2750.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Vti34Yv+L._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784846418.539129
+      "discovery_ts": 1784925723.942405
+    },
+    {
+      "asin": "B0CM3YVHMX",
+      "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
+      "current_price": "3499.0",
+      "original_price": "5799.0",
+      "discount": 39.7,
+      "difference": 2300.0,
+      "criteria": [
+        "R$ 2300.0 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784673560.96846
+    },
+    {
+      "asin": "B0FQHXYK1Y",
+      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
+      "current_price": "9699.0",
+      "original_price": "11499.0",
+      "discount": 15.7,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0B5ZCFHJW",
@@ -1713,23 +1756,6 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0H2DR1SGP",
-      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
-      "link": "https://www.amazon.com.br/DREAME-L40-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
-      "current_price": "1919.1",
-      "original_price": "2499.0",
-      "discount": 23.2,
-      "difference": 579.9,
-      "criteria": [
-        "R$ 579.9 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784920643.156706
-    },
-    {
       "asin": "B0GL3YFDQ9",
       "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
       "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
@@ -1781,6 +1807,40 @@
       "discovery_ts": 1784578007.009292
     },
     {
+      "asin": "B0GP1F45V4",
+      "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GP1F45V4",
+      "current_price": "2099.0",
+      "original_price": "2399.0",
+      "discount": 12.5,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784843165.256528
+    },
+    {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
+      "criteria": [
+        "41.9% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
       "asin": "B07JFTS6BS",
       "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
       "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
@@ -1830,23 +1890,6 @@
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784799532.826355
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
     }
   ]
 }
