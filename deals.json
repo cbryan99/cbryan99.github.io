@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 10:40:56",
+  "last_check": "25/07/2026 11:50:27",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1688,42 +1688,34 @@
           "date": "2026-07-25T10:40:56.381891"
         }
       ]
+    },
+    "B07XGM1BM8": {
+      "discovery_date": "2026-07-25T11:50:27.155248",
+      "price_history": [
+        {
+          "price": "35.99",
+          "date": "2026-07-25T11:50:27.155248"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FPDT6SLQ",
-      "title": "Smart TV TCL 85 Polegadas QLED Mini LED Matte 4K C6K WiFi Bluetooth Google TV 144Hz VRR HDR10+ 85C6K",
-      "link": "https://www.amazon.com.br/Smart-TCL-Polegadas-Bluetooth-Google/dp/B0FPDT6SLQ",
-      "current_price": "8999.94",
-      "original_price": "9499.0",
-      "discount": 5.3,
-      "difference": 499.06,
+      "asin": "B07XGM1BM8",
+      "title": "Banana Brasil Display Barra De Proteína Supino Protein Baunilha Com Crispies - 12 Unidades De 30G",
+      "link": "https://www.amazon.com.br/Prote%C3%ADnas-Baunilha-Crispies-Banana-Brasil/dp/B07XGM1BM8",
+      "current_price": "35.99",
+      "original_price": "65.88",
+      "discount": 45.4,
+      "difference": 29.89,
       "criteria": [
-        "R$ 499.06 desc."
+        "45.4% OFF"
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81lVt21UMbL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGi8NGxoL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": true,
-      "discovery_ts": 1784976056.381891
-    },
-    {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
-      "criteria": [
-        "R$ 1800.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784980227.155248
     },
     {
       "asin": "B0CCXLPKPJ",
@@ -1744,55 +1736,72 @@
       "discovery_ts": 1784941982.461308
     },
     {
-      "asin": "B0F7J2KKFW",
-      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
-      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
-      "current_price": "235.98",
-      "original_price": "406.25",
-      "discount": 41.9,
-      "difference": 170.27,
+      "asin": "B0G4DV2ZPJ",
+      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
+      "current_price": "5699.0",
+      "original_price": "6513.84",
+      "discount": 12.5,
+      "difference": 814.84,
       "criteria": [
-        "41.9% OFF"
+        "R$ 814.84 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos",
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
       "criteria": [
-        "54.2% OFF"
+        "R$ 300.01 desc."
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784578007.009292
     },
     {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
+      "asin": "B08B6DLFYD",
+      "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
+      "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
+      "current_price": "195.0",
+      "original_price": "329.0",
+      "discount": 40.7,
+      "difference": 134.0,
       "criteria": [
-        "44.0% OFF"
+        "40.7% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61RNxwH7zyL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784646038.083462
+      "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B09V83L8G8",
+      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
+      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
+      "current_price": "99.79",
+      "original_price": "182.27",
+      "discount": 45.3,
+      "difference": 82.48,
+      "criteria": [
+        "45.3% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784582414.20406
     },
     {
       "asin": "B0754KMGFN",
