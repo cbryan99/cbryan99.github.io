@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 13:12:00",
+  "last_check": "25/07/2026 14:42:36",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1697,9 +1697,69 @@
           "date": "2026-07-25T11:50:27.155248"
         }
       ]
+    },
+    "B0H2NGMNB8": {
+      "discovery_date": "2026-07-25T14:42:36.520456",
+      "price_history": [
+        {
+          "price": "6931.88",
+          "date": "2026-07-25T14:42:36.520456"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0H2NGMNB8",
+      "title": "Soundbar Série Q HW-Q990H 11.1.4 canais Subwoofer e Caixas traseiras Sem fio",
+      "link": "https://www.amazon.com.br/Soundbar-HW-Q990H-11-1-4-Subwoofer-traseiras/dp/B0H2NGMNB8",
+      "current_price": "6931.88",
+      "original_price": "7399.99",
+      "discount": 6.3,
+      "difference": 468.11,
+      "criteria": [
+        "R$ 468.11 desc."
+      ],
+      "badge": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784990556.520456
+    },
+    {
+      "asin": "B0B5ZCFHJW",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Quente e Fria Branca WD11A4453BW",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B5ZCFHJW",
+      "current_price": "3689.0",
+      "original_price": "5129.23",
+      "discount": 28.1,
+      "difference": 1440.23,
+      "criteria": [
+        "R$ 1440.23 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41wb0lxaEhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784473933.589445
+    },
+    {
+      "asin": "B0CB6TK5J8",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
+      "link": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
+      "current_price": "3819.0",
+      "original_price": "5058.9",
+      "discount": 24.5,
+      "difference": 1239.9,
+      "criteria": [
+        "R$ 1239.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HELBbb0WL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784933121.394618
+    },
     {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
@@ -1716,6 +1776,40 @@
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784835801.542638
+    },
+    {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": "2649.0",
+      "original_price": "3199.0",
+      "discount": 17.2,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0FCSMPWKZ",
+      "title": "Ar Condicionado Split Hi Wall Inverter Elgin 24000 Btus Quente e Frio Eco Inverter Ii Wi-fi C 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Elgin-Quente/dp/B0FCSMPWKZ",
+      "current_price": "3584.0",
+      "original_price": "4096.0",
+      "discount": 12.5,
+      "difference": 512.0,
+      "criteria": [
+        "R$ 512.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51v5SlDBhAL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784855528.896726
     },
     {
       "asin": "B08B6DLFYD",
@@ -1752,23 +1846,6 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
-      "criteria": [
-        "45.3% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784582414.20406
-    },
-    {
       "asin": "B0DCCGJQZS",
       "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
       "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
@@ -1784,74 +1861,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784752600.373367
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B0754KMGFN",
-      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
-      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
-      "current_price": "17.21",
-      "original_price": "43.02",
-      "discount": 60.0,
-      "difference": 25.81,
-      "criteria": [
-        "60.0% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784704431.833333
-    },
-    {
-      "asin": "B09BBDVPB1",
-      "title": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/Toalhas-Umedecidas-MamyPoko-unidades-Branco/dp/B09BBDVPB1",
-      "current_price": "22.9",
-      "original_price": "42.8",
-      "discount": 46.5,
-      "difference": 19.9,
-      "criteria": [
-        "46.5% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784962769.116758
-    },
-    {
-      "asin": "B0FPN7WWF8",
-      "title": "Colgate Creme Dental Total Original Mint 2x180g | Prevenção Ativa, Anticárie com Flúor, Combate o Mau Hálito",
-      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
-      "current_price": "22.27",
-      "original_price": "38.45",
-      "discount": 42.1,
-      "difference": 16.18,
-      "criteria": [
-        "42.1% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784543605.650005
     }
   ]
 }
