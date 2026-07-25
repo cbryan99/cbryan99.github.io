@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 19:52:08",
+  "last_check": "25/07/2026 20:42:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -432,6 +432,10 @@
         {
           "price": "4486.29",
           "date": "2026-07-19T20:26:29.403287"
+        },
+        {
+          "price": "4486.0",
+          "date": "2026-07-25T20:42:58.940254"
         }
       ]
     },
@@ -1755,21 +1759,38 @@
   },
   "data": [
     {
-      "asin": "B0FQGZLNY5",
-      "title": "Apple iPhone 17 Pro Max (2 TB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQGZLNY5",
-      "current_price": "15749.0",
-      "original_price": "18499.0",
-      "discount": 14.9,
-      "difference": 2750.0,
+      "asin": "B0FWLTL91T",
+      "title": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (127V)",
+      "link": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWLTL91T",
+      "current_price": "4399.0",
+      "original_price": "7000.0",
+      "discount": 37.2,
+      "difference": 2601.0,
       "criteria": [
-        "R$ 2750.0 desc."
+        "R$ 2601.0 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Vti34Yv+L._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ERzs42EXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784925723.942405
+      "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0GYB56QM9",
+      "title": "Drone DJI Lito 1 Fly More Combo (Sem tela) BR - DJI080",
+      "link": "https://www.amazon.com.br/Drone-DJI-Lito-More-Combo/dp/B0GYB56QM9",
+      "current_price": "4486.0",
+      "original_price": "6369.0",
+      "discount": 29.6,
+      "difference": 1883.0,
+      "criteria": [
+        "R$ 1883.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419PBdY0UwL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784492789.403287
     },
     {
       "asin": "B0FQHXYK1Y",
@@ -1840,22 +1861,21 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B08ZFKB8ZK",
-      "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada com Cardamomo e Toffee, Eau de Parfum com Longa Fixação, Ideal para noites frias",
-      "link": "https://www.amazon.com.br/Azzaro-Masculino-Fragr%C3%A2ncia-Amadeirada-Cardamomo/dp/B08ZFKB8ZK",
-      "current_price": "453.89",
-      "original_price": "879.0",
-      "discount": 48.4,
-      "difference": 425.11,
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": "2649.0",
+      "original_price": "3199.0",
+      "discount": 17.2,
+      "difference": 550.0,
       "criteria": [
-        "48.4% OFF",
-        "R$ 425.11 desc."
+        "R$ 550.0 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g0mT0sLWL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784936763.261283
     },
     {
       "asin": "B0GY4JGRWG",
@@ -1875,38 +1895,55 @@
       "discovery_ts": 1784997523.823682
     },
     {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.17",
+      "discount": 11.3,
+      "difference": 331.53,
       "criteria": [
-        "R$ 300.01 desc."
+        "R$ 331.53 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
-    },
-    {
-      "asin": "B0F7J2KKFW",
-      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
-      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
-      "current_price": "235.98",
-      "original_price": "406.25",
-      "discount": 41.9,
-      "difference": 170.27,
-      "criteria": [
-        "41.9% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784564480.506233
+    },
+    {
+      "asin": "B0GP1F45V4",
+      "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GP1F45V4",
+      "current_price": "2099.0",
+      "original_price": "2399.0",
+      "discount": 12.5,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784843165.256528
+    },
+    {
+      "asin": "B076WXPCYM",
+      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
+      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
+      "current_price": "98.9",
+      "original_price": "253.9",
+      "discount": 61.0,
+      "difference": 155.0,
+      "criteria": [
+        "61.0% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784970231.943494
     },
     {
       "asin": "B07Y3B33KG",
