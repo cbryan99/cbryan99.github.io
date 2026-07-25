@@ -1,5 +1,5 @@
 {
-  "last_check": "24/07/2026 23:46:03",
+  "last_check": "25/07/2026 01:13:02",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1625,59 +1625,53 @@
           "date": "2026-07-24T23:46:03.261283"
         }
       ]
+    },
+    "B085JGQDMT": {
+      "discovery_date": "2026-07-25T01:13:02.461308",
+      "price_history": [
+        {
+          "price": "89.83",
+          "date": "2026-07-25T01:13:02.461308"
+        }
+      ]
+    },
+    "B08PN826VS": {
+      "discovery_date": "2026-07-25T01:13:02.461308",
+      "price_history": [
+        {
+          "price": "114.0",
+          "date": "2026-07-25T01:13:02.461308"
+        }
+      ]
+    },
+    "B0CCXLPKPJ": {
+      "discovery_date": "2026-07-25T01:13:02.461308",
+      "price_history": [
+        {
+          "price": "761.68",
+          "date": "2026-07-25T01:13:02.461308"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FWLTL91T",
-      "title": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (127V)",
-      "link": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWLTL91T",
-      "current_price": "4399.0",
-      "original_price": "7000.0",
-      "discount": 37.2,
-      "difference": 2601.0,
+      "asin": "B0CCXLPKPJ",
+      "title": "Oral-B Escova de Dente Elétrica iO6, 1 Cabo + 4 Refis + Carregador Bivolt + Estojo",
+      "link": "https://www.amazon.com.br/Oral-B-Escova-Dentes-El%C3%A9trica-Io6/dp/B0CCXLPKPJ",
+      "current_price": "761.68",
+      "original_price": "1692.65",
+      "discount": 55.0,
+      "difference": 930.97,
       "criteria": [
-        "R$ 2601.0 desc."
+        "55.0% OFF",
+        "R$ 930.97 desc."
       ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ERzs42EXL._AC_UL210_SR210,210_.jpg",
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61l-WosnKhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0FWMTLMR4",
-      "title": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (220V)",
-      "link": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWMTLMR4",
-      "current_price": "4399.0",
-      "original_price": "7000.0",
-      "discount": 37.2,
-      "difference": 2601.0,
-      "criteria": [
-        "R$ 2601.0 desc."
-      ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ERzs42EXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784929622.888228
-    },
-    {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1784936763.261283
+      "discovery_ts": 1784941982.461308
     },
     {
       "asin": "B08B6DLFYD",
@@ -1695,6 +1689,40 @@
       "category": null,
       "is_new": true,
       "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B08PN826VS",
+      "title": "MONDIAL, Liquidificador Turbo Branco/Inox 1100W, 110V - L-1100-WI",
+      "link": "https://www.amazon.com.br/Liquidificador-Turbo-Inox-127V-Mondial/dp/B08PN826VS",
+      "current_price": "114.0",
+      "original_price": "229.9",
+      "discount": 50.4,
+      "difference": 115.9,
+      "criteria": [
+        "50.4% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612YhL1dN2L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784941982.461308
+    },
+    {
+      "asin": "B085JGQDMT",
+      "title": "Truss Serum Night Spa 250 ml",
+      "link": "https://www.amazon.com.br/Capilar-Noturno-Hidrata%C3%A7%C3%A3o-Reconstru%C3%A7%C3%A3o-Anti-Frizz/dp/B085JGQDMT",
+      "current_price": "89.83",
+      "original_price": "153.9",
+      "discount": 41.6,
+      "difference": 64.07,
+      "criteria": [
+        "41.6% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512Ce5m+f2L._AC_UL210_SR210,210_.jpg",
+      "category": "✂️ Autocuidado",
+      "is_new": true,
+      "discovery_ts": 1784941982.461308
     },
     {
       "asin": "B0DJFSKVZ5",
@@ -1765,23 +1793,6 @@
       "discovery_ts": 1784752600.373367
     },
     {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": "6999.0",
-      "original_price": "7999.0",
-      "discount": 12.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784595805.500833
-    },
-    {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
@@ -1816,55 +1827,21 @@
       "discovery_ts": 1784920643.156706
     },
     {
-      "asin": "B0GL3YFDQ9",
-      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts",
-      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
-      "current_price": "3599.0",
-      "original_price": "4099.0",
-      "discount": 12.2,
-      "difference": 500.0,
+      "asin": "B0CD1JTBSC",
+      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
+      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
+      "current_price": "4067.0",
+      "original_price": "4469.0",
+      "discount": 9.0,
+      "difference": 402.0,
       "criteria": [
-        "R$ 500.0 desc."
+        "R$ 402.0 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784733181.055293
-    },
-    {
-      "asin": "B0DX2M9CGP",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
-      "current_price": "3243.33",
-      "original_price": "3623.75",
-      "discount": 10.5,
-      "difference": 380.42,
-      "criteria": [
-        "R$ 380.42 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784572052.68313
-    },
-    {
-      "asin": "B0F5X4LL89",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
-      "current_price": "2239.0",
-      "original_price": "2599.99",
-      "discount": 13.9,
-      "difference": 360.99,
-      "criteria": [
-        "R$ 360.99 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784725632.865556
+      "discovery_ts": 1784595805.500833
     },
     {
       "asin": "B0FXMX7SGL",
@@ -1918,21 +1895,38 @@
       "discovery_ts": 1784843165.256528
     },
     {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
       "criteria": [
-        "44.0% OFF"
+        "41.9% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B0GHPGBPSR",
+      "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
+      "current_price": "56.88",
+      "original_price": "119.9",
+      "discount": 52.6,
+      "difference": 63.02,
+      "criteria": [
+        "52.6% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784646038.083462
+      "discovery_ts": 1784799532.826355
     }
   ]
 }
