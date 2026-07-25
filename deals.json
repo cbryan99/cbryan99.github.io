@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 06:59:29",
+  "last_check": "25/07/2026 09:03:51",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1661,9 +1661,131 @@
           "date": "2026-07-25T06:59:29.116758"
         }
       ]
+    },
+    "B076WXPCYM": {
+      "discovery_date": "2026-07-25T09:03:51.943494",
+      "price_history": [
+        {
+          "price": "98.9",
+          "date": "2026-07-25T09:03:51.943494"
+        }
+      ]
+    },
+    "B00CZC5F0G": {
+      "discovery_date": "2026-07-25T09:03:51.943494",
+      "price_history": [
+        {
+          "price": "64.06",
+          "date": "2026-07-25T09:03:51.943494"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B076WXPCYM",
+      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
+      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
+      "current_price": "98.9",
+      "original_price": "253.9",
+      "discount": 61.0,
+      "difference": 155.0,
+      "criteria": [
+        "61.0% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1784970231.943494
+    },
+    {
+      "asin": "B00CZC5F0G",
+      "title": "Revlon Profissional Uniq One - Leave-in 150ml",
+      "link": "https://www.amazon.com.br/Uniq-One-Hair-Treatment-Leave/dp/B00CZC5F0G",
+      "current_price": "64.06",
+      "original_price": "119.9",
+      "discount": 46.6,
+      "difference": 55.84,
+      "criteria": [
+        "46.6% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71PXeuNTL+L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1784970231.943494
+    },
+    {
+      "asin": "B0CCXLPKPJ",
+      "title": "Oral-B Escova de Dente Elétrica iO6, 1 Cabo + 4 Refis + Carregador Bivolt + Estojo",
+      "link": "https://www.amazon.com.br/Oral-B-Escova-Dentes-El%C3%A9trica-Io6/dp/B0CCXLPKPJ",
+      "current_price": "761.68",
+      "original_price": "1692.65",
+      "discount": 55.0,
+      "difference": 930.97,
+      "criteria": [
+        "55.0% OFF",
+        "R$ 930.97 desc."
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61l-WosnKhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784941982.461308
+    },
+    {
+      "asin": "B0CQXG17RL",
+      "title": "soundcore P40i da Anker, Fone de Ouvido Bluetooth 5.3, Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo com Suporte, 60H de Reprodução, Resistência à Água, IPX5, Carregamento Sem Fio, Preto",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Reprodu%C3%A7%C3%A3o-Carregamento/dp/B0CQXG17RL",
+      "current_price": "336.0",
+      "original_price": "659.0",
+      "discount": 49.0,
+      "difference": 323.0,
+      "criteria": [
+        "49.0% OFF",
+        "R$ 323.0 desc."
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zp-5PsY4L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784704431.833333
+    },
+    {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
+      "criteria": [
+        "41.9% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
     {
       "asin": "B09BBDVPB1",
       "title": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
@@ -1678,212 +1800,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1784962769.116758
-    },
-    {
-      "asin": "B0FQGZLNY5",
-      "title": "Apple iPhone 17 Pro Max (2 TB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQGZLNY5",
-      "current_price": "15749.0",
-      "original_price": "18499.0",
-      "discount": 14.9,
-      "difference": 2750.0,
-      "criteria": [
-        "R$ 2750.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Vti34Yv+L._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784925723.942405
-    },
-    {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
-      "criteria": [
-        "R$ 1900.0 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784846418.539129
-    },
-    {
-      "asin": "B0G4DV2ZPJ",
-      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
-      "current_price": "5699.0",
-      "original_price": "6513.84",
-      "discount": 12.5,
-      "difference": 814.84,
-      "criteria": [
-        "R$ 814.84 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784835801.542638
-    },
-    {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0FXMX7SGL",
-      "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
-      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
-      "current_price": "1999.0",
-      "original_price": "2299.9",
-      "discount": 13.1,
-      "difference": 300.9,
-      "criteria": [
-        "R$ 300.9 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784825707.553482
-    },
-    {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
-    },
-    {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
-      "asin": "B08B6DLFYD",
-      "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
-      "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
-      "current_price": "195.0",
-      "original_price": "329.0",
-      "discount": 40.7,
-      "difference": 134.0,
-      "criteria": [
-        "40.7% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61RNxwH7zyL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
-      "criteria": [
-        "44.0% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784646038.083462
-    },
-    {
-      "asin": "B07JFTS6BS",
-      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
-      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
-      "current_price": "119.9",
-      "original_price": "199.9",
-      "discount": 40.0,
-      "difference": 80.0,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B0GHPGBPSR",
-      "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
-      "current_price": "56.88",
-      "original_price": "119.9",
-      "discount": 52.6,
-      "difference": 63.02,
-      "criteria": [
-        "52.6% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784799532.826355
-    },
-    {
-      "asin": "B0DCCGJQZS",
-      "title": "Sanduicheira Brunch Time 2 em 1 Elgin Sanduicheira e Grill Antiaderente Preta 220V",
-      "link": "https://www.amazon.com.br/Sanduicheira-Brunch-Elgin-Grill-Antiaderente/dp/B0DCCGJQZS",
-      "current_price": "52.47",
-      "original_price": "99.0",
-      "discount": 47.0,
-      "difference": 46.53,
-      "criteria": [
-        "47.0% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rSe-wRAoL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784752600.373367
     }
   ]
 }
