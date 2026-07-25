@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 15:48:33",
+  "last_check": "25/07/2026 16:38:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1724,42 +1724,34 @@
           "date": "2026-07-25T15:48:33.776849"
         }
       ]
+    },
+    "B0GY4JGRWG": {
+      "discovery_date": "2026-07-25T16:38:43.823682",
+      "price_history": [
+        {
+          "price": "3599.0",
+          "date": "2026-07-25T16:38:43.823682"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DGMFW4VB",
-      "title": "Apple iPhone 16 Plus (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFW4VB",
-      "current_price": "7099.0",
-      "original_price": "9299.0",
-      "discount": 23.7,
-      "difference": 2200.0,
+      "asin": "B0GY4JGRWG",
+      "title": "Dreame H12 Pro FlexReach Aspirador Vertical Sem Fio Seco e Úmido, Reclinável a 180°, Secagem em 5 Min, Sucção 18kPa, Lavagem a Quente a 90°C, Limpeza com Escova Dupla, 50 Min de Limpeza, 220V-240V",
+      "link": "https://www.amazon.com.br/H12-Pro-FlexReach-Aspirador-Reclin%C3%A1vel/dp/B0GY4JGRWG",
+      "current_price": "3599.0",
+      "original_price": "3999.0",
+      "discount": 10.0,
+      "difference": 400.0,
       "criteria": [
-        "R$ 2200.0 desc."
+        "R$ 400.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": true,
-      "discovery_ts": 1784994513.776849
-    },
-    {
-      "asin": "B0FK163DY6",
-      "title": "Freezer Horizontal 100L Inverter Bivolt Branco Midea",
-      "link": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0FK163DY6",
-      "current_price": "1199.0",
-      "original_price": "1579.0",
-      "discount": 24.1,
-      "difference": 380.0,
-      "criteria": [
-        "R$ 380.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41GOo1UPNmL._AC_UL210_SR210,210_.jpg",
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VpOR9WstL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1784994513.776849
+      "discovery_ts": 1784997523.823682
     },
     {
       "asin": "B0DJFSKVZ5",
@@ -1777,6 +1769,23 @@
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784846418.539129
+    },
+    {
+      "asin": "B0FQHXYK1Y",
+      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
+      "current_price": "9699.0",
+      "original_price": "11499.0",
+      "discount": 15.7,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0B5ZCFHJW",
@@ -1847,21 +1856,21 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
+      "asin": "B0FPRGKBL3",
+      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
+      "current_price": "1598.99",
+      "original_price": "1899.0",
+      "discount": 15.8,
+      "difference": 300.01,
       "criteria": [
-        "R$ 550.0 desc."
+        "R$ 300.01 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784936763.261283
+      "discovery_ts": 1784578007.009292
     },
     {
       "asin": "B0F7J2KKFW",
@@ -1879,6 +1888,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B076WXPCYM",
+      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
+      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
+      "current_price": "98.9",
+      "original_price": "253.9",
+      "discount": 61.0,
+      "difference": 155.0,
+      "criteria": [
+        "61.0% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784970231.943494
     },
     {
       "asin": "B08B6DLFYD",
@@ -1930,23 +1956,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
-    },
-    {
-      "asin": "B09BBDVPB1",
-      "title": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-      "link": "https://www.amazon.com.br/Toalhas-Umedecidas-MamyPoko-unidades-Branco/dp/B09BBDVPB1",
-      "current_price": "22.9",
-      "original_price": "42.8",
-      "discount": 46.5,
-      "difference": 19.9,
-      "criteria": [
-        "46.5% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784962769.116758
     }
   ]
 }
