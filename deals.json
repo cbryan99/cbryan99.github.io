@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 09:03:51",
+  "last_check": "25/07/2026 10:40:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1679,42 +1679,51 @@
           "date": "2026-07-25T09:03:51.943494"
         }
       ]
+    },
+    "B0FPDT6SLQ": {
+      "discovery_date": "2026-07-25T10:40:56.381891",
+      "price_history": [
+        {
+          "price": "8999.94",
+          "date": "2026-07-25T10:40:56.381891"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B076WXPCYM",
-      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
-      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
-      "current_price": "98.9",
-      "original_price": "253.9",
-      "discount": 61.0,
-      "difference": 155.0,
+      "asin": "B0FPDT6SLQ",
+      "title": "Smart TV TCL 85 Polegadas QLED Mini LED Matte 4K C6K WiFi Bluetooth Google TV 144Hz VRR HDR10+ 85C6K",
+      "link": "https://www.amazon.com.br/Smart-TCL-Polegadas-Bluetooth-Google/dp/B0FPDT6SLQ",
+      "current_price": "8999.94",
+      "original_price": "9499.0",
+      "discount": 5.3,
+      "difference": 499.06,
       "criteria": [
-        "61.0% OFF"
+        "R$ 499.06 desc."
       ],
-      "badge": "61% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81lVt21UMbL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
       "is_new": true,
-      "discovery_ts": 1784970231.943494
+      "discovery_ts": 1784976056.381891
     },
     {
-      "asin": "B00CZC5F0G",
-      "title": "Revlon Profissional Uniq One - Leave-in 150ml",
-      "link": "https://www.amazon.com.br/Uniq-One-Hair-Treatment-Leave/dp/B00CZC5F0G",
-      "current_price": "64.06",
-      "original_price": "119.9",
-      "discount": 46.6,
-      "difference": 55.84,
+      "asin": "B0FQHXYK1Y",
+      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
+      "current_price": "9699.0",
+      "original_price": "11499.0",
+      "discount": 15.7,
+      "difference": 1800.0,
       "criteria": [
-        "46.6% OFF"
+        "R$ 1800.0 desc."
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71PXeuNTL+L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": true,
-      "discovery_ts": 1784970231.943494
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0CCXLPKPJ",
@@ -1735,24 +1744,6 @@
       "discovery_ts": 1784941982.461308
     },
     {
-      "asin": "B0CQXG17RL",
-      "title": "soundcore P40i da Anker, Fone de Ouvido Bluetooth 5.3, Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo com Suporte, 60H de Reprodução, Resistência à Água, IPX5, Carregamento Sem Fio, Preto",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Reprodu%C3%A7%C3%A3o-Carregamento/dp/B0CQXG17RL",
-      "current_price": "336.0",
-      "original_price": "659.0",
-      "discount": 49.0,
-      "difference": 323.0,
-      "criteria": [
-        "49.0% OFF",
-        "R$ 323.0 desc."
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zp-5PsY4L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784704431.833333
-    },
-    {
       "asin": "B0F7J2KKFW",
       "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
       "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
@@ -1770,21 +1761,55 @@
       "discovery_ts": 1784522841.687335
     },
     {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
       "criteria": [
-        "44.5% OFF"
+        "54.2% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
       "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784646038.083462
+    },
+    {
+      "asin": "B0754KMGFN",
+      "title": "Pilha recarregável AAA 1000mAh Elgin com 4 unidades Palito",
+      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-1000mAh-unidades-Palito/dp/B0754KMGFN",
+      "current_price": "17.21",
+      "original_price": "43.02",
+      "discount": 60.0,
+      "difference": 25.81,
+      "criteria": [
+        "60.0% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71SnHLZ+XjL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784704431.833333
     },
     {
       "asin": "B09BBDVPB1",
@@ -1802,6 +1827,40 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784962769.116758
+    },
+    {
+      "asin": "B0FPN7WWF8",
+      "title": "Colgate Creme Dental Total Original Mint 2x180g | Prevenção Ativa, Anticárie com Flúor, Combate o Mau Hálito",
+      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
+      "current_price": "22.27",
+      "original_price": "38.45",
+      "discount": 42.1,
+      "difference": 16.18,
+      "criteria": [
+        "42.1% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784543605.650005
+    },
+    {
+      "asin": "B08553P1JV",
+      "title": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
+      "link": "https://www.amazon.com.br/Amaciante-Downy-Frescor-Primavera-5L/dp/B08553P1JV",
+      "current_price": "23.4",
+      "original_price": "39.42",
+      "discount": 40.6,
+      "difference": 16.02,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xDTzzq-HL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784677180.276634
     }
   ]
 }
