@@ -1,5 +1,5 @@
 {
-  "last_check": "25/07/2026 17:39:36",
+  "last_check": "25/07/2026 18:37:52",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1733,9 +1733,44 @@
           "date": "2026-07-25T16:38:43.823682"
         }
       ]
+    },
+    "B0FPBP6G49": {
+      "discovery_date": "2026-07-25T18:37:52.586121",
+      "price_history": [
+        {
+          "price": "3898.99",
+          "date": "2026-07-25T18:37:52.586121"
+        }
+      ]
+    },
+    "B0754J12RW": {
+      "discovery_date": "2026-07-25T18:37:52.586121",
+      "price_history": [
+        {
+          "price": "5.64",
+          "date": "2026-07-25T18:37:52.586121"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FPBP6G49",
+      "title": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8929-78-Freesync/dp/B0FPBP6G49",
+      "current_price": "3898.99",
+      "original_price": "4899.0",
+      "discount": 20.4,
+      "difference": 1000.01,
+      "criteria": [
+        "R$ 1000.01 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1785004672.586121
+    },
     {
       "asin": "B0GY4JGRWG",
       "title": "Dreame H12 Pro FlexReach Aspirador Vertical Sem Fio Seco e Úmido, Reclinável a 180°, Secagem em 5 Min, Sucção 18kPa, Lavagem a Quente a 90°C, Limpeza com Escova Dupla, 50 Min de Limpeza, 220V-240V",
@@ -1754,38 +1789,55 @@
       "discovery_ts": 1784997523.823682
     },
     {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B0754J12RW",
+      "title": "Pilha Alcalina, Elgin, Palito AAA, Blister com 4",
+      "link": "https://www.amazon.com.br/Pilhas-Alcalinas-Palito-Elgin-Baterias/dp/B0754J12RW",
+      "current_price": "5.64",
+      "original_price": "11.9",
+      "discount": 52.6,
+      "difference": 6.26,
       "criteria": [
-        "R$ 1900.0 desc."
+        "52.6% OFF"
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784846418.539129
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71faB-DYcoL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785004672.586121
     },
     {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
+      "asin": "B0CP6CJ8JG",
+      "title": "Apple iPhone 15 (256 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
+      "current_price": "5199.0",
+      "original_price": "6799.0",
+      "discount": 23.5,
+      "difference": 1600.0,
       "criteria": [
-        "R$ 1800.0 desc."
+        "R$ 1600.0 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784925723.942405
+    },
+    {
+      "asin": "B0GX2MN152",
+      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
+      "current_price": "5599.0",
+      "original_price": "6999.0",
+      "discount": 20.0,
+      "difference": 1400.0,
+      "criteria": [
+        "R$ 1400.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784929622.888228
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1805,6 +1857,23 @@
       "discovery_ts": 1784752600.373367
     },
     {
+      "asin": "B0CB6TK5J8",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
+      "link": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
+      "current_price": "3819.0",
+      "original_price": "5058.9",
+      "discount": 24.5,
+      "difference": 1239.9,
+      "criteria": [
+        "R$ 1239.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HELBbb0WL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784933121.394618
+    },
+    {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
@@ -1820,40 +1889,6 @@
       "category": "💻 Eletrônicos",
       "is_new": false,
       "discovery_ts": 1784835801.542638
-    },
-    {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0DKFMSMYK",
-      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
-      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
-      "current_price": "2609.64",
-      "original_price": "2941.17",
-      "discount": 11.3,
-      "difference": 331.53,
-      "criteria": [
-        "R$ 331.53 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784564480.506233
     },
     {
       "asin": "B0FXMX7SGL",
@@ -1873,38 +1908,21 @@
       "discovery_ts": 1784825707.553482
     },
     {
-      "asin": "B0FPRGKBL3",
-      "title": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
-      "link": "https://www.amazon.com.br/SEMP-SMART-43S62-UHD-GOOGLE/dp/B0FPRGKBL3",
-      "current_price": "1598.99",
-      "original_price": "1899.0",
-      "discount": 15.8,
-      "difference": 300.01,
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
       "criteria": [
-        "R$ 300.01 desc."
+        "41.9% OFF"
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Dg9oW2VcL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784578007.009292
-    },
-    {
-      "asin": "B076WXPCYM",
-      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
-      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
-      "current_price": "98.9",
-      "original_price": "253.9",
-      "discount": 61.0,
-      "difference": 155.0,
-      "criteria": [
-        "61.0% OFF"
-      ],
-      "badge": "61% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784970231.943494
+      "discovery_ts": 1784522841.687335
     },
     {
       "asin": "B08B6DLFYD",
@@ -1924,21 +1942,21 @@
       "discovery_ts": 1784936763.261283
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
       "criteria": [
-        "45.3% OFF"
+        "44.0% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
       "is_new": false,
-      "discovery_ts": 1784582414.20406
+      "discovery_ts": 1784646038.083462
     }
   ]
 }
