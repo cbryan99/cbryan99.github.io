@@ -1,5 +1,5 @@
 {
-  "last_check": "26/07/2026 04:44:32",
+  "last_check": "26/07/2026 07:25:14",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1809,43 +1809,113 @@
           "date": "2026-07-26T04:44:32.887068"
         }
       ]
+    },
+    "B08NX5DKM1": {
+      "discovery_date": "2026-07-26T07:25:14.261271",
+      "price_history": [
+        {
+          "price": "19.9",
+          "date": "2026-07-26T07:25:14.261271"
+        }
+      ]
+    },
+    "B0GTRPYH9M": {
+      "discovery_date": "2026-07-26T07:25:14.261271",
+      "price_history": [
+        {
+          "price": "5899.0",
+          "date": "2026-07-26T07:25:14.261271"
+        }
+      ]
+    },
+    "B0DB6G98X5": {
+      "discovery_date": "2026-07-26T07:25:14.261271",
+      "price_history": [
+        {
+          "price": "83.8",
+          "date": "2026-07-26T07:25:14.261271"
+        }
+      ]
+    },
+    "B07RHFXSN2": {
+      "discovery_date": "2026-07-26T07:25:14.261271",
+      "price_history": [
+        {
+          "price": "457.99",
+          "date": "2026-07-26T07:25:14.261271"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DBMLN386",
-      "title": "Armani Beauty, Acqua di Gioia Intense Eau de Parfum, Giorgio Armani Perfume Feminino, Floral Futrado, Fragrância com Notas Cítricas, Frutas Vermelhas, Rosa Damascena e Jasmim",
-      "link": "https://www.amazon.com.br/Armani-Beauty-Fragr%C3%A2ncia-Vermelhas-Damascena/dp/B0DBMLN386",
-      "current_price": "658.99",
-      "original_price": "1099.0",
-      "discount": 40.0,
-      "difference": 440.01,
+      "asin": "B0GTRPYH9M",
+      "title": "Apple iPhone 17e de 512 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-512-GB/dp/B0GTRPYH9M",
+      "current_price": "5899.0",
+      "original_price": "7299.0",
+      "discount": 19.2,
+      "difference": 1400.0,
       "criteria": [
-        "40.0% OFF",
-        "R$ 440.01 desc."
+        "R$ 1400.0 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61kpou5f5ZL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": true,
-      "discovery_ts": 1785041072.887068
+      "discovery_ts": 1785050714.261271
     },
     {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B07RHFXSN2",
+      "title": "Óculos de Sol Ray-Ban Hexagonal, Tamanho 54",
+      "link": "https://www.amazon.com.br/%C3%93culos-Ray-Ban-Hexagonal-RB3548NL-54-21/dp/B07RHFXSN2",
+      "current_price": "457.99",
+      "original_price": "940.0",
+      "discount": 51.3,
+      "difference": 482.01,
       "criteria": [
-        "R$ 1900.0 desc."
+        "51.3% OFF",
+        "R$ 482.01 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784846418.539129
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eu2ztv1CL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785050714.261271
+    },
+    {
+      "asin": "B0DB6G98X5",
+      "title": "G-TECH Termômetro Infravermelho sem contato Easy Sensor THGTSC3",
+      "link": "https://www.amazon.com.br/G-TECH-Term%C3%B4metro-Infravermelho-contato-THGTSC3/dp/B0DB6G98X5",
+      "current_price": "83.8",
+      "original_price": "149.9",
+      "discount": 44.1,
+      "difference": 66.1,
+      "criteria": [
+        "44.1% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41PzsVLgUXL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785050714.261271
+    },
+    {
+      "asin": "B08NX5DKM1",
+      "title": "Kit NIVEA Desodorante Aerosol Men Black&White Invisible - 2 unidades",
+      "link": "https://www.amazon.com.br/Desodorante-Nivea-Invisible-Aerosol-Unidades/dp/B08NX5DKM1",
+      "current_price": "19.9",
+      "original_price": "34.9",
+      "discount": 43.0,
+      "difference": 15.0,
+      "criteria": [
+        "43.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61MNgKAQcrL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785050714.261271
     },
     {
       "asin": "B0B8MCB6KK",
@@ -1883,74 +1953,6 @@
       "discovery_ts": 1784941982.461308
     },
     {
-      "asin": "B0G4DV2ZPJ",
-      "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
-      "current_price": "5699.0",
-      "original_price": "6513.84",
-      "discount": 12.5,
-      "difference": 814.84,
-      "criteria": [
-        "R$ 814.84 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos",
-      "is_new": false,
-      "discovery_ts": 1784835801.542638
-    },
-    {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0GP1F45V4",
-      "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Quente/Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GP1F45V4",
-      "current_price": "2099.0",
-      "original_price": "2399.0",
-      "discount": 12.5,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784843165.256528
-    },
-    {
-      "asin": "B0BPYR83CF",
-      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
-      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
-      "current_price": "194.64",
-      "original_price": "369.9",
-      "discount": 47.4,
-      "difference": 175.26,
-      "criteria": [
-        "47.4% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784713238.005138
-    },
-    {
       "asin": "B0F7J2KKFW",
       "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
       "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
@@ -1966,6 +1968,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B076WXPCYM",
+      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
+      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
+      "current_price": "98.9",
+      "original_price": "253.9",
+      "discount": 61.0,
+      "difference": 155.0,
+      "criteria": [
+        "61.0% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784970231.943494
     },
     {
       "asin": "B07Y3B33KG",
@@ -2019,21 +2038,38 @@
       "discovery_ts": 1784646038.083462
     },
     {
-      "asin": "B09GSQMVJS",
-      "title": "L'Oréal Professionnel Inforcer Shampoo Fortificante Antiqueda por Quebra, Crescimento Saudável Para Cabelos Frágeis e Quebradiços Com Biotina e Vitamina B6, 300ml",
-      "link": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Quebradi%C3%A7os/dp/B09GSQMVJS",
-      "current_price": "67.4",
-      "original_price": "116.9",
-      "discount": 42.3,
-      "difference": 49.5,
+      "asin": "B07JFTS6BS",
+      "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
+      "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
+      "current_price": "119.9",
+      "original_price": "199.9",
+      "discount": 40.0,
+      "difference": 80.0,
       "criteria": [
-        "42.3% OFF"
+        "40.0% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TvgvfNA9L._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510P6tjT3ZL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": "58.52",
+      "original_price": "119.9",
+      "discount": 51.2,
+      "difference": 61.38,
+      "criteria": [
+        "51.2% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784433482.515947
     },
     {
       "asin": "B09BBDVPB1",
