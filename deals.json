@@ -1,5 +1,5 @@
 {
-  "last_check": "26/07/2026 18:15:40",
+  "last_check": "26/07/2026 19:37:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1872,42 +1872,51 @@
           "date": "2026-07-26T16:15:35.661078"
         }
       ]
+    },
+    "B08BJDD7XF": {
+      "discovery_date": "2026-07-26T19:37:28.032446",
+      "price_history": [
+        {
+          "price": "1144.33",
+          "date": "2026-07-26T19:37:28.032446"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
+      "asin": "B08BJDD7XF",
+      "title": "Jogo de Panelas Tramontina Grano em Aço Inox com Corpo Triplo 4 Peças",
+      "link": "https://www.amazon.com.br/Panelas-Tramontina-Grano-Corpo-Triplo/dp/B08BJDD7XF",
+      "current_price": "1144.33",
+      "original_price": "1525.32",
+      "discount": 25.0,
+      "difference": 380.99,
       "criteria": [
-        "R$ 1800.0 desc."
+        "R$ 380.99 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OLxX-D3aL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785094648.032446
     },
     {
-      "asin": "B0CP6CJ8JG",
-      "title": "Apple iPhone 15 (256 GB) — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
-      "current_price": "5199.0",
-      "original_price": "6799.0",
-      "discount": 23.5,
-      "difference": 1600.0,
+      "asin": "B0B5ZCFHJW",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Quente e Fria Branca WD11A4453BW",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B5ZCFHJW",
+      "current_price": "3689.0",
+      "original_price": "5129.23",
+      "discount": 28.1,
+      "difference": 1440.23,
       "criteria": [
-        "R$ 1600.0 desc."
+        "R$ 1440.23 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41wb0lxaEhL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1784925723.942405
+      "discovery_ts": 1784473933.589445
     },
     {
       "asin": "B0CB6TK5J8",
@@ -1979,40 +1988,6 @@
       "discovery_ts": 1784464310.552537
     },
     {
-      "asin": "B0DX2M9CGP",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
-      "current_price": "3243.33",
-      "original_price": "3623.75",
-      "discount": 10.5,
-      "difference": 380.42,
-      "criteria": [
-        "R$ 380.42 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784572052.68313
-    },
-    {
-      "asin": "B07XM8KGBB",
-      "title": "ThunderX3, Cadeira Ergonomic, YAMA1BK, Preto",
-      "link": "https://www.amazon.com.br/Cadeira-Ergonomic-Thunderx3-Yama1-Preta/dp/B07XM8KGBB",
-      "current_price": "1089.0",
-      "original_price": "1441.08",
-      "discount": 24.4,
-      "difference": 352.08,
-      "criteria": [
-        "R$ 352.08 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51W9FnH1Q1L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1785015526.987924
-    },
-    {
       "asin": "B0CC3VK2Y5",
       "title": "Barbeador Elétrico Masculino Philips SkinIQ S5898/17 Uso Seco e Molhado, Cabeças flexíveis 360-D, com Aparador de 5 alturas, Carregamento Rápido - Bivolt",
       "link": "https://www.amazon.com.br/Barbeador-el%C3%A9trico-S%C3%A9rie-5000-molhado/dp/B0CC3VK2Y5",
@@ -2081,6 +2056,23 @@
       "discovery_ts": 1784936763.261283
     },
     {
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784646038.083462
+    },
+    {
       "asin": "B09V83L8G8",
       "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
       "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
@@ -2115,38 +2107,21 @@
       "discovery_ts": 1784559188.206797
     },
     {
-      "asin": "B0754J31B7",
-      "title": "Pilha recarregável AA 2700Mah Elgin Com 4 unidades Comum",
-      "link": "https://www.amazon.com.br/Pilha-recarreg%C3%A1vel-2700Mah-Elgin-unidades/dp/B0754J31B7",
-      "current_price": "36.29",
-      "original_price": "89.82",
-      "discount": 59.6,
-      "difference": 53.53,
+      "asin": "B004V54ZVK",
+      "title": "Vodka Absolut - 1 Litro",
+      "link": "https://www.amazon.com.br/Absolut-Vodka-Original-Sueca-1L/dp/B004V54ZVK",
+      "current_price": "76.9",
+      "original_price": "136.9",
+      "discount": 43.8,
+      "difference": 60.0,
       "criteria": [
-        "59.6% OFF"
+        "43.8% OFF"
       ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZV83R6LxL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613sQ8zlsuL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
       "is_new": false,
-      "discovery_ts": 1784877248.775103
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": "38.8",
-      "original_price": "69.9",
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784464310.552537
     },
     {
       "asin": "B09BBDVPB1",
