@@ -1,5 +1,5 @@
 {
-  "last_check": "26/07/2026 20:34:18",
+  "last_check": "26/07/2026 21:32:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1890,25 +1890,60 @@
           "date": "2026-07-26T20:34:18.087345"
         }
       ]
+    },
+    "B0DGM19BC2": {
+      "discovery_date": "2026-07-26T21:32:28.982249",
+      "price_history": [
+        {
+          "price": "7099.0",
+          "date": "2026-07-26T21:32:28.982249"
+        }
+      ]
+    },
+    "B0FQHG4KCL": {
+      "discovery_date": "2026-07-26T21:32:28.982249",
+      "price_history": [
+        {
+          "price": "11299.0",
+          "date": "2026-07-26T21:32:28.982249"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CVZ661SW",
-      "title": "Ar Condicionado Split Piso Teto Inverter Elgin Plus 56000 BTU/h Frio Monofásico 45PDFI60C2DA – 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-Monof%C3%A1sico-45PDFI60C2DA/dp/B0CVZ661SW",
-      "current_price": "8579.0",
-      "original_price": "10499.0",
-      "discount": 18.3,
-      "difference": 1920.0,
+      "asin": "B0DGM19BC2",
+      "title": "Apple iPhone 16 Plus (256 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Plus-256-Ultramarino/dp/B0DGM19BC2",
+      "current_price": "7099.0",
+      "original_price": "9299.0",
+      "discount": 23.7,
+      "difference": 2200.0,
       "criteria": [
-        "R$ 1920.0 desc."
+        "R$ 2200.0 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51e7366ufRL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZYO1ZBusL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": true,
-      "discovery_ts": 1785098058.087345
+      "discovery_ts": 1785101548.982249
+    },
+    {
+      "asin": "B0FQHG4KCL",
+      "title": "Apple iPhone 17 Pro (512 GB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-512/dp/B0FQHG4KCL",
+      "current_price": "11299.0",
+      "original_price": "12999.0",
+      "discount": 13.1,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41eUrMz2PlL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": true,
+      "discovery_ts": 1785101548.982249
     },
     {
       "asin": "B08BJDD7XF",
@@ -1945,21 +1980,22 @@
       "discovery_ts": 1784473933.589445
     },
     {
-      "asin": "B0CB6TK5J8",
-      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
-      "link": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
-      "current_price": "3819.0",
-      "original_price": "5058.9",
-      "discount": 24.5,
-      "difference": 1239.9,
+      "asin": "B0CCXLPKPJ",
+      "title": "Oral-B Escova de Dente Elétrica iO6, 1 Cabo + 4 Refis + Carregador Bivolt + Estojo",
+      "link": "https://www.amazon.com.br/Oral-B-Escova-Dentes-El%C3%A9trica-Io6/dp/B0CCXLPKPJ",
+      "current_price": "761.68",
+      "original_price": "1692.65",
+      "discount": 55.0,
+      "difference": 930.97,
       "criteria": [
-        "R$ 1239.9 desc."
+        "55.0% OFF",
+        "R$ 930.97 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41HELBbb0WL._AC_UL210_SR210,210_.jpg",
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61l-WosnKhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784933121.394618
+      "discovery_ts": 1784941982.461308
     },
     {
       "asin": "B0G4DV2ZPJ",
@@ -1996,38 +2032,21 @@
       "discovery_ts": 1784733181.055293
     },
     {
-      "asin": "B0FK163DY6",
-      "title": "Freezer Horizontal 100L Inverter Bivolt Branco Midea",
-      "link": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0FK163DY6",
-      "current_price": "1199.0",
-      "original_price": "1579.0",
-      "discount": 24.1,
-      "difference": 380.0,
+      "asin": "B0DKFMSMYK",
+      "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104Mb Cache/Radeon Graphics/Sem cooler)",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-9800X3D-Graphics/dp/B0DKFMSMYK",
+      "current_price": "2609.64",
+      "original_price": "2941.17",
+      "discount": 11.3,
+      "difference": 331.53,
       "criteria": [
-        "R$ 380.0 desc."
+        "R$ 331.53 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41GOo1UPNmL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NMFO0iUhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784994513.776849
-    },
-    {
-      "asin": "B0CC3VK2Y5",
-      "title": "Barbeador Elétrico Masculino Philips SkinIQ S5898/17 Uso Seco e Molhado, Cabeças flexíveis 360-D, com Aparador de 5 alturas, Carregamento Rápido - Bivolt",
-      "link": "https://www.amazon.com.br/Barbeador-el%C3%A9trico-S%C3%A9rie-5000-molhado/dp/B0CC3VK2Y5",
-      "current_price": "598.0",
-      "original_price": "941.57",
-      "discount": 36.5,
-      "difference": 343.57,
-      "criteria": [
-        "R$ 343.57 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4104VINNC4L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784743052.777175
+      "discovery_ts": 1784564480.506233
     },
     {
       "asin": "B0GP1F45V4",
@@ -2064,23 +2083,6 @@
       "discovery_ts": 1784522841.687335
     },
     {
-      "asin": "B076WXPCYM",
-      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
-      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
-      "current_price": "98.9",
-      "original_price": "253.9",
-      "discount": 61.0,
-      "difference": 155.0,
-      "criteria": [
-        "61.0% OFF"
-      ],
-      "badge": "61% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784970231.943494
-    },
-    {
       "asin": "B08B6DLFYD",
       "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
       "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
@@ -2098,23 +2100,6 @@
       "discovery_ts": 1784936763.261283
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
-      "criteria": [
-        "45.3% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784582414.20406
-    },
-    {
       "asin": "B07JFTS6BS",
       "title": "MONDIAL Aspirador de Pó, Turbo Cycle Vermelho/Preto 1100W, 110V, AP-36",
       "link": "https://www.amazon.com.br/MONDIAL-Aspirador-Turbo-Cycle-Vermelho/dp/B07JFTS6BS",
@@ -2130,6 +2115,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784559188.206797
+    },
+    {
+      "asin": "B004V54ZVK",
+      "title": "Vodka Absolut - 1 Litro",
+      "link": "https://www.amazon.com.br/Absolut-Vodka-Original-Sueca-1L/dp/B004V54ZVK",
+      "current_price": "76.9",
+      "original_price": "136.9",
+      "discount": 43.8,
+      "difference": 60.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613sQ8zlsuL._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
+      "is_new": false,
+      "discovery_ts": 1784464310.552537
     },
     {
       "asin": "B09BBDVPB1",
