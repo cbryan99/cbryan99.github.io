@@ -1,5 +1,5 @@
 {
-  "last_check": "26/07/2026 15:11:14",
+  "last_check": "26/07/2026 16:15:35",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1863,25 +1863,34 @@
           "date": "2026-07-26T15:11:14.492286"
         }
       ]
+    },
+    "B08VC783T2": {
+      "discovery_date": "2026-07-26T16:15:35.661078",
+      "price_history": [
+        {
+          "price": "2419.99",
+          "date": "2026-07-26T16:15:35.661078"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CLPZFBWH",
-      "title": "Geladeira Electrolux Frost Free 490L Efficient com AutoSense Inverse Branco (IB7) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Inverse/dp/B0CLPZFBWH",
-      "current_price": "4099.0",
-      "original_price": "5319.0",
-      "discount": 22.9,
-      "difference": 1220.0,
+      "asin": "B08VC783T2",
+      "title": "Ar Condicionado Split 18000 BTUs Frio TCL On/Off TAC-18CSA1 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Split-18000-TCL-TAC-18CSA1/dp/B08VC783T2",
+      "current_price": "2419.99",
+      "original_price": "3274.2",
+      "discount": 26.1,
+      "difference": 854.21,
       "criteria": [
-        "R$ 1220.0 desc."
+        "R$ 854.21 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31vlPiyqQmL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61pkCP2usGL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
       "is_new": true,
-      "discovery_ts": 1785078674.492286
+      "discovery_ts": 1785082535.661078
     },
     {
       "asin": "B0FQHXYK1Y",
@@ -1901,6 +1910,23 @@
       "discovery_ts": 1784830133.087011
     },
     {
+      "asin": "B0CB6TK5J8",
+      "title": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
+      "link": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
+      "current_price": "3819.0",
+      "original_price": "5058.9",
+      "discount": 24.5,
+      "difference": 1239.9,
+      "criteria": [
+        "R$ 1239.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HELBbb0WL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784933121.394618
+    },
+    {
       "asin": "B0G4DV2ZPJ",
       "title": "Notebook Gamer ASUS TUF Gaming A15, RTX3050 AMD RYZEN 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' IPS 144Hz, Graphite Black - FA506NCG-HN217W",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX3050-Graphite/dp/B0G4DV2ZPJ",
@@ -1918,21 +1944,21 @@
       "discovery_ts": 1784835801.542638
     },
     {
-      "asin": "B0F7J2KKFW",
-      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
-      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
-      "current_price": "235.98",
-      "original_price": "406.25",
-      "discount": 41.9,
-      "difference": 170.27,
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
       "criteria": [
-        "41.9% OFF"
+        "54.2% OFF"
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784522841.687335
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B08B6DLFYD",
