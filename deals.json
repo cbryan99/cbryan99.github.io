@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 16:31:15",
+  "last_check": "27/07/2026 18:10:03",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1537,6 +1537,10 @@
         {
           "price": "1919.1",
           "date": "2026-07-24T19:17:23.156706"
+        },
+        {
+          "price": "1919.19",
+          "date": "2026-07-27T18:10:03.073018"
         }
       ]
     },
@@ -2133,6 +2137,24 @@
           "date": "2026-07-27T16:31:15.641153"
         }
       ]
+    },
+    "B0DZK4DNJ1": {
+      "discovery_date": "2026-07-27T18:10:03.073018",
+      "price_history": [
+        {
+          "price": "5518.9",
+          "date": "2026-07-27T18:10:03.073018"
+        }
+      ]
+    },
+    "B00861CC7Y": {
+      "discovery_date": "2026-07-27T18:10:03.073018",
+      "price_history": [
+        {
+          "price": "99.9",
+          "date": "2026-07-27T18:10:03.073018"
+        }
+      ]
     }
   },
   "data": [
@@ -2171,72 +2193,38 @@
       "discovery_ts": 1785169875.641153
     },
     {
-      "asin": "B0CRSZRJ9B",
-      "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
-      "current_price": "2149.04",
-      "original_price": "3099.0",
-      "discount": 30.7,
-      "difference": 949.96,
+      "asin": "B0DZK4DNJ1",
+      "title": "Apple 2025 iPad (Wi-Fi + Cellular, 128 GB) - Azul (A16)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-Cellular/dp/B0DZK4DNJ1",
+      "current_price": "5518.9",
+      "original_price": "6499.0",
+      "discount": 15.1,
+      "difference": 980.1,
       "criteria": [
-        "R$ 949.96 desc."
+        "R$ 980.1 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": true,
-      "discovery_ts": 1785169875.641153
-    },
-    {
-      "asin": "B0FLQHX22J",
-      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Inox com Programa Lava & Seca 50 min (LS08E) 220V",
-      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS08E/dp/B0FLQHX22J",
-      "current_price": "2069.0",
-      "original_price": "2499.0",
-      "discount": 17.2,
-      "difference": 430.0,
-      "criteria": [
-        "R$ 430.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Q4P2GkUIL._AC_UL210_SR210,210_.jpg",
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51RQ0nsGfjL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1785169875.641153
+      "discovery_ts": 1785175803.073018
     },
     {
-      "asin": "B0H2Y5MP5Z",
-      "title": "WUBEN X4 EDC Lanterna plana com luz RGB | minide 1500 lúmens com interruptor tático e ímã,portátil IP65 com clipe de bolso e USB-C para camping, verificações",
-      "link": "https://www.amazon.com.br/WUBEN-EDC-Lanterna-plana-com/dp/B0H2Y5MP5Z",
-      "current_price": "165.59",
-      "original_price": "305.99",
-      "discount": 45.9,
-      "difference": 140.4,
+      "asin": "B00861CC7Y",
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Black-Label-Garrafa/dp/B00861CC7Y",
+      "current_price": "99.9",
+      "original_price": "177.9",
+      "discount": 43.8,
+      "difference": 78.0,
       "criteria": [
-        "45.9% OFF"
+        "43.8% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71PmxiQjCWL._AC_UL210_SR210,210_.jpg",
-      "category": null,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61S5PedMY6L._AC_UL210_SR210,210_.jpg",
+      "category": "🥃 Bebidas",
       "is_new": true,
-      "discovery_ts": 1785169875.641153
-    },
-    {
-      "asin": "B0FKW9WDLL",
-      "title": "Kit Cenoura & Bronze Protetor Solar 200ml+ Protetor Solar Facial 50g - FPS 50",
-      "link": "https://www.amazon.com.br/Cenoura-Bronze-Protetor-Solar-Facial/dp/B0FKW9WDLL",
-      "current_price": "28.98",
-      "original_price": "69.99",
-      "discount": 58.6,
-      "difference": 41.01,
-      "criteria": [
-        "58.6% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OSzXG9TLL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1785169875.641153
+      "discovery_ts": 1785175803.073018
     },
     {
       "asin": "B07LBK41YG",
@@ -2291,22 +2279,21 @@
       "discovery_ts": 1785128082.040921
     },
     {
-      "asin": "B0BQ3M1M7M",
-      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
-      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
-      "current_price": "1298.99",
-      "original_price": "2197.0",
-      "discount": 40.9,
-      "difference": 898.01,
+      "asin": "B0H2DR1SGP",
+      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
+      "link": "https://www.amazon.com.br/L40-aspirador-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
+      "current_price": "1919.19",
+      "original_price": "2499.0",
+      "discount": 23.2,
+      "difference": 579.81,
       "criteria": [
-        "40.9% OFF",
-        "R$ 898.01 desc."
+        "R$ 579.81 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1785128082.040921
+      "discovery_ts": 1784920643.156706
     },
     {
       "asin": "B0FVP6KRP4",
@@ -2326,22 +2313,22 @@
       "discovery_ts": 1784936763.261283
     },
     {
-      "asin": "B000E7YK5K",
-      "title": "Armani Beauty, Acqua di Giò Eau de Toilette, Giorgio Armani, Perfume Masculino Refilável, Fragrância Cítrica, Aquática e Fresca com Notas de Bergamota, Cedro, Patchouli, Jasmim e Almíscar",
-      "link": "https://www.amazon.com.br/Acqua-Giorgio-Armani-Toilette-Packaging/dp/B000E7YK5K",
-      "current_price": "447.99",
-      "original_price": "819.0",
-      "discount": 45.3,
-      "difference": 371.01,
+      "asin": "B07RHFXSN2",
+      "title": "Óculos de Sol Ray-Ban Hexagonal, Tamanho 54",
+      "link": "https://www.amazon.com.br/%C3%93culos-Ray-Ban-Hexagonal-RB3548NL-54-21/dp/B07RHFXSN2",
+      "current_price": "457.99",
+      "original_price": "940.0",
+      "discount": 51.3,
+      "difference": 482.01,
       "criteria": [
-        "45.3% OFF",
-        "R$ 371.01 desc."
+        "51.3% OFF",
+        "R$ 482.01 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61uaspEIxKL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eu2ztv1CL._AC_UL210_SR210,210_.jpg",
+      "category": null,
       "is_new": false,
-      "discovery_ts": 1785160913.33829
+      "discovery_ts": 1785050714.261271
     },
     {
       "asin": "B088MVWBM9",
@@ -2361,6 +2348,40 @@
       "discovery_ts": 1785152966.201765
     },
     {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
+      "criteria": [
+        "41.9% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
+      "asin": "B076WXPCYM",
+      "title": "Mor - Cadeira Reclinável 8 Posições Alumínio Azul",
+      "link": "https://www.amazon.com.br/Cadeira-Praia-Reclin%C3%A1vel-Alum%C3%ADnio-Posi%C3%A7%C3%B5es/dp/B076WXPCYM",
+      "current_price": "98.9",
+      "original_price": "253.9",
+      "discount": 61.0,
+      "difference": 155.0,
+      "criteria": [
+        "61.0% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784970231.943494
+    },
+    {
       "asin": "B08B6DLFYD",
       "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
       "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
@@ -2376,6 +2397,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B08L6YHZ75",
