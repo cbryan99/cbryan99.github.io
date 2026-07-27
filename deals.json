@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 08:25:20",
+  "last_check": "27/07/2026 11:49:26",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1989,9 +1989,148 @@
           "date": "2026-07-27T08:25:20.516192"
         }
       ]
+    },
+    "B0CT64NZ7J": {
+      "discovery_date": "2026-07-27T11:49:26.201765",
+      "price_history": [
+        {
+          "price": "303.61",
+          "date": "2026-07-27T11:49:26.201765"
+        }
+      ]
+    },
+    "B088MVWBM9": {
+      "discovery_date": "2026-07-27T11:49:26.201765",
+      "price_history": [
+        {
+          "price": "189.98",
+          "date": "2026-07-27T11:49:26.201765"
+        }
+      ]
+    },
+    "B08DL1YJDG": {
+      "discovery_date": "2026-07-27T11:49:26.201765",
+      "price_history": [
+        {
+          "price": "819.9",
+          "date": "2026-07-27T11:49:26.201765"
+        }
+      ]
+    },
+    "B092SS3J2V": {
+      "discovery_date": "2026-07-27T11:49:26.201765",
+      "price_history": [
+        {
+          "price": "19.9",
+          "date": "2026-07-27T11:49:26.201765"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B08DL1YJDG",
+      "title": "Lavadora de Alta Pressão 2100LBS Karcher K5 Black (220V)",
+      "link": "https://www.amazon.com.br/LAVADORA-Alta-Press%C3%A3o-K%C3%A4rcher-220V/dp/B08DL1YJDG",
+      "current_price": "819.9",
+      "original_price": "1236.0",
+      "discount": 33.7,
+      "difference": 416.1,
+      "criteria": [
+        "R$ 416.1 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tQ1RXjsIL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785152966.201765
+    },
+    {
+      "asin": "B0CT64NZ7J",
+      "title": "Vonder, Lavadora De Alta Pressão Lav 1600, 1.600 Lbf/Pol², 220 V~,",
+      "link": "https://www.amazon.com.br/Vonder-Lavadora-Alta-Press%C3%A3o-1-600/dp/B0CT64NZ7J",
+      "current_price": "303.61",
+      "original_price": "574.96",
+      "discount": 47.2,
+      "difference": 271.35,
+      "criteria": [
+        "47.2% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71uMX64VQAL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785152966.201765
+    },
+    {
+      "asin": "B088MVWBM9",
+      "title": "Aspirador Pó Philco Vertical Power Clean 2000W PAS4000V 127V",
+      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
+      "current_price": "189.98",
+      "original_price": "434.9",
+      "discount": 56.3,
+      "difference": 244.92,
+      "criteria": [
+        "56.3% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785152966.201765
+    },
+    {
+      "asin": "B092SS3J2V",
+      "title": "NIVEA MEN Kit Desodorante Antitranspirante Aerossol Original Protect 48h 150ml (2 unidades)",
+      "link": "https://www.amazon.com.br/Desodorante-Aerosol-Original-Protect-Unidades/dp/B092SS3J2V",
+      "current_price": "19.9",
+      "original_price": "34.9",
+      "discount": 43.0,
+      "difference": 15.0,
+      "criteria": [
+        "43.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71J+hyfBNwL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": true,
+      "discovery_ts": 1785152966.201765
+    },
+    {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": "5699.0",
+      "original_price": "7599.0",
+      "discount": 25.0,
+      "difference": 1900.0,
+      "criteria": [
+        "R$ 1900.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
+      "current_price": "2159.39",
+      "original_price": "3599.0",
+      "discount": 40.0,
+      "difference": 1439.61,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.61 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1785128082.040921
+    },
     {
       "asin": "B0DW6X9K7P",
       "title": "GoPro Max 360 - Câmera de Ação à Prova d'água, Vídeo 360 5.6K, Reenquadramento 4K, Foto 360, GPS, Live 1080p, Max HyperSmooth, TimeWarp, Trava de horizonte, Capturas com bastão invisível",
@@ -2006,42 +2145,25 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
+      "is_new": false,
       "discovery_ts": 1785140720.516192
     },
     {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
-      "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
+      "asin": "B0BPYR83CF",
+      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
+      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
+      "current_price": "194.64",
+      "original_price": "369.9",
+      "discount": 47.4,
+      "difference": 175.26,
       "criteria": [
-        "R$ 550.0 desc."
+        "47.4% OFF"
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Bluetooth 5.4, resistente a respingos IP54, true wireless, Graves Poderosos, 45H de Reprodução",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": "196.9",
-      "original_price": "369.0",
-      "discount": 46.6,
-      "difference": 172.1,
-      "criteria": [
-        "46.6% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1785128082.040921
+      "discovery_ts": 1784713238.005138
     },
     {
       "asin": "B0F7J2KKFW",
@@ -2061,23 +2183,6 @@
       "discovery_ts": 1784522841.687335
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
-      "criteria": [
-        "54.2% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
       "asin": "B08B6DLFYD",
       "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
       "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
@@ -2093,23 +2198,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0812BFKXP",
-      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
-      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
-      "current_price": "169.0",
-      "original_price": "302.0",
-      "discount": 44.0,
-      "difference": 133.0,
-      "criteria": [
-        "44.0% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B0DCM31SDG",
@@ -2129,21 +2217,38 @@
       "discovery_ts": 1784867692.162797
     },
     {
-      "asin": "B09V83L8G8",
-      "title": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
-      "link": "https://www.amazon.com.br/Caf%C3%A9-Especial-Torrado-Gr%C3%A3o-Kg/dp/B09V83L8G8",
-      "current_price": "99.79",
-      "original_price": "182.27",
-      "discount": 45.3,
-      "difference": 82.48,
+      "asin": "B08L6YHZ75",
+      "title": "Escova Secadora Britânia Soft 4 em 1 1300W BEC07R Bivolt",
+      "link": "https://www.amazon.com.br/ESCOVA-SECADORA-SOFT-BEC07R-BIV/dp/B08L6YHZ75",
+      "current_price": "87.89",
+      "original_price": "157.07",
+      "discount": 44.0,
+      "difference": 69.18,
       "criteria": [
-        "45.3% OFF"
+        "44.0% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZneM+AxXL._AC_UL210_SR210,210_.jpg",
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KoGFYvmPL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784582414.20406
+      "discovery_ts": 1785128082.040921
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": "38.8",
+      "original_price": "69.9",
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
     },
     {
       "asin": "B09BBDVPB1",
