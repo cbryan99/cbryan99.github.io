@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 11:49:26",
+  "last_check": "27/07/2026 14:01:53",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2025,93 +2025,140 @@
           "date": "2026-07-27T11:49:26.201765"
         }
       ]
+    },
+    "B0GQJP852H": {
+      "discovery_date": "2026-07-27T14:01:53.338290",
+      "price_history": [
+        {
+          "price": "1748.98",
+          "date": "2026-07-27T14:01:53.338290"
+        }
+      ]
+    },
+    "B07PR1CL3S": {
+      "discovery_date": "2026-07-27T14:01:53.338290",
+      "price_history": [
+        {
+          "price": "42.0",
+          "date": "2026-07-27T14:01:53.338290"
+        }
+      ]
+    },
+    "B0GYZ4NHB3": {
+      "discovery_date": "2026-07-27T14:01:53.338290",
+      "price_history": [
+        {
+          "price": "1259.39",
+          "date": "2026-07-27T14:01:53.338290"
+        }
+      ]
+    },
+    "B000E7YK5K": {
+      "discovery_date": "2026-07-27T14:01:53.338290",
+      "price_history": [
+        {
+          "price": "447.99",
+          "date": "2026-07-27T14:01:53.338290"
+        }
+      ]
+    },
+    "B07GJ67M26": {
+      "discovery_date": "2026-07-27T14:01:53.338290",
+      "price_history": [
+        {
+          "price": "75.81",
+          "date": "2026-07-27T14:01:53.338290"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B08DL1YJDG",
-      "title": "Lavadora de Alta Pressão 2100LBS Karcher K5 Black (220V)",
-      "link": "https://www.amazon.com.br/LAVADORA-Alta-Press%C3%A3o-K%C3%A4rcher-220V/dp/B08DL1YJDG",
-      "current_price": "819.9",
-      "original_price": "1236.0",
-      "discount": 33.7,
-      "difference": 416.1,
+      "asin": "B0GYZ4NHB3",
+      "title": "DREAME F10 Robô Aspirador e Passa Pano, Sucção 13000Pa, Limpeza de Sujeiras Secas e Úmidas e Carpetes, Desvio de Obstáculos, Remoção de Pelos e Resíduos de Pets, Autonomia 300 min, Alexa, Bivolt",
+      "link": "https://www.amazon.com.br/F10-Aspirador-Sujeiras-Obst%C3%A1culos-Autonomia/dp/B0GYZ4NHB3",
+      "current_price": "1259.39",
+      "original_price": "2099.0",
+      "discount": 40.0,
+      "difference": 839.61,
       "criteria": [
-        "R$ 416.1 desc."
+        "40.0% OFF",
+        "R$ 839.61 desc."
       ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tQ1RXjsIL._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LywBn8yEL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1785152966.201765
+      "discovery_ts": 1785160913.33829
     },
     {
-      "asin": "B0CT64NZ7J",
-      "title": "Vonder, Lavadora De Alta Pressão Lav 1600, 1.600 Lbf/Pol², 220 V~,",
-      "link": "https://www.amazon.com.br/Vonder-Lavadora-Alta-Press%C3%A3o-1-600/dp/B0CT64NZ7J",
-      "current_price": "303.61",
-      "original_price": "574.96",
-      "discount": 47.2,
-      "difference": 271.35,
+      "asin": "B0GQJP852H",
+      "title": "LG Ar Condicionado Split LG Dual Inverter AI Voice 9000 BTU/h Frio S3-Q09AA31F - 220 Volts",
+      "link": "https://www.amazon.com.br/LG-Condicionado-Split-Inverter-S3-Q09AA31F/dp/B0GQJP852H",
+      "current_price": "1748.98",
+      "original_price": "2205.0",
+      "discount": 20.7,
+      "difference": 456.02,
       "criteria": [
-        "47.2% OFF"
+        "R$ 456.02 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71uMX64VQAL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51NfHemGyVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": true,
+      "discovery_ts": 1785160913.33829
+    },
+    {
+      "asin": "B000E7YK5K",
+      "title": "Armani Beauty, Acqua di Giò Eau de Toilette, Giorgio Armani, Perfume Masculino Refilável, Fragrância Cítrica, Aquática e Fresca com Notas de Bergamota, Cedro, Patchouli, Jasmim e Almíscar",
+      "link": "https://www.amazon.com.br/Acqua-Giorgio-Armani-Toilette-Packaging/dp/B000E7YK5K",
+      "current_price": "447.99",
+      "original_price": "819.0",
+      "discount": 45.3,
+      "difference": 371.01,
+      "criteria": [
+        "45.3% OFF",
+        "R$ 371.01 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61uaspEIxKL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1785160913.33829
+    },
+    {
+      "asin": "B07GJ67M26",
+      "title": "NAUTICA VOYAGE N83 EDT 100ML V2",
+      "link": "https://www.amazon.com.br/NAUTICA-Voyage-N83-Toilette-Spray/dp/B07GJ67M26",
+      "current_price": "75.81",
+      "original_price": "199.0",
+      "discount": 61.9,
+      "difference": 123.19,
+      "criteria": [
+        "61.9% OFF"
+      ],
+      "badge": "61% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ITaGeHfUL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": true,
+      "discovery_ts": 1785160913.33829
+    },
+    {
+      "asin": "B07PR1CL3S",
+      "title": "boAt Fone de Ouvido Sem Fio Bluetooth Rockerz 450 Preto",
+      "link": "https://www.amazon.com.br/Fone-Ouvido-Bluetooth-Rockerz-450/dp/B07PR1CL3S",
+      "current_price": "42.0",
+      "original_price": "140.2",
+      "discount": 70.0,
+      "difference": 98.2,
+      "criteria": [
+        "70.0% OFF"
+      ],
+      "badge": "70% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FNnHjzhQL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1785152966.201765
-    },
-    {
-      "asin": "B088MVWBM9",
-      "title": "Aspirador Pó Philco Vertical Power Clean 2000W PAS4000V 127V",
-      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
-      "current_price": "189.98",
-      "original_price": "434.9",
-      "discount": 56.3,
-      "difference": 244.92,
-      "criteria": [
-        "56.3% OFF"
-      ],
-      "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1785152966.201765
-    },
-    {
-      "asin": "B092SS3J2V",
-      "title": "NIVEA MEN Kit Desodorante Antitranspirante Aerossol Original Protect 48h 150ml (2 unidades)",
-      "link": "https://www.amazon.com.br/Desodorante-Aerosol-Original-Protect-Unidades/dp/B092SS3J2V",
-      "current_price": "19.9",
-      "original_price": "34.9",
-      "discount": 43.0,
-      "difference": 15.0,
-      "criteria": [
-        "43.0% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71J+hyfBNwL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1785152966.201765
-    },
-    {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
-      "criteria": [
-        "R$ 1900.0 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1785160913.33829
     },
     {
       "asin": "B0GXFFSVYM",
@@ -2127,6 +2174,24 @@
       ],
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1785128082.040921
+    },
+    {
+      "asin": "B0BQ3M1M7M",
+      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
+      "current_price": "1298.99",
+      "original_price": "2197.0",
+      "discount": 40.9,
+      "difference": 898.01,
+      "criteria": [
+        "40.9% OFF",
+        "R$ 898.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
       "discovery_ts": 1785128082.040921
@@ -2149,21 +2214,21 @@
       "discovery_ts": 1785140720.516192
     },
     {
-      "asin": "B0BPYR83CF",
-      "title": "Passadeira de Roupa a Vapor Vertical Elgin 110V - Steamer, Vaporizador e Higienizador",
-      "link": "https://www.amazon.com.br/Passadeira-Roupa-Vapor-Vertical-Elgin/dp/B0BPYR83CF",
-      "current_price": "194.64",
-      "original_price": "369.9",
-      "discount": 47.4,
-      "difference": 175.26,
+      "asin": "B088MVWBM9",
+      "title": "Aspirador Pó Philco Vertical Power Clean 2000W PAS4000V 127V",
+      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
+      "current_price": "189.98",
+      "original_price": "434.9",
+      "discount": 56.3,
+      "difference": 244.92,
       "criteria": [
-        "47.4% OFF"
+        "56.3% OFF"
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51eE2NjE9ZL._AC_UL210_SR210,210_.jpg",
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784713238.005138
+      "discovery_ts": 1785152966.201765
     },
     {
       "asin": "B0F7J2KKFW",
@@ -2183,6 +2248,23 @@
       "discovery_ts": 1784522841.687335
     },
     {
+      "asin": "B07Y3B33KG",
+      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
+      "current_price": "127.15",
+      "original_price": "277.78",
+      "discount": 54.2,
+      "difference": 150.63,
+      "criteria": [
+        "54.2% OFF"
+      ],
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
       "asin": "B08B6DLFYD",
       "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
       "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
@@ -2198,23 +2280,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0DCM31SDG",
-      "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
-      "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCM31SDG",
-      "current_price": "63.78",
-      "original_price": "159.9",
-      "discount": 60.1,
-      "difference": 96.12,
-      "criteria": [
-        "60.1% OFF"
-      ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41z7d-LlVEL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784867692.162797
     },
     {
       "asin": "B08L6YHZ75",
