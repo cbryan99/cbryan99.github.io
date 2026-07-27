@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 22:15:10",
+  "last_check": "27/07/2026 23:28:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2085,6 +2085,10 @@
         {
           "price": "3899.0",
           "date": "2026-07-27T16:31:15.641153"
+        },
+        {
+          "price": "4199.9",
+          "date": "2026-07-27T23:28:58.277718"
         }
       ]
     },
@@ -2168,47 +2172,65 @@
           "date": "2026-07-27T21:05:11.174556"
         }
       ]
+    },
+    "B0GTWYK3TY": {
+      "discovery_date": "2026-07-27T23:28:58.277718",
+      "price_history": [
+        {
+          "price": "3681.0",
+          "date": "2026-07-27T23:28:58.277718"
+        }
+      ]
+    },
+    "B084RCXNJX": {
+      "discovery_date": "2026-07-27T23:28:58.277718",
+      "price_history": [
+        {
+          "price": "1629.0",
+          "date": "2026-07-27T23:28:58.277718"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B08L9FL3JW",
-      "title": "HUION Mesa digitalizadora Kamvas 16 com tela totalmente laminada, com Stylus sem bateria, suporte ajustável com 10 teclas de atalho ajustável, tela de caneta de 15,6 polegadas",
-      "link": "https://www.amazon.com.br/HUION-totalmente-laminado-ajust%C3%A1vel-polegadas/dp/B08L9FL3JW",
-      "current_price": "2324.04",
-      "original_price": "2799.0",
-      "discount": 17.0,
-      "difference": 474.96,
+      "asin": "B0GTWYK3TY",
+      "title": "Geladeira Intuitive+ Panasonic BB41 Frost Free Inverter 407L Titânio - NR-BB41PV2T 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Inverter-Tit%C3%A2nio/dp/B0GTWYK3TY",
+      "current_price": "3681.0",
+      "original_price": "4578.67",
+      "discount": 19.6,
+      "difference": 897.67,
       "criteria": [
-        "R$ 474.96 desc."
+        "R$ 897.67 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71bvaMRxSyL._AC_UL210_SR210,210_.jpg",
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31NRvjT2WcL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1785186311.174556
+      "discovery_ts": 1785194938.277718
     },
     {
-      "asin": "B0FXM57JL9",
-      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": "8998.99",
-      "original_price": "12999.0",
-      "discount": 30.8,
-      "difference": 4000.01,
+      "asin": "B084RCXNJX",
+      "title": "Máquina de Lavar Electrolux 11kg Branca Essential Care Easy Clean Filtro Fiapos 220v LES11",
+      "link": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084RCXNJX",
+      "current_price": "1629.0",
+      "original_price": "2368.41",
+      "discount": 31.2,
+      "difference": 739.41,
       "criteria": [
-        "R$ 4000.01 desc."
+        "R$ 739.41 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+50Z4TgEL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": false,
-      "discovery_ts": 1785169875.641153
+      "is_new": true,
+      "discovery_ts": 1785194938.277718
     },
     {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
       "current_price": "5699.0",
       "original_price": "7599.0",
       "discount": 25.0,
@@ -2217,27 +2239,10 @@
         "R$ 1900.0 desc."
       ],
       "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784830133.087011
-    },
-    {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": "9699.0",
-      "original_price": "11499.0",
-      "discount": 15.7,
-      "difference": 1800.0,
-      "criteria": [
-        "R$ 1800.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "discovery_ts": 1784846418.539129
     },
     {
       "asin": "B0GXFFSVYM",
@@ -2261,14 +2266,14 @@
       "asin": "B0GWNKJDCZ",
       "title": "PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony",
       "link": "https://www.amazon.com.br/PlayStation-Edi%C3%A7%C3%A3o-Digital-Controle-Sony/dp/B0GWNKJDCZ",
-      "current_price": "3899.0",
+      "current_price": "4199.9",
       "original_price": "5280.9",
-      "discount": 26.2,
-      "difference": 1381.9,
+      "discount": 20.5,
+      "difference": 1081.0,
       "criteria": [
-        "R$ 1381.9 desc."
+        "R$ 1081.0 desc."
       ],
-      "badge": "26% off",
+      "badge": "",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319QTMDdZhL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
@@ -2310,72 +2315,38 @@
       "discovery_ts": 1785128082.040921
     },
     {
-      "asin": "B0H2DR1SGP",
-      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
-      "link": "https://www.amazon.com.br/L40-aspirador-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
-      "current_price": "1919.19",
-      "original_price": "2499.0",
-      "discount": 23.2,
-      "difference": 579.81,
+      "asin": "B0DW6X9K7P",
+      "title": "GoPro Max 360 - Câmera de Ação à Prova d'água, Vídeo 360 5.6K, Reenquadramento 4K, Foto 360, GPS, Live 1080p, Max HyperSmooth, TimeWarp, Trava de horizonte, Capturas com bastão invisível",
+      "link": "https://www.amazon.com.br/GoPro-Max-360-Reenquadramento-HyperSmooth/dp/B0DW6X9K7P",
+      "current_price": "1899.9",
+      "original_price": "2699.0",
+      "discount": 29.6,
+      "difference": 799.1,
       "criteria": [
-        "R$ 579.81 desc."
+        "R$ 799.1 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784920643.156706
+      "discovery_ts": 1785140720.516192
     },
     {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": "2649.0",
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": "2528.98",
       "original_price": "3199.0",
-      "discount": 17.2,
-      "difference": 550.0,
+      "discount": 20.9,
+      "difference": 670.02,
       "criteria": [
-        "R$ 550.0 desc."
+        "R$ 670.02 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": false,
-      "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "B0GL3YFDQ9",
-      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts | AR60F24D1AWNAZ, 220 Volts",
-      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
-      "current_price": "3599.0",
-      "original_price": "4099.0",
-      "discount": 12.2,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1784733181.055293
-    },
-    {
-      "asin": "B0F5X4LL89",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
-      "current_price": "2199.0",
-      "original_price": "2599.99",
-      "discount": 15.4,
-      "difference": 400.99,
-      "criteria": [
-        "R$ 400.99 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "📺 Eletrodomésticos",
       "is_new": false,
-      "discovery_ts": 1784725632.865556
+      "discovery_ts": 1784464310.552537
     },
     {
       "asin": "B000E7YK5K",
@@ -2476,6 +2447,23 @@
       ],
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51KoGFYvmPL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1785128082.040921
+    },
+    {
+      "asin": "B084B4LT3Z",
+      "title": "Lâmina de Reposição Original Philips OneBlade QP210/51 Aço Inoxidável - Raspa, Apara e Contorna, compatível com todos os Barbeadores Elétricos OneBlade.",
+      "link": "https://www.amazon.com.br/Reposi%C3%A7%C3%A3o-QP210-51-Inoxid%C3%A1vel-Contornar/dp/B084B4LT3Z",
+      "current_price": "54.98",
+      "original_price": "99.9",
+      "discount": 45.0,
+      "difference": 44.92,
+      "criteria": [
+        "45.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71w-pvx-dHL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
       "discovery_ts": 1785128082.040921
