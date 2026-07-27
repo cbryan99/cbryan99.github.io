@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 04:54:42",
+  "last_check": "27/07/2026 08:25:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1980,48 +1980,55 @@
           "date": "2026-07-27T04:54:42.040921"
         }
       ]
+    },
+    "B0DW6X9K7P": {
+      "discovery_date": "2026-07-27T08:25:20.516192",
+      "price_history": [
+        {
+          "price": "1899.9",
+          "date": "2026-07-27T08:25:20.516192"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": "2159.39",
-      "original_price": "3599.0",
-      "discount": 40.0,
-      "difference": 1439.61,
+      "asin": "B0DW6X9K7P",
+      "title": "GoPro Max 360 - Câmera de Ação à Prova d'água, Vídeo 360 5.6K, Reenquadramento 4K, Foto 360, GPS, Live 1080p, Max HyperSmooth, TimeWarp, Trava de horizonte, Capturas com bastão invisível",
+      "link": "https://www.amazon.com.br/GoPro-Max-360-Reenquadramento-HyperSmooth/dp/B0DW6X9K7P",
+      "current_price": "1899.9",
+      "original_price": "2699.0",
+      "discount": 29.6,
+      "difference": 799.1,
       "criteria": [
-        "40.0% OFF",
-        "R$ 1439.61 desc."
+        "R$ 799.1 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": true,
-      "discovery_ts": 1785128082.040921
+      "discovery_ts": 1785140720.516192
     },
     {
-      "asin": "B0BQ3M1M7M",
-      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
-      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
-      "current_price": "1298.99",
-      "original_price": "2197.0",
-      "discount": 40.9,
-      "difference": 898.01,
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": "2649.0",
+      "original_price": "3199.0",
+      "discount": 17.2,
+      "difference": 550.0,
       "criteria": [
-        "40.9% OFF",
-        "R$ 898.01 desc."
+        "R$ 550.0 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
-      "discovery_ts": 1785128082.040921
+      "is_new": false,
+      "discovery_ts": 1784936763.261283
     },
     {
       "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto",
+      "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Bluetooth 5.4, resistente a respingos IP54, true wireless, Graves Poderosos, 45H de Reprodução",
       "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
       "current_price": "196.9",
       "original_price": "369.0",
@@ -2033,76 +2040,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": null,
-      "is_new": true,
-      "discovery_ts": 1785128082.040921
-    },
-    {
-      "asin": "B08L6YHZ75",
-      "title": "Escova Secadora Britânia Soft 4 em 1 1300W BEC07R Bivolt",
-      "link": "https://www.amazon.com.br/ESCOVA-SECADORA-SOFT-BEC07R-BIV/dp/B08L6YHZ75",
-      "current_price": "87.89",
-      "original_price": "157.07",
-      "discount": 44.0,
-      "difference": 69.18,
-      "criteria": [
-        "44.0% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51KoGFYvmPL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1785128082.040921
-    },
-    {
-      "asin": "B084B4LT3Z",
-      "title": "Lâmina de Reposição Original Philips OneBlade QP210/51 Aço Inoxidável - Raspa, Apara e Contorna, compatível com todos os Barbeadores Elétricos OneBlade.",
-      "link": "https://www.amazon.com.br/Reposi%C3%A7%C3%A3o-QP210-51-Inoxid%C3%A1vel-Contornar/dp/B084B4LT3Z",
-      "current_price": "54.98",
-      "original_price": "99.9",
-      "discount": 45.0,
-      "difference": 44.92,
-      "criteria": [
-        "45.0% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71w-pvx-dHL._AC_UL210_SR210,210_.jpg",
-      "category": null,
-      "is_new": true,
-      "discovery_ts": 1785128082.040921
-    },
-    {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
-      "current_price": "5699.0",
-      "original_price": "7599.0",
-      "discount": 25.0,
-      "difference": 1900.0,
-      "criteria": [
-        "R$ 1900.0 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784846418.539129
-    },
-    {
-      "asin": "B0FQHG4KCL",
-      "title": "Apple iPhone 17 Pro (512 GB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-512/dp/B0FQHG4KCL",
-      "current_price": "11299.0",
-      "original_price": "12999.0",
-      "discount": 13.1,
-      "difference": 1700.0,
-      "criteria": [
-        "R$ 1700.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41eUrMz2PlL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1785101548.982249
+      "discovery_ts": 1785128082.040921
     },
     {
       "asin": "B0F7J2KKFW",
@@ -2156,6 +2095,23 @@
       "discovery_ts": 1784936763.261283
     },
     {
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784646038.083462
+    },
+    {
       "asin": "B0DCM31SDG",
       "title": "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
       "link": "https://www.amazon.com.br/El%C3%A9trico-Port%C3%A1til-Cooktop-Elgin-Double/dp/B0DCM31SDG",
@@ -2188,40 +2144,6 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784582414.20406
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": "58.52",
-      "original_price": "119.9",
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
-      "asin": "B08PPKQTFB",
-      "title": "Danos Vorazes Leave-in 200ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Danos-Vorazes-Leave-Lola-Cosmetics/dp/B08PPKQTFB",
-      "current_price": "18.9",
-      "original_price": "54.9",
-      "discount": 65.6,
-      "difference": 36.0,
-      "criteria": [
-        "65.6% OFF"
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNJekcJSL._AC_UL210_SR210,210_.jpg",
-      "category": "✂️ Autocuidado",
-      "is_new": false,
-      "discovery_ts": 1784752600.373367
     },
     {
       "asin": "B09BBDVPB1",
