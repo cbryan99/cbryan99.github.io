@@ -1,5 +1,5 @@
 {
-  "last_check": "27/07/2026 21:05:11",
+  "last_check": "27/07/2026 22:15:10",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1133,6 +1133,10 @@
         {
           "price": "2239.0",
           "date": "2026-07-22T17:57:32.777175"
+        },
+        {
+          "price": "2199.0",
+          "date": "2026-07-27T22:15:10.397495"
         }
       ]
     },
@@ -2185,9 +2189,26 @@
       "discovery_ts": 1785186311.174556
     },
     {
-      "asin": "B0DJFSKVZ5",
-      "title": "Apple iPhone 16 (256 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "asin": "B0FXM57JL9",
+      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": "8998.99",
+      "original_price": "12999.0",
+      "discount": 30.8,
+      "difference": 4000.01,
+      "criteria": [
+        "R$ 4000.01 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1785169875.641153
+    },
+    {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
       "current_price": "5699.0",
       "original_price": "7599.0",
       "discount": 25.0,
@@ -2196,10 +2217,10 @@
         "R$ 1900.0 desc."
       ],
       "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
-      "discovery_ts": 1784846418.539129
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0FQHXYK1Y",
@@ -2217,6 +2238,24 @@
       "category": "📱 Smartphones e Tablets",
       "is_new": false,
       "discovery_ts": 1784830133.087011
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
+      "current_price": "2159.39",
+      "original_price": "3599.0",
+      "discount": 40.0,
+      "difference": 1439.61,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.61 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1785128082.040921
     },
     {
       "asin": "B0GWNKJDCZ",
@@ -2253,23 +2292,6 @@
       "discovery_ts": 1784595805.500833
     },
     {
-      "asin": "B0CRSZRJ9B",
-      "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
-      "current_price": "2149.04",
-      "original_price": "3099.0",
-      "discount": 30.7,
-      "difference": 949.96,
-      "criteria": [
-        "R$ 949.96 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
-      "is_new": false,
-      "discovery_ts": 1785169875.641153
-    },
-    {
       "asin": "B0BQ3M1M7M",
       "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
       "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
@@ -2288,22 +2310,72 @@
       "discovery_ts": 1785128082.040921
     },
     {
-      "asin": "B0GYZ4NHB3",
-      "title": "DREAME F10 Robô Aspirador e Passa Pano, Sucção 13000Pa, Limpeza de Sujeiras Secas e Úmidas e Carpetes, Desvio de Obstáculos, Remoção de Pelos e Resíduos de Pets, Autonomia 300 min, Alexa, Bivolt",
-      "link": "https://www.amazon.com.br/F10-Aspirador-Sujeiras-Obst%C3%A1culos-Autonomia/dp/B0GYZ4NHB3",
-      "current_price": "1259.39",
-      "original_price": "2099.0",
-      "discount": 40.0,
-      "difference": 839.61,
+      "asin": "B0H2DR1SGP",
+      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
+      "link": "https://www.amazon.com.br/L40-aspirador-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
+      "current_price": "1919.19",
+      "original_price": "2499.0",
+      "discount": 23.2,
+      "difference": 579.81,
       "criteria": [
-        "40.0% OFF",
-        "R$ 839.61 desc."
+        "R$ 579.81 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LywBn8yEL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1785160913.33829
+      "discovery_ts": 1784920643.156706
+    },
+    {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": "2649.0",
+      "original_price": "3199.0",
+      "discount": 17.2,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": null,
+      "is_new": false,
+      "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0GL3YFDQ9",
+      "title": "Samsung Ar Condicionado Split Inverter Samsung WindFree AI 24000 BTU/h Frio AR60F24D1AWNAZ - 220 Volts | AR60F24D1AWNAZ, 220 Volts",
+      "link": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9",
+      "current_price": "3599.0",
+      "original_price": "4099.0",
+      "discount": 12.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HhpshEOKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784733181.055293
+    },
+    {
+      "asin": "B0F5X4LL89",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
+      "current_price": "2199.0",
+      "original_price": "2599.99",
+      "discount": 15.4,
+      "difference": 400.99,
+      "criteria": [
+        "R$ 400.99 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784725632.865556
     },
     {
       "asin": "B000E7YK5K",
@@ -2341,21 +2413,21 @@
       "discovery_ts": 1785152966.201765
     },
     {
-      "asin": "B07Y3B33KG",
-      "title": "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
-      "link": "https://www.amazon.com.br/Detergentes-Powerball-Embalagem-Econ%C3%B4mica-Finish/dp/B07Y3B33KG",
-      "current_price": "127.15",
-      "original_price": "277.78",
-      "discount": 54.2,
-      "difference": 150.63,
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": "235.98",
+      "original_price": "406.25",
+      "discount": 41.9,
+      "difference": 170.27,
       "criteria": [
-        "54.2% OFF"
+        "41.9% OFF"
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Nf8UQrPOL._AC_UL210_SR210,210_.jpg",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
       "category": null,
       "is_new": false,
-      "discovery_ts": 1784417123.48503
+      "discovery_ts": 1784522841.687335
     },
     {
       "asin": "B08B6DLFYD",
@@ -2373,6 +2445,23 @@
       "category": null,
       "is_new": false,
       "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0812BFKXP",
+      "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
+      "current_price": "169.0",
+      "original_price": "302.0",
+      "discount": 44.0,
+      "difference": 133.0,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784646038.083462
     },
     {
       "asin": "B08L6YHZ75",
