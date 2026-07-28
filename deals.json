@@ -1,5 +1,5 @@
 {
-  "last_check": "28/07/2026 12:43:09",
+  "last_check": "28/07/2026 13:16:22",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3099,6 +3099,15 @@
           "date": "2026-07-28T12:43:09.207625"
         }
       ]
+    },
+    "B0BT56FZRL": {
+      "discovery_date": "2026-07-28T13:16:22.816935",
+      "price_history": [
+        {
+          "price": 104.99,
+          "date": "2026-07-28T13:16:22.816935"
+        }
+      ]
     }
   },
   "data": [
@@ -3118,6 +3127,23 @@
       "category": "[PERSONAL_COMPUTER]",
       "is_new": true,
       "discovery_ts": 1785242589.207625
+    },
+    {
+      "asin": "B07G2G7CYW",
+      "title": "Citizen Relógio masculino Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot em aço inoxidável com pulseira de couro azul, mostrador azul (modelo: JY8078-01L), Dois tons, Cronógrafo, digital",
+      "link": "https://www.amazon.com.br/Citizen-JY8078-01L-Promaster-Skyhawk-Chrono/dp/B07G2G7CYW",
+      "current_price": 4536.9,
+      "original_price": 5335.9,
+      "discount": 15.0,
+      "difference": 799.0,
+      "criteria": [
+        "R$ 799.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8133MHGXsML._AC_UL210_SR210,210_.jpg",
+      "category": "👕 Moda & Acessórios",
+      "is_new": true,
+      "discovery_ts": 1785239681.16219
     },
     {
       "asin": "B0F63L9DLK",
@@ -3173,21 +3199,55 @@
       "discovery_ts": 1785242589.207625
     },
     {
-      "asin": "MLB3849943671",
-      "title": "Shorts Feminino Tactel Academia Bermuda Treino Fitness Praia",
-      "link": "https://produto.mercadolivre.com.br/MLB-3849943671-shorts-feminino-tactel-academia-bermuda-treino-fitness-praia-_JM",
-      "current_price": 15.74,
-      "original_price": 49.9,
-      "discount": 68.5,
-      "difference": 34.16,
+      "asin": "B0BT56FZRL",
+      "title": "Mixer Mallory Trikxer Pratic- 3 EM 1-220V",
+      "link": "https://www.amazon.com.br/Mixer-Mallory-Trikxer-Pratic-1-220V/dp/B0BT56FZRL",
+      "current_price": 104.99,
+      "original_price": 239.0,
+      "discount": 56.1,
+      "difference": 134.01,
       "criteria": [
-        "68.5% OFF"
+        "56.1% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_956651-MLB84465504726_052025-AB.webp",
-      "category": "⚽ Esportes & Saúde",
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514WpJcYJsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": true,
-      "discovery_ts": 1785238410.939981
+      "discovery_ts": 1785244582.816935
+    },
+    {
+      "asin": "B0D4NRBBMR",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
+      "current_price": 3998.0,
+      "original_price": 5799.0,
+      "discount": 31.1,
+      "difference": 1801.0,
+      "criteria": [
+        "R$ 1801.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "B0FQHXYK1Y",
+      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
+      "current_price": 9699.0,
+      "original_price": 11499.0,
+      "discount": 15.7,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "is_new": false,
+      "discovery_ts": 1784830133.087011
     },
     {
       "asin": "B0CRSZRJ9B",
@@ -3207,58 +3267,6 @@
       "discovery_ts": 1785169875.641153
     },
     {
-      "asin": "B0BQ3M1M7M",
-      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
-      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
-      "current_price": 1298.99,
-      "original_price": 2197.0,
-      "discount": 40.9,
-      "difference": 898.01,
-      "criteria": [
-        "40.9% OFF",
-        "R$ 898.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "is_new": false,
-      "discovery_ts": 1785128082.040921
-    },
-    {
-      "asin": "B0D4NR66ZL",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL",
-      "current_price": 5449.0,
-      "original_price": 6199.0,
-      "discount": 12.1,
-      "difference": 750.0,
-      "criteria": [
-        "R$ 750.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "is_new": false,
-      "discovery_ts": 1784419934.633826
-    },
-    {
-      "asin": "MLB4715592251",
-      "title": "Revólver De Pressão Co2 Sr357 Silver 4.5mm  Crosman Prateado 4.5 Mm",
-      "link": "https://www.mercadolivre.com.br/revolver-de-pressao-co2-sr357-silver-45mm--crosman/up/MLBU4008846603",
-      "current_price": 1409.73,
-      "original_price": 2119.9,
-      "discount": 33.5,
-      "difference": 710.17,
-      "criteria": [
-        "R$ 710.17 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_872230-MLB111288821908_052026-AB.webp",
-      "category": "[AIRSOFT_GUNS]",
-      "is_new": false,
-      "discovery_ts": 1785211726.382873
-    },
-    {
       "asin": "MLB4473349333",
       "title": "Saxofone saxofone alto em mi bemol Vedo VD-SKS tudel curvo - cor amarelo laqueado",
       "link": "https://www.mercadolivre.com.br/saxofone-saxofone-alto-em-mi-bemol-vedo-vd-sks-tudel-curvo-cor-amarelo-laqueado/p/MLB62593216",
@@ -3269,44 +3277,9 @@
       "criteria": [
         "R$ 596.99 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_697902-MLA107390366104_032026-AB.webp",
       "category": "[SAXOPHONES]",
-      "is_new": false,
-      "discovery_ts": 1785207848.029087
-    },
-    {
-      "asin": "MLB3754602329",
-      "title": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-chocolate-dark-lab/p/MLB19140416",
-      "current_price": 159.9,
-      "original_price": 699.9,
-      "discount": 77.2,
-      "difference": 540.0,
-      "criteria": [
-        "77.2% OFF",
-        "R$ 540.0 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_959030-MLA99595836842_122025-AB.webp",
-      "category": "⚽ Esportes & Saúde",
-      "is_new": false,
-      "discovery_ts": 1785220693.562389
-    },
-    {
-      "asin": "B0FNXZZTDW",
-      "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV com Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa e Google Home",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
-      "current_price": 2099.98,
-      "original_price": 2599.0,
-      "discount": 19.2,
-      "difference": 499.02,
-      "criteria": [
-        "R$ 499.02 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3321,7 +3294,7 @@
       "criteria": [
         "R$ 474.33 desc."
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 2 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_987413-MLA99443397702_112025-AB.webp",
       "category": "💻 Eletrônicos & Informática",
       "is_new": false,
@@ -3362,23 +3335,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1785160913.33829
-    },
-    {
-      "asin": "B0FXMX7SGL",
-      "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
-      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
-      "current_price": 1999.0,
-      "original_price": 2299.9,
-      "discount": 13.1,
-      "difference": 300.9,
-      "criteria": [
-        "R$ 300.9 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "is_new": false,
-      "discovery_ts": 1784825707.553482
     },
     {
       "asin": "B088MVWBM9",
@@ -3447,23 +3403,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784522841.687335
-    },
-    {
-      "asin": "MLB5532075156",
-      "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-      "link": "https://produto.mercadolivre.com.br/MLB-5532075156-tnis-kappa-pulse-rx-unissex-corrida-conforto-_JM",
-      "current_price": 137.74,
-      "original_price": 289.99,
-      "discount": 52.5,
-      "difference": 152.25,
-      "criteria": [
-        "52.5% OFF"
-      ],
-      "badge": "🟡 ML | 150 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_692498-MLB112373979315_052026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "is_new": false,
-      "discovery_ts": 1785211726.382873
     },
     {
       "asin": "MLB1989470877",
@@ -3544,7 +3483,7 @@
       "criteria": [
         "54.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
@@ -3561,7 +3500,7 @@
       "criteria": [
         "64.8% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_691904-MLB89127165861_082025-AB.webp",
       "category": "⚽ Esportes & Saúde",
       "is_new": false,
@@ -3619,6 +3558,23 @@
       "discovery_ts": 1785207848.029087
     },
     {
+      "asin": "B00861CC7Y",
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Black-Label-Garrafa/dp/B00861CC7Y",
+      "current_price": 99.9,
+      "original_price": 177.9,
+      "discount": 43.8,
+      "difference": 78.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61S5PedMY6L._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "is_new": false,
+      "discovery_ts": 1785175803.073018
+    },
+    {
       "asin": "MLB5721474416",
       "title": "Conjunto Feminino Completo Look Calça E Blusa Clássico",
       "link": "https://produto.mercadolivre.com.br/MLB-5721474416-conjunto-feminino-completo-look-calca-e-blusa-classico-_JM",
@@ -3629,7 +3585,7 @@
       "criteria": [
         "51.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933225-MLB91209513390_092025-AB.webp",
       "category": "👕 Moda & Acessórios",
       "is_new": false,
@@ -3755,23 +3711,6 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB5087675548",
-      "title": "Top Com Bojo Removível Alta Sustentação Academia Fitness",
-      "link": "https://produto.mercadolivre.com.br/MLB-5087675548-top-com-bojo-removivel-alta-sustentaco-academia-fitness-_JM",
-      "current_price": 16.9,
-      "original_price": 49.9,
-      "discount": 66.1,
-      "difference": 33.0,
-      "criteria": [
-        "66.1% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB.webp",
-      "category": "⚽ Esportes & Saúde",
-      "is_new": false,
-      "discovery_ts": 1785207848.029087
-    },
-    {
       "asin": "MLB4528656885",
       "title": "Bolsa De Ombro Vintage Para Mulheres, Bolsa Preta Lisa Diary",
       "link": "https://www.mercadolivre.com.br/vintage-shoulder-bag-for-women-plain-black-daily-f/p/MLB2065428815",
@@ -3799,7 +3738,7 @@
       "criteria": [
         "46.9% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 7",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625557-MLA113590086799_062026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
