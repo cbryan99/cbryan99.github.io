@@ -1,5 +1,5 @@
 {
-  "last_check": "28/07/2026 03:20:51",
+  "last_check": "28/07/2026 04:08:46",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1153,6 +1153,10 @@
         {
           "price": "2199.0",
           "date": "2026-07-27T22:15:10.397495"
+        },
+        {
+          "price": 2199.0,
+          "date": "2026-07-28T04:08:46.382873"
         }
       ]
     },
@@ -1694,6 +1698,10 @@
         {
           "price": "761.68",
           "date": "2026-07-25T01:13:02.461308"
+        },
+        {
+          "price": 761.68,
+          "date": "2026-07-28T04:08:46.382873"
         }
       ]
     },
@@ -1851,6 +1859,10 @@
         {
           "price": "658.99",
           "date": "2026-07-26T04:44:32.887068"
+        },
+        {
+          "price": 658.99,
+          "date": "2026-07-28T04:08:46.382873"
         }
       ]
     },
@@ -2074,6 +2086,10 @@
         {
           "price": "819.9",
           "date": "2026-07-27T11:49:26.201765"
+        },
+        {
+          "price": 819.9,
+          "date": "2026-07-28T04:08:46.382873"
         }
       ]
     },
@@ -2145,6 +2161,10 @@
         {
           "price": "4099.0",
           "date": "2026-07-28T00:57:04.599387"
+        },
+        {
+          "price": 4199.9,
+          "date": "2026-07-28T04:08:46.382873"
         }
       ]
     },
@@ -2675,6 +2695,60 @@
           "date": "2026-07-28T03:20:51.763192"
         }
       ]
+    },
+    "MLB3762971981": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 41,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
+    },
+    "MLB4715592251": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 1409.73,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
+    },
+    "MLB5532075156": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 137.74,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
+    },
+    "MLB6525070232": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 55,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
+    },
+    "MLB4715571899": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 1423.03,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
+    },
+    "MLB3549578737": {
+      "discovery_date": "2026-07-28T04:08:46.382873",
+      "price_history": [
+        {
+          "price": 33.28,
+          "date": "2026-07-28T04:08:46.382873"
+        }
+      ]
     }
   },
   "data": [
@@ -2697,21 +2771,38 @@
       "discovery_ts": 1785208231.358935
     },
     {
-      "asin": "MLB4473349333",
-      "title": "Saxofone saxofone alto em mi bemol Vedo VD-SKS tudel curvo - cor amarelo laqueado",
-      "link": "https://produto.mercadolivre.com.br/MLB4473349333",
-      "current_price": 1303,
-      "original_price": 1899.99,
-      "discount": 31.4,
-      "difference": 596.99,
+      "asin": "MLB4715571899",
+      "title": "Revólver De Pressão Sr357 Silver 4.5 - Crosman+ Acessórios Prateado 4.5 Mm",
+      "link": "https://produto.mercadolivre.com.br/MLB4715571899",
+      "current_price": 1423.03,
+      "original_price": 2139.9,
+      "discount": 33.5,
+      "difference": 716.87,
       "criteria": [
-        "R$ 596.99 desc."
+        "R$ 716.87 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_697902-MLA107390366104_032026-AB.webp",
-      "category": "[SAXOPHONES]",
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_674110-MLB111288903182_052026-AB.webp",
+      "category": "[AIRSOFT_GUNS]",
       "is_new": true,
-      "discovery_ts": 1785207848.029087
+      "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB4715592251",
+      "title": "Revólver De Pressão Co2 Sr357 Silver 4.5mm  Crosman Prateado 4.5 Mm",
+      "link": "https://produto.mercadolivre.com.br/MLB4715592251",
+      "current_price": 1409.73,
+      "original_price": 2119.9,
+      "discount": 33.5,
+      "difference": 710.17,
+      "criteria": [
+        "R$ 710.17 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_872230-MLB111288821908_052026-AB.webp",
+      "category": "[AIRSOFT_GUNS]",
+      "is_new": true,
+      "discovery_ts": 1785211726.382873
     },
     {
       "asin": "MLB4473349333",
@@ -2816,21 +2907,38 @@
       "discovery_ts": 1785208851.763192
     },
     {
-      "asin": "MLB1989470877",
-      "title": "Par De Alianças Ouro 18k Banhada Casamento 4mm",
-      "link": "https://produto.mercadolivre.com.br/MLB1989470877",
-      "current_price": 154.23,
-      "original_price": 299,
-      "discount": 48.4,
-      "difference": 144.77,
+      "asin": "MLB5532075156",
+      "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+      "link": "https://produto.mercadolivre.com.br/MLB5532075156",
+      "current_price": 137.74,
+      "original_price": 289.99,
+      "discount": 52.5,
+      "difference": 152.25,
       "criteria": [
-        "48.4% OFF"
+        "52.5% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_880758-MLB71247518913_082023-AB.webp",
-      "category": "[WEDDING_BANDS]",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_736580-MLB110896736891_042026-AB.webp",
+      "category": "[SNEAKERS]",
       "is_new": true,
-      "discovery_ts": 1785208851.763192
+      "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB5532075156",
+      "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+      "link": "https://produto.mercadolivre.com.br/MLB5532075156",
+      "current_price": 137.74,
+      "original_price": 289.99,
+      "discount": 52.5,
+      "difference": 152.25,
+      "criteria": [
+        "52.5% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_736580-MLB110896736891_042026-AB.webp",
+      "category": "[SNEAKERS]",
+      "is_new": true,
+      "discovery_ts": 1785211726.382873
     },
     {
       "asin": "MLB1926032644",
@@ -2867,23 +2975,6 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB4465262559",
-      "title": "Pinça de Sobrancelha Decorada Merheje Ponta Reta Aço Inox Depilatória Pote com 120 Unidades em Estampas Sortidas",
-      "link": "https://produto.mercadolivre.com.br/MLB4465262559",
-      "current_price": 144.99,
-      "original_price": 284.25,
-      "discount": 49.0,
-      "difference": 139.26,
-      "criteria": [
-        "49.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_982224-MLA114854661777_072026-AB.webp",
-      "category": "[TWEEZERS]",
-      "is_new": true,
-      "discovery_ts": 1785207848.029087
-    },
-    {
       "asin": "MLB1431471298",
       "title": "Mola Haste Óculos Md210 Conserto 100 Un",
       "link": "https://produto.mercadolivre.com.br/MLB1431471298",
@@ -2918,21 +3009,21 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB4470378417",
-      "title": "Tênis Feminino Delta 122 Olympikus Marinho/purple Lisa 37 Br",
-      "link": "https://produto.mercadolivre.com.br/MLB4470378417",
-      "current_price": 131.99,
-      "original_price": 229.99,
-      "discount": 42.6,
-      "difference": 98.0,
+      "asin": "MLB4715986223",
+      "title": "Cobre Leito Colcha Lisboa Bordado Dupla Face King 3 Peças Cor Branco Lisa",
+      "link": "https://produto.mercadolivre.com.br/MLB4715986223",
+      "current_price": 164.12,
+      "original_price": 289.9,
+      "discount": 43.4,
+      "difference": 125.78,
       "criteria": [
-        "42.6% OFF"
+        "43.4% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
-      "category": "[SNEAKERS]",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_968837-MLA97560204983_112025-AB.webp",
+      "category": "[QUILTS_AND_COVERLETS]",
       "is_new": true,
-      "discovery_ts": 1785208851.763192
+      "discovery_ts": 1785207848.029087
     },
     {
       "asin": "MLB4470378417",
@@ -2979,7 +3070,7 @@
       "criteria": [
         "54.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
       "category": "[QUILTS_AND_COVERLETS]",
       "is_new": true,
@@ -2996,9 +3087,43 @@
       "criteria": [
         "54.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
       "category": "[QUILTS_AND_COVERLETS]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB4612937229",
+      "title": "Colcha Cobre Leito Lisa Matelada Dupla Face Microfibra 3 Pçs Terracota",
+      "link": "https://produto.mercadolivre.com.br/MLB4612937229",
+      "current_price": 78.2,
+      "original_price": 169.9,
+      "discount": 54.0,
+      "difference": 91.7,
+      "criteria": [
+        "54.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 6",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
+      "category": "[QUILTS_AND_COVERLETS]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB4358615464",
+      "title": "Máscara Mergulho Snorkel Full Face Suporte Gopro Câmera",
+      "link": "https://produto.mercadolivre.com.br/MLB4358615464",
+      "current_price": 48.47,
+      "original_price": 137.89,
+      "discount": 64.8,
+      "difference": 89.42,
+      "criteria": [
+        "64.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_691904-MLB89127165861_082025-AB.webp",
+      "category": "[DIVING_MASKS]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
     },
@@ -3052,23 +3177,6 @@
       "category": "[PORTABLE_FANS]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
-    },
-    {
-      "asin": "MLB5324611680",
-      "title": "Jisulife Mini Ventilador Portátil de Mão Dobrável 3 em 1 com Lanterna e Power bank 4500mah 3 velocidades Longa Duração 46h Life8 Plus",
-      "link": "https://produto.mercadolivre.com.br/MLB5324611680",
-      "current_price": 60.73,
-      "original_price": 149,
-      "discount": 59.2,
-      "difference": 88.27,
-      "criteria": [
-        "59.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_748348-MLA104194860680_012026-AB.webp",
-      "category": "[PORTABLE_FANS]",
-      "is_new": true,
-      "discovery_ts": 1785208851.763192
     },
     {
       "asin": "MLB4006972035",
@@ -3118,23 +3226,6 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625300-MLB110786272181_042026-AB.webp",
       "category": "[SUNGLASSES]",
-      "is_new": true,
-      "discovery_ts": 1785207848.029087
-    },
-    {
-      "asin": "MLB6654949602",
-      "title": "Colcha Cobre Leito Lisa Matelada Dupla Face Microfibra 3 Pçs Terracota",
-      "link": "https://produto.mercadolivre.com.br/MLB6654949602",
-      "current_price": 102.68,
-      "original_price": 179.9,
-      "discount": 42.9,
-      "difference": 77.22,
-      "criteria": [
-        "42.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
-      "category": "[QUILTS_AND_COVERLETS]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
     },
@@ -3190,55 +3281,55 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB5682433410",
-      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
-      "link": "https://produto.mercadolivre.com.br/MLB5682433410",
-      "current_price": 69.9,
-      "original_price": 139.88,
-      "discount": 50.0,
-      "difference": 69.98,
+      "asin": "MLB5275567226",
+      "title": "Vestido Feminino Alfaiataria Casual Elegante Modelador Sexy",
+      "link": "https://produto.mercadolivre.com.br/MLB5275567226",
+      "current_price": 49.49,
+      "original_price": 119.9,
+      "discount": 58.7,
+      "difference": 70.41,
       "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
-      "category": "[SNEAKERS]",
-      "is_new": true,
-      "discovery_ts": 1785208231.358935
-    },
-    {
-      "asin": "MLB5682433410",
-      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
-      "link": "https://produto.mercadolivre.com.br/MLB5682433410",
-      "current_price": 69.9,
-      "original_price": 139.88,
-      "discount": 50.0,
-      "difference": 69.98,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
-      "category": "[SNEAKERS]",
-      "is_new": true,
-      "discovery_ts": 1785208231.358935
-    },
-    {
-      "asin": "MLB4696365725",
-      "title": "Vestido Em Jacar 3d Manga Curta",
-      "link": "https://produto.mercadolivre.com.br/MLB4696365725",
-      "current_price": 50.54,
-      "original_price": 115.8,
-      "discount": 56.4,
-      "difference": 65.26,
-      "criteria": [
-        "56.4% OFF"
+        "58.7% OFF"
       ],
       "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_678323-MLB111957684417_052026-AB.webp",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_633221-MLB110081996611_042026-AB.webp",
       "category": "[DRESSES]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB5682433410",
+      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
+      "link": "https://produto.mercadolivre.com.br/MLB5682433410",
+      "current_price": 69.9,
+      "original_price": 139.88,
+      "discount": 50.0,
+      "difference": 69.98,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
+      "category": "[SNEAKERS]",
+      "is_new": true,
+      "discovery_ts": 1785208231.358935
+    },
+    {
+      "asin": "MLB5682433410",
+      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
+      "link": "https://produto.mercadolivre.com.br/MLB5682433410",
+      "current_price": 69.9,
+      "original_price": 139.88,
+      "discount": 50.0,
+      "difference": 69.98,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
+      "category": "[SNEAKERS]",
+      "is_new": true,
+      "discovery_ts": 1785208231.358935
     },
     {
       "asin": "MLB4696365725",
@@ -3292,6 +3383,57 @@
       "discovery_ts": 1785207848.029087
     },
     {
+      "asin": "MLB3762971981",
+      "title": "Chaleira Elétrica Impebraz Inox 2 Litros 1500w Com Desligamento Automático | Yd-202f -",
+      "link": "https://produto.mercadolivre.com.br/MLB3762971981",
+      "current_price": 41,
+      "original_price": 87.99,
+      "discount": 53.4,
+      "difference": 46.99,
+      "criteria": [
+        "53.4% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_942682-MLA99609052196_122025-AB.webp",
+      "category": "[ELECTRIC_JUGS]",
+      "is_new": true,
+      "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB3549578737",
+      "title": "Capa Protetora Giratória 360° Para Redmi Pad Se + Película",
+      "link": "https://produto.mercadolivre.com.br/MLB3549578737",
+      "current_price": 33.28,
+      "original_price": 78.99,
+      "discount": 57.9,
+      "difference": 45.71,
+      "criteria": [
+        "57.9% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_802177-MLB73494937366_122023-AB.webp",
+      "category": "[TABLET_CASES_AND_COVERS]",
+      "is_new": true,
+      "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB6525070232",
+      "title": "Maquina Barbear,aparelho De Barbear Eletrico Multifuncio Laranja 5v",
+      "link": "https://produto.mercadolivre.com.br/MLB6525070232",
+      "current_price": 55,
+      "original_price": 99.32,
+      "discount": 44.6,
+      "difference": 44.32,
+      "criteria": [
+        "44.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_658428-MLB109588702415_032026-AB.webp",
+      "category": "[HAIR_CLIPPERS_ELECTRIC_SHAVERS_AND_HAIR_TRIMMERS]",
+      "is_new": true,
+      "discovery_ts": 1785211726.382873
+    },
+    {
       "asin": "MLB4148721105",
       "title": "Camisa Polo Básica Masculina Manga Curta Em Piquet Hering",
       "link": "https://produto.mercadolivre.com.br/MLB4148721105",
@@ -3343,19 +3485,53 @@
       "discovery_ts": 1785208851.763192
     },
     {
-      "asin": "MLB2738125671",
-      "title": "01 Cera Rosa Artesanal Polir Conserto Óculos Acetato Metal Rosa",
-      "link": "https://produto.mercadolivre.com.br/MLB2738125671",
-      "current_price": 39.99,
-      "original_price": 79.9,
-      "discount": 49.9,
-      "difference": 39.91,
+      "asin": "MLB5100806342",
+      "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
+      "link": "https://produto.mercadolivre.com.br/MLB5100806342",
+      "current_price": 38.9,
+      "original_price": 78.9,
+      "discount": 50.7,
+      "difference": 40.0,
       "criteria": [
-        "49.9% OFF"
+        "50.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836053-MLB72699599639_112023-AB.webp",
-      "category": "[FASHION_ACCESSORIES]",
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
+      "category": "[SOCKS]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB5100806342",
+      "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
+      "link": "https://produto.mercadolivre.com.br/MLB5100806342",
+      "current_price": 38.9,
+      "original_price": 78.9,
+      "discount": 50.7,
+      "difference": 40.0,
+      "criteria": [
+        "50.7% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
+      "category": "[SOCKS]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB5100806342",
+      "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
+      "link": "https://produto.mercadolivre.com.br/MLB5100806342",
+      "current_price": 38.9,
+      "original_price": 78.9,
+      "discount": 50.7,
+      "difference": 40.0,
+      "criteria": [
+        "50.7% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
+      "category": "[SOCKS]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
     },
@@ -3370,7 +3546,7 @@
       "criteria": [
         "47.5% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_924106-MLB112903358626_072026-AB.webp",
       "category": "[AEROBIC_CRUNCH_MACHINES]",
       "is_new": true,
@@ -3387,7 +3563,24 @@
       "criteria": [
         "47.5% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_924106-MLB112903358626_072026-AB.webp",
+      "category": "[AEROBIC_CRUNCH_MACHINES]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB7029289924",
+      "title": "Aparelho Abdominal Com Ventosa Para Exercícios Em Casa Preto",
+      "link": "https://produto.mercadolivre.com.br/MLB7029289924",
+      "current_price": 40.98,
+      "original_price": 78,
+      "discount": 47.5,
+      "difference": 37.02,
+      "criteria": [
+        "47.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_924106-MLB112903358626_072026-AB.webp",
       "category": "[AEROBIC_CRUNCH_MACHINES]",
       "is_new": true,
@@ -3462,19 +3655,36 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB7174509658",
-      "title": "Torneira Banheiro Lavatório Pia Cromada Mesa Bancada Ivendi Moderna Up Cor Prateado Brilhante",
-      "link": "https://produto.mercadolivre.com.br/MLB7174509658",
-      "current_price": 26.5,
-      "original_price": 49.9,
-      "discount": 46.9,
-      "difference": 23.4,
+      "asin": "MLB6166040598",
+      "title": "Tiras Clareadoras 3d White Para Dentes 14 Unidades",
+      "link": "https://produto.mercadolivre.com.br/MLB6166040598",
+      "current_price": 16.01,
+      "original_price": 48.89,
+      "discount": 67.3,
+      "difference": 32.88,
       "criteria": [
-        "46.9% OFF"
+        "67.3% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_625557-MLA113590086799_062026-AB.webp",
-      "category": "[BATHROOM_FAUCETS_AND_MIXERS]",
+      "badge": "🟡 ML | 3 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_604536-CBT104401083226_012026-AB.webp",
+      "category": "[TEETH_WHITENING_STRIPS]",
+      "is_new": true,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB6166040598",
+      "title": "Tiras Clareadoras 3d White Para Dentes 14 Unidades",
+      "link": "https://produto.mercadolivre.com.br/MLB6166040598",
+      "current_price": 16.01,
+      "original_price": 48.89,
+      "discount": 67.3,
+      "difference": 32.88,
+      "criteria": [
+        "67.3% OFF"
+      ],
+      "badge": "🟡 ML | 3 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_604536-CBT104401083226_012026-AB.webp",
+      "category": "[TEETH_WHITENING_STRIPS]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
     },
@@ -3506,28 +3716,11 @@
       "criteria": [
         "45.3% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_801275-MLB85304027975_052025-AB.webp",
       "category": "[PANTIES]",
       "is_new": true,
       "discovery_ts": 1785207848.029087
-    },
-    {
-      "asin": "MLB4162147829",
-      "title": "Lixa 240 320 500 1200 2500 D'agua Kit 1 Cada Polimento Grão 2402500",
-      "link": "https://produto.mercadolivre.com.br/MLB4162147829",
-      "current_price": 21.19,
-      "original_price": 36.52,
-      "discount": 42.0,
-      "difference": 15.33,
-      "criteria": [
-        "42.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_784636-MLB113488933401_062026-AB.webp",
-      "category": "[SANDPAPERS]",
-      "is_new": true,
-      "discovery_ts": 1785208851.763192
     },
     {
       "asin": "MLB4751404621",
@@ -3616,38 +3809,39 @@
       "discovery_ts": 1785128082.040921
     },
     {
-      "asin": "B0CRSZRJ9B",
-      "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
-      "current_price": 2149.04,
-      "original_price": 3099.0,
-      "discount": 30.7,
-      "difference": 949.96,
+      "asin": "B0GWNKJDCZ",
+      "title": "PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony",
+      "link": "https://www.amazon.com.br/PlayStation-Edi%C3%A7%C3%A3o-Digital-Controle-Sony/dp/B0GWNKJDCZ",
+      "current_price": 4199.9,
+      "original_price": 5280.9,
+      "discount": 20.5,
+      "difference": 1081.0,
       "criteria": [
-        "R$ 949.96 desc."
+        "R$ 1081.0 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/319QTMDdZhL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONSOLE]",
       "is_new": false,
       "discovery_ts": 1785169875.641153
     },
     {
-      "asin": "B0GTWYK3TY",
-      "title": "Geladeira Intuitive+ Panasonic BB41 Frost Free Inverter 407L Titânio - NR-BB41PV2T 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Inverter-Tit%C3%A2nio/dp/B0GTWYK3TY",
-      "current_price": 3681.0,
-      "original_price": 4578.67,
-      "discount": 19.6,
-      "difference": 897.67,
+      "asin": "B0CCXLPKPJ",
+      "title": "Oral-B Escova de Dente Elétrica iO6, 1 Cabo + 4 Refis + Carregador Bivolt + Estojo",
+      "link": "https://www.amazon.com.br/Oral-B-Escova-Dentes-El%C3%A9trica-Io6/dp/B0CCXLPKPJ",
+      "current_price": 761.68,
+      "original_price": 1692.65,
+      "discount": 55.0,
+      "difference": 930.97,
       "criteria": [
-        "R$ 897.67 desc."
+        "55.0% OFF",
+        "R$ 930.97 desc."
       ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31NRvjT2WcL._AC_UL210_SR210,210_.jpg",
-      "category": "[REFRIGERATOR]",
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61l-WosnKhL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTHBRUSH]",
       "is_new": false,
-      "discovery_ts": 1785194938.277718
+      "discovery_ts": 1784941982.461308
     },
     {
       "asin": "B084RCXNJX",
@@ -3665,6 +3859,75 @@
       "category": "[WASHER]",
       "is_new": false,
       "discovery_ts": 1785194938.277718
+    },
+    {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": 2649.0,
+      "original_price": 3199.0,
+      "discount": 17.2,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "[REFRIGERATOR]",
+      "is_new": false,
+      "discovery_ts": 1784936763.261283
+    },
+    {
+      "asin": "B0DBMLN386",
+      "title": "Armani Beauty, Acqua di Gioia Intense Eau de Parfum, Giorgio Armani Perfume Feminino, Floral Futrado, Fragrância com Notas Cítricas, Frutas Vermelhas, Rosa Damascena e Jasmim",
+      "link": "https://www.amazon.com.br/Armani-Beauty-Fragr%C3%A2ncia-Vermelhas-Damascena/dp/B0DBMLN386",
+      "current_price": 658.99,
+      "original_price": 1099.0,
+      "discount": 40.0,
+      "difference": 440.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 440.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kpou5f5ZL._AC_UL210_SR210,210_.jpg",
+      "category": "💧 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1785041072.887068
+    },
+    {
+      "asin": "B08DL1YJDG",
+      "title": "Lavadora de Alta Pressão 2100LBS Karcher K5 Black (220V)",
+      "link": "https://www.amazon.com.br/LAVADORA-Alta-Press%C3%A3o-K%C3%A4rcher-220V/dp/B08DL1YJDG",
+      "current_price": 819.9,
+      "original_price": 1236.0,
+      "discount": 33.7,
+      "difference": 416.1,
+      "criteria": [
+        "R$ 416.1 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tQ1RXjsIL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRESSURE_WASHER]",
+      "is_new": false,
+      "discovery_ts": 1785152966.201765
+    },
+    {
+      "asin": "B0F5X4LL89",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X4LL89",
+      "current_price": 2199.0,
+      "original_price": 2599.99,
+      "discount": 15.4,
+      "difference": 400.99,
+      "criteria": [
+        "R$ 400.99 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1784725632.865556
     },
     {
       "asin": "B088MVWBM9",
@@ -3718,38 +3981,38 @@
       "discovery_ts": 1785128082.040921
     },
     {
-      "asin": "B08B6DLFYD",
-      "title": "BLACK+DECKER Vaporizador, Ferro de Passar Roupa, Compacto e Portátil, Função Passar a Seco, 3 em 1, modelo BDV3000, Bivolt",
-      "link": "https://www.amazon.com.br/Black-Decker-Vaporizador-Compacto-Port%C3%A1til/dp/B08B6DLFYD",
-      "current_price": 195.0,
-      "original_price": 329.0,
-      "discount": 40.7,
-      "difference": 134.0,
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": 235.98,
+      "original_price": 406.25,
+      "discount": 41.9,
+      "difference": 170.27,
       "criteria": [
-        "40.7% OFF"
+        "41.9% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61RNxwH7zyL._AC_UL210_SR210,210_.jpg",
-      "category": "[GARMENT_STEAMER]",
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTHBRUSH]",
       "is_new": false,
-      "discovery_ts": 1784936763.261283
+      "discovery_ts": 1784522841.687335
     },
     {
-      "asin": "B00861CC7Y",
-      "title": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
-      "link": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Black-Label-Garrafa/dp/B00861CC7Y",
-      "current_price": 99.9,
-      "original_price": 177.9,
-      "discount": 43.8,
-      "difference": 78.0,
+      "asin": "B084B4LT3Z",
+      "title": "Lâmina de Reposição Original Philips OneBlade QP210/51 Aço Inoxidável - Raspa, Apara e Contorna, compatível com todos os Barbeadores Elétricos OneBlade.",
+      "link": "https://www.amazon.com.br/Reposi%C3%A7%C3%A3o-QP210-51-Inoxid%C3%A1vel-Contornar/dp/B084B4LT3Z",
+      "current_price": 54.98,
+      "original_price": 99.9,
+      "discount": 45.0,
+      "difference": 44.92,
       "criteria": [
-        "43.8% OFF"
+        "45.0% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61S5PedMY6L._AC_UL210_SR210,210_.jpg",
-      "category": "🥃 Bebidas",
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71w-pvx-dHL._AC_UL210_SR210,210_.jpg",
+      "category": "[RAZOR_BLADE_CARTRIDGE]",
       "is_new": false,
-      "discovery_ts": 1785175803.073018
+      "discovery_ts": 1785128082.040921
     },
     {
       "asin": "B09BBDVPB1",
