@@ -16,6 +16,8 @@ STATE_FILE = "deals.json"
 # ==================== MAPA DE CATEGORIAS ====================
 CATEGORY_MAP = {
     # 💻 Eletrônicos & Informática
+    "COMPUTER": "💻 Eletrônicos & Informática",
+    "PERSONAL_COMPUTER": "💻 Eletrônicos & Informática",
     "NOTEBOOK_COMPUTER": "💻 Eletrônicos & Informática",
     "PA_SYSTEM": "💻 Eletrônicos & Informática",
     "TELEVISION": "💻 Eletrônicos & Informática",
