@@ -284,6 +284,7 @@ def get_ml_deals():
 
 
 # ==================== CORE DO MOTOR ====================
+# ==================== CORE DO MOTOR ====================
 def run_scraper():
     if os.path.exists(STATE_FILE):
         try:
@@ -305,10 +306,18 @@ def run_scraper():
 
     all_deals = amz_deals + ml_deals
     now_iso = datetime.now().isoformat()
+    
     final_deals = []
+    seen_asins = set() # <-- SISTEMA ANTI-DUPLICATA
     
     for deal in all_deals:
         asin = deal['asin']
+        
+        # Se o ID já foi processado nesta execução, ignora a duplicata
+        if asin in seen_asins:
+            continue
+        seen_asins.add(asin)
+        
         current_price = deal['current_price']
         
         if asin not in history:
@@ -337,7 +346,7 @@ def run_scraper():
     with open(STATE_FILE, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
         
-    print(f"Sucesso Total! {len(final_deals)} ofertas salvas.")
-
+    print(f"Sucesso Total! {len(final_deals)} ofertas salvas (sem duplicatas).")
+    
 if __name__ == "__main__":
     run_scraper()
