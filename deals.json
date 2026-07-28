@@ -1,5 +1,5 @@
 {
-  "last_check": "28/07/2026 11:54:41",
+  "last_check": "28/07/2026 12:43:09",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3072,25 +3072,52 @@
           "date": "2026-07-28T11:54:41.162190"
         }
       ]
+    },
+    "B0FHJC6XD4": {
+      "discovery_date": "2026-07-28T12:43:09.207625",
+      "price_history": [
+        {
+          "price": 5098.99,
+          "date": "2026-07-28T12:43:09.207625"
+        }
+      ]
+    },
+    "B076YFR31L": {
+      "discovery_date": "2026-07-28T12:43:09.207625",
+      "price_history": [
+        {
+          "price": 249.99,
+          "date": "2026-07-28T12:43:09.207625"
+        }
+      ]
+    },
+    "B0CG792C4C": {
+      "discovery_date": "2026-07-28T12:43:09.207625",
+      "price_history": [
+        {
+          "price": 162.44,
+          "date": "2026-07-28T12:43:09.207625"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B07G2G7CYW",
-      "title": "Citizen Relógio masculino Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot em aço inoxidável com pulseira de couro azul, mostrador azul (modelo: JY8078-01L), Dois tons, Cronógrafo, digital",
-      "link": "https://www.amazon.com.br/Citizen-JY8078-01L-Promaster-Skyhawk-Chrono/dp/B07G2G7CYW",
-      "current_price": 4536.9,
-      "original_price": 5335.9,
-      "discount": 15.0,
-      "difference": 799.0,
+      "asin": "B0FHJC6XD4",
+      "title": "Computador Dell 24 All-in-one EC24250 23.8\" IPS Full HD 13ª Gen Intel Core i5 8GB 512GB SSD Win 11 AIO-i1303-M10",
+      "link": "https://www.amazon.com.br/Computador-Dell-EC24250-Intel-AIO-i1303-M10/dp/B0FHJC6XD4",
+      "current_price": 5098.99,
+      "original_price": 6399.0,
+      "discount": 20.3,
+      "difference": 1300.01,
       "criteria": [
-        "R$ 799.0 desc."
+        "R$ 1300.01 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/8133MHGXsML._AC_UL210_SR210,210_.jpg",
-      "category": "[WATCH]",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zUVaalVIL._AC_UL210_SR210,210_.jpg",
+      "category": "[PERSONAL_COMPUTER]",
       "is_new": true,
-      "discovery_ts": 1785239681.16219
+      "discovery_ts": 1785242589.207625
     },
     {
       "asin": "B0F63L9DLK",
@@ -3106,26 +3133,44 @@
       ],
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61xAxx3rfOL._AC_UL210_SR210,210_.jpg",
-      "category": "[HAIR_DRYER]",
+      "category": "🧴 Beleza & Cuidado Pessoal",
       "is_new": true,
       "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B091V73RF5",
-      "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 220v",
-      "link": "https://www.amazon.com.br/Elgin-Compacto-ergon%C3%B4mico-limpar-Branco/dp/B091V73RF5",
-      "current_price": 49.28,
-      "original_price": 99.0,
-      "discount": 50.2,
-      "difference": 49.72,
+      "asin": "B076YFR31L",
+      "title": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 220V",
+      "link": "https://www.amazon.com.br/Aspirador-Inox-Monof%C3%A1sico-1400W-Wap/dp/B076YFR31L",
+      "current_price": 249.99,
+      "original_price": 599.9,
+      "discount": 58.3,
+      "difference": 349.91,
       "criteria": [
-        "50.2% OFF"
+        "58.3% OFF",
+        "R$ 349.91 desc."
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL210_SR210,210_.jpg",
-      "category": "[FOOD_BLENDER]",
+      "badge": "58% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": true,
-      "discovery_ts": 1785239681.16219
+      "discovery_ts": 1785242589.207625
+    },
+    {
+      "asin": "B0CG792C4C",
+      "title": "WAP Aspirador de Pó e Água Barril GTW COMPACT, Compacto, 5,5 Litros, com Filtro Lavável, 150mbar 1400W 127V",
+      "link": "https://www.amazon.com.br/WAP-Aspirador-GTW-COMPACT-Tecnologia/dp/B0CG792C4C",
+      "current_price": 162.44,
+      "original_price": 319.9,
+      "discount": 49.2,
+      "difference": 157.46,
+      "criteria": [
+        "49.2% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wsr7AcFAL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "is_new": true,
+      "discovery_ts": 1785242589.207625
     },
     {
       "asin": "MLB3849943671",
@@ -3140,43 +3185,95 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_956651-MLB84465504726_052025-AB.webp",
-      "category": "[SPORT_SHORTS]",
+      "category": "⚽ Esportes & Saúde",
       "is_new": true,
       "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B0FXM57JL9",
-      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": 8998.99,
-      "original_price": 12999.0,
-      "discount": 30.8,
-      "difference": 4000.01,
+      "asin": "B0CRSZRJ9B",
+      "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
+      "link": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
+      "current_price": 2149.04,
+      "original_price": 3099.0,
+      "discount": 30.7,
+      "difference": 949.96,
       "criteria": [
-        "R$ 4000.01 desc."
+        "R$ 949.96 desc."
       ],
       "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
-      "category": "[ROBOTIC_VACUUM_CLEANER]",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785169875.641153
     },
     {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": 2649.0,
-      "original_price": 3199.0,
-      "discount": 17.2,
-      "difference": 550.0,
+      "asin": "B0BQ3M1M7M",
+      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
+      "current_price": 1298.99,
+      "original_price": 2197.0,
+      "discount": 40.9,
+      "difference": 898.01,
       "criteria": [
-        "R$ 550.0 desc."
+        "40.9% OFF",
+        "R$ 898.01 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": "[REFRIGERATOR]",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
       "is_new": false,
-      "discovery_ts": 1784936763.261283
+      "discovery_ts": 1785128082.040921
+    },
+    {
+      "asin": "B0D4NR66ZL",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL",
+      "current_price": 5449.0,
+      "original_price": 6199.0,
+      "discount": 12.1,
+      "difference": 750.0,
+      "criteria": [
+        "R$ 750.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "is_new": false,
+      "discovery_ts": 1784419934.633826
+    },
+    {
+      "asin": "MLB4715592251",
+      "title": "Revólver De Pressão Co2 Sr357 Silver 4.5mm  Crosman Prateado 4.5 Mm",
+      "link": "https://www.mercadolivre.com.br/revolver-de-pressao-co2-sr357-silver-45mm--crosman/up/MLBU4008846603",
+      "current_price": 1409.73,
+      "original_price": 2119.9,
+      "discount": 33.5,
+      "difference": 710.17,
+      "criteria": [
+        "R$ 710.17 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_872230-MLB111288821908_052026-AB.webp",
+      "category": "[AIRSOFT_GUNS]",
+      "is_new": false,
+      "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB4473349333",
+      "title": "Saxofone saxofone alto em mi bemol Vedo VD-SKS tudel curvo - cor amarelo laqueado",
+      "link": "https://www.mercadolivre.com.br/saxofone-saxofone-alto-em-mi-bemol-vedo-vd-sks-tudel-curvo-cor-amarelo-laqueado/p/MLB62593216",
+      "current_price": 1303,
+      "original_price": 1899.99,
+      "discount": 31.4,
+      "difference": 596.99,
+      "criteria": [
+        "R$ 596.99 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_697902-MLA107390366104_032026-AB.webp",
+      "category": "[SAXOPHONES]",
+      "is_new": false,
+      "discovery_ts": 1785207848.029087
     },
     {
       "asin": "MLB3754602329",
@@ -3192,7 +3289,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959030-MLA99595836842_122025-AB.webp",
-      "category": "[SUPPLEMENTS]",
+      "category": "⚽ Esportes & Saúde",
       "is_new": false,
       "discovery_ts": 1785220693.562389
     },
@@ -3209,7 +3306,7 @@
       ],
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
-      "category": "📺 Eletrodomésticos",
+      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3226,7 +3323,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_987413-MLA99443397702_112025-AB.webp",
-      "category": "[PROJECTORS]",
+      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3244,7 +3341,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_836861-MLA113916702678_072026-AB.webp",
-      "category": "[KITCHEN_COOKWARE_KITS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785220693.562389
     },
@@ -3262,7 +3359,7 @@
       ],
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61uaspEIxKL._AC_UL210_SR210,210_.jpg",
-      "category": "💧 Cuidado Pessoal",
+      "category": "🧴 Beleza & Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1785160913.33829
     },
@@ -3279,7 +3376,7 @@
       ],
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_GAME_CONTROLLER]",
+      "category": "🎮 Games & Lazer",
       "is_new": false,
       "discovery_ts": 1784825707.553482
     },
@@ -3296,7 +3393,7 @@
       ],
       "badge": "56% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
-      "category": "[VACUUM_CLEANER]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785152966.201765
     },
@@ -3313,7 +3410,7 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_849026-MLB86554805411_062025-AB.webp",
-      "category": "[BLOUSES]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785208231.358935
     },
@@ -3330,7 +3427,7 @@
       ],
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zHv-6qWXL._AC_UL210_SR210,210_.jpg",
-      "category": "[DRINKING_CUP]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785200224.599387
     },
@@ -3347,7 +3444,7 @@
       ],
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTHBRUSH]",
+      "category": "🧴 Beleza & Cuidado Pessoal",
       "is_new": false,
       "discovery_ts": 1784522841.687335
     },
@@ -3362,9 +3459,9 @@
       "criteria": [
         "52.5% OFF"
       ],
-      "badge": "🟡 ML | 112 VENDIDOS",
+      "badge": "🟡 ML | 150 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_692498-MLB112373979315_052026-AB.webp",
-      "category": "[SNEAKERS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785211726.382873
     },
@@ -3381,7 +3478,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_880758-MLB71247518913_082023-AB.webp",
-      "category": "[WEDDING_BANDS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785208851.763192
     },
@@ -3398,7 +3495,7 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_753942-MLB77270572849_062024-AB.webp",
-      "category": "[MANUAL_INDOOR_CURTAINS_AND_BLINDS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3415,7 +3512,7 @@
       ],
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61RNxwH7zyL._AC_UL210_SR210,210_.jpg",
-      "category": "[GARMENT_STEAMER]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1784936763.261283
     },
@@ -3432,7 +3529,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
-      "category": "[SNEAKERS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785208851.763192
     },
@@ -3447,9 +3544,9 @@
       "criteria": [
         "54.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 6",
+      "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
-      "category": "[QUILTS_AND_COVERLETS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3464,9 +3561,9 @@
       "criteria": [
         "64.8% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_691904-MLB89127165861_082025-AB.webp",
-      "category": "[DIVING_MASKS]",
+      "category": "⚽ Esportes & Saúde",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3481,9 +3578,9 @@
       "criteria": [
         "59.2% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_614952-MLB93390383141_092025-AB.webp",
-      "category": "[PORTABLE_FANS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3498,9 +3595,9 @@
       "criteria": [
         "59.2% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_748348-MLA104194860680_012026-AB.webp",
-      "category": "[PORTABLE_FANS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785208851.763192
     },
@@ -3517,7 +3614,7 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_997684-MLB110887427424_052026-AB.webp",
-      "category": "[SUNGLASSES]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3532,9 +3629,9 @@
       "criteria": [
         "51.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933225-MLB91209513390_092025-AB.webp",
-      "category": "[CLOTHING_LOTS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785208231.358935
     },
@@ -3551,9 +3648,26 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_633221-MLB110081996611_042026-AB.webp",
-      "category": "[DRESSES]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB5682433410",
+      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
+      "link": "https://produto.mercadolivre.com.br/MLB-5682433410-tnis-menino-infantil-dia-a-dia-confortavel-original-_JM",
+      "current_price": 69.9,
+      "original_price": 139.88,
+      "discount": 50.0,
+      "difference": 69.98,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "is_new": false,
+      "discovery_ts": 1785208231.358935
     },
     {
       "asin": "MLB6646044832",
@@ -3568,7 +3682,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_626275-MLB110660550877_042026-AB.webp",
-      "category": "[T_SHIRTS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785220693.562389
     },
@@ -3585,7 +3699,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_662543-MLA99985670637_112025-AB.webp",
-      "category": "[MICROPHONES]",
+      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3602,7 +3716,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_765852-MLA96869420928_112025-AB.webp",
-      "category": "[CAMERA_TRIPODS]",
+      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3619,26 +3733,26 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
-      "category": "[SOCKS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB3768301375",
-      "title": "Perfume Coscentra Yes Call Me Real Time Eau De Parfum 100ml Feminino",
-      "link": "https://www.mercadolivre.com.br/perfume-coscentra-yes-call-me-real-time-eau-de-parfum-100ml-feminino/p/MLB22766332",
-      "current_price": 44.55,
-      "original_price": 78.9,
-      "discount": 43.5,
-      "difference": 34.35,
+      "asin": "MLB2738125671",
+      "title": "01 Cera Rosa Artesanal Polir Conserto Óculos Acetato Metal Rosa",
+      "link": "https://www.mercadolivre.com.br/01-cera-rosa-artesanal-polir-conserto-oculos-acetato-metal/up/MLBU1431740897",
+      "current_price": 39.99,
+      "original_price": 79.9,
+      "discount": 49.9,
+      "difference": 39.91,
       "criteria": [
-        "43.5% OFF"
+        "49.9% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_610972-MLU73885121463_012024-AB.webp",
-      "category": "[PERFUMES]",
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836053-MLB72699599639_112023-AB.webp",
+      "category": "[FASHION_ACCESSORIES]",
       "is_new": false,
-      "discovery_ts": 1785230508.574484
+      "discovery_ts": 1785207848.029087
     },
     {
       "asin": "MLB5087675548",
@@ -3653,24 +3767,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB.webp",
-      "category": "[SPORT_BRAS]",
-      "is_new": false,
-      "discovery_ts": 1785207848.029087
-    },
-    {
-      "asin": "MLB6166040598",
-      "title": "Tiras Clareadoras 3d White Para Dentes 14 Unidades",
-      "link": "https://www.mercadolivre.com.br/tiras-clareadoras-3d-white-para-dentes-14-unidades/up/MLBU3731412478",
-      "current_price": 16.01,
-      "original_price": 48.89,
-      "discount": 67.3,
-      "difference": 32.88,
-      "criteria": [
-        "67.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_604536-CBT104401083226_012026-AB.webp",
-      "category": "[TEETH_WHITENING_STRIPS]",
+      "category": "⚽ Esportes & Saúde",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3687,7 +3784,7 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_999452-MLB108678787731_032026-AB.webp",
-      "category": "[HANDBAGS]",
+      "category": "👕 Moda & Acessórios",
       "is_new": false,
       "discovery_ts": 1785230508.574484
     },
@@ -3704,7 +3801,7 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625557-MLA113590086799_062026-AB.webp",
-      "category": "[BATHROOM_FAUCETS_AND_MIXERS]",
+      "category": "❄️ Eletrodomésticos & Casa",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
@@ -3721,7 +3818,7 @@
       ],
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_CLEANING_WIPE]",
+      "category": "🧸 Bebês & Brinquedos",
       "is_new": false,
       "discovery_ts": 1784962769.116758
     },
@@ -3738,26 +3835,9 @@
       ],
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867939-MLA95981617684_102025-AB.webp",
-      "category": "[SMARTWATCH_AND_WRISTWATCH_SCREEN_PROTECTORS]",
+      "category": "💻 Eletrônicos & Informática",
       "is_new": false,
       "discovery_ts": 1785208231.358935
-    },
-    {
-      "asin": "B092SS3J2V",
-      "title": "NIVEA MEN Kit Desodorante Antitranspirante Aerossol Original Protect 48h 150ml (2 unidades)",
-      "link": "https://www.amazon.com.br/Desodorante-Aerosol-Original-Protect-Unidades/dp/B092SS3J2V",
-      "current_price": 19.9,
-      "original_price": 34.9,
-      "discount": 43.0,
-      "difference": 15.0,
-      "criteria": [
-        "43.0% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71J+hyfBNwL._AC_UL210_SR210,210_.jpg",
-      "category": "[BODY_DEODORANT]",
-      "is_new": false,
-      "discovery_ts": 1785152966.201765
     }
   ]
 }
