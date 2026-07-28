@@ -70,81 +70,82 @@
         }
 
         function renderDeals(deals) {
-            // Atualiza o contador de itens no topo
-            itemCounter.textContent = `${deals ? deals.length : 0} ofertas`;
+    // Atualiza o contador de itens no topo
+    itemCounter.textContent = `${deals ? deals.length : 0} ofertas`;
 
-            if (!deals || deals.length === 0) {
-                gridContainer.innerHTML = '';
-                emptyState.classList.remove('hidden');
-                return;
-            }
-            emptyState.classList.add('hidden');
+    if (!deals || deals.length === 0) {
+        gridContainer.innerHTML = '';
+        emptyState.classList.remove('hidden');
+        return;
+    }
+    emptyState.classList.add('hidden');
 
-            const cardsHTML = deals.map(deal => {
-                const discountBadge = deal.discount > 0 
-                    ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
-                
-                // Pega o Timestamp do Backend e formata
-                const dateObj = new Date(deal.discovery_ts * 1000);
-                const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-                const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-                
-                // Novo badge de Horário no lugar do badge de NOVO
-                const timeBadge = `<span class="absolute top-1 left-1 bg-gray-900/80 backdrop-blur text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-700 shadow">🕒 ${dateString} ${timeString}</span>`;
-                    
-                const originalPriceLine = deal.original_price !== 'N/A' 
-                    ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
-                    
-                const criteriaBadges = (deal.criteria || []).map(crit => `
-                    <span class="bg-gray-700/60 text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-650">${crit}</span>
-                `).join('');
+    const cardsHTML = deals.map(deal => {
+        const discountBadge = deal.discount > 0 
+            ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
+        
+        // Pega o Timestamp do Backend e formata
+        const dateObj = new Date(deal.discovery_ts * 1000);
+        const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+        const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+        
+        // Novo badge de Horário no lugar do badge de NOVO
+        const timeBadge = `<span class="absolute top-1 left-1 bg-gray-900/80 backdrop-blur text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-700 shadow">🕒 ${dateString} ${timeString}</span>`;
+            
+        const originalPriceLine = deal.original_price !== 'N/A' 
+            ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
+            
+        const criteriaBadges = (deal.criteria || []).map(crit => `
+            <span class="bg-gray-700/60 text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-650">${crit}</span>
+        `).join('');
 
-                const imageHTML = deal.image 
-                    ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain" referrerpolicy="no-referrer">`
-                    : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
+        const imageHTML = deal.image 
+            ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain" referrerpolicy="no-referrer">`
+            : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
 
-                return `
-                    <div class="bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-amber-500/40 flex flex-col justify-between transition-all duration-200">
-                        <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
-                            ${imageHTML}
-                            ${timeBadge}
-                            ${discountBadge}
+        return `
+            <div class="bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-amber-500/40 flex flex-col justify-between transition-all duration-200">
+                <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
+                    ${imageHTML}
+                    ${timeBadge}
+                    ${discountBadge}
+                </div>
+                <div class="p-3 flex-1 flex flex-col justify-between gap-2">
+                    <div>
+                        <div class="flex justify-between items-start gap-1">
+                            <span class="text-[9px] font-bold uppercase text-amber-400 block tracking-wide truncate">
+                                ${deal.badge || 'Oferta Ativa'}
+                            </span>
+                            <span class="text-[9px] font-bold uppercase text-fuchsia-400 block tracking-wide bg-gray-900/60 px-1 rounded truncate flex-shrink-0">
+                                ${deal.category || ''}
+                            </span>
                         </div>
-                        <div class="p-3 flex-1 flex flex-col justify-between gap-2">
-                            <div>
-                                <div class="flex justify-between items-start gap-1">
-                                    <span class="text-[9px] font-bold uppercase text-amber-400 block tracking-wide truncate">
-                                        ${deal.badge || 'Oferta Ativa'}
-                                    </span>
-                                    <span class="text-[9px] font-bold uppercase text-fuchsia-400 block tracking-wide bg-gray-900/60 px-1 rounded truncate flex-shrink-0">
-                                        ${deal.category || ''}
-                                    </span>
-                                </div>
-                                <h2 class="text-xs font-medium text-gray-200 line-clamp-2 mt-0.5" title="${deal.title}">
-                                    ${deal.title}
-                                </h2>
-                            </div>
-                            <div>
-                                <div class="flex flex-wrap items-baseline gap-1">
-                                    <span class="text-sm font-bold text-emerald-400">R$ ${deal.current_price}</span>
-                                    ${originalPriceLine}
-                                </div>
-                                <div class="mt-1.5 flex flex-wrap gap-1">
-                                    ${criteriaBadges}
-                                </div>
-                            </div>
+                        <h2 class="text-xs font-medium text-gray-200 line-clamp-2 mt-0.5" title="${deal.title}">
+                            ${deal.title}
+                        </h2>
+                    </div>
+                    <div>
+                        <div class="flex flex-wrap items-baseline gap-1">
+                            <span class="text-sm font-bold text-emerald-400">R$ ${deal.current_price}</span>
+                            ${originalPriceLine}
                         </div>
-                        <div class="p-3 pt-0">
-                            <a href="${deal.link}" target="_blank" class="w-full block text-center bg-gray-700 hover:bg-amber-500 hover:text-gray-950 text-gray-200 font-bold py-1.5 rounded text-xs transition-colors">
-                                Ver na Amazon ↗
-                            </a>
+                        <div class="mt-1.5 flex flex-wrap gap-1">
+                            ${criteriaBadges}
                         </div>
                     </div>
-                `;
-            }).join('');
+                </div>
+                <div class="p-3 pt-0">
+                    <a href="${deal.link}" target="_blank" rel="noopener noreferrer" class="w-full block text-center bg-gray-700 hover:bg-amber-500 hover:text-gray-950 text-gray-200 font-bold py-1.5 rounded text-xs transition-colors">
+                        Ver na Amazon ↗
+                    </a>
+                </div>
+            </div>
+        `;
+    }).join('');
 
-            gridContainer.innerHTML = cardsHTML;
-        }
+    // Injeta os cards construídos no container da DOM
+    gridContainer.innerHTML = cardsHTML;
+}
 
         async function fetchUpdatedDeals() {
             if (isFetching) return;
