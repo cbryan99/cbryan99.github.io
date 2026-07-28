@@ -159,18 +159,36 @@ def build_ml_deal(item):
     if not ml_id: return None
     
     link = metadata.get('permalink', '')
-    image = metadata.get('picture') or metadata.get('thumbnail', '')
+    
+    # --- NOVO SISTEMA DE FOTOS DO ML ---
+    image = ""
+    pics = item.get('pictures', {})
+    pic_list = pics.get('pictures', [])
+    
+    if pic_list:
+        pic_id = pic_list[0].get('id', '')
+        square = pics.get('square', 'Q') 
+        if pic_id:
+            # Monta a URL de alta qualidade (.webp) igual o app do iOS faz internamente
+            image = f"https://http2.mlstatic.com/D_{square}_NP_2X_{pic_id}-AB.webp"
+            
+    # Fallback caso a máscara principal falhe
+    if not image:
+        image = metadata.get('picture') or metadata.get('thumbnail', '')
+        
+    # Força HTTPS para o GitHub Pages não dar block (Mixed Content)
+    if image and image.startswith("http://"):
+        image = image.replace("http://", "https://")
+    # -----------------------------------
     
     current_price, original_price = 0, 0
     title = "N/A"
     
-    # 1. Puxa do dict exato de precos
     cart_status = item.get('add_to_cart_capability', {}).get('item_status', {}).get('price', {})
     if cart_status:
         current_price = cart_status.get('current', 0)
         original_price = cart_status.get('original', 0)
         
-    # 2. Puxa nome da listagem de UI Components
     for comp in item.get('components', []):
         if comp.get('type') == 'title':
             title = comp.get('title', {}).get('text', title)
@@ -184,7 +202,6 @@ def build_ml_deal(item):
     if discount >= MIN_DISCOUNT: criteria.append(f"{discount}% OFF")
     if difference >= MIN_DIFFERENCE: criteria.append(f"R$ {difference} desc.")
 
-    # Categoria/Domain do ML
     domain_id = ""
     try:
         cart_config = item.get('add_to_cart_capability', {}).get('cart_config', {})
@@ -196,7 +213,7 @@ def build_ml_deal(item):
     badge = f"🟡 ML | {scarcity}" if scarcity else "🟡 Mercado Livre"
 
     return {
-        'asin': ml_id, # Reusamos a chave asin pro motor nao quebrar
+        'asin': ml_id,
         'title': title,
         'link': link,
         'current_price': current_price,
@@ -208,7 +225,7 @@ def build_ml_deal(item):
         'image': image,
         'category': map_category(domain_id)
     }
-
+    
 def get_ml_deals():
     deals = []
     url = "https://www.mercadolivre.com.br/ofertas/api/items/"
