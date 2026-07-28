@@ -15,15 +15,72 @@ STATE_FILE = "deals.json"
 
 # ==================== MAPA DE CATEGORIAS ====================
 CATEGORY_MAP = {
-    "SPIRITS": "🥃 Bebidas",
-    "CONDITIONER": "🧴 Cuidado Pessoal",
-    "NOTEBOOK_COMPUTER": "💻 Eletrônicos",
-    "PA_SYSTEM": "🔊 Eletrônicos",
-    "AIR_CONDITIONER": "❄️ Eletrodomésticos",
-    "TELEVISION": "📺 Eletrodomésticos",
-    "PERSONAL_FRAGRANCE": "💧 Cuidado Pessoal",
-    "CELLULAR_PHONE": "📱 Smartphones e Tablets",
-    "HAIR_STYLING_AGENT": "✂️ Autocuidado"
+    # 💻 Eletrônicos & Informática
+    "NOTEBOOK_COMPUTER": "💻 Eletrônicos & Informática",
+    "PA_SYSTEM": "💻 Eletrônicos & Informática",
+    "TELEVISION": "💻 Eletrônicos & Informática",
+    "CELLULAR_PHONE": "💻 Eletrônicos & Informática",
+    "PROJECTORS": "💻 Eletrônicos & Informática",
+    "MICROPHONES": "💻 Eletrônicos & Informática",
+    "CAMERA_TRIPODS": "💻 Eletrônicos & Informática",
+    "SMARTWATCH_AND_WRISTWATCH_SCREEN_PROTECTORS": "💻 Eletrônicos & Informática",
+
+    # ❄️ Eletrodomésticos & Casa
+    "AIR_CONDITIONER": "❄️ Eletrodomésticos & Casa",
+    "FOOD_BLENDER": "❄️ Eletrodomésticos & Casa",
+    "ROBOTIC_VACUUM_CLEANER": "❄️ Eletrodomésticos & Casa",
+    "REFRIGERATOR": "❄️ Eletrodomésticos & Casa",
+    "KITCHEN_COOKWARE_KITS": "❄️ Eletrodomésticos & Casa",
+    "VACUUM_CLEANER": "❄️ Eletrodomésticos & Casa",
+    "DRINKING_CUP": "❄️ Eletrodomésticos & Casa",
+    "MANUAL_INDOOR_CURTAINS_AND_BLINDS": "❄️ Eletrodomésticos & Casa",
+    "GARMENT_STEAMER": "❄️ Eletrodomésticos & Casa",
+    "QUILTS_AND_COVERLETS": "❄️ Eletrodomésticos & Casa",
+    "PORTABLE_FANS": "❄️ Eletrodomésticos & Casa",
+    "BATHROOM_FAUCETS_AND_MIXERS": "❄️ Eletrodomésticos & Casa",
+
+    # 👕 Moda & Acessórios
+    "WATCH": "👕 Moda & Acessórios",
+    "BLOUSES": "👕 Moda & Acessórios",
+    "SNEAKERS": "👕 Moda & Acessórios",
+    "WEDDING_BANDS": "👕 Moda & Acessórios",
+    "SUNGLASSES": "👕 Moda & Acessórios",
+    "CLOTHING_LOTS": "👕 Moda & Acessórios",
+    "DRESSES": "👕 Moda & Acessórios",
+    "T_SHIRTS": "👕 Moda & Acessórios",
+    "SOCKS": "👕 Moda & Acessórios",
+    "HANDBAGS": "👕 Moda & Acessórios",
+
+    # 🧴 Beleza & Cuidado Pessoal
+    "CONDITIONER": "🧴 Beleza & Cuidado Pessoal",
+    "PERSONAL_FRAGRANCE": "🧴 Beleza & Cuidado Pessoal",
+    "HAIR_STYLING_AGENT": "🧴 Beleza & Cuidado Pessoal",
+    "HAIR_DRYER": "🧴 Beleza & Cuidado Pessoal",
+    "TOOTHBRUSH": "🧴 Beleza & Cuidado Pessoal",
+    "PERFUMES": "🧴 Beleza & Cuidado Pessoal",
+    "TEETH_WHITENING_STRIPS": "🧴 Beleza & Cuidado Pessoal",
+    "BODY_DEODORANT": "🧴 Beleza & Cuidado Pessoal",
+
+    # 🎮 Games & Lazer
+    "VIDEO_GAME_CONTROLLER": "🎮 Games & Lazer",
+
+    # 🛠️ Ferramentas & Construção
+    # nao achei nenhum ainda kkkkkk
+
+    # 🛒 Supermercado & Bebidas
+    "SPIRITS": "🛒 Supermercado & Bebidas",
+
+    # 🐾 Pet Shop
+    # ainda nao apareceu
+
+    # ⚽ Esportes & Saúde
+    "SPORT_SHORTS": "⚽ Esportes & Saúde",
+    "SUPPLEMENTS": "⚽ Esportes & Saúde",
+    "DIVING_MASKS": "⚽ Esportes & Saúde",
+    "SPORT_BRAS": "⚽ Esportes & Saúde",
+
+    # 🧸 Bebês & Brinquedos
+    "SKIN_CLEANING_WIPE": "🧸 Bebês & Brinquedos" # MamyPoko (fraldas/lenços)
 }
 
 def map_category(raw_type):
