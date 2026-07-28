@@ -1,5 +1,5 @@
 {
-  "last_check": "28/07/2026 11:33:30",
+  "last_check": "28/07/2026 11:54:41",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1370,6 +1370,10 @@
         {
           "price": "1999.0",
           "date": "2026-07-23T16:55:07.553482"
+        },
+        {
+          "price": 1999.0,
+          "date": "2026-07-28T11:54:41.162190"
         }
       ]
     },
@@ -3050,25 +3054,43 @@
           "date": "2026-07-28T11:33:30.939981"
         }
       ]
+    },
+    "B07G2G7CYW": {
+      "discovery_date": "2026-07-28T11:54:41.162190",
+      "price_history": [
+        {
+          "price": 4536.9,
+          "date": "2026-07-28T11:54:41.162190"
+        }
+      ]
+    },
+    "B091V73RF5": {
+      "discovery_date": "2026-07-28T11:54:41.162190",
+      "price_history": [
+        {
+          "price": 49.28,
+          "date": "2026-07-28T11:54:41.162190"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DGMFMYJ7",
-      "title": "Apple iPhone 16 Plus (256 GB) – Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFMYJ7",
-      "current_price": 7099.0,
-      "original_price": 9299.0,
-      "discount": 23.7,
-      "difference": 2200.0,
+      "asin": "B07G2G7CYW",
+      "title": "Citizen Relógio masculino Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot em aço inoxidável com pulseira de couro azul, mostrador azul (modelo: JY8078-01L), Dois tons, Cronógrafo, digital",
+      "link": "https://www.amazon.com.br/Citizen-JY8078-01L-Promaster-Skyhawk-Chrono/dp/B07G2G7CYW",
+      "current_price": 4536.9,
+      "original_price": 5335.9,
+      "discount": 15.0,
+      "difference": 799.0,
       "criteria": [
-        "R$ 2200.0 desc."
+        "R$ 799.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ccm88ifJL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8133MHGXsML._AC_UL210_SR210,210_.jpg",
+      "category": "[WATCH]",
       "is_new": true,
-      "discovery_ts": 1785238410.939981
+      "discovery_ts": 1785239681.16219
     },
     {
       "asin": "B0F63L9DLK",
@@ -3089,26 +3111,26 @@
       "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B0DCPWN2FG",
-      "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 1000W 220V",
-      "link": "https://www.amazon.com.br/WAP-El%C3%A9trico-Processador-Miniprocessador-Prosd%C3%B3cimo/dp/B0DCPWN2FG",
-      "current_price": 178.99,
-      "original_price": 329.9,
-      "discount": 45.7,
-      "difference": 150.91,
+      "asin": "B091V73RF5",
+      "title": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 220v",
+      "link": "https://www.amazon.com.br/Elgin-Compacto-ergon%C3%B4mico-limpar-Branco/dp/B091V73RF5",
+      "current_price": 49.28,
+      "original_price": 99.0,
+      "discount": 50.2,
+      "difference": 49.72,
       "criteria": [
-        "45.7% OFF"
+        "50.2% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61JZvofH46L._AC_UL210_SR210,210_.jpg",
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL210_SR210,210_.jpg",
       "category": "[FOOD_BLENDER]",
       "is_new": true,
-      "discovery_ts": 1785238410.939981
+      "discovery_ts": 1785239681.16219
     },
     {
       "asin": "MLB3849943671",
       "title": "Shorts Feminino Tactel Academia Bermuda Treino Fitness Praia",
-      "link": "https://produto.mercadolivre.com.br/MLB3849943671",
+      "link": "https://produto.mercadolivre.com.br/MLB-3849943671-shorts-feminino-tactel-academia-bermuda-treino-fitness-praia-_JM",
       "current_price": 15.74,
       "original_price": 49.9,
       "discount": 68.5,
@@ -3140,41 +3162,6 @@
       "discovery_ts": 1785169875.641153
     },
     {
-      "asin": "B0BQ3M1M7M",
-      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
-      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
-      "current_price": 1298.99,
-      "original_price": 2197.0,
-      "discount": 40.9,
-      "difference": 898.01,
-      "criteria": [
-        "40.9% OFF",
-        "R$ 898.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "is_new": false,
-      "discovery_ts": 1785128082.040921
-    },
-    {
-      "asin": "MLB4715592251",
-      "title": "Revólver De Pressão Co2 Sr357 Silver 4.5mm  Crosman Prateado 4.5 Mm",
-      "link": "https://produto.mercadolivre.com.br/MLB4715592251",
-      "current_price": 1409.73,
-      "original_price": 2119.9,
-      "discount": 33.5,
-      "difference": 710.17,
-      "criteria": [
-        "R$ 710.17 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_872230-MLB111288821908_052026-AB.webp",
-      "category": "[AIRSOFT_GUNS]",
-      "is_new": false,
-      "discovery_ts": 1785211726.382873
-    },
-    {
       "asin": "B0FVP6KRP4",
       "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
@@ -3194,7 +3181,7 @@
     {
       "asin": "MLB3754602329",
       "title": "Whey Isolate Protein Fuse 1,8kg Chocolate Dark Lab",
-      "link": "https://produto.mercadolivre.com.br/MLB3754602329",
+      "link": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-chocolate-dark-lab/p/MLB19140416",
       "current_price": 159.9,
       "original_price": 699.9,
       "discount": 77.2,
@@ -3229,7 +3216,7 @@
     {
       "asin": "MLB6223469228",
       "title": "Projetor Bettdow AC1041 Full HD 1080p 15000lm com Wi-Fi e Bluetooth",
-      "link": "https://produto.mercadolivre.com.br/MLB6223469228",
+      "link": "https://www.mercadolivre.com.br/projetor-bettdow-ac1041-full-hd-1080p-15000lm-com-wi-fi-e-bluetooth/p/MLB43518074",
       "current_price": 824.67,
       "original_price": 1299,
       "discount": 36.5,
@@ -3246,7 +3233,7 @@
     {
       "asin": "MLB4629181065",
       "title": "Jogo De Panelas Antiaderente Cerâmica 14 Peças Gas Indução",
-      "link": "https://produto.mercadolivre.com.br/MLB4629181065",
+      "link": "https://www.mercadolivre.com.br/jogo-de-panelas-antiaderente-ceramica-14-pecas-gas-inducao/p/MLB66558764",
       "current_price": 524.21,
       "original_price": 899,
       "discount": 41.7,
@@ -3280,6 +3267,23 @@
       "discovery_ts": 1785160913.33829
     },
     {
+      "asin": "B0FXMX7SGL",
+      "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
+      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
+      "current_price": 1999.0,
+      "original_price": 2299.9,
+      "discount": 13.1,
+      "difference": 300.9,
+      "criteria": [
+        "R$ 300.9 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONTROLLER]",
+      "is_new": false,
+      "discovery_ts": 1784825707.553482
+    },
+    {
       "asin": "B088MVWBM9",
       "title": "Aspirador Pó Philco Vertical Power Clean 2000W PAS4000V 127V",
       "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
@@ -3299,7 +3303,7 @@
     {
       "asin": "MLB5248880046",
       "title": "Blusa De Alças Com Aplicação My Favorite",
-      "link": "https://produto.mercadolivre.com.br/MLB5248880046",
+      "link": "https://produto.mercadolivre.com.br/MLB-5248880046-blusa-de-alcas-com-aplicaco-my-favorite-_JM",
       "current_price": 93.24,
       "original_price": 333,
       "discount": 72.0,
@@ -3314,9 +3318,43 @@
       "discovery_ts": 1785208231.358935
     },
     {
+      "asin": "B0BTHPZ9J4",
+      "title": "Stanley - Quencher H2.0 FlowState 1,18L - Copo de aço inoxidável com isolamento a vácuo, tampa e canudo, para água, chá gelado, café, smoothies e muito mais, Rose Quartz",
+      "link": "https://www.amazon.com.br/Stanley-FlowState-inoxid%C3%A1vel-isolamento-smoothies/dp/B0BTHPZ9J4",
+      "current_price": 169.98,
+      "original_price": 359.0,
+      "discount": 52.7,
+      "difference": 189.02,
+      "criteria": [
+        "52.7% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zHv-6qWXL._AC_UL210_SR210,210_.jpg",
+      "category": "[DRINKING_CUP]",
+      "is_new": false,
+      "discovery_ts": 1785200224.599387
+    },
+    {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": 235.98,
+      "original_price": 406.25,
+      "discount": 41.9,
+      "difference": 170.27,
+      "criteria": [
+        "41.9% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VATQz9FvL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTHBRUSH]",
+      "is_new": false,
+      "discovery_ts": 1784522841.687335
+    },
+    {
       "asin": "MLB5532075156",
       "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-      "link": "https://produto.mercadolivre.com.br/MLB5532075156",
+      "link": "https://produto.mercadolivre.com.br/MLB-5532075156-tnis-kappa-pulse-rx-unissex-corrida-conforto-_JM",
       "current_price": 137.74,
       "original_price": 289.99,
       "discount": 52.5,
@@ -3324,7 +3362,7 @@
       "criteria": [
         "52.5% OFF"
       ],
-      "badge": "🟡 ML | 97 VENDIDOS",
+      "badge": "🟡 ML | 112 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_692498-MLB112373979315_052026-AB.webp",
       "category": "[SNEAKERS]",
       "is_new": false,
@@ -3333,7 +3371,7 @@
     {
       "asin": "MLB1989470877",
       "title": "Par De Alianças Ouro 18k Banhada Casamento 4mm",
-      "link": "https://produto.mercadolivre.com.br/MLB1989470877",
+      "link": "https://produto.mercadolivre.com.br/MLB-1989470877-par-de-aliancas-ouro-18k-banhada-casamento-4mm-_JM",
       "current_price": 154.23,
       "original_price": 299,
       "discount": 48.4,
@@ -3350,7 +3388,7 @@
     {
       "asin": "MLB1926032644",
       "title": "Cortina Gaze Linho  6m X Alt. S/ Forro Trilho Pronta Entrega",
-      "link": "https://produto.mercadolivre.com.br/MLB1926032644",
+      "link": "https://produto.mercadolivre.com.br/MLB-1926032644-cortina-gaze-linho-6m-x-alt-s-forro-trilho-pronta-entrega-_JM",
       "current_price": 209.09,
       "original_price": 352.03,
       "discount": 40.6,
@@ -3382,9 +3420,26 @@
       "discovery_ts": 1784936763.261283
     },
     {
+      "asin": "MLB4470378417",
+      "title": "Tênis Feminino Delta 122 Olympikus Marinho/purple Lisa 37 Br",
+      "link": "https://www.mercadolivre.com.br/tenis-feminino-delta-122-olympikus/up/MLBU3780672051",
+      "current_price": 131.99,
+      "original_price": 229.99,
+      "discount": 42.6,
+      "difference": 98.0,
+      "criteria": [
+        "42.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
+      "category": "[SNEAKERS]",
+      "is_new": false,
+      "discovery_ts": 1785208851.763192
+    },
+    {
       "asin": "MLB4612937229",
       "title": "Colcha Cobre Leito Lisa Matelada Dupla Face Microfibra 3 Pçs Terracota",
-      "link": "https://produto.mercadolivre.com.br/MLB4612937229",
+      "link": "https://www.mercadolivre.com.br/colcha-cobre-leito-lisa-matelada-dupla-face-microfibra-3-pcs/up/MLBU3900596397",
       "current_price": 78.2,
       "original_price": 169.9,
       "discount": 54.0,
@@ -3401,7 +3456,7 @@
     {
       "asin": "MLB4358615464",
       "title": "Máscara Mergulho Snorkel Full Face Suporte Gopro Câmera",
-      "link": "https://produto.mercadolivre.com.br/MLB4358615464",
+      "link": "https://produto.mercadolivre.com.br/MLB-4358615464-mascara-mergulho-snorkel-full-face-suporte-gopro-cmera-_JM",
       "current_price": 48.47,
       "original_price": 137.89,
       "discount": 64.8,
@@ -3418,7 +3473,7 @@
     {
       "asin": "MLB4006972035",
       "title": "Jisulife Mini Ventilador Portátil De Mão 3 Em 1 Com Lanterna",
-      "link": "https://produto.mercadolivre.com.br/MLB4006972035",
+      "link": "https://produto.mercadolivre.com.br/MLB-4006972035-jisulife-mini-ventilador-portatil-de-mo-3-em-1-com-lanterna-_JM",
       "current_price": 60.73,
       "original_price": 149,
       "discount": 59.2,
@@ -3433,9 +3488,26 @@
       "discovery_ts": 1785207848.029087
     },
     {
+      "asin": "MLB5324611680",
+      "title": "Jisulife Mini Ventilador Portátil de Mão Dobrável 3 em 1 com Lanterna e Power bank 4500mah 3 velocidades Longa Duração 46h Life8 Plus",
+      "link": "https://www.mercadolivre.com.br/jisulife-mini-ventilador-portatil-de-mo-dobravel-3-em-1-com-lanterna-e-power-bank-4500mah-3-velocidades-longa-duraco-46h-life8-plus/p/MLB64245890",
+      "current_price": 60.73,
+      "original_price": 149,
+      "discount": 59.2,
+      "difference": 88.27,
+      "criteria": [
+        "59.2% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 10",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_748348-MLA104194860680_012026-AB.webp",
+      "category": "[PORTABLE_FANS]",
+      "is_new": false,
+      "discovery_ts": 1785208851.763192
+    },
+    {
       "asin": "MLB4197891569",
       "title": "Óculos De Sol Polo London Club Clássico Oversized Uva/uvb",
-      "link": "https://produto.mercadolivre.com.br/MLB4197891569",
+      "link": "https://produto.mercadolivre.com.br/MLB-4197891569-oculos-de-sol-polo-london-club-classico-oversized-uvauvb-_JM",
       "current_price": 69.02,
       "original_price": 149.9,
       "discount": 54.0,
@@ -3452,7 +3524,7 @@
     {
       "asin": "MLB5721474416",
       "title": "Conjunto Feminino Completo Look Calça E Blusa Clássico",
-      "link": "https://produto.mercadolivre.com.br/MLB5721474416",
+      "link": "https://produto.mercadolivre.com.br/MLB-5721474416-conjunto-feminino-completo-look-calca-e-blusa-classico-_JM",
       "current_price": 72.78,
       "original_price": 149.9,
       "discount": 51.4,
@@ -3460,7 +3532,7 @@
       "criteria": [
         "51.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933225-MLB91209513390_092025-AB.webp",
       "category": "[CLOTHING_LOTS]",
       "is_new": false,
@@ -3469,7 +3541,7 @@
     {
       "asin": "MLB5275567226",
       "title": "Vestido Feminino Alfaiataria Casual Elegante Modelador Sexy",
-      "link": "https://produto.mercadolivre.com.br/MLB5275567226",
+      "link": "https://produto.mercadolivre.com.br/MLB-5275567226-vestido-feminino-alfaiataria-casual-elegante-modelador-sexy-_JM",
       "current_price": 49.49,
       "original_price": 119.9,
       "discount": 58.7,
@@ -3484,26 +3556,9 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB5682433410",
-      "title": "Tênis Menino Infantil Dia A Dia Confortável Original",
-      "link": "https://produto.mercadolivre.com.br/MLB5682433410",
-      "current_price": 69.9,
-      "original_price": 139.88,
-      "discount": 50.0,
-      "difference": 69.98,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911256-MLB112639365312_062026-AB.webp",
-      "category": "[SNEAKERS]",
-      "is_new": false,
-      "discovery_ts": 1785208231.358935
-    },
-    {
       "asin": "MLB6646044832",
       "title": "Kit 3 Camisetas Hering Masculina Básica Original Algodão Preto M",
-      "link": "https://produto.mercadolivre.com.br/MLB6646044832",
+      "link": "https://www.mercadolivre.com.br/kit-3-camisetas-hering-masculina-basica-original-algodao/up/MLBU3917496902",
       "current_price": 83,
       "original_price": 149.9,
       "discount": 44.6,
@@ -3520,7 +3575,7 @@
     {
       "asin": "MLB5540327490",
       "title": "Microfone Lapela Mymotors Preto Sem Fio Tipo C",
-      "link": "https://produto.mercadolivre.com.br/MLB5540327490",
+      "link": "https://www.mercadolivre.com.br/microfone-lapela-mymotors-preto-sem-fio-tipo-c/p/MLB53429683",
       "current_price": 65,
       "original_price": 129.9,
       "discount": 50.0,
@@ -3535,26 +3590,9 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": 58.52,
-      "original_price": 119.9,
-      "discount": 51.2,
-      "difference": 61.38,
-      "criteria": [
-        "51.2% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784433482.515947
-    },
-    {
       "asin": "MLB6580944282",
       "title": "Tripé Universal Profissional 1,2m Amarelo The Black Tools Amarelo E Preto",
-      "link": "https://produto.mercadolivre.com.br/MLB6580944282",
+      "link": "https://www.mercadolivre.com.br/tripe-universal-profissional-12m-amarelo-the-black-tools-amarelo-e-preto/p/MLB61701497",
       "current_price": 53.9,
       "original_price": 107.54,
       "discount": 49.9,
@@ -3569,26 +3607,9 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB4148721105",
-      "title": "Camisa Polo Básica Masculina Manga Curta Em Piquet Hering",
-      "link": "https://produto.mercadolivre.com.br/MLB4148721105",
-      "current_price": 56.42,
-      "original_price": 99.99,
-      "discount": 43.6,
-      "difference": 43.57,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 7",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_844745-MLB106053053702_022026-AB.webp",
-      "category": "[T_SHIRTS]",
-      "is_new": false,
-      "discovery_ts": 1785208231.358935
-    },
-    {
       "asin": "MLB5100806342",
       "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
-      "link": "https://produto.mercadolivre.com.br/MLB5100806342",
+      "link": "https://produto.mercadolivre.com.br/MLB-5100806342-kit-9-meias-sport-polo-fit-pares-masculino-algodo-invisivel-_JM",
       "current_price": 38.9,
       "original_price": 78.9,
       "discount": 50.7,
@@ -3603,26 +3624,9 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB2738125671",
-      "title": "01 Cera Rosa Artesanal Polir Conserto Óculos Acetato Metal Rosa",
-      "link": "https://produto.mercadolivre.com.br/MLB2738125671",
-      "current_price": 39.99,
-      "original_price": 79.9,
-      "discount": 49.9,
-      "difference": 39.91,
-      "criteria": [
-        "49.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836053-MLB72699599639_112023-AB.webp",
-      "category": "[FASHION_ACCESSORIES]",
-      "is_new": false,
-      "discovery_ts": 1785207848.029087
-    },
-    {
       "asin": "MLB3768301375",
       "title": "Perfume Coscentra Yes Call Me Real Time Eau De Parfum 100ml Feminino",
-      "link": "https://produto.mercadolivre.com.br/MLB3768301375",
+      "link": "https://www.mercadolivre.com.br/perfume-coscentra-yes-call-me-real-time-eau-de-parfum-100ml-feminino/p/MLB22766332",
       "current_price": 44.55,
       "original_price": 78.9,
       "discount": 43.5,
@@ -3639,7 +3643,7 @@
     {
       "asin": "MLB5087675548",
       "title": "Top Com Bojo Removível Alta Sustentação Academia Fitness",
-      "link": "https://produto.mercadolivre.com.br/MLB5087675548",
+      "link": "https://produto.mercadolivre.com.br/MLB-5087675548-top-com-bojo-removivel-alta-sustentaco-academia-fitness-_JM",
       "current_price": 16.9,
       "original_price": 49.9,
       "discount": 66.1,
@@ -3656,7 +3660,7 @@
     {
       "asin": "MLB6166040598",
       "title": "Tiras Clareadoras 3d White Para Dentes 14 Unidades",
-      "link": "https://produto.mercadolivre.com.br/MLB6166040598",
+      "link": "https://www.mercadolivre.com.br/tiras-clareadoras-3d-white-para-dentes-14-unidades/up/MLBU3731412478",
       "current_price": 16.01,
       "original_price": 48.89,
       "discount": 67.3,
@@ -3664,33 +3668,16 @@
       "criteria": [
         "67.3% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_604536-CBT104401083226_012026-AB.webp",
       "category": "[TEETH_WHITENING_STRIPS]",
       "is_new": false,
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": 38.8,
-      "original_price": 69.9,
-      "discount": 44.5,
-      "difference": 31.1,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "is_new": false,
-      "discovery_ts": 1784417123.48503
-    },
-    {
       "asin": "MLB4528656885",
       "title": "Bolsa De Ombro Vintage Para Mulheres, Bolsa Preta Lisa Diary",
-      "link": "https://produto.mercadolivre.com.br/MLB4528656885",
+      "link": "https://www.mercadolivre.com.br/vintage-shoulder-bag-for-women-plain-black-daily-f/p/MLB2065428815",
       "current_price": 30.11,
       "original_price": 58.17,
       "discount": 48.2,
@@ -3707,7 +3694,7 @@
     {
       "asin": "MLB7174509658",
       "title": "Torneira Banheiro Lavatório Pia Cromada Mesa Bancada Ivendi Moderna Up Cor Prateado Brilhante",
-      "link": "https://produto.mercadolivre.com.br/MLB7174509658",
+      "link": "https://www.mercadolivre.com.br/torneira-banheiro-lavatorio-pia-cromada-mesa-bancada-ivendi-moderna-up-cor-prateado-brilhante/p/MLB74329954",
       "current_price": 26.5,
       "original_price": 49.9,
       "discount": 46.9,
@@ -3741,7 +3728,7 @@
     {
       "asin": "MLB5917060078",
       "title": "Case De Proteção Total Slim Para Amazfit Gts 4",
-      "link": "https://produto.mercadolivre.com.br/MLB5917060078",
+      "link": "https://www.mercadolivre.com.br/case-de-proteco-total-slim-para-amazfit-gts-4/p/MLB29328256",
       "current_price": 13.01,
       "original_price": 30.84,
       "discount": 57.8,
