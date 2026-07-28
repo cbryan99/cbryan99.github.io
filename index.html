@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon Gold Box Dashboard</title>
+    <title>Amazon & ML Gold Box</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-gray-100 font-sans min-h-screen selection:bg-amber-500 selection:text-gray-900">
 
     <div class="container mx-auto px-2 py-4 sm:p-6">
-        <div class="flex flex-col sm:flex-row justify-between items-center border-b border-gray-800 pb-4 mb-6 gap-3">
+        <!-- Header Principal -->
+        <div class="flex flex-col sm:flex-row justify-between items-center border-b border-gray-800 pb-4 gap-3">
             <div class="text-center sm:text-left">
                 <h1 class="text-xl sm:text-2xl font-extrabold text-amber-500 tracking-tight flex items-baseline gap-2 justify-center sm:justify-start">
-                    Amazon Monitor 
+                    Deal Monitor 
                     <span id="item-counter" class="text-sm font-medium text-gray-400 bg-gray-800 px-2 py-0.5 rounded-md border border-gray-700">0 ofertas</span>
                 </h1>
-                <p class="text-[11px] text-gray-400 mt-1">Scraper via GitHub Actions</p>
+                <p class="text-[11px] text-gray-400 mt-1">Scraper Automático | Amazon & Mercado Livre</p>
             </div>
             
             <div class="flex flex-col sm:flex-row items-center gap-3 w-full sm:w-auto">
@@ -33,6 +34,19 @@
                         Atualizar
                     </button>
                 </div>
+            </div>
+        </div>
+
+        <!-- Sub-header: Filtros e Ordenação -->
+        <div class="flex justify-end py-3 mb-3">
+            <div class="flex items-center gap-2">
+                <label for="sort-select" class="text-xs text-gray-400 font-semibold uppercase tracking-wider">Ordenar por:</label>
+                <select id="sort-select" class="bg-gray-800 border border-gray-700 text-gray-200 text-xs rounded-md px-2 py-1.5 focus:outline-none focus:border-amber-500 cursor-pointer">
+                    <option value="recent">Mais Recentes</option>
+                    <option value="price_asc">Menor Preço</option>
+                    <option value="price_desc">Maior Preço</option>
+                    <option value="discount_desc">Maior Desconto (%)</option>
+                </select>
             </div>
         </div>
 
@@ -58,6 +72,7 @@
         const btnRefresh = document.getElementById('btn-refresh');
         const spinner = document.getElementById('spinner');
         const itemCounter = document.getElementById('item-counter');
+        const sortSelect = document.getElementById('sort-select');
 
         function triggerPushNotification(deal) {
             if (Notification.permission === 'granted') {
@@ -69,83 +84,120 @@
             }
         }
 
+        // Função responsável por ordenar o array em memória baseado no <select>
+        function getSortedDeals(deals) {
+            if (!deals || deals.length === 0) return [];
+            
+            const sortType = sortSelect.value;
+            // Cria uma cópia para não mutar o estado original
+            const copy = [...deals]; 
+
+            copy.sort((a, b) => {
+                if (sortType === 'recent') {
+                    if (a.is_new !== b.is_new) return a.is_new ? -1 : 1;
+                    return b.discovery_ts - a.discovery_ts;
+                } else if (sortType === 'price_asc') {
+                    return a.current_price - b.current_price;
+                } else if (sortType === 'price_desc') {
+                    return b.current_price - a.current_price;
+                } else if (sortType === 'discount_desc') {
+                    return b.discount - a.discount;
+                }
+                return 0;
+            });
+            
+            return copy;
+        }
+
+        // Chamada quando o Select muda ou os dados atualizam
+        function updateUI() {
+            const sortedDeals = getSortedDeals(appState.data);
+            renderDeals(sortedDeals);
+        }
+
         function renderDeals(deals) {
-    // Atualiza o contador de itens no topo
-    itemCounter.textContent = `${deals ? deals.length : 0} ofertas`;
+            itemCounter.textContent = `${deals ? deals.length : 0} ofertas`;
 
-    if (!deals || deals.length === 0) {
-        gridContainer.innerHTML = '';
-        emptyState.classList.remove('hidden');
-        return;
-    }
-    emptyState.classList.add('hidden');
+            if (!deals || deals.length === 0) {
+                gridContainer.innerHTML = '';
+                emptyState.classList.remove('hidden');
+                return;
+            }
+            emptyState.classList.add('hidden');
 
-    const cardsHTML = deals.map(deal => {
-        const discountBadge = deal.discount > 0 
-            ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
-        
-        // Pega o Timestamp do Backend e formata
-        const dateObj = new Date(deal.discovery_ts * 1000);
-        const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-        const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-        
-        // Novo badge de Horário no lugar do badge de NOVO
-        const timeBadge = `<span class="absolute top-1 left-1 bg-gray-900/80 backdrop-blur text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-700 shadow">🕒 ${dateString} ${timeString}</span>`;
-            
-        const originalPriceLine = deal.original_price !== 'N/A' 
-            ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
-            
-        const criteriaBadges = (deal.criteria || []).map(crit => `
-            <span class="bg-gray-700/60 text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-650">${crit}</span>
-        `).join('');
+            const cardsHTML = deals.map(deal => {
+                const discountBadge = deal.discount > 0 
+                    ? `<span class="absolute top-1 right-1 bg-rose-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">-${Math.round(deal.discount)}%</span>` : '';
+                
+                const dateObj = new Date(deal.discovery_ts * 1000);
+                const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+                const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+                
+                const timeBadge = `<span class="absolute top-1 left-1 bg-gray-900/80 backdrop-blur text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-700 shadow z-10">🕒 ${dateString} ${timeString}</span>`;
+                    
+                const originalPriceLine = deal.original_price !== 'N/A' 
+                    ? `<span class="text-[10px] text-gray-500 line-through">R$ ${deal.original_price}</span>` : '';
+                    
+                const criteriaBadges = (deal.criteria || []).map(crit => `
+                    <span class="bg-gray-700/60 text-gray-300 text-[9px] font-mono px-1.5 py-0.5 rounded border border-gray-650">${crit}</span>
+                `).join('');
 
-        const imageHTML = deal.image 
-            ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain" referrerpolicy="no-referrer">`
-            : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
+                const imageHTML = deal.image 
+                    ? `<img src="${deal.image}" alt="Produto" class="max-h-full object-contain mix-blend-multiply" referrerpolicy="no-referrer">`
+                    : `<div class="text-gray-400 text-xs flex flex-col items-center gap-1"><span class="text-lg">🖼️</span><span>Sem imagem</span></div>`;
 
-        return `
-            <div class="bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-amber-500/40 flex flex-col justify-between transition-all duration-200">
-                <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
-                    ${imageHTML}
-                    ${timeBadge}
-                    ${discountBadge}
-                </div>
-                <div class="p-3 flex-1 flex flex-col justify-between gap-2">
-                    <div>
-                        <div class="flex justify-between items-start gap-1">
-                            <span class="text-[9px] font-bold uppercase text-amber-400 block tracking-wide truncate">
-                                ${deal.badge || 'Oferta Ativa'}
-                            </span>
-                            <span class="text-[9px] font-bold uppercase text-fuchsia-400 block tracking-wide bg-gray-900/60 px-1 rounded truncate flex-shrink-0">
-                                ${deal.category || ''}
-                            </span>
+                // --- LÓGICA DE DETECÇÃO DE LOJA ---
+                const isML = deal.link.includes('mercadolivre.com.br');
+                const storeText = isML ? "Ver no Mercado Livre ↗" : "Ver na Amazon ↗";
+                
+                // Tailwind classes exclusivas para cada loja
+                const btnClass = isML 
+                    ? "bg-[#FFE600] hover:bg-[#FFD100] text-[#2D3277] border border-[#FFE600]" 
+                    : "bg-gray-700 hover:bg-amber-500 hover:text-gray-950 text-gray-200 border border-transparent";
+                // ----------------------------------
+
+                return `
+                    <div class="bg-gray-800 rounded-lg overflow-hidden border border-gray-700 hover:border-amber-500/40 flex flex-col justify-between transition-all duration-200">
+                        <div class="relative bg-white p-2 flex items-center justify-center h-32 sm:h-40">
+                            ${imageHTML}
+                            ${timeBadge}
+                            ${discountBadge}
                         </div>
-                        <h2 class="text-xs font-medium text-gray-200 line-clamp-2 mt-0.5" title="${deal.title}">
-                            ${deal.title}
-                        </h2>
+                        <div class="p-3 flex-1 flex flex-col justify-between gap-2">
+                            <div>
+                                <div class="flex justify-between items-start gap-1">
+                                    <span class="text-[9px] font-bold uppercase text-amber-400 block tracking-wide truncate">
+                                        ${deal.badge || 'Oferta Ativa'}
+                                    </span>
+                                    <span class="text-[9px] font-bold uppercase text-fuchsia-400 block tracking-wide bg-gray-900/60 px-1 rounded truncate flex-shrink-0">
+                                        ${deal.category || ''}
+                                    </span>
+                                </div>
+                                <h2 class="text-xs font-medium text-gray-200 line-clamp-2 mt-0.5" title="${deal.title}">
+                                    ${deal.title}
+                                </h2>
+                            </div>
+                            <div>
+                                <div class="flex flex-wrap items-baseline gap-1">
+                                    <span class="text-sm font-bold text-emerald-400">R$ ${deal.current_price.toFixed(2)}</span>
+                                    ${originalPriceLine}
+                                </div>
+                                <div class="mt-1.5 flex flex-wrap gap-1">
+                                    ${criteriaBadges}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-3 pt-0">
+                            <a href="${deal.link}" target="_blank" rel="noopener noreferrer" class="w-full block text-center ${btnClass} font-bold py-1.5 rounded text-xs transition-colors">
+                                ${storeText}
+                            </a>
+                        </div>
                     </div>
-                    <div>
-                        <div class="flex flex-wrap items-baseline gap-1">
-                            <span class="text-sm font-bold text-emerald-400">R$ ${deal.current_price}</span>
-                            ${originalPriceLine}
-                        </div>
-                        <div class="mt-1.5 flex flex-wrap gap-1">
-                            ${criteriaBadges}
-                        </div>
-                    </div>
-                </div>
-                <div class="p-3 pt-0">
-                    <a href="${deal.link}" target="_blank" rel="noopener noreferrer" class="w-full block text-center bg-gray-700 hover:bg-amber-500 hover:text-gray-950 text-gray-200 font-bold py-1.5 rounded text-xs transition-colors">
-                        Ver na Amazon ↗
-                    </a>
-                </div>
-            </div>
-        `;
-    }).join('');
+                `;
+            }).join('');
 
-    // Injeta os cards construídos no container da DOM
-    gridContainer.innerHTML = cardsHTML;
-}
+            gridContainer.innerHTML = cardsHTML;
+        }
 
         async function fetchUpdatedDeals() {
             if (isFetching) return;
@@ -154,7 +206,6 @@
             btnRefresh.disabled = true;
 
             try {
-                // Tenta puxar o JSON com timestamp para quebrar cache (Técnica Cache Busting)
                 const response = await fetch('deals.json?t=' + new Date().getTime());
                 const newState = await response.json();
                 
@@ -172,7 +223,7 @@
 
                     appState = newState;
                     labelLastCheck.textContent = `Último: ${newState.last_check}`;
-                    renderDeals(newState.data);
+                    updateUI(); // Refaz a tela já aplicando a ordenação ativa
                 }
             } catch (err) {
                 console.error("Falha ao puxar JSON:", err);
@@ -203,9 +254,9 @@
             startTimer();
         }
 
-        btnRefresh.addEventListener('click', () => {
-            fetchUpdatedDeals();
-        });
+        // Listeners de Ações Manuais
+        btnRefresh.addEventListener('click', fetchUpdatedDeals);
+        sortSelect.addEventListener('change', updateUI);
 
         window.onload = () => {
             if ("Notification" in window && Notification.permission === 'default') {
