@@ -1,5 +1,5 @@
 {
-  "last_check": "28/07/2026 10:58:41",
+  "last_check": "28/07/2026 11:33:30",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -179,6 +179,10 @@
         {
           "price": "38.8",
           "date": "2026-07-18T23:25:23.485030"
+        },
+        {
+          "price": 38.8,
+          "date": "2026-07-28T11:33:30.939981"
         }
       ]
     },
@@ -2018,6 +2022,10 @@
         {
           "price": "1298.99",
           "date": "2026-07-27T04:54:42.040921"
+        },
+        {
+          "price": 1298.99,
+          "date": "2026-07-28T11:33:30.939981"
         }
       ]
     },
@@ -2119,6 +2127,10 @@
         {
           "price": "19.9",
           "date": "2026-07-27T11:49:26.201765"
+        },
+        {
+          "price": 19.9,
+          "date": "2026-07-28T11:33:30.939981"
         }
       ]
     },
@@ -3002,110 +3014,148 @@
           "date": "2026-07-28T10:58:41.782599"
         }
       ]
+    },
+    "B0DGMFMYJ7": {
+      "discovery_date": "2026-07-28T11:33:30.939981",
+      "price_history": [
+        {
+          "price": 7099.0,
+          "date": "2026-07-28T11:33:30.939981"
+        }
+      ]
+    },
+    "B0F63L9DLK": {
+      "discovery_date": "2026-07-28T11:33:30.939981",
+      "price_history": [
+        {
+          "price": 420.81,
+          "date": "2026-07-28T11:33:30.939981"
+        }
+      ]
+    },
+    "B0DCPWN2FG": {
+      "discovery_date": "2026-07-28T11:33:30.939981",
+      "price_history": [
+        {
+          "price": 178.99,
+          "date": "2026-07-28T11:33:30.939981"
+        }
+      ]
+    },
+    "MLB3849943671": {
+      "discovery_date": "2026-07-28T11:33:30.939981",
+      "price_history": [
+        {
+          "price": 15.74,
+          "date": "2026-07-28T11:33:30.939981"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "MLB3768301375",
-      "title": "Perfume Coscentra Yes Call Me Real Time Eau De Parfum 100ml Feminino",
-      "link": "https://produto.mercadolivre.com.br/MLB3768301375",
-      "current_price": 44.55,
-      "original_price": 78.9,
-      "discount": 43.5,
-      "difference": 34.35,
+      "asin": "B0DGMFMYJ7",
+      "title": "Apple iPhone 16 Plus (256 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFMYJ7",
+      "current_price": 7099.0,
+      "original_price": 9299.0,
+      "discount": 23.7,
+      "difference": 2200.0,
       "criteria": [
-        "43.5% OFF"
+        "R$ 2200.0 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_610972-MLU73885121463_012024-AB.webp",
-      "category": "[PERFUMES]",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ccm88ifJL._AC_UL210_SR210,210_.jpg",
+      "category": "📱 Smartphones e Tablets",
       "is_new": true,
-      "discovery_ts": 1785230508.574484
+      "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "MLB4528656885",
-      "title": "Bolsa De Ombro Vintage Para Mulheres, Bolsa Preta Lisa Diary",
-      "link": "https://produto.mercadolivre.com.br/MLB4528656885",
-      "current_price": 30.11,
-      "original_price": 58.17,
-      "discount": 48.2,
-      "difference": 28.06,
+      "asin": "B0F63L9DLK",
+      "title": "Secador de Cabelos Philco 4 em 1 Dobrável Motor BLDC PSC3500 220V",
+      "link": "https://www.amazon.com.br/Secador-Cabelos-Philco-Dobr%C3%A1vel-PSC3500/dp/B0F63L9DLK",
+      "current_price": 420.81,
+      "original_price": 796.98,
+      "discount": 47.2,
+      "difference": 376.17,
       "criteria": [
-        "48.2% OFF"
+        "47.2% OFF",
+        "R$ 376.17 desc."
       ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_999452-MLB108678787731_032026-AB.webp",
-      "category": "[HANDBAGS]",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xAxx3rfOL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_DRYER]",
       "is_new": true,
-      "discovery_ts": 1785230508.574484
+      "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B0B695DMC2",
-      "title": "L'Oréal Paris Protetor Facial Solar Expertise Antioleosidade FPS 60, 40g | com Ácido Salicílico, possui Efeito Matte e Controle de Oleosidade por 12h.",
-      "link": "https://www.amazon.com.br/Protetor-LOr%C3%A9al-Paris-Expertise-Antioleosidade/dp/B0B695DMC2",
-      "current_price": 30.2,
-      "original_price": 55.89,
-      "discount": 46.0,
-      "difference": 25.69,
+      "asin": "B0DCPWN2FG",
+      "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 1000W 220V",
+      "link": "https://www.amazon.com.br/WAP-El%C3%A9trico-Processador-Miniprocessador-Prosd%C3%B3cimo/dp/B0DCPWN2FG",
+      "current_price": 178.99,
+      "original_price": 329.9,
+      "discount": 45.7,
+      "difference": 150.91,
       "criteria": [
-        "46.0% OFF"
+        "45.7% OFF"
       ],
       "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81VO-Y6AgGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SUNSCREEN]",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JZvofH46L._AC_UL210_SR210,210_.jpg",
+      "category": "[FOOD_BLENDER]",
       "is_new": true,
-      "discovery_ts": 1785236321.782599
+      "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B0FQHXYK1Y",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-256/dp/B0FQHXYK1Y",
-      "current_price": 9699.0,
-      "original_price": 11499.0,
-      "discount": 15.7,
-      "difference": 1800.0,
+      "asin": "MLB3849943671",
+      "title": "Shorts Feminino Tactel Academia Bermuda Treino Fitness Praia",
+      "link": "https://produto.mercadolivre.com.br/MLB3849943671",
+      "current_price": 15.74,
+      "original_price": 49.9,
+      "discount": 68.5,
+      "difference": 34.16,
       "criteria": [
-        "R$ 1800.0 desc."
+        "68.5% OFF"
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "📱 Smartphones e Tablets",
-      "is_new": false,
-      "discovery_ts": 1784830133.087011
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_956651-MLB84465504726_052025-AB.webp",
+      "category": "[SPORT_SHORTS]",
+      "is_new": true,
+      "discovery_ts": 1785238410.939981
     },
     {
-      "asin": "B0GWNKJDCZ",
-      "title": "PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony",
-      "link": "https://www.amazon.com.br/PlayStation-Edi%C3%A7%C3%A3o-Digital-Controle-Sony/dp/B0GWNKJDCZ",
-      "current_price": 3899.0,
-      "original_price": 5280.9,
-      "discount": 26.2,
-      "difference": 1381.9,
+      "asin": "B0FXM57JL9",
+      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": 8998.99,
+      "original_price": 12999.0,
+      "discount": 30.8,
+      "difference": 4000.01,
       "criteria": [
-        "R$ 1381.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/319QTMDdZhL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_GAME_CONSOLE]",
-      "is_new": false,
-      "discovery_ts": 1785169875.641153
-    },
-    {
-      "asin": "B0CRSZRJ9B",
-      "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
-      "current_price": 2149.04,
-      "original_price": 3099.0,
-      "discount": 30.7,
-      "difference": 949.96,
-      "criteria": [
-        "R$ 949.96 desc."
+        "R$ 4000.01 desc."
       ],
       "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
+      "category": "[ROBOTIC_VACUUM_CLEANER]",
       "is_new": false,
       "discovery_ts": 1785169875.641153
+    },
+    {
+      "asin": "B0BQ3M1M7M",
+      "title": "Cadeira de Escritorio Elements Vertta Cinza Pro (full mesh)",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
+      "current_price": 1298.99,
+      "original_price": 2197.0,
+      "discount": 40.9,
+      "difference": 898.01,
+      "criteria": [
+        "40.9% OFF",
+        "R$ 898.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "is_new": false,
+      "discovery_ts": 1785128082.040921
     },
     {
       "asin": "MLB4715592251",
@@ -3158,6 +3208,40 @@
       "category": "[SUPPLEMENTS]",
       "is_new": false,
       "discovery_ts": 1785220693.562389
+    },
+    {
+      "asin": "B0FNXZZTDW",
+      "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV com Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa e Google Home",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
+      "current_price": 2099.98,
+      "original_price": 2599.0,
+      "discount": 19.2,
+      "difference": 499.02,
+      "criteria": [
+        "R$ 499.02 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
+      "category": "📺 Eletrodomésticos",
+      "is_new": false,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB6223469228",
+      "title": "Projetor Bettdow AC1041 Full HD 1080p 15000lm com Wi-Fi e Bluetooth",
+      "link": "https://produto.mercadolivre.com.br/MLB6223469228",
+      "current_price": 824.67,
+      "original_price": 1299,
+      "discount": 36.5,
+      "difference": 474.33,
+      "criteria": [
+        "R$ 474.33 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_987413-MLA99443397702_112025-AB.webp",
+      "category": "[PROJECTORS]",
+      "is_new": false,
+      "discovery_ts": 1785207848.029087
     },
     {
       "asin": "MLB4629181065",
@@ -3230,40 +3314,6 @@
       "discovery_ts": 1785208231.358935
     },
     {
-      "asin": "B0BTHPZ9J4",
-      "title": "Stanley - Quencher H2.0 FlowState 1,18L - Copo de aço inoxidável com isolamento a vácuo, tampa e canudo, para água, chá gelado, café, smoothies e muito mais, Rose Quartz",
-      "link": "https://www.amazon.com.br/Stanley-FlowState-inoxid%C3%A1vel-isolamento-smoothies/dp/B0BTHPZ9J4",
-      "current_price": 169.98,
-      "original_price": 359.0,
-      "discount": 52.7,
-      "difference": 189.02,
-      "criteria": [
-        "52.7% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zHv-6qWXL._AC_UL210_SR210,210_.jpg",
-      "category": "[DRINKING_CUP]",
-      "is_new": false,
-      "discovery_ts": 1785200224.599387
-    },
-    {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 Suporte para Celular, IP54, Fone sem fio",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.9,
-      "original_price": 369.0,
-      "discount": 46.6,
-      "difference": 172.1,
-      "criteria": [
-        "46.6% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "is_new": false,
-      "discovery_ts": 1785128082.040921
-    },
-    {
       "asin": "MLB5532075156",
       "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
       "link": "https://produto.mercadolivre.com.br/MLB5532075156",
@@ -3274,11 +3324,28 @@
       "criteria": [
         "52.5% OFF"
       ],
-      "badge": "🟡 ML | 62 VENDIDOS",
+      "badge": "🟡 ML | 97 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_692498-MLB112373979315_052026-AB.webp",
       "category": "[SNEAKERS]",
       "is_new": false,
       "discovery_ts": 1785211726.382873
+    },
+    {
+      "asin": "MLB1989470877",
+      "title": "Par De Alianças Ouro 18k Banhada Casamento 4mm",
+      "link": "https://produto.mercadolivre.com.br/MLB1989470877",
+      "current_price": 154.23,
+      "original_price": 299,
+      "discount": 48.4,
+      "difference": 144.77,
+      "criteria": [
+        "48.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_880758-MLB71247518913_082023-AB.webp",
+      "category": "[WEDDING_BANDS]",
+      "is_new": false,
+      "discovery_ts": 1785208851.763192
     },
     {
       "asin": "MLB1926032644",
@@ -3313,23 +3380,6 @@
       "category": "[GARMENT_STEAMER]",
       "is_new": false,
       "discovery_ts": 1784936763.261283
-    },
-    {
-      "asin": "MLB4470378417",
-      "title": "Tênis Feminino Delta 122 Olympikus Marinho/purple Lisa 37 Br",
-      "link": "https://produto.mercadolivre.com.br/MLB4470378417",
-      "current_price": 131.99,
-      "original_price": 229.99,
-      "discount": 42.6,
-      "difference": 98.0,
-      "criteria": [
-        "42.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
-      "category": "[SNEAKERS]",
-      "is_new": false,
-      "discovery_ts": 1785208851.763192
     },
     {
       "asin": "MLB4612937229",
@@ -3383,23 +3433,6 @@
       "discovery_ts": 1785207848.029087
     },
     {
-      "asin": "MLB5324611680",
-      "title": "Jisulife Mini Ventilador Portátil de Mão Dobrável 3 em 1 com Lanterna e Power bank 4500mah 3 velocidades Longa Duração 46h Life8 Plus",
-      "link": "https://produto.mercadolivre.com.br/MLB5324611680",
-      "current_price": 60.73,
-      "original_price": 149,
-      "discount": 59.2,
-      "difference": 88.27,
-      "criteria": [
-        "59.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_748348-MLA104194860680_012026-AB.webp",
-      "category": "[PORTABLE_FANS]",
-      "is_new": false,
-      "discovery_ts": 1785208851.763192
-    },
-    {
       "asin": "MLB4197891569",
       "title": "Óculos De Sol Polo London Club Clássico Oversized Uva/uvb",
       "link": "https://produto.mercadolivre.com.br/MLB4197891569",
@@ -3427,7 +3460,7 @@
       "criteria": [
         "51.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933225-MLB91209513390_092025-AB.webp",
       "category": "[CLOTHING_LOTS]",
       "is_new": false,
@@ -3536,6 +3569,23 @@
       "discovery_ts": 1785207848.029087
     },
     {
+      "asin": "MLB4148721105",
+      "title": "Camisa Polo Básica Masculina Manga Curta Em Piquet Hering",
+      "link": "https://produto.mercadolivre.com.br/MLB4148721105",
+      "current_price": 56.42,
+      "original_price": 99.99,
+      "discount": 43.6,
+      "difference": 43.57,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 7",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_844745-MLB106053053702_022026-AB.webp",
+      "category": "[T_SHIRTS]",
+      "is_new": false,
+      "discovery_ts": 1785208231.358935
+    },
+    {
       "asin": "MLB5100806342",
       "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
       "link": "https://produto.mercadolivre.com.br/MLB5100806342",
@@ -3553,6 +3603,57 @@
       "discovery_ts": 1785207848.029087
     },
     {
+      "asin": "MLB2738125671",
+      "title": "01 Cera Rosa Artesanal Polir Conserto Óculos Acetato Metal Rosa",
+      "link": "https://produto.mercadolivre.com.br/MLB2738125671",
+      "current_price": 39.99,
+      "original_price": 79.9,
+      "discount": 49.9,
+      "difference": 39.91,
+      "criteria": [
+        "49.9% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_836053-MLB72699599639_112023-AB.webp",
+      "category": "[FASHION_ACCESSORIES]",
+      "is_new": false,
+      "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "MLB3768301375",
+      "title": "Perfume Coscentra Yes Call Me Real Time Eau De Parfum 100ml Feminino",
+      "link": "https://produto.mercadolivre.com.br/MLB3768301375",
+      "current_price": 44.55,
+      "original_price": 78.9,
+      "discount": 43.5,
+      "difference": 34.35,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_610972-MLU73885121463_012024-AB.webp",
+      "category": "[PERFUMES]",
+      "is_new": false,
+      "discovery_ts": 1785230508.574484
+    },
+    {
+      "asin": "MLB5087675548",
+      "title": "Top Com Bojo Removível Alta Sustentação Academia Fitness",
+      "link": "https://produto.mercadolivre.com.br/MLB5087675548",
+      "current_price": 16.9,
+      "original_price": 49.9,
+      "discount": 66.1,
+      "difference": 33.0,
+      "criteria": [
+        "66.1% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB.webp",
+      "category": "[SPORT_BRAS]",
+      "is_new": false,
+      "discovery_ts": 1785207848.029087
+    },
+    {
       "asin": "MLB6166040598",
       "title": "Tiras Clareadoras 3d White Para Dentes 14 Unidades",
       "link": "https://produto.mercadolivre.com.br/MLB6166040598",
@@ -3563,11 +3664,45 @@
       "criteria": [
         "67.3% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_604536-CBT104401083226_012026-AB.webp",
       "category": "[TEETH_WHITENING_STRIPS]",
       "is_new": false,
       "discovery_ts": 1785207848.029087
+    },
+    {
+      "asin": "B0DKVJ1HWB",
+      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
+      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
+      "current_price": 38.8,
+      "original_price": 69.9,
+      "discount": 44.5,
+      "difference": 31.1,
+      "criteria": [
+        "44.5% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "is_new": false,
+      "discovery_ts": 1784417123.48503
+    },
+    {
+      "asin": "MLB4528656885",
+      "title": "Bolsa De Ombro Vintage Para Mulheres, Bolsa Preta Lisa Diary",
+      "link": "https://produto.mercadolivre.com.br/MLB4528656885",
+      "current_price": 30.11,
+      "original_price": 58.17,
+      "discount": 48.2,
+      "difference": 28.06,
+      "criteria": [
+        "48.2% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_999452-MLB108678787731_032026-AB.webp",
+      "category": "[HANDBAGS]",
+      "is_new": false,
+      "discovery_ts": 1785230508.574484
     },
     {
       "asin": "MLB7174509658",
@@ -3580,7 +3715,7 @@
       "criteria": [
         "46.9% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 8",
+      "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625557-MLA113590086799_062026-AB.webp",
       "category": "[BATHROOM_FAUCETS_AND_MIXERS]",
       "is_new": false,
@@ -3619,6 +3754,23 @@
       "category": "[SMARTWATCH_AND_WRISTWATCH_SCREEN_PROTECTORS]",
       "is_new": false,
       "discovery_ts": 1785208231.358935
+    },
+    {
+      "asin": "B092SS3J2V",
+      "title": "NIVEA MEN Kit Desodorante Antitranspirante Aerossol Original Protect 48h 150ml (2 unidades)",
+      "link": "https://www.amazon.com.br/Desodorante-Aerosol-Original-Protect-Unidades/dp/B092SS3J2V",
+      "current_price": 19.9,
+      "original_price": 34.9,
+      "discount": 43.0,
+      "difference": 15.0,
+      "criteria": [
+        "43.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71J+hyfBNwL._AC_UL210_SR210,210_.jpg",
+      "category": "[BODY_DEODORANT]",
+      "is_new": false,
+      "discovery_ts": 1785152966.201765
     }
   ]
 }
