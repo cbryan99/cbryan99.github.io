@@ -158,7 +158,10 @@ def build_ml_deal(item):
     ml_id = metadata.get('id', '')
     if not ml_id: return None
     
+    # Pega o link exato da API ou monta manualmente se falhar
     link = metadata.get('permalink', '')
+    if not link:
+        link = f"https://produto.mercadolivre.com.br/{ml_id}"
     
     # --- NOVO SISTEMA DE FOTOS DO ML ---
     image = ""
