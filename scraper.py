@@ -6,6 +6,7 @@ import re
 import json
 from datetime import datetime
 from curl_cffi import requests
+from urllib.parse import unquote
 
 # ==================== CONFIGURACOES ====================
 MIN_DISCOUNT = 40          
@@ -158,10 +159,27 @@ def build_ml_deal(item):
     ml_id = metadata.get('id', '')
     if not ml_id: return None
     
-    # Pega o link exato da API ou monta manualmente se falhar
+    # --- SISTEMA DE EXTRAÇÃO DE LINK (URL DECODING + REGEX) ---
     link = metadata.get('permalink', '')
-    if not link:
+    url_params = metadata.get('url_params', '')
+    
+    # 1. Regex para pescar o permalink dentro da string suja dos parâmetros
+    match = re.search(r'permalink=([^&#]+)', url_params)
+    if match:
+        # "Arrumador": Desfaz o URL Encoding (%3A vira :, %2F vira /, etc.)
+        link = unquote(match.group(1))
+        
+    # 2. Fallback extremo: Regex varrendo o objeto inteiro convertido em texto
+    if not link or not link.startswith('http'):
+        item_str = json.dumps(item)
+        match_str = re.search(r'permalink=([^&"\']+)', item_str)
+        if match_str:
+            link = unquote(match_str.group(1))
+            
+    # 3. Fallback final: Monta na unha só com o ID caso tudo falhe
+    if not link or not link.startswith('http'):
         link = f"https://produto.mercadolivre.com.br/{ml_id}"
+    # ----------------------------------------------------------
     
     # --- NOVO SISTEMA DE FOTOS DO ML ---
     image = ""
@@ -172,18 +190,14 @@ def build_ml_deal(item):
         pic_id = pic_list[0].get('id', '')
         square = pics.get('square', 'Q') 
         if pic_id:
-            # Monta a URL de alta qualidade (.webp) igual o app do iOS faz internamente
             image = f"https://http2.mlstatic.com/D_{square}_NP_2X_{pic_id}-AB.webp"
             
-    # Fallback caso a máscara principal falhe
     if not image:
         image = metadata.get('picture') or metadata.get('thumbnail', '')
         
-    # Força HTTPS para o GitHub Pages não dar block (Mixed Content)
     if image and image.startswith("http://"):
         image = image.replace("http://", "https://")
-    # -----------------------------------
-    
+
     current_price, original_price = 0, 0
     title = "N/A"
     
