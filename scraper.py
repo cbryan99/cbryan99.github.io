@@ -356,8 +356,39 @@ def get_ml_deals():
     return deals
 
 
-# ==================== CORE DO MOTOR ====================
-# ==================== CORE DO MOTOR ====================
+# ==================== tendão de aquiles do site ====================
+
+def verify_amazon_price(asin):
+    url = f"https://www.amazon.com.br/dp/{asin}"
+    headers = {
+        'User-Agent': "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_12 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        'Accept': "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    try:
+        resp = requests.get(url, headers=headers, impersonate="safari15_3", timeout=10)
+        if resp.status_code != 200: return None
+        
+        prices = re.findall(r'class="a-offscreen">\s*R\$\s*([\d.,]+)\s*<', resp.text)
+        if not prices: return None
+        
+        return float(prices[0].replace('.', '').replace(',', '.'))
+    except:
+        return None
+
+def verify_ml_price(ml_id):
+    url = f"https://api.mercadolibre.com/items/{ml_id}"
+    try:
+        import requests as req_padrao
+        resp = req_padrao.get(url, timeout=10)
+        if resp.status_code != 200: return None
+        
+        data = resp.json()
+        if data.get('status') != 'active': return None # Oferta pausada ou esgotada
+        
+        return float(data.get('price', 0))
+    except:
+        return None
+
 def run_scraper():
     if os.path.exists(STATE_FILE):
         try:
@@ -368,6 +399,7 @@ def run_scraper():
         state = {'history': {}, 'data': []}
         
     history = state.get('history', {})
+    old_deals = state.get('data', [])
     
     print("Varrendo Amazon...")
     amz_deals = get_amazon_deals()
@@ -377,20 +409,57 @@ def run_scraper():
     ml_deals = get_ml_deals()
     print(f"Encontradas {len(ml_deals)} no Mercado Livre.")
 
-    all_deals = amz_deals + ml_deals
-    now_iso = datetime.now().isoformat()
+    new_scraped_deals = amz_deals + ml_deals
     
     final_deals = []
-    seen_asins = set() # <-- SISTEMA ANTI-DUPLICATA
+    seen_asins = set() 
     
-    for deal in all_deals:
+    for deal in new_scraped_deals:
         asin = deal['asin']
-        
-        # Se o ID já foi processado nesta execução, ignora a duplicata
-        if asin in seen_asins:
-            continue
+        if asin in seen_asins: continue
         seen_asins.add(asin)
+        final_deals.append(deal)
         
+    print("Auditando sobrevivência de ofertas antigas...")
+    for old_deal in old_deals:
+        asin = old_deal['asin']
+        
+        # Se a oferta já foi confirmada na raspagem acima, pula
+        if asin in seen_asins: 
+            continue
+            
+        old_price = old_deal['current_price']
+        is_amazon = not asin.startswith('MLB')
+        
+        current_live_price = verify_amazon_price(asin) if is_amazon else verify_ml_price(asin)
+            
+        # Se achou um preço e ele for MENOR ou IGUAL ao preço que tínhamos gravado
+        if current_live_price is not None and current_live_price <= old_price:
+            old_deal['current_price'] = current_live_price
+            
+            # Se o preço caiu mais ainda, atualiza a matemática do card
+            if current_live_price < old_price:
+                original = old_deal['original_price']
+                if original != 'N/A':
+                    old_deal['discount'] = round((1 - current_live_price / original) * 100, 1)
+                    old_deal['difference'] = round(original - current_live_price, 2)
+                    
+                    crit = []
+                    if old_deal['discount'] >= MIN_DISCOUNT: crit.append(f"{old_deal['discount']}% OFF")
+                    if old_deal['difference'] >= MIN_DIFFERENCE: crit.append(f"R$ {old_deal['difference']} desc.")
+                    old_deal['criteria'] = crit
+
+            final_deals.append(old_deal)
+            seen_asins.add(asin)
+            print(f"✔️ Retido no Pagameno$: {asin} (R$ {current_live_price})")
+        else:
+            print(f"❌ Descartado: {asin} (Expirou ou preço subiu)")
+
+    # 3. Atualiza os históricos de flutuação e carimbos de data
+    now_iso = datetime.now().isoformat()
+    
+    for deal in final_deals:
+        asin = deal['asin']
         current_price = deal['current_price']
         
         if asin not in history:
@@ -404,12 +473,13 @@ def run_scraper():
                 history[asin]['price_history'].append({'price': current_price, 'date': now_iso})
         
         disc_date = datetime.fromisoformat(history[asin]['discovery_date'])
-        is_new = (datetime.now() - disc_date).total_seconds() < 7200
+        # Continua marcando como "NOVO" por 2 horinhas
+        is_new = (datetime.now() - disc_date).total_seconds() < 7200 
         
         deal['is_new'] = is_new
         deal['discovery_ts'] = disc_date.timestamp()
-        final_deals.append(deal)
             
+    # Ordena para a tela do Pagameno$
     final_deals.sort(key=lambda x: (x.get('is_new', False), x['difference']), reverse=True)
     
     state['history'] = history
@@ -419,7 +489,5 @@ def run_scraper():
     with open(STATE_FILE, 'w', encoding='utf-8') as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
         
-    print(f"Sucesso Total! {len(final_deals)} ofertas salvas (sem duplicatas).")
+    print(f"Sucesso! {len(final_deals)} ofertas confirmadas ativas no Pagameno$.")
     
-if __name__ == "__main__":
-    run_scraper()
