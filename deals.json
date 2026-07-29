@@ -1,5 +1,5 @@
 {
-  "last_check": "29/07/2026 22:56:19",
+  "last_check": "29/07/2026 23:58:02",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3109,6 +3109,10 @@
         {
           "price": 4536.9,
           "date": "2026-07-28T11:54:41.162190"
+        },
+        {
+          "price": 3176.9,
+          "date": "2026-07-29T23:58:02.743029"
         }
       ]
     },
@@ -4735,25 +4739,34 @@
           "date": "2026-07-29T21:55:04.317480"
         }
       ]
+    },
+    "B076N2S8FV": {
+      "discovery_date": "2026-07-29T23:58:02.743029",
+      "price_history": [
+        {
+          "price": 72.32,
+          "date": "2026-07-29T23:58:02.743029"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B004QEKTSO",
-      "title": "Whisky Johnnie Walker Black Label 12 Anos 1L",
-      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Black-Blended/dp/B004QEKTSO",
-      "current_price": 132.99,
-      "original_price": 222.9,
-      "discount": 40.3,
-      "difference": 89.91,
+      "asin": "B076N2S8FV",
+      "title": "Sparta Maleta de ferramentas kit com 129 peças",
+      "link": "https://www.amazon.com.br/Maleta-Ferramentas-Sparta-Kit-13564/dp/B076N2S8FV",
+      "current_price": 72.32,
+      "original_price": 140.45,
+      "discount": 48.5,
+      "difference": 68.13,
       "criteria": [
-        "40.3% OFF"
+        "48.5% OFF"
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51iC0RL7yIL._AC_UL210_SR210,210_.jpg",
-      "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1785365779.11295,
-      "discovery_ts": 1785362104.31748,
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ZmjmMLsRL._AC_UL210_SR210,210_.jpg",
+      "category": "[PORTABLE_TOOL_BOX]",
+      "last_seen": 1785369482.743036,
+      "discovery_ts": 1785369482.743036,
       "is_new": true
     },
     {
@@ -4789,7 +4802,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_680453-MLA112058304033_052026-AB.webp",
       "category": "[PORTABLE_GENERATORS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785345971.226017,
       "is_new": false
     },
@@ -4805,11 +4818,30 @@
         "77.9% OFF",
         "R$ 2252.2 desc."
       ],
-      "badge": "🟡 ML | 7 VENDIDOS",
+      "badge": "🟡 ML | 10 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_607343-MLA106327927189_012026-AB.webp",
       "category": "[MATTRESSES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785340947.423232,
+      "is_new": false
+    },
+    {
+      "asin": "B07G2G7CYW",
+      "title": "Citizen Relógio masculino Eco-Drive Promaster Air Skyhawk Atomic Time Keeping Pilot em aço inoxidável com pulseira de couro azul, mostrador azul (modelo: JY8078-01L), Dois tons, Cronógrafo, digital",
+      "link": "https://www.amazon.com.br/Citizen-JY8078-01L-Promaster-Skyhawk-Chrono/dp/B07G2G7CYW",
+      "current_price": 3176.9,
+      "original_price": 5335.9,
+      "discount": 40.5,
+      "difference": 2159.0,
+      "criteria": [
+        "40.5% OFF",
+        "R$ 2159.0 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8133MHGXsML._AC_UL210_SR210,210_.jpg",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1785369482.743036,
+      "discovery_ts": 1785239681.16219,
       "is_new": false
     },
     {
@@ -4918,7 +4950,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_921183-MLA99990715977_112025-AB.webp",
       "category": "[HOME_GYMS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -4936,7 +4968,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319QTMDdZhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -4959,6 +4991,25 @@
       "is_new": false
     },
     {
+      "asin": "B0F3QCWL1Z",
+      "title": "Ar Condicionado Split Hi Wall TCL T-Pro 2.0 Inverter 9.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Split-TCL-T-Pro-Inverter/dp/B0F3QCWL1Z",
+      "current_price": 1699.0,
+      "original_price": 2953.6,
+      "discount": 42.5,
+      "difference": 1254.6,
+      "criteria": [
+        "42.5% OFF",
+        "R$ 1254.6 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51OmHUb71RL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1785369482.743036,
+      "discovery_ts": 1785277699.627439,
+      "is_new": false
+    },
+    {
       "asin": "B0B8Z8LHKX",
       "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
       "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
@@ -4972,7 +5023,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -5153,7 +5204,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_941433-MLA99972606261_112025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1785362104.317488,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -5173,25 +5224,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1785358276.509226,
       "discovery_ts": 1784920643.156706,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4145558187",
-      "title": "Kit 10 Luminaria Led Poste Rua Publica 100w 6500k 1200lm 110v/220v Bivolt DPS 5KV Alta Resistencia a Impacto IK07 Ip66 Proteção Contra Surto Alut000902 Alut By Avant",
-      "link": "https://www.mercadolivre.com.br/kit-10-luminaria-led-poste-rua-publica-100w-6500k-1200lm-110v220v-bivolt-dps-5kv-alta-resistencia-a-impacto-ik07-ip66-protecao-contra-surto-alut000902-alut-by-avant/p/MLB53299595",
-      "current_price": 837.9,
-      "original_price": 1399,
-      "discount": 40.1,
-      "difference": 561.1,
-      "criteria": [
-        "40.1% OFF",
-        "R$ 561.1 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_770173-MLA113050175809_062026-AB.webp",
-      "category": "[FLOOD_LIGHTS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785253019.20744,
       "is_new": false
     },
     {
@@ -5226,7 +5258,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -5245,7 +5277,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61xAxx3rfOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785358276.509219,
       "is_new": false
     },
@@ -5301,7 +5333,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61uaspEIxKL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785345971.226023,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785160913.33829,
       "is_new": false
     },
@@ -5338,7 +5370,7 @@
       "badge": "58% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785242589.207625,
       "is_new": false
     },
@@ -5393,7 +5425,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_754077-MLB89668775680_082025-AB.webp",
       "category": "[SHORTS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5411,26 +5443,8 @@
       "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_647765-MLB89667663984_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785345971.226017,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4678024769",
-      "title": "Parafusadeira Furadeira Impacto Fulink Profissional Fk-80pt 2 Baterias Com Maleta 60Hz Amarelo",
-      "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-impacto-fulink-profissional-fk-80pt-2-baterias-com-maleta-60hz-amarelo/p/MLB54005757",
-      "current_price": 118.78,
-      "original_price": 379.14,
-      "discount": 68.7,
-      "difference": 260.36,
-      "criteria": [
-        "68.7% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_910348-MLA104305144023_012026-AB.webp",
-      "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785340947.423232,
       "is_new": false
     },
     {
@@ -5483,7 +5497,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_845340-MLB102131133519_122025-AB.webp",
       "category": "[BATHROOM_EXHAUST_FANS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5537,26 +5551,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_857522-MLA99498950268_112025-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785340947.423232,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5348804494",
-      "title": "Tênis adidas Preto Leve Confortável Academia Treino Diário",
-      "link": "https://produto.mercadolivre.com.br/MLB-5348804494-tnis-adidas-preto-leve-confortavel-academia-treino-diario-_JM",
-      "current_price": 225.99,
-      "original_price": 399.99,
-      "discount": 43.5,
-      "difference": 174.0,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_840121-MLB108732554108_032026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -5573,7 +5569,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_602712-MLB106060099474_022026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -5609,7 +5605,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_747584-MLA99551683166_122025-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785345971.226017,
       "is_new": false
     },
@@ -5627,26 +5623,8 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51fX00xNtpL._AC_UL210_SR210,210_.jpg",
       "category": "[CHAIR]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1784970231.943494,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3333607391",
-      "title": "Envelope Plástico Com Adesivo Inviolável 60x60 100 Unidades",
-      "link": "https://www.mercadolivre.com.br/envelope-plastico-com-adesivo-inviolavel-60x60-100-unidades/up/MLBU1970571213",
-      "current_price": 69.26,
-      "original_price": 224.04,
-      "discount": 69.1,
-      "difference": 154.78,
-      "criteria": [
-        "69.1% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_635305-MLB75176589203_032024-AB.webp",
-      "category": "[POLY_MAILERS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -5663,26 +5641,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_990074-MLB47325625248_092021-AB.webp",
       "category": "[CUSHION_AND_PILLOW_COVERS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4272953695",
-      "title": "Sandalia Em Couro Usaflex Ud11007 001-preto Tira Velcro 36 Br",
-      "link": "https://www.mercadolivre.com.br/sandalia-em-couro-usaflex-ud11007/up/MLBU3519571542",
-      "current_price": 95.9,
-      "original_price": 229.99,
-      "discount": 58.3,
-      "difference": 134.09,
-      "criteria": [
-        "58.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 6",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_660334-MLB114205813425_072026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -5717,7 +5677,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_981251-MLA108426406423_032026-AB.webp",
       "category": "[PC_KEYBOARDS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785263958.884077,
       "is_new": false
     },
@@ -5753,7 +5713,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_860235-MLB112830227486_072026-AB.webp",
       "category": "[SWEATSHIRTS_AND_HOODIES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785263958.884077,
       "is_new": false
     },
@@ -5771,7 +5731,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/717yl6nE4kL._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785273521.886407,
       "is_new": false
     },
@@ -5789,8 +5749,26 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_905913-MLB108402219824_032026-AB.webp",
       "category": "[DOORBELLS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785358276.509219,
+      "is_new": false
+    },
+    {
+      "asin": "B004QEKTSO",
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Black-Blended/dp/B004QEKTSO",
+      "current_price": 132.99,
+      "original_price": 222.9,
+      "discount": 40.3,
+      "difference": 89.91,
+      "criteria": [
+        "40.3% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51iC0RL7yIL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1785369482.743036,
+      "discovery_ts": 1785362104.31748,
       "is_new": false
     },
     {
@@ -5807,7 +5785,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_724870-MLA113557571821_062026-AB.webp",
       "category": "[PILLOWS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -5825,26 +5803,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61S5PedMY6L._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785175803.073018,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4208976205",
-      "title": "Gancho BR03 Para Cadeira De Teto Giratório 360° Aço Instalação Fácil",
-      "link": "https://www.mercadolivre.com.br/gancho-br03-para-cadeira-de-teto-giratorio-360-aco-instalacao-facil/p/MLB46045529",
-      "current_price": 31.62,
-      "original_price": 97.96,
-      "discount": 67.7,
-      "difference": 66.34,
-      "criteria": [
-        "67.7% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_625077-MLA99441984672_112025-AB.webp",
-      "category": "[HAMMOCKS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -5861,7 +5821,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB.webp",
       "category": "[LIP_GLOSSES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -5879,25 +5839,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_878947-MLB109144488956_042026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785365779.11295,
-      "discovery_ts": 1785338184.839718,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4411203069",
-      "title": "Luva Térmica Impermeável Touch Para Moto Bike Preto Liso G",
-      "link": "https://www.mercadolivre.com.br/luva-termica-impermeavel-touch-para-moto-bike/up/MLBU3695995962",
-      "current_price": 22.36,
-      "original_price": 65.54,
-      "discount": 65.9,
-      "difference": 43.18,
-      "criteria": [
-        "65.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_633897-CBT102178919219_122025-AB.webp",
-      "category": "[GYM_GLOVES]",
-      "last_seen": 1785345971.226023,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5915,7 +5857,7 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700560-MLA95656352366_102025-AB.webp",
       "category": "[MANUAL_SOAP_AND_DETERGENT_DISPENSERS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5933,7 +5875,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_631313-MLB84463575676_052025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5949,9 +5891,9 @@
         "60.0% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_721979-MLB94911955972_102025-AB.webp",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_808026-MLB94911956346_102025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5966,10 +5908,10 @@
       "criteria": [
         "55.3% OFF"
       ],
-      "badge": "🟡 ML | 25 VENDIDOS",
+      "badge": "🟡 ML | 34 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_921278-MLB111441671315_052026-AB.webp",
       "category": "[PAINT_ROLLERS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5984,28 +5926,10 @@
       "criteria": [
         "51.9% OFF"
       ],
-      "badge": "🟡 ML | 75 VENDIDOS",
+      "badge": "🟡 ML | 85 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625392-MLB91048520086_092025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785365779.11295,
-      "discovery_ts": 1785338184.839718,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4457544113",
-      "title": "Fones De Ouvido Bluetooth Sem Fio Com Redução De Ruído Anc Preto",
-      "link": "https://www.mercadolivre.com.br/fones-de-ouvido-bluetooth-sem-fio-com-reducao-de-ruido-anc/up/MLBU3765049011",
-      "current_price": 44.56,
-      "original_price": 84.54,
-      "discount": 47.3,
-      "difference": 39.98,
-      "criteria": [
-        "47.3% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_683835-MLB106393693729_022026-AB.webp",
-      "category": "[HEADPHONES]",
-      "last_seen": 1785345971.226023,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6041,26 +5965,8 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867039-MLB84478183701_052025-AB.webp",
       "category": "[SUITCASE_COVERS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6845185992",
-      "title": "Pen Drive 2 Em 1 Dual Drive 16gb Usb-a + Usb-c 3.0 Rápido Preto",
-      "link": "https://www.mercadolivre.com.br/pen-drive-2-em-1-dual-drive-16gb-usb-a-usb-c-30-rapido-preto/p/MLB73837904",
-      "current_price": 41.19,
-      "original_price": 78.9,
-      "discount": 47.8,
-      "difference": 37.71,
-      "criteria": [
-        "47.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_988783-MLA113350089011_062026-AB.webp",
-      "category": "[PENDRIVES]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785338184.839718,
       "is_new": false
     },
     {
@@ -6077,7 +5983,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_888494-MLB105520228351_012026-AB.webp",
       "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6113,7 +6019,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_684696-MLB106905940660_022026-AB.webp",
       "category": "[FLAGS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6131,7 +6037,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_897208-MLB111402920160_052026-AB.webp",
       "category": "[CELLPHONE_AND_TABLET_FLEX_CABLES]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6149,7 +6055,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -6167,7 +6073,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_830047-MLB83284207389_032025-AB.webp",
       "category": "[PILATES_BALLS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6185,44 +6091,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_848045-MLB112567777797_062026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4292281174",
-      "title": "Ducha Higiênica Luxo 100% Metal Completa De Volta",
-      "link": "https://www.mercadolivre.com.br/ducha-higienica-luxo-100-metal-completa-de-volta/up/MLBU1756587653",
-      "current_price": 18.23,
-      "original_price": 49.98,
-      "discount": 63.5,
-      "difference": 31.75,
-      "criteria": [
-        "63.5% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_924706-MLB112568182842_062026-AB.webp",
-      "category": "[HYGIENIC_SHOWERS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6817391322",
-      "title": "Linha De Pesca Multifilamento 300metro Pe 4 Fios Supertração Verde-0.28mm-16kg-3.0",
-      "link": "https://www.mercadolivre.com.br/linha-de-pesca-multifilamento-300metro-pe-4-fios-supertracao/up/MLBU2074394437",
-      "current_price": 38,
-      "original_price": 66,
-      "discount": 42.4,
-      "difference": 28,
-      "criteria": [
-        "42.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_852867-MLB89347966261_082025-AB.webp",
-      "category": "[FISHING_LINES]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -6241,24 +6111,6 @@
       "category": "[PANTYHOSE]",
       "last_seen": 1785362104.317488,
       "discovery_ts": 1785253019.20744,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5537913684",
-      "title": "Camisa Dia Dos Pais Com Rosto Camiseta Esse Papai Pertence A",
-      "link": "https://produto.mercadolivre.com.br/MLB-5537913684-camisa-dia-dos-pais-com-rosto-camiseta-esse-papai-pertence-a-_JM",
-      "current_price": 32.82,
-      "original_price": 59.9,
-      "discount": 45.2,
-      "difference": 27.08,
-      "criteria": [
-        "45.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_850419-MLB114245753499_072026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
       "is_new": false
     },
     {
@@ -6293,7 +6145,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
       "category": "🧸 Bebês & Brinquedos",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1784962769.116758,
       "is_new": false
     },
@@ -6308,10 +6160,10 @@
       "criteria": [
         "50.7% OFF"
       ],
-      "badge": "🟡 ML | 212 VENDIDOS",
+      "badge": "🟡 ML | 251 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_794593-MLB99356369231_112025-AB.webp",
       "category": "[WALLPAPER_ROLLS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6344,10 +6196,10 @@
       "criteria": [
         "41.5% OFF"
       ],
-      "badge": "🟡 ML | 359 VENDIDOS",
+      "badge": "🟡 ML | 391 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_862425-MLA95804056004_102025-AB.webp",
       "category": "[LAPTOP_STANDS]",
-      "last_seen": 1785365779.11295,
+      "last_seen": 1785369482.743036,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     }
