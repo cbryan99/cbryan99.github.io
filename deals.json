@@ -1,5 +1,5 @@
 {
-  "last_check": "29/07/2026 20:51:16",
+  "last_check": "29/07/2026 21:55:04",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4726,6 +4726,15 @@
           "date": "2026-07-29T20:51:16.509219"
         }
       ]
+    },
+    "B004QEKTSO": {
+      "discovery_date": "2026-07-29T21:55:04.317480",
+      "price_history": [
+        {
+          "price": 132.99,
+          "date": "2026-07-29T21:55:04.317480"
+        }
+      ]
     }
   },
   "data": [
@@ -4762,8 +4771,8 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61xAxx3rfOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785358276.509226,
-      "discovery_ts": 1785358276.509226,
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785358276.509219,
       "is_new": true
     },
     {
@@ -4780,8 +4789,26 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_905913-MLB108402219824_032026-AB.webp",
       "category": "[DOORBELLS]",
-      "last_seen": 1785358276.509226,
-      "discovery_ts": 1785358276.509226,
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785358276.509219,
+      "is_new": true
+    },
+    {
+      "asin": "B004QEKTSO",
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 1L",
+      "link": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Black-Blended/dp/B004QEKTSO",
+      "current_price": 132.99,
+      "original_price": 222.9,
+      "discount": 40.3,
+      "difference": 89.91,
+      "criteria": [
+        "40.3% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51iC0RL7yIL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785362104.317488,
       "is_new": true
     },
     {
@@ -4817,8 +4844,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_680453-MLA112058304033_052026-AB.webp",
       "category": "[PORTABLE_GENERATORS]",
-      "last_seen": 1785345971.226023,
-      "discovery_ts": 1785345971.226023,
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785345971.226017,
       "is_new": false
     },
     {
@@ -4836,7 +4863,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_607343-MLA106327927189_012026-AB.webp",
       "category": "[MATTRESSES]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -4854,7 +4881,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -4895,6 +4922,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFTCKNN",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+      "current_price": 5110.0,
+      "original_price": 6799.0,
+      "discount": 24.8,
+      "difference": 1689.0,
+      "criteria": [
+        "R$ 1689.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785277699.627439,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFT8HZC",
       "title": "Apple iPhone 16 (128 GB) – Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFT8HZC",
@@ -4913,24 +4958,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFTCKNN",
-      "title": "Apple iPhone 16 (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
-      "current_price": 5110.0,
-      "original_price": 6799.0,
-      "discount": 24.8,
-      "difference": 1689.0,
-      "criteria": [
-        "R$ 1689.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785340947.423239,
-      "discovery_ts": 1785277699.627439,
-      "is_new": false
-    },
-    {
       "asin": "B0GXFFSVYM",
       "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
       "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
@@ -4945,7 +4972,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -4964,7 +4991,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_921183-MLA99990715977_112025-AB.webp",
       "category": "[HOME_GYMS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -4982,7 +5009,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319QTMDdZhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -5000,7 +5027,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -5018,7 +5045,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -5036,7 +5063,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31g-vHrAP6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -5055,7 +5082,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
       "category": "[CHAIR]",
-      "last_seen": 1785345971.226023,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -5091,7 +5118,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1784419934.633826,
       "is_new": false
     },
@@ -5145,7 +5172,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_783346-MLA83439986268_042025-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -5181,7 +5208,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_941433-MLA99972606261_112025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -5236,7 +5263,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81yyXps2lKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5254,7 +5281,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -5272,7 +5299,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tQ1RXjsIL._AC_UL210_SR210,210_.jpg",
       "category": "[PRESSURE_WASHER]",
-      "last_seen": 1785354944.533133,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785152966.201765,
       "is_new": false
     },
@@ -5347,7 +5374,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804929-MLB90044630999_082025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5365,7 +5392,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1784825707.553482,
       "is_new": false
     },
@@ -5383,7 +5410,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_754077-MLB89668775680_082025-AB.webp",
       "category": "[SHORTS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5401,7 +5428,7 @@
       "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_647765-MLB89667663984_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785345971.226017,
       "is_new": false
     },
@@ -5491,7 +5518,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_974281-MLB77496659530_072024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5509,7 +5536,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_651154-MLB73748167598_012024-AB.webp",
       "category": "[COMFORTERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -5527,7 +5554,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_857522-MLA99498950268_112025-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1785354944.533133,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -5653,7 +5680,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_990074-MLB47325625248_092021-AB.webp",
       "category": "[CUSHION_AND_PILLOW_COVERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5725,7 +5752,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_981251-MLA108426406423_032026-AB.webp",
       "category": "[PC_KEYBOARDS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785263958.884077,
       "is_new": false
     },
@@ -5740,11 +5767,11 @@
       "criteria": [
         "71.9% OFF"
       ],
-      "badge": "🟡 ML | 2 VENDIDOS",
+      "badge": "🟡 ML | ÚLTIMAS 8",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_612803-MLB111278301895_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785349892.292564,
-      "discovery_ts": 1785349892.292564,
+      "last_seen": 1785362104.317488,
+      "discovery_ts": 1785349892.292556,
       "is_new": false
     },
     {
@@ -5761,7 +5788,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_860235-MLB112830227486_072026-AB.webp",
       "category": "[SWEATSHIRTS_AND_HOODIES]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785263958.884077,
       "is_new": false
     },
@@ -5815,7 +5842,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_724870-MLA113557571821_062026-AB.webp",
       "category": "[PILLOWS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -5869,7 +5896,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB.webp",
       "category": "[LIP_GLOSSES]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -5887,7 +5914,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_878947-MLB109144488956_042026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5923,7 +5950,7 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700560-MLA95656352366_102025-AB.webp",
       "category": "[MANUAL_SOAP_AND_DETERGENT_DISPENSERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5941,7 +5968,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_631313-MLB84463575676_052025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5959,7 +5986,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_721979-MLB94911955972_102025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5974,10 +6001,10 @@
       "criteria": [
         "55.3% OFF"
       ],
-      "badge": "🟡 ML | 21 VENDIDOS",
+      "badge": "🟡 ML | 22 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_921278-MLB111441671315_052026-AB.webp",
       "category": "[PAINT_ROLLERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -5992,10 +6019,10 @@
       "criteria": [
         "51.9% OFF"
       ],
-      "badge": "🟡 ML | 32 VENDIDOS",
+      "badge": "🟡 ML | 68 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625392-MLB91048520086_092025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785349892.292564,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6049,7 +6076,7 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867039-MLB84478183701_052025-AB.webp",
       "category": "[SUITCASE_COVERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6085,7 +6112,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_888494-MLB105520228351_012026-AB.webp",
       "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6121,7 +6148,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_684696-MLB106905940660_022026-AB.webp",
       "category": "[FLAGS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6157,7 +6184,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_897208-MLB111402920160_052026-AB.webp",
       "category": "[CELLPHONE_AND_TABLET_FLEX_CABLES]",
-      "last_seen": 1785354944.533133,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6175,7 +6202,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_628587-MLB101686617190_122025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -6193,7 +6220,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_830047-MLB83284207389_032025-AB.webp",
       "category": "[PILATES_BALLS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6211,7 +6238,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_848045-MLB112567777797_062026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6265,7 +6292,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_793576-MLB112272203409_052026-AB.webp",
       "category": "[PANTYHOSE]",
-      "last_seen": 1785345971.226023,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -6319,7 +6346,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
       "category": "🧸 Bebês & Brinquedos",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1784962769.116758,
       "is_new": false
     },
@@ -6334,10 +6361,10 @@
       "criteria": [
         "50.7% OFF"
       ],
-      "badge": "🟡 ML | 163 VENDIDOS",
+      "badge": "🟡 ML | 181 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_794593-MLB99356369231_112025-AB.webp",
       "category": "[WALLPAPER_ROLLS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -6355,7 +6382,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_602175-MLA109594571220_042026-AB.webp",
       "category": "[DATA_CABLES_AND_ADAPTERS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -6370,10 +6397,10 @@
       "criteria": [
         "41.5% OFF"
       ],
-      "badge": "🟡 ML | 327 VENDIDOS",
+      "badge": "🟡 ML | 342 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_862425-MLA95804056004_102025-AB.webp",
       "category": "[LAPTOP_STANDS]",
-      "last_seen": 1785358276.509226,
+      "last_seen": 1785362104.317488,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     }
