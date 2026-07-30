@@ -1,5 +1,5 @@
 {
-  "last_check": "30/07/2026 19:02:06",
+  "last_check": "30/07/2026 20:22:55",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4292,6 +4292,10 @@
         {
           "price": 17.12,
           "date": "2026-07-29T15:16:24.839718"
+        },
+        {
+          "price": 17,
+          "date": "2026-07-30T20:22:55.344579"
         }
       ]
     },
@@ -5828,6 +5832,15 @@
           "date": "2026-07-30T19:02:06.314124"
         }
       ]
+    },
+    "MLB5812567848": {
+      "discovery_date": "2026-07-30T20:22:55.344579",
+      "price_history": [
+        {
+          "price": 98,
+          "date": "2026-07-30T20:22:55.344579"
+        }
+      ]
     }
   },
   "data": [
@@ -5846,8 +5859,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959926-MLA100019034683_122025-AB.webp",
       "category": "[STATIONARY_BICYCLES]",
-      "last_seen": 1785438126.314131,
-      "discovery_ts": 1785438126.314131,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785438126.314124,
       "is_new": true
     },
     {
@@ -5864,8 +5877,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_896552-CBT105188918639_012026-AB.webp",
       "category": "[VEHICLE_LED_BULBS]",
-      "last_seen": 1785438126.314131,
-      "discovery_ts": 1785438126.314131,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785438126.314124,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5812567848",
+      "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
+      "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225",
+      "current_price": 98,
+      "original_price": 219.9,
+      "discount": 55.4,
+      "difference": 121.9,
+      "criteria": [
+        "55.4% OFF"
+      ],
+      "badge": "🟡 ML | 18 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_792318-MLA99928543517_112025-AB.webp",
+      "category": "[ELECTRIC_BLOWERS]",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785442975.344586,
       "is_new": true
     },
     {
@@ -5957,7 +5988,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785433491.998192,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -6049,8 +6080,26 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1784595805.500833,
+      "is_new": false
+    },
+    {
+      "asin": "B0DW6X9K7P",
+      "title": "GoPro Max 360 - Câmera de Ação à Prova d'água, Vídeo 360 5.6K, Reenquadramento 4K, Foto 360, GPS, Live 1080p, Max HyperSmooth, TimeWarp, Trava de horizonte, Capturas com bastão invisível",
+      "link": "https://www.amazon.com.br/GoPro-Max-360-Reenquadramento-HyperSmooth/dp/B0DW6X9K7P",
+      "current_price": 1899.9,
+      "original_price": 2699.0,
+      "discount": 29.6,
+      "difference": 799.1,
+      "criteria": [
+        "R$ 799.1 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
+      "category": "[CAMCORDER]",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785140720.516192,
       "is_new": false
     },
     {
@@ -6067,8 +6116,26 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1784419934.633826,
+      "is_new": false
+    },
+    {
+      "asin": "B084RCXNJX",
+      "title": "Máquina de Lavar Electrolux 11kg Branca Essential Care Easy Clean Filtro Fiapos 220v LES11",
+      "link": "https://www.amazon.com.br/Lavadora-Roupas-Electrolux-LES11-Essencial/dp/B084RCXNJX",
+      "current_price": 1629.0,
+      "original_price": 2368.41,
+      "discount": 31.2,
+      "difference": 739.41,
+      "criteria": [
+        "R$ 739.41 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+50Z4TgEL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785194938.277718,
       "is_new": false
     },
     {
@@ -6109,6 +6176,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB6849297872",
+      "title": "Revólver De Pressão Snr357 Full Metal Black 4.5mm - Crosman Cinza 4.5 Mm",
+      "link": "https://www.mercadolivre.com.br/revolver-de-pressao-snr357-full-metal-black-45mm--crosman/up/MLBU4022096370",
+      "current_price": 1243.48,
+      "original_price": 1869.9,
+      "discount": 33.5,
+      "difference": 626.42,
+      "criteria": [
+        "R$ 626.42 desc."
+      ],
+      "badge": "🟡 ML | 4 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_633836-MLB112320044495_052026-AB.webp",
+      "category": "[AIRSOFT_GUNS]",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785258352.585216,
+      "is_new": false
+    },
+    {
       "asin": "B0FY3TV864",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-53R6 Intel Core i5 13º Geração 16BG RAM 512GB SSD 15,6\" Full HD Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Acer-AG15-71P-53R6-Gera%C3%A7%C3%A3o-Windows/dp/B0FY3TV864",
@@ -6141,8 +6226,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_965829-MLA91802113100_092025-AB.webp",
       "category": "[POWERED_RIDE_ON_TOYS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -6160,7 +6245,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_922598-MLB109176536774_042026-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785258352.585216,
       "is_new": false
     },
@@ -6178,7 +6263,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -6215,7 +6300,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tQ1RXjsIL._AC_UL210_SR210,210_.jpg",
       "category": "[PRESSURE_WASHER]",
-      "last_seen": 1785427623.418882,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785152966.201765,
       "is_new": false
     },
@@ -6307,7 +6392,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_816512-MLA99700963480_122025-AB.webp",
       "category": "[BOX_SPRING_BASES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785340947.423232,
       "is_new": false
     },
@@ -6326,7 +6411,7 @@
       "badge": "🟡 ML | 6 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_905042-MLA99986854491_112025-AB.webp",
       "category": "[ELECTRIC_POLISHERS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -6345,7 +6430,7 @@
       "badge": "58% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785433491.998192,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785242589.207625,
       "is_new": false
     },
@@ -6432,11 +6517,11 @@
       "criteria": [
         "46.1% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 14 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_908310-MLB113900220256_072026-AB.webp",
       "category": "[TRAMPOLINES]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -6468,11 +6553,11 @@
       "criteria": [
         "58.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674437-MLB109943696683_042026-AB.webp",
       "category": "[JACKETS_AND_COATS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -6489,7 +6574,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1785433491.998192,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -6507,7 +6592,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_602712-MLB106060099474_022026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -6561,7 +6646,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_846019-MLB100740577577_122025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -6687,7 +6772,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -6777,7 +6862,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_911777-MLB98664336078_112025-AB.webp",
       "category": "[SKIRTS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -6795,7 +6880,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_906556-MLB85359259759_052025-AB.webp",
       "category": "[BREATHALYSERS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -6831,7 +6916,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/717yl6nE4kL._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785273521.886407,
       "is_new": false
     },
@@ -6921,7 +7006,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51iC0RL7yIL._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785362104.31748,
       "is_new": false
     },
@@ -6957,7 +7042,7 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_614952-MLB93390383141_092025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -6990,11 +7075,11 @@
       "criteria": [
         "54.4% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 11 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_849024-MLB113300621641_062026-AB.webp",
       "category": "[JACKETS_AND_COATS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7029,8 +7114,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_995332-MLA114845503161_072026-AB.webp",
       "category": "[OUTDOOR_TABLES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785287058.57229,
+      "is_new": false
+    },
+    {
+      "asin": "B00861CC7Y",
+      "title": "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+      "link": "https://www.amazon.com.br/Whisky-Escoc%C3%AAs-Black-Label-Garrafa/dp/B00861CC7Y",
+      "current_price": 99.9,
+      "original_price": 177.9,
+      "discount": 43.8,
+      "difference": 78.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61S5PedMY6L._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785175803.073018,
       "is_new": false
     },
     {
@@ -7044,10 +7147,10 @@
       "criteria": [
         "49.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 9",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_690700-MLB100080271851_122025-AB.webp",
       "category": "[KITCHEN_TIMERS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -7173,7 +7276,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ZmjmMLsRL._AC_UL210_SR210,210_.jpg",
       "category": "[PORTABLE_TOOL_BOX]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785369482.743029,
       "is_new": false
     },
@@ -7191,8 +7294,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_675852-MLB73434459045_122023-AB.webp",
       "category": "[FOOTBALL_CAPS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7209,8 +7312,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_983859-MLB71711149278_092023-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7242,10 +7345,10 @@
       "criteria": [
         "56.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_612514-MLB110563457957_042026-AB.webp",
       "category": "[DATA_CABLES_AND_ADAPTERS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -7263,7 +7366,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_620634-MLB80163615849_102024-AB.webp",
       "category": "[HEELS_AND_WEDGES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785378662.597364,
       "is_new": false
     },
@@ -7440,11 +7543,11 @@
       "criteria": [
         "46.4% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 19 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_854039-MLA114763419387_072026-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7461,7 +7564,7 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867039-MLB84478183701_052025-AB.webp",
       "category": "[SUITCASE_COVERS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -7533,8 +7636,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_676911-MLA104907483056_012026-AB.webp",
       "category": "[BABY_NESTS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7548,10 +7651,10 @@
       "criteria": [
         "60.0% OFF"
       ],
-      "badge": "🟡 ML | 285 VENDIDOS",
+      "badge": "🟡 ML | 457 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_778128-MLA113781703053_062026-AB.webp",
       "category": "[DRINKING_GLASSES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -7566,11 +7669,11 @@
       "criteria": [
         "54.9% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_643587-MLB72693073384_112023-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7602,10 +7705,10 @@
       "criteria": [
         "52.3% OFF"
       ],
-      "badge": "🟡 ML | 24 VENDIDOS",
+      "badge": "🟡 ML | 38 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_879688-MLB113144257276_072026-AB.webp",
       "category": "[JACKETS_AND_COATS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -7659,7 +7762,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_974388-MLA100121981169_122025-AB.webp",
       "category": "[STRING_INSTRUMENT_STRAPS]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785335319.795561,
       "is_new": false
     },
@@ -7718,6 +7821,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB4681492929",
+      "title": "Tapete Banheiro Antiderrapante Macio Absorvente 60x40 Cinza",
+      "link": "https://www.mercadolivre.com.br/tapete-banheiro-antiderrapante-macio-absorvente-60x40/up/MLBU3975710668",
+      "current_price": 17,
+      "original_price": 39.9,
+      "discount": 57.4,
+      "difference": 22.9,
+      "criteria": [
+        "57.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_724454-MLB111718364601_052026-AB.webp",
+      "category": "[TOILET_RUGS]",
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785338184.839718,
+      "is_new": false
+    },
+    {
       "asin": "MLB5255620568",
       "title": "Adaptador De Acessórios Usb C Para iPhone E iPad - Lightning Cinza",
       "link": "https://www.mercadolivre.com.br/adaptador-de-acessorios-usb-c-para-iphone-e-ipad--lightning/up/MLBU2954769327",
@@ -7767,7 +7888,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_672839-MLA113685851696_072026-AB.webp",
       "category": "[BODYWEIGHT_SCALES]",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -7785,7 +7906,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81LbIKRgAqL._AC_UL210_SR210,210_.jpg",
       "category": "🧸 Bebês & Brinquedos",
-      "last_seen": 1785438126.314131,
+      "last_seen": 1785442975.344586,
       "discovery_ts": 1784962769.116758,
       "is_new": false
     },
@@ -7875,8 +7996,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_887148-MLB77742115030_072024-AB.webp",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -7893,8 +8014,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_762850-MLA109099018539_032026-AB.webp",
       "category": "[LED_STRIPS]",
-      "last_seen": 1785427623.418882,
-      "discovery_ts": 1785427623.418882,
+      "last_seen": 1785442975.344586,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     }
   ]
