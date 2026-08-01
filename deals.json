@@ -1,5 +1,5 @@
 {
-  "last_check": "01/08/2026 09:25:02",
+  "last_check": "01/08/2026 10:55:39",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -7567,6 +7567,51 @@
           "date": "2026-08-01T09:25:02.434275"
         }
       ]
+    },
+    "B076QDQVMJ": {
+      "discovery_date": "2026-08-01T10:55:39.735806",
+      "price_history": [
+        {
+          "price": 308.9,
+          "date": "2026-08-01T10:55:39.735806"
+        }
+      ]
+    },
+    "B0C6MSDKYT": {
+      "discovery_date": "2026-08-01T10:55:39.735806",
+      "price_history": [
+        {
+          "price": 116.9,
+          "date": "2026-08-01T10:55:39.735806"
+        }
+      ]
+    },
+    "B09TBBXC2Z": {
+      "discovery_date": "2026-08-01T10:55:39.735806",
+      "price_history": [
+        {
+          "price": 243.19,
+          "date": "2026-08-01T10:55:39.735806"
+        }
+      ]
+    },
+    "MLB6538432578": {
+      "discovery_date": "2026-08-01T10:55:39.735806",
+      "price_history": [
+        {
+          "price": 38,
+          "date": "2026-08-01T10:55:39.735806"
+        }
+      ]
+    },
+    "MLB4618966707": {
+      "discovery_date": "2026-08-01T10:55:39.735806",
+      "price_history": [
+        {
+          "price": 50,
+          "date": "2026-08-01T10:55:39.735806"
+        }
+      ]
     }
   },
   "data": [
@@ -7590,6 +7635,44 @@
       "is_new": true
     },
     {
+      "asin": "B09TBBXC2Z",
+      "title": "Vonder, Compressor De Ar Automotivo, Cav 150, 12 V Ou 127 V~ A 220 V~ Bivolt Automático.",
+      "link": "https://www.amazon.com.br/Compressor-Automotivo-Cav150-127v-Vonder/dp/B09TBBXC2Z",
+      "current_price": 243.19,
+      "original_price": 601.9,
+      "discount": 59.6,
+      "difference": 358.71,
+      "criteria": [
+        "59.6% OFF",
+        "R$ 358.71 desc."
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71glZSa-slL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_COMPRESSOR]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785581739.735812,
+      "is_new": true
+    },
+    {
+      "asin": "B076QDQVMJ",
+      "title": "WAP Lavadora de Alta Pressão ATACAMA SMART 2200, 330L/h, com Jato em Leque e Concentrado, 1500psi 1400W 127V",
+      "link": "https://www.amazon.com.br/Lavadora-Press%C3%A3o-Atacama-Smart-1400W/dp/B076QDQVMJ",
+      "current_price": 308.9,
+      "original_price": 629.9,
+      "discount": 51.0,
+      "difference": 321.0,
+      "criteria": [
+        "51.0% OFF",
+        "R$ 321.0 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/711OpDhWASS._AC_UL210_SR210,210_.jpg",
+      "category": "[PRESSURE_WASHER]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785581739.735812,
+      "is_new": true
+    },
+    {
       "asin": "MLB4812796335",
       "title": "Kit 10 Painel Led Pop Embutir Redondo 24w Amarela Atacado Amarelo",
       "link": "https://www.mercadolivre.com.br/kit-10-painel-led-pop-embutir-redondo-24w-amarela-atacado-amarelo/p/MLB74453010",
@@ -7603,8 +7686,8 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_904564-MLA112539364258_062026-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1785576302.434283,
-      "discovery_ts": 1785576302.434283,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785576302.434275,
       "is_new": true
     },
     {
@@ -7657,8 +7740,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_847203-MLB85252114970_062025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785576302.434283,
-      "discovery_ts": 1785576302.434283,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785576302.434275,
+      "is_new": true
+    },
+    {
+      "asin": "B0C6MSDKYT",
+      "title": "Fone de Ouvido Sem Fio Havit H630bt Bluetooth, Até 55 Horas de Duração da Bateria Preto",
+      "link": "https://www.amazon.com.br/Ouvido-Havit-H630bt-Dura%C3%A7%C3%A3o-Bateria/dp/B0C6MSDKYT",
+      "current_price": 116.9,
+      "original_price": 209.99,
+      "discount": 44.3,
+      "difference": 93.09,
+      "criteria": [
+        "44.3% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61T5ujX6pyL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785581739.735812,
       "is_new": true
     },
     {
@@ -7675,8 +7776,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_631087-MLB82767961758_032025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
-      "discovery_ts": 1785576302.434283,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785576302.434275,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4618966707",
+      "title": "Laptop Infantil Brinquedo Educativo Interativo Inglês Atacarejo Kids",
+      "link": "https://www.mercadolivre.com.br/laptop-infantil-brinquedo-educativo-interativo-ingles-atacarejo-kids/p/MLB50587241",
+      "current_price": 50,
+      "original_price": 98.75,
+      "discount": 49.4,
+      "difference": 48.75,
+      "criteria": [
+        "49.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_721951-MLA85347903853_052025-AB.webp",
+      "category": "[LEARNING_TOY_LAPTOPS]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785581739.735812,
       "is_new": true
     },
     {
@@ -7698,6 +7817,24 @@
       "is_new": true
     },
     {
+      "asin": "MLB6538432578",
+      "title": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Samsung S20 S23 S24 Xiaomi Motorola Android Ios Sem Fio Prova DAgua Wireless Tipo Light Cancelamento Ruido Celular",
+      "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorola-android-ios-sem-fio-prova-dagua-wireless-tipo-light-cancelamento-ruido-celular/p/MLB67291937",
+      "current_price": 38,
+      "original_price": 78.9,
+      "discount": 51.8,
+      "difference": 40.9,
+      "criteria": [
+        "51.8% OFF"
+      ],
+      "badge": "🟡 ML | 57 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_793840-MLA109795835063_032026-AB.webp",
+      "category": "[HEADPHONES]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785581739.735812,
+      "is_new": true
+    },
+    {
       "asin": "MLB3871615471",
       "title": "Kit Máquina Costura Mini Brinquedo Infantil Roupas Acessório Cor Sortido/Colorido",
       "link": "https://www.mercadolivre.com.br/kit-maquina-costura-mini-brinquedo-infantil-roupas-acessorio-cor-sortidocolorido/p/MLB24391782",
@@ -7711,8 +7848,8 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_691656-MLA100048439569_122025-AB.webp",
       "category": "[TOY_SEWING_MACHINES]",
-      "last_seen": 1785576302.434283,
-      "discovery_ts": 1785576302.434283,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785576302.434275,
       "is_new": true
     },
     {
@@ -7747,8 +7884,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_784994-MLB101800493321_122025-AB.webp",
       "category": "[DIGITAL_PORTABLE_MEDIA_PLAYER_COVERS_AND_BAGS]",
-      "last_seen": 1785576302.434283,
-      "discovery_ts": 1785576302.434283,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785576302.434275,
       "is_new": true
     },
     {
@@ -7765,7 +7902,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785559271.197157,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -7784,7 +7921,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_680453-MLA112058304033_052026-AB.webp",
       "category": "[PORTABLE_GENERATORS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785345971.226017,
       "is_new": false
     },
@@ -7803,7 +7940,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959255-MLA104198163986_012026-AB.webp",
       "category": "[PORTABLE_GENERATORS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785455102.950256,
       "is_new": false
     },
@@ -7821,8 +7958,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785253019.20744,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFTCKNN",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+      "current_price": 5110.0,
+      "original_price": 6799.0,
+      "discount": 24.8,
+      "difference": 1689.0,
+      "criteria": [
+        "R$ 1689.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785277699.627439,
       "is_new": false
     },
     {
@@ -7844,22 +7999,22 @@
       "is_new": false
     },
     {
-      "asin": "B0F3QCWL1Z",
-      "title": "Ar Condicionado Split Hi Wall TCL T-Pro 2.0 Inverter 9.000 Btus Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-Split-TCL-T-Pro-Inverter/dp/B0F3QCWL1Z",
-      "current_price": 1699.0,
-      "original_price": 2953.6,
-      "discount": 42.5,
-      "difference": 1254.6,
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
+      "current_price": 2159.39,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.61,
       "criteria": [
-        "42.5% OFF",
-        "R$ 1254.6 desc."
+        "40.0% OFF",
+        "R$ 1439.61 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51OmHUb71RL._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785277699.627439,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -7876,80 +8031,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0B61WJRY5",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
-      "current_price": 3599.0,
-      "original_price": 4838.9,
-      "discount": 25.6,
-      "difference": 1239.9,
-      "criteria": [
-        "R$ 1239.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785515180.635022,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPDT6SLQ",
-      "title": "Smart TV TCL 85 Polegadas QLED Mini LED Matte 4K C6K WiFi Bluetooth Google TV 144Hz VRR HDR10+ 85C6K",
-      "link": "https://www.amazon.com.br/Smart-TCL-Polegadas-Bluetooth-Google/dp/B0FPDT6SLQ",
-      "current_price": 8399.0,
-      "original_price": 9499.0,
-      "discount": 11.6,
-      "difference": 1100.0,
-      "criteria": [
-        "R$ 1100.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/912Zu4KgH0L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1784976056.381891,
-      "is_new": false
-    },
-    {
-      "asin": "B0D4NR66ZL",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i7-1355U, Windows 11 Home, 16GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-i7-1355U-Windows/dp/B0D4NR66ZL",
-      "current_price": 5449.0,
-      "original_price": 6199.0,
-      "discount": 12.1,
-      "difference": 750.0,
-      "criteria": [
-        "R$ 750.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1784419934.633826,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPRJHKB9",
-      "title": "Smart TV Semp 65 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 65S62",
-      "link": "https://www.amazon.com.br/Smart-Semp-Polegadas-Bluetooth-Google/dp/B0FPRJHKB9",
-      "current_price": 2999.99,
-      "original_price": 3699.0,
-      "discount": 18.9,
-      "difference": 699.01,
-      "criteria": [
-        "R$ 699.01 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61yKvEjR6kL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785559271.197157,
       "is_new": false
     },
     {
@@ -7966,26 +8049,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iETO5M5iL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785354944.533126,
-      "is_new": false
-    },
-    {
-      "asin": "B0FY3TV864",
-      "title": "Notebook Acer Aspire Go 15 AG15-71P-53R6 Intel Core i5 13º Geração 16BG RAM 512GB SSD 15,6\" Full HD Windows 11 Home",
-      "link": "https://www.amazon.com.br/Notebook-Acer-AG15-71P-53R6-Gera%C3%A7%C3%A3o-Windows/dp/B0FY3TV864",
-      "current_price": 4598.98,
-      "original_price": 5199.0,
-      "discount": 11.5,
-      "difference": 600.02,
-      "criteria": [
-        "R$ 600.02 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/518EG-3UJQL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785349892.292556,
       "is_new": false
     },
     {
@@ -8057,26 +8122,8 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81Lx7FtZSZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785263958.884077,
-      "is_new": false
-    },
-    {
-      "asin": "B0FNXZZTDW",
-      "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV com Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa e Google Home",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
-      "current_price": 2099.98,
-      "original_price": 2599.0,
-      "discount": 19.2,
-      "difference": 499.02,
-      "criteria": [
-        "R$ 499.02 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785207848.029087,
       "is_new": false
     },
     {
@@ -8094,7 +8141,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_870371-MLB111944014273_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8113,7 +8160,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61uaspEIxKL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785559271.197157,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785160913.33829,
       "is_new": false
     },
@@ -8151,7 +8198,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_857257-MLB112157093244_062026-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8206,7 +8253,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_825351-MLB75256661030_032024-AB.webp",
       "category": "[POLY_MAILERS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8242,7 +8289,7 @@
       "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_757596-MLB113316115216_072026-AB.webp",
       "category": "[WALKIE_TALKIES]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8275,10 +8322,10 @@
       "criteria": [
         "43.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_621788-MLB95732216850_102025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8296,7 +8343,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -8319,9 +8366,9 @@
       "is_new": false
     },
     {
-      "asin": "B0DCPBKT3Q",
-      "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 600W 127V",
-      "link": "https://www.amazon.com.br/WAP-El%C3%A9trico-Processador-Miniprocessador-Prosd%C3%B3cimo/dp/B0DCPBKT3Q",
+      "asin": "B0DCPWN2FG",
+      "title": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor de Clara em Inox Prosdócimo WM1 1000W 220V",
+      "link": "https://www.amazon.com.br/WAP-El%C3%A9trico-Processador-Miniprocessador-Prosd%C3%B3cimo/dp/B0DCPWN2FG",
       "current_price": 178.99,
       "original_price": 329.9,
       "discount": 45.7,
@@ -8332,8 +8379,8 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JZvofH46L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785492748.394608,
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785238410.939981,
       "is_new": false
     },
     {
@@ -8350,7 +8397,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_949903-MLA114277232545_072026-AB.webp",
       "category": "[DRAFTING_KITS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8368,7 +8415,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_928418-MLB114959610359_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -8386,7 +8433,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_973445-MLA111228044289_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -8401,10 +8448,10 @@
       "criteria": [
         "46.2% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 3 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_929707-MLA96126741487_102025-AB.webp",
       "category": "[SLEEPING_BAGS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -8422,26 +8469,8 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71oDl7NmgaL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4615808661",
-      "title": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
-      "link": "https://www.mercadolivre.com.br/boneca-bebe-reborn-menino-recem-nascido-pode-dar-banho/p/MLB68086238",
-      "current_price": 74.96,
-      "original_price": 179.9,
-      "discount": 58.3,
-      "difference": 104.94,
-      "criteria": [
-        "58.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_825513-MLA109629080834_042026-AB.webp",
-      "category": "[DOLLS]",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785559271.197157,
       "is_new": false
     },
     {
@@ -8458,7 +8487,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_836066-MLA98895341533_112025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785208851.763192,
       "is_new": false
     },
@@ -8476,7 +8505,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_875148-MLB105908223667_012026-AB.webp",
       "category": "[SCHOOL_KITS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8532,24 +8561,6 @@
       "category": "[KITCHEN_CABINET_ORGANIZERS]",
       "last_seen": 1785576302.434283,
       "discovery_ts": 1785568625.106273,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4362969269",
-      "title": "Calça Jeans Wide Leg Feminina Cintura Alta Pantalona",
-      "link": "https://produto.mercadolivre.com.br/MLB-4362969269-calca-jeans-wide-leg-feminina-cintura-alta-pantalona-_JM",
-      "current_price": 77.6,
-      "original_price": 139.99,
-      "discount": 44.6,
-      "difference": 62.39,
-      "criteria": [
-        "44.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_689482-MLB101256099023_122025-AB.webp",
-      "category": "[PANTS]",
-      "last_seen": 1785559271.197157,
-      "discovery_ts": 1785559271.197157,
       "is_new": false
     },
     {
@@ -8620,7 +8631,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_802177-MLB73494937366_122023-AB.webp",
       "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785211726.382873,
       "is_new": false
     },
@@ -8638,8 +8649,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_845923-MLB85885001631_062025-AB.webp",
       "category": "[SHORTS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
+      "is_new": false
+    },
+    {
+      "asin": "B08CPW5BR2",
+      "title": "Kit com 5 Potes de Vidro Gato Panda, 640 ml, Retangular, com Tampa Hermética, Azul",
+      "link": "https://www.amazon.com.br/Potes-Vidro-Retangular-Tampa-Herm%C3%A9tica/dp/B08CPW5BR2",
+      "current_price": 55.8,
+      "original_price": 99.0,
+      "discount": 43.6,
+      "difference": 43.2,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/814oRtHfLLL._AC_UL210_SR210,210_.jpg",
+      "category": "[FOOD_STORAGE_CONTAINER]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785413342.529136,
       "is_new": false
     },
     {
@@ -8674,7 +8703,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_911185-MLB85886691559_062025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -8710,7 +8739,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_809627-MLB108103595383_032026-AB.webp",
       "category": "[WALLPAPER_ROLLS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8782,7 +8811,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_946648-MLA114615738815_072026-AB.webp",
       "category": "[GARDEN_SPRAYERS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -8854,7 +8883,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_936371-MLB99627956279_112025-AB.webp",
       "category": "[BALLOON_GRIDS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -8890,8 +8919,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_981109-MLA100092997123_122025-AB.webp",
       "category": "[BEACH_TOYS_KITS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785559271.19715,
+      "is_new": false
+    },
+    {
+      "asin": "B0B695DMC2",
+      "title": "L'Oréal Paris Protetor Facial Solar Expertise Antioleosidade FPS 60, 40g | com Ácido Salicílico, possui Efeito Matte e Controle de Oleosidade por 12h.",
+      "link": "https://www.amazon.com.br/Protetor-LOr%C3%A9al-Paris-Expertise-Antioleosidade/dp/B0B695DMC2",
+      "current_price": 30.2,
+      "original_price": 55.89,
+      "discount": 46.0,
+      "difference": 25.69,
+      "criteria": [
+        "46.0% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81VO-Y6AgGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUNSCREEN]",
+      "last_seen": 1785581739.735812,
+      "discovery_ts": 1785236321.782599,
       "is_new": false
     },
     {
@@ -8944,7 +8991,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_607382-MLB84181433548_052025-AB.webp",
       "category": "[SMARTWATCH_AND_WATCH_BANDS]",
-      "last_seen": 1785576302.434283,
+      "last_seen": 1785581739.735812,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
