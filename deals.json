@@ -1,5 +1,5 @@
 {
-  "last_check": "31/07/2026 23:45:29",
+  "last_check": "01/08/2026 01:17:31",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -424,6 +424,10 @@
         {
           "price": "2719.15",
           "date": "2026-07-19T15:12:13.589445"
+        },
+        {
+          "price": 2719.15,
+          "date": "2026-08-01T01:17:31.313967"
         }
       ]
     },
@@ -7083,43 +7087,61 @@
           "date": "2026-07-31T21:49:18.629136"
         }
       ]
+    },
+    "B0FH5NMXHK": {
+      "discovery_date": "2026-08-01T01:17:31.313967",
+      "price_history": [
+        {
+          "price": 1658.99,
+          "date": "2026-08-01T01:17:31.313967"
+        }
+      ]
+    },
+    "B0781CTJF6": {
+      "discovery_date": "2026-08-01T01:17:31.313967",
+      "price_history": [
+        {
+          "price": 9.9,
+          "date": "2026-08-01T01:17:31.313967"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F2KBZ7WQ",
-      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), Fast Ips, G-sync, Aw2725dm | VESA DisplayHDR 400, Tempo de Resposta 1 ms, Brilho de 400 nits, Contraste de 1000:1, USB 5 Gbps, HDMI 2.1",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-27-QHD/dp/B0F2KBZ7WQ",
-      "current_price": 1916.0,
-      "original_price": 2449.0,
-      "discount": 21.8,
-      "difference": 533.0,
+      "asin": "B0FH5NMXHK",
+      "title": "Monitor Gamer Alienware 25\", Full Hd, 320 Hz, Fast Ips, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
+      "current_price": 1658.99,
+      "original_price": 1999.0,
+      "discount": 17.0,
+      "difference": 340.01,
       "criteria": [
-        "R$ 533.0 desc."
+        "R$ 340.01 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TzFdwa3-L._AC_UL210_SR210,210_.jpg",
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1785534558.629143,
-      "discovery_ts": 1785534558.629143,
+      "last_seen": 1785547051.313975,
+      "discovery_ts": 1785547051.313975,
       "is_new": true
     },
     {
-      "asin": "MLB6935269866",
-      "title": "Espremedor De Limão Manual Aço Inox Reforçado Profissional Forte Resistente 21cm Apto Lava-louças Gourmet Chef Para Cozinha Drinks Bares Barman Frutas Cítricas Suco Ponte Lar Utilidades",
-      "link": "https://www.mercadolivre.com.br/espremedor-de-limao-manual-aco-inox-reforcado-profissional-forte-resistente-21cm-apto-lava-loucas-gourmet-chef-para-cozinha-drinks-bares-barman-frutas-citricas-suco-ponte-lar-utilidades/p/MLB72992904",
-      "current_price": 16.97,
-      "original_price": 29.99,
-      "discount": 43.4,
-      "difference": 13.02,
+      "asin": "B0781CTJF6",
+      "title": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
+      "link": "https://www.amazon.com.br/TOALHINHAS-UMED-PIQUITUCHO-PREMIUM-120UN/dp/B0781CTJF6",
+      "current_price": 9.9,
+      "original_price": 16.99,
+      "discount": 41.7,
+      "difference": 7.09,
       "criteria": [
-        "43.4% OFF"
+        "41.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_683733-MLA115206575653_072026-AB.webp",
-      "category": "[KITCHEN_MANUAL_SQUEEZERS]",
-      "last_seen": 1785541529.930513,
-      "discovery_ts": 1785534558.629136,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XpbplLvaL._AC_UL210_SR210,210_.jpg",
+      "category": "🧸 Bebês & Brinquedos",
+      "last_seen": 1785547051.313975,
+      "discovery_ts": 1785547051.313975,
       "is_new": true
     },
     {
@@ -7193,7 +7215,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785537904.445815,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -7217,24 +7239,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3599.0,
-      "original_price": 4838.9,
-      "discount": 25.6,
-      "difference": 1239.9,
-      "criteria": [
-        "R$ 1239.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1785541529.930513,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0B61WJRY5",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
@@ -7248,8 +7252,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3599.0,
+      "original_price": 4838.9,
+      "discount": 25.6,
+      "difference": 1239.9,
+      "criteria": [
+        "R$ 1239.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1785547051.313975,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -7284,7 +7306,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785004672.586121,
       "is_new": false
     },
@@ -7307,22 +7329,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GYZ4NHB3",
-      "title": "DREAME F10 Robô Aspirador e Passa Pano, Sucção 13000Pa, Limpeza de Sujeiras Secas e Úmidas e Carpetes, Desvio de Obstáculos, Remoção de Pelos e Resíduos de Pets, Autonomia 300 min, Alexa, Bivolt",
-      "link": "https://www.amazon.com.br/F10-Aspirador-Sujeiras-Obst%C3%A1culos-Autonomia/dp/B0GYZ4NHB3",
-      "current_price": 1259.39,
-      "original_price": 2099.0,
-      "discount": 40.0,
-      "difference": 839.61,
+      "asin": "B0D9YQNT3Y",
+      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Branca 11kg 127V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YQNT3Y",
+      "current_price": 2719.15,
+      "original_price": 3577.89,
+      "discount": 24.0,
+      "difference": 858.74,
       "criteria": [
-        "40.0% OFF",
-        "R$ 839.61 desc."
+        "R$ 858.74 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LywBn8yEL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785160913.33829,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Hw5cBatiL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1785547051.313975,
+      "discovery_ts": 1784473933.589445,
       "is_new": false
     },
     {
@@ -7339,7 +7360,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81e77LWZn8L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1784835801.542638,
       "is_new": false
     },
@@ -7412,26 +7433,8 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+50Z4TgEL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1785537904.445815,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785194938.277718,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4188951993",
-      "title": "Cama Box King Size Lagras 193x203x66 Azul C/ Molas Ensacadas",
-      "link": "https://www.mercadolivre.com.br/cama-box-king-size-lagras-193x203x66-azul-c-molas-ensacadas/up/MLBU3403420760",
-      "current_price": 1919.61,
-      "original_price": 2647.83,
-      "discount": 27.5,
-      "difference": 728.22,
-      "criteria": [
-        "R$ 728.22 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_886881-MLB91189976582_092025-AB.webp",
-      "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
       "is_new": false
     },
     {
@@ -7450,24 +7453,6 @@
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
       "last_seen": 1785530794.71252,
       "discovery_ts": 1785258352.585216,
-      "is_new": false
-    },
-    {
-      "asin": "B0DBN6SGRN",
-      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
-      "current_price": 2799.0,
-      "original_price": 3472.63,
-      "discount": 19.4,
-      "difference": 673.63,
-      "criteria": [
-        "R$ 673.63 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
       "is_new": false
     },
     {
@@ -7503,7 +7488,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/518EG-3UJQL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785534558.629143,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -7563,6 +7548,42 @@
       "is_new": false
     },
     {
+      "asin": "B0F2KBZ7WQ",
+      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), Fast Ips, G-sync, Aw2725dm | VESA DisplayHDR 400, Tempo de Resposta 1 ms, Brilho de 400 nits, Contraste de 1000:1, USB 5 Gbps, HDMI 2.1",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-27-QHD/dp/B0F2KBZ7WQ",
+      "current_price": 1916.0,
+      "original_price": 2449.0,
+      "discount": 21.8,
+      "difference": 533.0,
+      "criteria": [
+        "R$ 533.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TzFdwa3-L._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1785534558.629143,
+      "discovery_ts": 1785534558.629143,
+      "is_new": false
+    },
+    {
+      "asin": "B0FTGK5XK2",
+      "title": "Smart TV TCL 43 Polegadas Full HD QLED S5K WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 43S5K",
+      "link": "https://www.amazon.com.br/TCL-QLED-SMART-43S5K-GOOGLE/dp/B0FTGK5XK2",
+      "current_price": 1519.0,
+      "original_price": 2049.0,
+      "discount": 25.9,
+      "difference": 530.0,
+      "criteria": [
+        "R$ 530.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81yyXps2lKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1785547051.313975,
+      "discovery_ts": 1785338184.839718,
+      "is_new": false
+    },
+    {
       "asin": "B0B3F8V4JG",
       "title": "Headset Gamer Sem Fio Logitech G PRO X 2 LIGHTSPEED Com Microfone Removível, Drivers de Grafeno 50mm, Conexão Bluetooth, USB e 3,5 mm, Compatível com PC, PS5, PS4, Switch - Preto",
       "link": "https://www.amazon.com.br/Logitech-LIGHTSPEED-Microfone-Remov%C3%ADvel-Compat%C3%ADvel/dp/B0B3F8V4JG",
@@ -7576,7 +7597,7 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71mGNXSFX8L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785389121.131261,
       "is_new": false
     },
@@ -7594,26 +7615,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785207848.029087,
-      "is_new": false
-    },
-    {
-      "asin": "B0FJS6WY8M",
-      "title": "BenQ Projetor MX560C XGA Business & Education, DLP, brilho de 4000 lúmens ANSI, alto contraste de 20000:1, HDMI, USB-A, vida útil extra longa da lâmpada de até 15.000 horas, alto-falante de 10 W",
-      "link": "https://www.amazon.com.br/BenQ-Projetor-MX560C-Education-contraste/dp/B0FJS6WY8M",
-      "current_price": 2799.0,
-      "original_price": 3185.0,
-      "discount": 12.1,
-      "difference": 386.0,
-      "criteria": [
-        "R$ 386.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71lyau1MRpL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_PROJECTOR]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
       "is_new": false
     },
     {
@@ -7654,25 +7657,6 @@
       "is_new": false
     },
     {
-      "asin": "B076YFR31L",
-      "title": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 220V",
-      "link": "https://www.amazon.com.br/Aspirador-Inox-Monof%C3%A1sico-1400W-Wap/dp/B076YFR31L",
-      "current_price": 249.99,
-      "original_price": 599.9,
-      "discount": 58.3,
-      "difference": 349.91,
-      "criteria": [
-        "58.3% OFF",
-        "R$ 349.91 desc."
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785242589.207625,
-      "is_new": false
-    },
-    {
       "asin": "MLB5578097312",
       "title": "Calça Reta Com Amarração My Favorite",
       "link": "https://produto.mercadolivre.com.br/MLB-5578097312-calca-reta-com-amarraco-my-favorite-_JM",
@@ -7692,25 +7676,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6077061842",
-      "title": "Cama Box Conjugada Probel Espuma D28 Ortopédico Solteiro Cinza",
-      "link": "https://www.mercadolivre.com.br/cama-box-conjugada-probel-espuma-d28-ortopedico-solteiro/up/MLBU3691566332",
-      "current_price": 420.7,
-      "original_price": 736.7,
-      "discount": 42.9,
-      "difference": 316.0,
-      "criteria": [
-        "42.9% OFF",
-        "R$ 316.0 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 7",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_829870-MLB101823879057_122025-AB.webp",
-      "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
-      "is_new": false
-    },
-    {
       "asin": "B0FXMX7SGL",
       "title": "Combo Volante, Pedais e Cambio Logitech G29 SE Driving Force para PS5, PS4, PS3 e PC",
       "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
@@ -7724,7 +7689,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1784825707.553482,
       "is_new": false
     },
@@ -7744,42 +7709,6 @@
       "category": "[SHORTS]",
       "last_seen": 1785541529.930513,
       "discovery_ts": 1785338184.839718,
-      "is_new": false
-    },
-    {
-      "asin": "B0CGR56CN4",
-      "title": "Cadeira de escritório presidente, cadeira de home office com apoio para os pés e encosto ajustável（Preto）",
-      "link": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-presidente-cadeira-ajust%C3%A1vel%EF%BC%88Preto%EF%BC%89/dp/B0CGR56CN4",
-      "current_price": 409.98,
-      "original_price": 689.0,
-      "discount": 40.5,
-      "difference": 279.02,
-      "criteria": [
-        "40.5% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71+UV1-34zL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785406754.569515,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4161818473",
-      "title": "Vestido Super Midi Alfaiataria De Alças",
-      "link": "https://produto.mercadolivre.com.br/MLB-4161818473-vestido-super-midi-alfaiataria-de-alcas-_JM",
-      "current_price": 166.06,
-      "original_price": 437,
-      "discount": 62.0,
-      "difference": 270.94,
-      "criteria": [
-        "62.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 8",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_647765-MLB89667663984_082025-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785345971.226017,
       "is_new": false
     },
     {
@@ -7819,42 +7748,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4469477093",
-      "title": "Mochila Bolsa Maternidade Bolsa Bebe Bolsa De Maternidade Multifuncional Para Feminina Com Bolsa Termica Para Impermeável Com Alças Para Carrinho Mancro 1046 Cinza Geométrico",
-      "link": "https://www.mercadolivre.com.br/mochila-bolsa-maternidade-bolsa-bebe-bolsa-de-maternidade-multifuncional-para-feminina-com-bolsa-termica-para-impermeavel-com-alcas-para-carrinho-mancro-1046-cinza-geometrico/p/MLB46444138",
-      "current_price": 119,
-      "original_price": 300,
-      "discount": 60.3,
-      "difference": 181,
-      "criteria": [
-        "60.3% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_819852-MLA113766387286_072026-AB.webp",
-      "category": "[DIAPER_BAGS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4060986983",
-      "title": "Serra Mármore Concreto Profissional 4.3/8 110mm 1240w Fasterr Tools Fst056",
-      "link": "https://www.mercadolivre.com.br/serra-marmore-concreto-profissional-438-110mm-1240w-fasterr-tools-fst056/p/MLB49947804",
-      "current_price": 186.37,
-      "original_price": 359,
-      "discount": 48.1,
-      "difference": 172.63,
-      "criteria": [
-        "48.1% OFF"
-      ],
-      "badge": "🟡 ML | 12 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_811562-MLA113064841008_072026-AB.webp",
-      "category": "[MANUAL_CONCRETE_SAWS_AND_WALL_CHASERS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785515180.635022,
-      "is_new": false
-    },
-    {
       "asin": "B0CRTYZG5C",
       "title": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto | Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 Suporte para Celular, IP54, Fone Sem Fio",
       "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
@@ -7868,7 +7761,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -7927,24 +7820,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4272953695",
-      "title": "Sandalia Em Couro Usaflex Ud11007 001-preto Tira Velcro 36 Br",
-      "link": "https://www.mercadolivre.com.br/sandalia-em-couro-usaflex-ud11007/up/MLBU3519571542",
-      "current_price": 95.9,
-      "original_price": 229.99,
-      "discount": 58.3,
-      "difference": 134.09,
-      "criteria": [
-        "58.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_660334-MLB114205813425_072026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785345971.226017,
-      "is_new": false
-    },
-    {
       "asin": "B0812BFKXP",
       "title": "Máscara de Tratamento Capilar Fusion Wella Professionals 500ml",
       "link": "https://www.amazon.com.br/Wella-Professionals-Fusion-M%C3%A1scara-Reconstrutora/dp/B0812BFKXP",
@@ -7958,7 +7833,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514sw6sff8L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -7996,24 +7871,6 @@
       "category": "[ELECTRIC_SCREWDRIVERS_AND_IMPACT_WRENCHES]",
       "last_seen": 1785530794.71252,
       "discovery_ts": 1785530794.71252,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4043726351",
-      "title": "Sandália Papete Unissex Anatômica Anti Stress Calce Fácil",
-      "link": "https://produto.mercadolivre.com.br/MLB-4043726351-sandalia-papete-unissex-anatmica-anti-stress-calce-facil-_JM",
-      "current_price": 78,
-      "original_price": 164.92,
-      "discount": 52.7,
-      "difference": 86.92,
-      "criteria": [
-        "52.7% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_704387-MLB82727771272_032025-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -8071,24 +7928,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6427845580",
-      "title": "Sapato Scarpin Feminino Salto Grosso Marrom Vizzano 1220-317 Marrom-claro 35 Br",
-      "link": "https://www.mercadolivre.com.br/sapato-scarpin-feminino-salto-grosso-marrom-vizzano-1220317/up/MLBU782497059",
-      "current_price": 73.35,
-      "original_price": 149.9,
-      "discount": 51.1,
-      "difference": 76.55,
-      "criteria": [
-        "51.1% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_992831-MLB107872925944_032026-AB.webp",
-      "category": "[HEELS_AND_WEDGES]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785427623.418875,
-      "is_new": false
-    },
-    {
       "asin": "MLB3460811692",
       "title": "Adesivo Piso Autocolante Lavável Impermeável Varios Modelos",
       "link": "https://produto.mercadolivre.com.br/MLB-3460811692-adesivo-piso-autocolante-lavavel-impermeavel-varios-modelos-_JM",
@@ -8120,26 +7959,8 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ZmjmMLsRL._AC_UL210_SR210,210_.jpg",
       "category": "[PORTABLE_TOOL_BOX]",
-      "last_seen": 1785541529.930513,
+      "last_seen": 1785547051.313975,
       "discovery_ts": 1785369482.743029,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3789932740",
-      "title": "Boné Vasco Da Gama Escudo Frontal Licenciado",
-      "link": "https://produto.mercadolivre.com.br/MLB-3789932740-bone-vasco-da-gama-escudo-frontal-licenciado-_JM",
-      "current_price": 31.81,
-      "original_price": 98.66,
-      "discount": 67.8,
-      "difference": 66.85,
-      "criteria": [
-        "67.8% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_675852-MLB73434459045_122023-AB.webp",
-      "category": "[FOOTBALL_CAPS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -8197,24 +8018,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4709218685",
-      "title": "Vara Carbono Carretilha Premium 1,65m 20lbs 2 Partes Preto",
-      "link": "https://www.mercadolivre.com.br/vara-carbono-carretilha-premium-165m-20lbs-2-partes/up/MLBU4010287974",
-      "current_price": 72.58,
-      "original_price": 129.9,
-      "discount": 44.1,
-      "difference": 57.32,
-      "criteria": [
-        "44.1% OFF"
-      ],
-      "badge": "🟡 ML | 4 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_702695-MLB111189707508_052026-AB.webp",
-      "category": "[FISHING_RODS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
-      "is_new": false
-    },
-    {
       "asin": "MLB6415233680",
       "title": "Sapato Scarpin Feminino Salto Fino Médio Bico Fino Vizzano 29452 - Bege 435 37",
       "link": "https://www.mercadolivre.com.br/sapato-scarpin-feminino-salto-fino-medio-bico-fino-vizzano/up/MLBU799320582",
@@ -8230,24 +8033,6 @@
       "category": "[HEELS_AND_WEDGES]",
       "last_seen": 1785534558.629143,
       "discovery_ts": 1785378662.597364,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4256223521",
-      "title": "Rasteirinha Arezzo Brizza Tira Translúcida Marrocos Original",
-      "link": "https://produto.mercadolivre.com.br/MLB-4256223521-rasteirinha-arezzo-brizza-tira-translucida-marrocos-original-_JM",
-      "current_price": 27.99,
-      "original_price": 69.99,
-      "discount": 60.0,
-      "difference": 42.0,
-      "criteria": [
-        "60.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_808026-MLB94911956346_102025-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785338184.839718,
       "is_new": false
     },
     {
@@ -8269,24 +8054,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5405135426",
-      "title": "Chinelo Coca Cola Tiras Finas Square Feminino Antiderrapante",
-      "link": "https://produto.mercadolivre.com.br/MLB-5405135426-chinelo-coca-cola-tiras-finas-square-feminino-antiderrapante-_JM",
-      "current_price": 37.99,
-      "original_price": 78.9,
-      "discount": 51.9,
-      "difference": 40.91,
-      "criteria": [
-        "51.9% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_937637-MLB111899014879_052026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
-      "is_new": false
-    },
-    {
       "asin": "MLB2738125671",
       "title": "01 Cera Rosa Artesanal Polir Conserto Óculos Acetato Metal Rosa",
       "link": "https://www.mercadolivre.com.br/01-cera-rosa-artesanal-polir-conserto-oculos-acetato-metal/up/MLBU1431740897",
@@ -8302,24 +8069,6 @@
       "category": "[FASHION_ACCESSORIES]",
       "last_seen": 1785541529.930513,
       "discovery_ts": 1785207848.029087,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6596481834",
-      "title": "Frigideira 4 Em 1 Antiaderente Em Alumínio Multifuncional Para Ovos Hambúrguer Panqueca Omelete Café Da Manhã Compatível Com Fogão A Gás E Indução Fácil De Limpar Alta Durabilidade",
-      "link": "https://www.mercadolivre.com.br/frigideira-4-em-1-antiaderente-em-aluminio-multifuncional-para-ovos-hamburguer-panqueca-omelete-cafe-da-manha-compativel-com-fogao-a-gas-e-inducao-facil-de-limpar-alta-durabilidade/p/MLB67752098",
-      "current_price": 33.44,
-      "original_price": 73.33,
-      "discount": 54.4,
-      "difference": 39.89,
-      "criteria": [
-        "54.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_780739-MLA114735300017_072026-AB.webp",
-      "category": "[FRYING_PANS_WOKS_GRIDDLES_AND_GRILL_PANS]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785520954.301778,
       "is_new": false
     },
     {
@@ -8392,24 +8141,6 @@
       "category": "[TABLET_CASES_AND_COVERS]",
       "last_seen": 1785541529.930513,
       "discovery_ts": 1785389121.131261,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6661251484",
-      "title": "Fone Gatinho Bluetooth Unissex Crianças + Relógio Esporte Azul",
-      "link": "https://www.mercadolivre.com.br/fone-gatinho-bluetooth-unissex-criancas-relogio-esporte-azul/p/MLB67994030",
-      "current_price": 38.61,
-      "original_price": 69.9,
-      "discount": 44.8,
-      "difference": 31.29,
-      "criteria": [
-        "44.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 6",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_928284-MLA109558440724_042026-AB.webp",
-      "category": "[HEADPHONES]",
-      "last_seen": 1785520954.301778,
-      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -8572,6 +8303,24 @@
       "category": "[DATA_CABLES_AND_ADAPTERS]",
       "last_seen": 1785541529.930513,
       "discovery_ts": 1785349892.292556,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6935269866",
+      "title": "Espremedor De Limão Manual Aço Inox Reforçado Profissional Forte Resistente 21cm Apto Lava-louças Gourmet Chef Para Cozinha Drinks Bares Barman Frutas Cítricas Suco Ponte Lar Utilidades",
+      "link": "https://www.mercadolivre.com.br/espremedor-de-limao-manual-aco-inox-reforcado-profissional-forte-resistente-21cm-apto-lava-loucas-gourmet-chef-para-cozinha-drinks-bares-barman-frutas-citricas-suco-ponte-lar-utilidades/p/MLB72992904",
+      "current_price": 16.97,
+      "original_price": 29.99,
+      "discount": 43.4,
+      "difference": 13.02,
+      "criteria": [
+        "43.4% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_683733-MLA115206575653_072026-AB.webp",
+      "category": "[KITCHEN_MANUAL_SQUEEZERS]",
+      "last_seen": 1785541529.930513,
+      "discovery_ts": 1785534558.629136,
       "is_new": false
     },
     {
