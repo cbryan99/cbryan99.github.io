@@ -22,7 +22,7 @@ jobs:
 
       - name: Instalar dependências
         # Trocamos requests normal pela versão com Spoofing TLS
-        run: pip install curl_cffi
+        run: pip install curl_cffi==0.15.0
 
       - name: Rodar Scraper
         run: python scraper.py
