@@ -357,6 +357,33 @@ def get_ml_deals():
 
 
 # ==================== tendão de aquiles do site ====================
+def verify_amazon_price(asin):
+    url = f"https://www.amazon.com.br/dp/{asin}"
+    headers = {
+        'User-Agent': "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_12 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        'Accept': "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    try:
+        resp = requests.get(url, headers=headers, impersonate="safari15_3", timeout=10)
+        if resp.status_code != 200: return None
+        prices = re.findall(r'class="a-offscreen">\s*R\$\s*([\d.,]+)\s*<', resp.text)
+        if not prices: return None
+        return float(prices[0].replace('.', '').replace(',', '.'))
+    except:
+        return None
+
+def verify_ml_price(ml_id):
+    url = f"https://api.mercadolibre.com/items/{ml_id}"
+    try:
+        import requests as req_padrao
+        resp = req_padrao.get(url, timeout=10)
+        if resp.status_code != 200: return None
+        data = resp.json()
+        if data.get('status') != 'active': return None
+        return float(data.get('price', 0))
+    except:
+        return None
+
 def run_scraper():
     if os.path.exists(STATE_FILE):
         try:
@@ -418,8 +445,7 @@ def run_scraper():
         deal['is_new'] = (now_ts - deal['discovery_ts']) < 7200
         final_deals.append(deal)
         
-    # 2. SISTEMA DE MEMÓRIA (TTL - Time to Live)
-    # Segura as ofertas antigas que não apareceram agora, mas que ainda não expiraram
+    # 2. SISTEMA DE MEMÓRIA (TTL - Time to Live) E AUDITORIA
     TTL_SECONDS = 6 * 3600 # 6 horas de sobrevida
     
     print("Iniciando auditoria da memória de cache...")
@@ -427,15 +453,41 @@ def run_scraper():
         if asin in new_deals_map:
             continue # Já foi atualizada no passo 1
             
-        # Pega a última vez que vimos ela (Fallback para compatibilidade com o JSON atual)
         last_seen = old_deal.get('last_seen', old_deal.get('discovery_ts', now_ts))
         
+        # Se ainda está no prazo das 6 horas, mantém na vitrine
         if (now_ts - last_seen) < TTL_SECONDS:
-            # Se tem menos de 6 horas, MANTÉM no site!
             old_deal['is_new'] = (now_ts - old_deal.get('discovery_ts', now_ts)) < 7200
             final_deals.append(old_deal)
         else:
-            print(f"❌ Descartado (Expirou na memória): {asin}")
+            # OPA! Expirou da memória. Vamos auditar o link antes de matar.
+            old_price = old_deal['current_price']
+            is_amazon = not asin.startswith('MLB')
+            
+            print(f"🔎 Auditando sobrevivente: {asin}")
+            current_live_price = verify_amazon_price(asin) if is_amazon else verify_ml_price(asin)
+            
+            if current_live_price is not None and current_live_price <= old_price:
+                # O item continua vivo e barato! Atualiza o carimbo e salva.
+                old_deal['last_seen'] = now_ts 
+                old_deal['current_price'] = current_live_price
+                old_deal['is_new'] = False # Já é antigo, tira o selo
+                
+                # Se o preço caiu MAIS AINDA, recalcula o desconto
+                if current_live_price < old_price and old_deal['original_price'] != 'N/A':
+                    original = old_deal['original_price']
+                    old_deal['discount'] = round((1 - current_live_price / original) * 100, 1)
+                    old_deal['difference'] = round(original - current_live_price, 2)
+                    
+                    crit = []
+                    if old_deal['discount'] >= MIN_DISCOUNT: crit.append(f"{old_deal['discount']}% OFF")
+                    if old_deal['difference'] >= MIN_DIFFERENCE: crit.append(f"R$ {old_deal['difference']} desc.")
+                    old_deal['criteria'] = crit
+
+                final_deals.append(old_deal)
+                print(f"🏥 Ressuscitado pelo Auditor: {asin} (R$ {current_live_price})")
+            else:
+                print(f"💀 Morreu de vez (Preço subiu ou sumiu): {asin}")
             
     # 3. FINALIZAÇÃO
     final_deals.sort(key=lambda x: (x.get('is_new', False), x['difference']), reverse=True)
