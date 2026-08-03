@@ -1,5 +1,5 @@
 {
-  "last_check": "03/08/2026 16:06:52",
+  "last_check": "03/08/2026 17:28:40",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4640,6 +4640,10 @@
         {
           "price": 118.78,
           "date": "2026-07-29T16:02:27.423232"
+        },
+        {
+          "price": 129.67,
+          "date": "2026-08-03T17:28:09.493840"
         }
       ]
     },
@@ -5271,6 +5275,10 @@
         {
           "price": 37.52,
           "date": "2026-07-30T07:53:32.737706"
+        },
+        {
+          "price": 36.92,
+          "date": "2026-08-03T17:28:09.493840"
         }
       ]
     },
@@ -10168,6 +10176,42 @@
           "date": "2026-08-03T16:06:52.874439"
         }
       ]
+    },
+    "MLB4070983856": {
+      "discovery_date": "2026-08-03T17:28:09.493840",
+      "price_history": [
+        {
+          "price": 585.93,
+          "date": "2026-08-03T17:28:09.493840"
+        }
+      ]
+    },
+    "MLB6937499590": {
+      "discovery_date": "2026-08-03T17:28:09.493840",
+      "price_history": [
+        {
+          "price": 30.91,
+          "date": "2026-08-03T17:28:09.493840"
+        }
+      ]
+    },
+    "MLB4641119835": {
+      "discovery_date": "2026-08-03T17:28:09.493840",
+      "price_history": [
+        {
+          "price": 44.94,
+          "date": "2026-08-03T17:28:09.493840"
+        }
+      ]
+    },
+    "MLB7122504706": {
+      "discovery_date": "2026-08-03T17:28:09.493840",
+      "price_history": [
+        {
+          "price": 24.58,
+          "date": "2026-08-03T17:28:09.493840"
+        }
+      ]
     }
   },
   "data": [
@@ -10188,6 +10232,25 @@
       "category": "[ELECTRONIC_DRUMS]",
       "last_seen": 1785773212.874447,
       "discovery_ts": 1785772342.218037,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4070983856",
+      "title": "Barra W Montada 17,5 Kg As3009 Ahead Sports Preto E Amarelo Cor Prateado",
+      "link": "https://www.mercadolivre.com.br/barra-w-montada-175-kg-as3009-ahead-sports-preto-e-amarelo-cor-prateado/p/MLB26849366",
+      "current_price": 585.93,
+      "original_price": 1199,
+      "discount": 51.1,
+      "difference": 613.07,
+      "criteria": [
+        "51.1% OFF",
+        "R$ 613.07 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 7",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_731635-MLA84848517057_052025-AB.webp",
+      "category": "[GYM_BARS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785778089.493847,
       "is_new": true
     },
     {
@@ -10237,10 +10300,10 @@
       "criteria": [
         "46.8% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 9 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_784774-MLB86109476235_062025-AB.webp",
       "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
       "is_new": true
     },
@@ -10255,10 +10318,10 @@
       "criteria": [
         "43.6% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 8 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_673404-MLB93435429600_092025-AB.webp",
       "category": "[TOY_CELLPHONES]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
       "is_new": true
     },
@@ -10273,10 +10336,10 @@
       "criteria": [
         "61.5% OFF"
       ],
-      "badge": "🟡 ML | 2 VENDIDOS",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_620381-MLA115216172075_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
       "is_new": true
     },
@@ -10345,10 +10408,10 @@
       "criteria": [
         "40.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_934803-MLA109735240922_042026-AB.webp",
       "category": "[MATTRESS_COVERS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
       "is_new": true
     },
@@ -10366,7 +10429,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_960698-MLB89364166634_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
       "is_new": true
     },
@@ -10384,8 +10447,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_897560-MLB77322931162_072024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785772342.218037,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6937499590",
+      "title": "Base De Treinamento Para Tênis ( Tennis Treino Trainer ) Azul",
+      "link": "https://www.mercadolivre.com.br/base-de-treinamento-para-tenis-tennis-treino-trainer-azul/p/MLB28782792",
+      "current_price": 30.91,
+      "original_price": 66.85,
+      "discount": 53.8,
+      "difference": 35.94,
+      "criteria": [
+        "53.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_675733-MLA113662859727_062026-AB.webp",
+      "category": "[TENNIS_BALLS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785778089.493847,
       "is_new": true
     },
     {
@@ -10399,11 +10480,47 @@
       "criteria": [
         "71.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_709826-MLA95241877398_102025-AB.webp",
       "category": "[SECURITY_SEALS]",
-      "last_seen": 1785773212.874447,
-      "discovery_ts": 1785773212.874447,
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785773212.874439,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7122504706",
+      "title": "Kit 100 Cápsulas Rígidas Para Moedas Com Estojo",
+      "link": "https://www.mercadolivre.com.br/kit-100-capsulas-rigidas-para-moedas-com-estojo/p/MLB2058227441",
+      "current_price": 24.58,
+      "original_price": 59.47,
+      "discount": 58.7,
+      "difference": 34.89,
+      "criteria": [
+        "58.7% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_882172-CBT113455531375_062026-AB.webp",
+      "category": "[COLLECTIBLE_TOKENS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785778089.493847,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4641119835",
+      "title": "Kit Camping Gás De Maçarico Fogareiro 4 Latas Refil Ntk 227g Laranja",
+      "link": "https://www.mercadolivre.com.br/kit-camping-gas-de-macarico-fogareiro-4-latas-refil-ntk-227g/up/MLBU3935085366",
+      "current_price": 44.94,
+      "original_price": 77,
+      "discount": 41.6,
+      "difference": 32.06,
+      "criteria": [
+        "41.6% OFF"
+      ],
+      "badge": "🟡 ML | 40 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_910582-MLB111084256910_052026-AB.webp",
+      "category": "[CAMPING_MESS_KITS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785778089.493847,
       "is_new": true
     },
     {
@@ -10426,99 +10543,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GQW2J4SK",
-      "title": "Apple iPhone 17 de 256 GB — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK",
-      "current_price": 5887.78,
-      "original_price": 7999.0,
-      "discount": 26.4,
-      "difference": 2111.22,
-      "criteria": [
-        "R$ 2111.22 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785253019.20744,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3399.0,
-      "original_price": 5499.0,
-      "discount": 38.2,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSVS9WH",
-      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7\", Recursos AI (Azul Escuro)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0GVSVS9WH",
-      "current_price": 1999.0,
-      "original_price": 3599.0,
-      "discount": 44.5,
-      "difference": 1600.0,
-      "criteria": [
-        "44.5% OFF",
-        "R$ 1600.0 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51z6hTsLwNL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVT6FMNG",
-      "title": "Celular Samsung Galaxy A37 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Recursos AI, Até 6 Atualizações de Android e Segurança (Branco) | Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Recursos AI",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT6FMNG",
-      "current_price": 2099.0,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.0,
-      "criteria": [
-        "41.7% OFF",
-        "R$ 1500.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
-      "is_new": false
-    },
-    {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": 2159.39,
-      "original_price": 3599.0,
-      "discount": 40.0,
-      "difference": 1439.61,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 1439.61 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
       "asin": "B0D4NSS9XV",
       "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
@@ -10532,45 +10556,8 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBPX7WF",
-      "title": "PHILIPS Smart TV, 50\" 4K, 50PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
-      "link": "https://www.amazon.com.br/PHILIPS-Smart-50PUG7300-Comando-Bluetooth/dp/B0FPBPX7WF",
-      "current_price": 1700.0,
-      "original_price": 2799.0,
-      "discount": 39.3,
-      "difference": 1099.0,
-      "criteria": [
-        "R$ 1099.0 desc."
-      ],
-      "badge": "39% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71AcJsiJuVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "B08R93TVRG",
-      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
-      "current_price": 377.99,
-      "original_price": 1199.9,
-      "discount": 68.5,
-      "difference": 821.91,
-      "criteria": [
-        "68.5% OFF",
-        "R$ 821.91 desc."
-      ],
-      "badge": "68% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51CUZh0m8bL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -10605,7 +10592,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71jio1+XNVL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1784419934.633826,
       "is_new": false
     },
@@ -10624,7 +10611,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_926335-MLA99491802638_112025-AB.webp",
       "category": "[COMBUSTION_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785258352.585216,
       "is_new": false
     },
@@ -10647,6 +10634,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB4678024769",
+      "title": "Parafusadeira Furadeira Impacto Fulink Profissional Fk-80pt 2 Baterias Com Maleta 60Hz Amarelo",
+      "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-impacto-fulink-profissional-fk-80pt-2-baterias-com-maleta-60hz-amarelo/p/MLB54005757",
+      "current_price": 129.67,
+      "original_price": 379.14,
+      "discount": 65.8,
+      "difference": 249.47,
+      "criteria": [
+        "65.8% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_910348-MLA104305144023_012026-AB.webp",
+      "category": "[ELECTRIC_DRILLS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785340947.423232,
+      "is_new": false
+    },
+    {
       "asin": "MLB6180275844",
       "title": "Auxito 2 H4 9003 Led Farol 30000lm 100w Carro Lâmpada",
       "link": "https://produto.mercadolivre.com.br/MLB-6180275844-auxito-2-h4-9003-led-farol-30000lm-100w-carro-lmpada-_JM",
@@ -10660,7 +10665,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_896552-CBT105188918639_012026-AB.webp",
       "category": "[VEHICLE_LED_BULBS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785438126.314124,
       "is_new": false
     },
@@ -10696,26 +10701,8 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51JpNz4jZgL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785742098.427671,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5908287206",
-      "title": "Furadeira Parafusadeira Sem Fio 3/8 Maleta + Kit Ferramentas",
-      "link": "https://www.mercadolivre.com.br/furadeira-parafusadeira-sem-fio-38-maleta--kit-ferramentas/up/MLBU3546087262",
-      "current_price": 238,
-      "original_price": 429.9,
-      "discount": 44.6,
-      "difference": 191.9,
-      "criteria": [
-        "44.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_743443-MLB96980705310_112025-AB.webp",
-      "category": "[ELECTRIC_TOOL_KITS]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -10734,6 +10721,24 @@
       "category": "[PET_COLLARS]",
       "last_seen": 1785764183.85448,
       "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6427357580",
+      "title": "Kit Com 10 Cuecas Boxer Com Elástico Masculina Zorba Preto/marinho/grafite/branco P",
+      "link": "https://www.mercadolivre.com.br/kit-com-10-cuecas-boxer-com-elastico-masculina-zorba/up/MLBU781788375",
+      "current_price": 169.9,
+      "original_price": 347,
+      "discount": 51.0,
+      "difference": 177.1,
+      "criteria": [
+        "51.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_757481-MLB79405343625_092024-AB.webp",
+      "category": "[UNDERPANTS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785686205.633008,
       "is_new": false
     },
     {
@@ -10765,10 +10770,10 @@
       "criteria": [
         "42.0% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 25 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_662357-MLA98274992604_112025-AB.webp",
       "category": "[BARBELL_WEIGHT_KITS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -10786,26 +10791,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_940373-MLB82739991032_032025-AB.webp",
       "category": "[UNDERPANTS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785686205.633008,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4676838801",
-      "title": "Bercinho Grande Infantil Brinquedo Berço Gigante Boneca Bebe Reborn Atacarejo Kids",
-      "link": "https://www.mercadolivre.com.br/bercinho-grande-infantil-brinquedo-berco-gigante-boneca-bebe-reborn-atacarejo-kids/p/MLB50913809",
-      "current_price": 66.06,
-      "original_price": 219.9,
-      "discount": 70.0,
-      "difference": 153.84,
-      "criteria": [
-        "70.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 9",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_794432-MLA85657295517_062025-AB.webp",
-      "category": "[DOLL_CRIBS]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
       "is_new": false
     },
     {
@@ -10819,10 +10806,10 @@
       "criteria": [
         "59.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
+      "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_843428-MLA114059464482_072026-AB.webp",
       "category": "[AUDIO_AND_VIDEO_CONNECTORS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
@@ -10842,24 +10829,6 @@
       "category": "⚽ Esportes & Saúde",
       "last_seen": 1785764183.85448,
       "discovery_ts": 1785492748.394608,
-      "is_new": false
-    },
-    {
-      "asin": "B076BB8J7Z",
-      "title": "Liquidificador, Ph900, 3L, Preto, 220V, Philco",
-      "link": "https://www.amazon.com.br/Liquidificador-Philco-Ph900-103102017-BRITANIA-PORTATEIS/dp/B076BB8J7Z",
-      "current_price": 99.89,
-      "original_price": 229.0,
-      "discount": 56.4,
-      "difference": 129.11,
-      "criteria": [
-        "56.4% OFF"
-      ],
-      "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UcFkAcKDL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
       "is_new": false
     },
     {
@@ -10894,26 +10863,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_981251-MLA108426406423_032026-AB.webp",
       "category": "[PC_KEYBOARDS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785263958.884077,
       "is_new": false
     },
     {
-      "asin": "MLB4618785504",
-      "title": "Kit 50 Chaveiro Multifuncional 3 Em 1 Chave De Fenda Philips",
-      "link": "https://www.mercadolivre.com.br/kit-50-chaveiro-multifuncional-3-em-1-chave-de-fenda-philips/up/MLBU800782943",
-      "current_price": 75.02,
-      "original_price": 186.47,
-      "discount": 59.8,
-      "difference": 111.45,
+      "asin": "MLB6628276288",
+      "title": "Conjunto Moletom Masculino,incluir Casaco Com Capuz E Calças",
+      "link": "https://produto.mercadolivre.com.br/MLB-6628276288-conjunto-moletom-masculinoincluir-casaco-com-capuz-e-calcas-_JM",
+      "current_price": 85,
+      "original_price": 198,
+      "discount": 57.1,
+      "difference": 113,
       "criteria": [
-        "59.8% OFF"
+        "57.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_784512-MLB106052908624_022026-AB.webp",
-      "category": "[MANUAL_SCREWDRIVERS]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785299081.51594,
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_860235-MLB112830227486_072026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785263958.884077,
       "is_new": false
     },
     {
@@ -10948,7 +10917,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_998571-MLA109268728932_042026-AB.webp",
       "category": "[HEADPHONES]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -11025,24 +10994,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4211674667",
-      "title": "Brinquedo Carrinho Educativo Infantil Pista Carro Montessori Azul",
-      "link": "https://www.mercadolivre.com.br/brinquedo-carrinho-educativo-infantil-pista-carro-montessori/up/MLBU3434117900",
-      "current_price": 80.51,
-      "original_price": 157.56,
-      "discount": 48.9,
-      "difference": 77.05,
-      "criteria": [
-        "48.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_898976-MLB92782810682_092025-AB.webp",
-      "category": "[TOY_VEHICLE_TRACKS_AND_BLAST_LAUNCHERS]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
-      "is_new": false
-    },
-    {
       "asin": "MLB7187035544",
       "title": "Kit Creme E Body Splash Ameixa Flor Baunilha Tododia Natura",
       "link": "https://www.mercadolivre.com.br/kit-creme-e-body-splash-ameixa-flor-baunilha-tododia-natura/p/MLB51282049",
@@ -11074,26 +11025,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_914812-MLB113985612924_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785299081.51594,
-      "is_new": false
-    },
-    {
-      "asin": "B07Y2BK4GJ",
-      "title": "Neostrata Minesol Protetor Solar Facial Oil Control, Sem Cor, FPS 70, 40g",
-      "link": "https://www.amazon.com.br/Neostrata-Minesol-Oil-Control-Fps/dp/B07Y2BK4GJ",
-      "current_price": 54.99,
-      "original_price": 123.99,
-      "discount": 55.6,
-      "difference": 69.0,
-      "criteria": [
-        "55.6% OFF"
-      ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51eH9ipBcXL._AC_UL210_SR210,210_.jpg",
-      "category": "[BEAUTY]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
       "is_new": false
     },
     {
@@ -11112,24 +11045,6 @@
       "category": "[WASTE_BASKETS]",
       "last_seen": 1785764183.85448,
       "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "B06XQ27YLL",
-      "title": "Neutrogena Hidratante Facial Hydro Boost Water Gel, 50g",
-      "link": "https://www.amazon.com.br/Hidratante-Facial-Neutrogena-Hydro-Boost/dp/B06XQ27YLL",
-      "current_price": 42.57,
-      "original_price": 102.99,
-      "discount": 58.7,
-      "difference": 60.42,
-      "criteria": [
-        "58.7% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/517yaXCD5oL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
       "is_new": false
     },
     {
@@ -11164,7 +11079,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_638558-MLA99443556230_112025-AB.webp",
       "category": "[SUNSCREENS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785378662.597364,
       "is_new": false
     },
@@ -11184,6 +11099,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1785764183.85448,
       "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6433765606",
+      "title": "Meia De Compressão Feminina 1871 3/4 15-20 Mmhg Sem Ponteira Kendall Mel Liso M",
+      "link": "https://www.mercadolivre.com.br/meia-de-compressao-feminina-1871-34-1520-mmhg-sem-ponteira-kendall/up/MLBU776405923",
+      "current_price": 55.9,
+      "original_price": 108.38,
+      "discount": 48.4,
+      "difference": 52.48,
+      "criteria": [
+        "48.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785686205.633008,
       "is_new": false
     },
     {
@@ -11215,10 +11148,10 @@
       "criteria": [
         "62.5% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_884059-MLA100107122541_122025-AB.webp",
       "category": "[AUDIO_AND_VIDEO_CONNECTORS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785632589.883027,
       "is_new": false
     },
@@ -11236,7 +11169,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_908929-MLB111075697673_042026-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785716067.931084,
       "is_new": false
     },
@@ -11254,7 +11187,7 @@
       "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_631313-MLB84463575676_052025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -11272,25 +11205,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61yrgeNQn6L._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785754504.149551,
-      "is_new": false
-    },
-    {
-      "asin": "B0DW9L8BFD",
-      "title": "Desitin Creme Preventivo de Assaduras Máxima Proteção, 57g",
-      "link": "https://www.amazon.com.br/Desitin-Preventivo-Assaduras-M%C3%A1xima-Prote%C3%A7%C3%A3o/dp/B0DW9L8BFD",
-      "current_price": 44.89,
-      "original_price": 83.99,
-      "discount": 46.6,
-      "difference": 39.1,
-      "criteria": [
-        "46.6% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61YuVEtlcpL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785754504.149551,
       "is_new": false
     },
@@ -11326,7 +11241,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_809627-MLB108103595383_032026-AB.webp",
       "category": "[WALLPAPER_ROLLS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -11416,7 +11331,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_758456-MLB79250943554_092024-AB.webp",
       "category": "[ARTIFICIAL_FLOWERS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -11434,8 +11349,26 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71OKNSWSZWL._AC_UL210_SR210,210_.jpg",
       "category": "[HEALTH_PERSONAL_CARE]",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785754504.149551,
+      "is_new": false
+    },
+    {
+      "asin": "MLB2186758991",
+      "title": "Kit 2 Fronhas Avulsas 400 Fios 100% Algodao Casal",
+      "link": "https://produto.mercadolivre.com.br/MLB-2186758991-kit-2-fronhas-avulsas-400-fios-100-algodao-casal-_JM",
+      "current_price": 36.92,
+      "original_price": 66.15,
+      "discount": 44.2,
+      "difference": 29.23,
+      "criteria": [
+        "44.2% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_866753-MLB49191174026_022022-AB.webp",
+      "category": "[CUSHION_AND_PILLOW_COVERS]",
+      "last_seen": 1785778089.493847,
+      "discovery_ts": 1785398012.737706,
       "is_new": false
     },
     {
@@ -11457,60 +11390,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6817391322",
-      "title": "Linha De Pesca Multifilamento 300metro Pe 4 Fios Supertração Verde-0.28mm-16kg-3.0",
-      "link": "https://www.mercadolivre.com.br/linha-de-pesca-multifilamento-300metro-pe-4-fios-supertracao/up/MLBU2074394437",
-      "current_price": 38,
-      "original_price": 66,
-      "discount": 42.4,
-      "difference": 28,
-      "criteria": [
-        "42.4% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_852867-MLB89347966261_082025-AB.webp",
-      "category": "[FISHING_LINES]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785345971.226017,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5997216542",
-      "title": "Meia-calça Térmica Forrada Translúcida De Lã Quente Feminina",
-      "link": "https://produto.mercadolivre.com.br/MLB-5997216542-meia-calca-termica-forrada-translucida-de-l-quente-feminina-_JM",
-      "current_price": 36,
-      "original_price": 63.64,
-      "discount": 43.4,
-      "difference": 27.64,
-      "criteria": [
-        "43.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_793576-MLB112272203409_052026-AB.webp",
-      "category": "[PANTYHOSE]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785253019.20744,
-      "is_new": false
-    },
-    {
-      "asin": "B0C75GP7VP",
-      "title": "Personal Papel Higiênico Vip Folha Tripla, 32 Rolos De 20M",
-      "link": "https://www.amazon.com.br/Papel-Higi%C3%AAnico-Personal-Folha-Tripla/dp/B0C75GP7VP",
-      "current_price": 37.89,
-      "original_price": 65.2,
-      "discount": 41.9,
-      "difference": 27.31,
-      "criteria": [
-        "41.9% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81LqO9bt-AL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOILET_PAPER]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785269176.438674,
-      "is_new": false
-    },
-    {
       "asin": "MLB3690855889",
       "title": "Meia De Futebol Profissional Difai Antiderrapante Original",
       "link": "https://produto.mercadolivre.com.br/MLB-3690855889-meia-de-futebol-profissional-difai-antiderrapante-original-_JM",
@@ -11524,26 +11403,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_792479-MLB111877326470_062026-AB.webp",
       "category": "[FOOTBALL_SOCKS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785299081.51594,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5379550968",
-      "title": "Baldinho De Praia Brinquedo Infantil Regador Rastelo Sereia Feminino Atacarejo Kids",
-      "link": "https://www.mercadolivre.com.br/baldinho-de-praia-brinquedo-infantil-regador-rastelo-sereia-feminino-atacarejo-kids/p/MLB48984948",
-      "current_price": 34,
-      "original_price": 59.9,
-      "discount": 43.2,
-      "difference": 25.9,
-      "criteria": [
-        "43.2% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_981109-MLA100092997123_122025-AB.webp",
-      "category": "[BEACH_TOYS_KITS]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785559271.19715,
       "is_new": false
     },
     {
@@ -11560,26 +11421,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/4111H9SAD3L._AC_UL210_SR210,210_.jpg",
       "category": "[HEALTH_PERSONAL_CARE]",
-      "last_seen": 1785754504.149551,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785742098.427671,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4806728815",
-      "title": "Jogo De Xadrez Magnetico",
-      "link": "https://www.mercadolivre.com.br/jogo-xadrez-magnetico-presente-damas-infantil-tabuleiro/p/MLB2076997354",
-      "current_price": 26.33,
-      "original_price": 51.2,
-      "discount": 48.6,
-      "difference": 24.87,
-      "criteria": [
-        "48.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_620451-MLB112497712138_062026-AB.webp",
-      "category": "[BOARD_AND_CARD_GAMES]",
-      "last_seen": 1785754504.149551,
-      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -11665,10 +11508,10 @@
       "criteria": [
         "43.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_744953-CBT107548011759_022026-AB.webp",
       "category": "[HATS_AND_CAPS]",
-      "last_seen": 1785773212.874447,
+      "last_seen": 1785778089.493847,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
