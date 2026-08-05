@@ -1,5 +1,5 @@
 {
-  "last_check": "05/08/2026 08:49:16",
+  "last_check": "05/08/2026 11:08:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -8783,6 +8783,10 @@
         {
           "price": 276.21,
           "date": "2026-08-02T09:26:25.365691"
+        },
+        {
+          "price": 286.11,
+          "date": "2026-08-05T11:08:12.964833"
         }
       ]
     },
@@ -11716,169 +11720,115 @@
           "date": "2026-08-05T08:49:16.866247"
         }
       ]
+    },
+    "MLB4349522469": {
+      "discovery_date": "2026-08-05T11:08:12.964833",
+      "price_history": [
+        {
+          "price": 47.46,
+          "date": "2026-08-05T11:08:12.964833"
+        }
+      ]
+    },
+    "MLB5665559590": {
+      "discovery_date": "2026-08-05T11:08:12.964833",
+      "price_history": [
+        {
+          "price": 45.97,
+          "date": "2026-08-05T11:08:12.964833"
+        }
+      ]
+    },
+    "MLB3876954791": {
+      "discovery_date": "2026-08-05T11:08:12.964833",
+      "price_history": [
+        {
+          "price": 20,
+          "date": "2026-08-05T11:08:12.964833"
+        }
+      ]
+    },
+    "MLB3633773777": {
+      "discovery_date": "2026-08-05T11:08:12.964833",
+      "price_history": [
+        {
+          "price": 27.65,
+          "date": "2026-08-05T11:08:12.964833"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "MLB4676549173",
-      "title": "Kit 5 Camisetas Básica Masculina Algodão Original Sortido Com Vermelho E Azul G",
-      "link": "https://www.mercadolivre.com.br/kit-5-camisetas-basica-masculina-algodao-original/up/MLBU3970949798",
-      "current_price": 122,
-      "original_price": 226.64,
-      "discount": 46.2,
-      "difference": 104.64,
+      "asin": "MLB5665559590",
+      "title": "Maleta Infantil de Pintura Fun Game 150 Peças Dinossauro",
+      "link": "https://www.mercadolivre.com.br/maleta-infantil-de-pintura-fun-game-150-pecas-dinossauro/p/MLB35686626",
+      "current_price": 45.97,
+      "original_price": 78.9,
+      "discount": 41.7,
+      "difference": 32.93,
       "criteria": [
-        "46.2% OFF"
+        "41.7% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_752365-MLB113453657572_072026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_640060-MLA99456728830_112025-AB.webp",
+      "category": "[SCHOOL_KITS]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785928092.964842,
       "is_new": true
     },
     {
-      "asin": "MLB5775901358",
-      "title": "Vestido Alfaiataria Elegante Gola Alta Cinto Fivela E Fenda",
-      "link": "https://produto.mercadolivre.com.br/MLB-5775901358-vestido-alfaiataria-elegante-gola-alta-cinto-fivela-e-fenda-_JM",
-      "current_price": 114.46,
-      "original_price": 198.79,
+      "asin": "MLB4349522469",
+      "title": "Kit 3 Potes Vidro Hermético Tampa Bambu Porta Condimentos",
+      "link": "https://www.mercadolivre.com.br/kit-3-potes-vidro-hermetico-tampa-bambu-porta-condimentos/p/MLB62909332",
+      "current_price": 47.46,
+      "original_price": 79.9,
+      "discount": 40.6,
+      "difference": 32.44,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_798134-MLA100577109597_122025-AB.webp",
+      "category": "[FOOD_STORAGE_CONTAINERS]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785928092.964842,
+      "is_new": true
+    },
+    {
+      "asin": "MLB3633773777",
+      "title": "Capa Para Kindle 11 Geração 2022 Modelo C2v2l3 Protetora",
+      "link": "https://produto.mercadolivre.com.br/MLB-3633773777-capa-para-kindle-11-geraco-2022-modelo-c2v2l3-protetora-_JM",
+      "current_price": 27.65,
+      "original_price": 55.96,
+      "discount": 50.6,
+      "difference": 28.31,
+      "criteria": [
+        "50.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_735101-MLB104686058567_012026-AB.webp",
+      "category": "[TABLET_CASES_AND_COVERS]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785928092.964842,
+      "is_new": true
+    },
+    {
+      "asin": "MLB3876954791",
+      "title": "Bcaa 1g - 120 Tablets Aminoácido - Profit Laboratórios Sabor SEM SABOR",
+      "link": "https://www.mercadolivre.com.br/bcaa-1g-120-tablets-aminoacido-profit-laboratorios-sabor-sem-sabor/p/MLB19549880",
+      "current_price": 20,
+      "original_price": 34.7,
       "discount": 42.4,
-      "difference": 84.33,
+      "difference": 14.7,
       "criteria": [
         "42.4% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_998731-MLB111764297396_062026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4150271883",
-      "title": "Refletor LED 400W B&G Branco Frio IP66 Prova D'água Carcaça Preta",
-      "link": "https://www.mercadolivre.com.br/refletor-led-400w-bg-branco-frio-ip66-prova-dagua-carcaca-preta/p/MLB23815451",
-      "current_price": 33.51,
-      "original_price": 81,
-      "discount": 58.6,
-      "difference": 47.49,
-      "criteria": [
-        "58.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_874643-MLA106382370704_022026-AB.webp",
-      "category": "[FLOOD_LIGHTS]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB5286004050",
-      "title": "Jogo Navio Equilibrista Do Pinguim - Zb490 - Art Brink",
-      "link": "https://www.mercadolivre.com.br/jogo-navio-equilibrista-do-pinguim-zb490-art-brink/p/MLB21310672",
-      "current_price": 36.59,
-      "original_price": 78.9,
-      "discount": 53.6,
-      "difference": 42.31,
-      "criteria": [
-        "53.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_710381-MLA99477879264_112025-AB.webp",
-      "category": "[BOARD_AND_CARD_GAMES]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4180635043",
-      "title": "Torneira De Cozinha Gourmet Parede Flexível Preta 1/4 Volta Preto Fosco",
-      "link": "https://www.mercadolivre.com.br/torneira-de-cozinha-gourmet-parede-flexivel-preta-14-volta/up/MLBU3385687979",
-      "current_price": 37,
-      "original_price": 78.99,
-      "discount": 53.2,
-      "difference": 41.99,
-      "criteria": [
-        "53.2% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_803294-MLB91547644312_092025-AB.webp",
-      "category": "[KITCHEN_FAUCETS]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB6645312472",
-      "title": "Boné Ogochi Básico Algodão Aba Curva Masculino Premium Preto Único Lisa",
-      "link": "https://www.mercadolivre.com.br/bone-ogochi-basico-algodao-aba-curva-masculino-premium/up/MLBU3917282350",
-      "current_price": 37,
-      "original_price": 67,
-      "discount": 44.8,
-      "difference": 30,
-      "criteria": [
-        "44.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_958703-MLB110656044811_042026-AB.webp",
-      "category": "[HATS_AND_CAPS]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB5832566800",
-      "title": "Jogo De Cozinha Kit5 Peças Utensílios De Cozinha Em Silicone",
-      "link": "https://produto.mercadolivre.com.br/MLB-5832566800-jogo-de-cozinha-kit5-pecas-utensilios-de-cozinha-em-silicone-_JM",
-      "current_price": 16.49,
-      "original_price": 45.8,
-      "discount": 64.0,
-      "difference": 29.31,
-      "criteria": [
-        "64.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_969093-MLB95876350543_102025-AB.webp",
-      "category": "[KITCHEN_UTENSIL_SETS]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4002154233",
-      "title": "Kit 20 Pçs Semi Joias Folheados Ouro E Prata Atacado Revenda",
-      "link": "https://www.mercadolivre.com.br/kit-20-pcs-semi-joias-folheados-ouro-e-prata-atacado-revenda/up/MLBU3069397916",
-      "current_price": 42,
-      "original_price": 69.99,
-      "discount": 40.0,
-      "difference": 27.99,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_875903-MLB82773769822_032025-AB.webp",
-      "category": "[JEWELRY]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4457945096",
-      "title": "Chinelo Slide Nuvem Infantil Confort Anatômico",
-      "link": "https://produto.mercadolivre.com.br/MLB-4457945096-chinelo-slide-nuvem-infantil-confort-anatmico-_JM",
-      "current_price": 17.86,
-      "original_price": 34.9,
-      "discount": 48.8,
-      "difference": 17.04,
-      "criteria": [
-        "48.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_812730-MLB74635774555_022024-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785919756.866253,
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_795291-MLA99607871122_122025-AB.webp",
+      "category": "⚽ Esportes & Saúde",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785928092.964842,
       "is_new": true
     },
     {
@@ -11893,29 +11843,10 @@
         "52.0% OFF",
         "R$ 1404.9 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_709452-MLA96105579695_102025-AB.webp",
       "category": "[BICYCLES]",
-      "last_seen": 1785919756.866253,
-      "discovery_ts": 1785900453.328679,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3811541075",
-      "title": "Bicicleta Aro 29 Gts Feel Avax 12v Freio A Disco Hidráulico Cor Vermelho Tamanho Do Quadro 21",
-      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-feel-avax-12v-freio-a-disco-hidraulico-cor-vermelho-tamanho-do-quadro-21/p/MLB39257631",
-      "current_price": 1295,
-      "original_price": 2699.9,
-      "discount": 52.0,
-      "difference": 1404.9,
-      "criteria": [
-        "52.0% OFF",
-        "R$ 1404.9 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_688009-MLA96419055006_102025-AB.webp",
-      "category": "[BICYCLES]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -11931,10 +11862,48 @@
         "52.0% OFF",
         "R$ 1404.9 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_937513-MLB89122448843_082025-AB.webp",
       "category": "[BICYCLES]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785900453.328679,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3811541075",
+      "title": "Bicicleta Aro 29 Gts Feel Avax 12v Freio A Disco Hidráulico Cor Vermelho Tamanho Do Quadro 21",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-feel-avax-12v-freio-a-disco-hidraulico-cor-vermelho-tamanho-do-quadro-21/p/MLB39257631",
+      "current_price": 1295,
+      "original_price": 2699.9,
+      "discount": 52.0,
+      "difference": 1404.9,
+      "criteria": [
+        "52.0% OFF",
+        "R$ 1404.9 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_688009-MLA96419055006_102025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785900453.328679,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3695180245",
+      "title": "Bicicleta Aro 29 Gts Supreme Quadro Aluminio 24v Freio Disco Cor Verde Agua/Preto Tamanho do quadro 21 \"",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-supreme-quadro-aluminio-24v-freio-disco-cor-verde-aguapreto-tamanho-do-quadro-21-/p/MLB36094121",
+      "current_price": 789,
+      "original_price": 1499.9,
+      "discount": 47.4,
+      "difference": 710.9,
+      "criteria": [
+        "47.4% OFF",
+        "R$ 710.9 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_917985-MLA99452769654_112025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -11955,25 +11924,6 @@
       "category": "[BICYCLES]",
       "last_seen": 1785909986.28533,
       "discovery_ts": 1785909986.28533,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3695180245",
-      "title": "Bicicleta Aro 29 Gts Supreme Quadro Aluminio 24v Freio Disco Cor Verde Agua/Preto Tamanho do quadro 21 \"",
-      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-supreme-quadro-aluminio-24v-freio-disco-cor-verde-aguapreto-tamanho-do-quadro-21-/p/MLB36094121",
-      "current_price": 789,
-      "original_price": 1499.9,
-      "discount": 47.4,
-      "difference": 710.9,
-      "criteria": [
-        "47.4% OFF",
-        "R$ 710.9 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_917985-MLA99452769654_112025-AB.webp",
-      "category": "[BICYCLES]",
-      "last_seen": 1785909986.28533,
-      "discovery_ts": 1785900453.328679,
       "is_new": false
     },
     {
@@ -12083,7 +12033,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_788523-MLA111349952756_052026-AB.webp",
       "category": "[KITCHEN_CABINETS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12123,25 +12073,6 @@
       "category": "[SOFAS_FUTONS_AND_ARMCHAIRS]",
       "last_seen": 1785919756.866253,
       "discovery_ts": 1785900453.328679,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5405991886",
-      "title": "Cubo Shimano 36 Furos Preto",
-      "link": "https://www.mercadolivre.com.br/cubo-shimano-36-furos/up/MLBU3204922048",
-      "current_price": 186.84,
-      "original_price": 500,
-      "discount": 62.6,
-      "difference": 313.16,
-      "criteria": [
-        "62.6% OFF",
-        "R$ 313.16 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_880067-MLB92658867239_092025-AB.webp",
-      "category": "[BICYCLE_HUBS]",
-      "last_seen": 1785900453.328686,
-      "discovery_ts": 1785900453.328686,
       "is_new": false
     },
     {
@@ -12194,8 +12125,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_825351-MLB75256661030_032024-AB.webp",
       "category": "[POLY_MAILERS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785559271.19715,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4625689095",
+      "title": "Cama Elástica Eloria Pula Pula de 1.4m com Rede de Proteção para Crianças de 2 a 4 Anos",
+      "link": "https://www.mercadolivre.com.br/cama-elastica-eloria-pula-pula-de-14m-com-rede-de-protecao-para-criancas-de-2-a-4-anos/p/MLB65040085",
+      "current_price": 286.11,
+      "original_price": 499,
+      "discount": 42.7,
+      "difference": 212.89,
+      "criteria": [
+        "42.7% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_988708-MLA105488829884_012026-AB.webp",
+      "category": "[TRAMPOLINES]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785662785.365691,
       "is_new": false
     },
     {
@@ -12212,7 +12161,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_829012-MLA99992567365_112025-AB.webp",
       "category": "[VACUUM_AND_STEAM_CLEANERS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785772342.218037,
       "is_new": false
     },
@@ -12248,7 +12197,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_872621-MLA94373607443_102025-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -12263,11 +12212,11 @@
       "criteria": [
         "61.3% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_753852-MLB108818432671_032026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1785909986.28533,
-      "discovery_ts": 1785909986.28533,
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785909986.285322,
       "is_new": false
     },
     {
@@ -12302,7 +12251,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682402-MLA99403901858_112025-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12317,10 +12266,10 @@
       "criteria": [
         "47.6% OFF"
       ],
-      "badge": "🟡 ML | 7 VENDIDOS",
+      "badge": "🟡 ML | 13 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_956443-MLB112204997063_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785834737.272942,
       "is_new": false
     },
@@ -12356,7 +12305,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_995299-MLA99479082188_112025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12392,7 +12341,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_776104-MLB100577137390_122025-AB.webp",
       "category": "[DIGITAL_CAMERAS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12410,8 +12359,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_708210-MLA100016985413_122025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785814979.82702,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4676549173",
+      "title": "Kit 5 Camisetas Básica Masculina Algodão Original Sortido Com Vermelho E Azul G",
+      "link": "https://www.mercadolivre.com.br/kit-5-camisetas-basica-masculina-algodao-original/up/MLBU3970949798",
+      "current_price": 122,
+      "original_price": 226.64,
+      "discount": 46.2,
+      "difference": 104.64,
+      "criteria": [
+        "46.2% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_752365-MLB113453657572_072026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
       "is_new": false
     },
     {
@@ -12479,11 +12446,29 @@
       "criteria": [
         "47.2% OFF"
       ],
-      "badge": "🟡 ML | 5 VENDIDOS",
+      "badge": "🟡 ML | 6 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_645354-MLB114497719037_072026-AB.webp",
       "category": "[GAMEPADS_AND_JOYSTICKS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5775901358",
+      "title": "Vestido Alfaiataria Elegante Gola Alta Cinto Fivela E Fenda",
+      "link": "https://produto.mercadolivre.com.br/MLB-5775901358-vestido-alfaiataria-elegante-gola-alta-cinto-fivela-e-fenda-_JM",
+      "current_price": 114.46,
+      "original_price": 198.79,
+      "discount": 42.4,
+      "difference": 84.33,
+      "criteria": [
+        "42.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_998731-MLB111764297396_062026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785919756.866247,
       "is_new": false
     },
     {
@@ -12500,7 +12485,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_766471-MLA95401405780_102025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -12572,7 +12557,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_791064-MLA110481094865_042026-AB.webp",
       "category": "[CURLING_IRONS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12644,26 +12629,26 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_813908-MLB114505180057_072026-AB.webp",
       "category": "[BATHROOM_SHOWER_ORGANIZERS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
     {
-      "asin": "MLB6525070232",
-      "title": "Maquina Barbear,aparelho De Barbear Eletrico Multifuncio Laranja 5v",
-      "link": "https://www.mercadolivre.com.br/maquina-barbearaparelho-de-barbear-eletrico-multifuncio/up/MLBU3872631854",
-      "current_price": 55,
-      "original_price": 99.32,
-      "discount": 44.6,
-      "difference": 44.32,
+      "asin": "MLB4150271883",
+      "title": "Refletor LED 400W B&G Branco Frio IP66 Prova D'água Carcaça Preta",
+      "link": "https://www.mercadolivre.com.br/refletor-led-400w-bg-branco-frio-ip66-prova-dagua-carcaca-preta/p/MLB23815451",
+      "current_price": 33.51,
+      "original_price": 81,
+      "discount": 58.6,
+      "difference": 47.49,
       "criteria": [
-        "44.6% OFF"
+        "58.6% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_658428-MLB109588702415_032026-AB.webp",
-      "category": "[HAIR_CLIPPERS_ELECTRIC_SHAVERS_AND_HAIR_TRIMMERS]",
-      "last_seen": 1785900453.328686,
-      "discovery_ts": 1785211726.382873,
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_874643-MLA106382370704_022026-AB.webp",
+      "category": "[FLOOD_LIGHTS]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
       "is_new": false
     },
     {
@@ -12680,8 +12665,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_826036-MLA96696592155_102025-AB.webp",
       "category": "[POLY_MAILERS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785645762.61545,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5286004050",
+      "title": "Jogo Navio Equilibrista Do Pinguim - Zb490 - Art Brink",
+      "link": "https://www.mercadolivre.com.br/jogo-navio-equilibrista-do-pinguim-zb490-art-brink/p/MLB21310672",
+      "current_price": 36.59,
+      "original_price": 78.9,
+      "discount": 53.6,
+      "difference": 42.31,
+      "criteria": [
+        "53.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_710381-MLA99477879264_112025-AB.webp",
+      "category": "[BOARD_AND_CARD_GAMES]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
       "is_new": false
     },
     {
@@ -12698,8 +12701,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4180635043",
+      "title": "Torneira De Cozinha Gourmet Parede Flexível Preta 1/4 Volta Preto Fosco",
+      "link": "https://www.mercadolivre.com.br/torneira-de-cozinha-gourmet-parede-flexivel-preta-14-volta/up/MLBU3385687979",
+      "current_price": 37,
+      "original_price": 78.99,
+      "discount": 53.2,
+      "difference": 41.99,
+      "criteria": [
+        "53.2% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_803294-MLB91547644312_092025-AB.webp",
+      "category": "[KITCHEN_FAUCETS]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
       "is_new": false
     },
     {
@@ -12713,10 +12734,10 @@
       "criteria": [
         "42.5% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_875387-MLB107470584776_032026-AB.webp",
       "category": "[SHIRTS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -12752,7 +12773,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_821845-MLA114763188765_072026-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785864240.771817,
       "is_new": false
     },
@@ -12806,7 +12827,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_650876-MLB97828257887_112025-AB.webp",
       "category": "[KITCHEN_SHOVELS_AND_SPATULAS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -12824,7 +12845,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_956651-MLB84465504726_052025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785238410.939981,
       "is_new": false
     },
@@ -12880,6 +12901,60 @@
       "category": "[CYCLING_JERSEYS]",
       "last_seen": 1785909986.28533,
       "discovery_ts": 1785909986.28533,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6645312472",
+      "title": "Boné Ogochi Básico Algodão Aba Curva Masculino Premium Preto Único Lisa",
+      "link": "https://www.mercadolivre.com.br/bone-ogochi-basico-algodao-aba-curva-masculino-premium/up/MLBU3917282350",
+      "current_price": 37,
+      "original_price": 67,
+      "discount": 44.8,
+      "difference": 30,
+      "criteria": [
+        "44.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_958703-MLB110656044811_042026-AB.webp",
+      "category": "[HATS_AND_CAPS]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5832566800",
+      "title": "Jogo De Cozinha Kit5 Peças Utensílios De Cozinha Em Silicone",
+      "link": "https://produto.mercadolivre.com.br/MLB-5832566800-jogo-de-cozinha-kit5-pecas-utensilios-de-cozinha-em-silicone-_JM",
+      "current_price": 16.49,
+      "original_price": 45.8,
+      "discount": 64.0,
+      "difference": 29.31,
+      "criteria": [
+        "64.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_969093-MLB95876350543_102025-AB.webp",
+      "category": "[KITCHEN_UTENSIL_SETS]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4002154233",
+      "title": "Kit 20 Pçs Semi Joias Folheados Ouro E Prata Atacado Revenda",
+      "link": "https://www.mercadolivre.com.br/kit-20-pcs-semi-joias-folheados-ouro-e-prata-atacado-revenda/up/MLBU3069397916",
+      "current_price": 42,
+      "original_price": 69.99,
+      "discount": 40.0,
+      "difference": 27.99,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_875903-MLB82773769822_032025-AB.webp",
+      "category": "[JEWELRY]",
+      "last_seen": 1785919756.866253,
+      "discovery_ts": 1785919756.866253,
       "is_new": false
     },
     {
@@ -12986,7 +13061,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_658997-MLB108544944501_032026-AB.webp",
       "category": "[STRING_INSTRUMENT_STRAPS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -13001,10 +13076,10 @@
       "criteria": [
         "56.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_913325-MLB70277165210_072023-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -13076,7 +13151,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_640862-MLB99146551228_112025-AB.webp",
       "category": "[BALLOON_GRIDS]",
-      "last_seen": 1785919756.866253,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -13112,8 +13187,26 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_764961-MLB92711743572_092025-AB.webp",
       "category": "[STYLUSES]",
-      "last_seen": 1785909986.28533,
+      "last_seen": 1785928092.964842,
       "discovery_ts": 1785900453.328679,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4457945096",
+      "title": "Chinelo Slide Nuvem Infantil Confort Anatômico",
+      "link": "https://produto.mercadolivre.com.br/MLB-4457945096-chinelo-slide-nuvem-infantil-confort-anatmico-_JM",
+      "current_price": 17.86,
+      "original_price": 34.9,
+      "discount": 48.8,
+      "difference": 17.04,
+      "criteria": [
+        "48.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_812730-MLB74635774555_022024-AB.webp",
+      "category": "[SANDALS_AND_CLOGS]",
+      "last_seen": 1785928092.964842,
+      "discovery_ts": 1785919756.866247,
       "is_new": false
     },
     {
