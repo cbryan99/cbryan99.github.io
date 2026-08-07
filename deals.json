@@ -1,5 +1,5 @@
 {
-  "last_check": "07/08/2026 14:36:15",
+  "last_check": "07/08/2026 15:31:08",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -6985,6 +6985,10 @@
         {
           "price": 25.85,
           "date": "2026-08-05T15:24:36.675234"
+        },
+        {
+          "price": 26.34,
+          "date": "2026-08-07T15:31:08.615069"
         }
       ]
     },
@@ -13188,9 +13192,163 @@
           "date": "2026-08-07T13:36:43.851463"
         }
       ]
+    },
+    "MLB4771659941": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 119.93,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB4172389147": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 95.93,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB6925688542": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 33.05,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB6241365004": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 191.99,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB5547035380": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 42,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB3199261148": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 14.07,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
+    },
+    "MLB6398793018": {
+      "discovery_date": "2026-08-07T15:31:08.615069",
+      "price_history": [
+        {
+          "price": 1259.81,
+          "date": "2026-08-07T15:31:08.615069"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "MLB6398793018",
+      "title": "Unifi Uap-ac-edu-br Access Point Ubiquiti Ac 1300mbps 2.4/5g",
+      "link": "https://www.mercadolivre.com.br/unifi-uapacedubr-access-point-ubiquiti-ac-1300mbps-245g/up/MLBU3827042616",
+      "current_price": 1259.81,
+      "original_price": 2099.68,
+      "discount": 40.0,
+      "difference": 839.87,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 839.87 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_689290-MLB107316664336_032026-AB.webp",
+      "category": "[ROUTERS_AND_WIRELESS_SYSTEMS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4771659941",
+      "title": "Kit De Atualização 120 Figurinhas Album Fifa World Cup 2026 Kit De Atualização 120 Figurinhas Copa 2026",
+      "link": "https://www.mercadolivre.com.br/kit-de-atualizacao-120-figurinhas-album-fifa-world-cup-2026/up/MLBU4082559813",
+      "current_price": 119.93,
+      "original_price": 397.9,
+      "discount": 69.9,
+      "difference": 277.97,
+      "criteria": [
+        "69.9% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_673349-MLA113147621933_062026-AB.webp",
+      "category": "[COLLECTIBLE_ALBUM_STICKERS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6241365004",
+      "title": "Tênis Olympikus Masculino Gama Preto/preto Lisa 41 Br",
+      "link": "https://www.mercadolivre.com.br/tenis-olympikus-masculino-gama/up/MLBU3296947238",
+      "current_price": 191.99,
+      "original_price": 329.99,
+      "discount": 41.8,
+      "difference": 138.0,
+      "criteria": [
+        "41.8% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_919967-MLB91317030218_092025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4172389147",
+      "title": "Sapatilha Aquática Mormaii Flexxxa Juvenil Original Conforto",
+      "link": "https://produto.mercadolivre.com.br/MLB-4172389147-sapatilha-aquatica-mormaii-flexxxa-juvenil-original-conforto-_JM",
+      "current_price": 95.93,
+      "original_price": 159.9,
+      "discount": 40.0,
+      "difference": 63.97,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_785802-MLB90765616679_082025-AB.webp",
+      "category": "[NEOPRENE_BOOTS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5547035380",
+      "title": "Camisa Infantil Masc Tricoline Xadrez Trick Nick Verde",
+      "link": "https://produto.mercadolivre.com.br/MLB-5547035380-camisa-infantil-masc-tricoline-xadrez-trick-nick-verde-_JM",
+      "current_price": 42,
+      "original_price": 94.99,
+      "discount": 55.8,
+      "difference": 52.99,
+      "criteria": [
+        "55.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_816131-MLB96516969185_102025-AB.webp",
+      "category": "[SHIRTS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
     {
       "asin": "MLB5328915884",
       "title": "Kit 3 Regata Feminina Dry Fit Roupa Academia Blusa Fitness",
@@ -13210,23 +13368,40 @@
       "is_new": true
     },
     {
-      "asin": "MLB7125623856",
-      "title": "Relógio Diesel Dz4329 Megachief 52mm Chumbo Azul Sem Caixa",
-      "link": "https://www.mercadolivre.com.br/relogio-diesel-dz4329-megachief-52mm-chumbo-azul-sem-caixa/p/MLB22325477",
-      "current_price": 499.4,
-      "original_price": 1899,
-      "discount": 73.7,
-      "difference": 1399.6,
+      "asin": "MLB3199261148",
+      "title": "Chinelo Nuvem Slide Leve Macio Antiderrapante Ortopédico",
+      "link": "https://produto.mercadolivre.com.br/MLB-3199261148-chinelo-nuvem-slide-leve-macio-antiderrapante-ortopedico-_JM",
+      "current_price": 14.07,
+      "original_price": 44.9,
+      "discount": 68.7,
+      "difference": 30.83,
       "criteria": [
-        "73.7% OFF",
-        "R$ 1399.6 desc."
+        "68.7% OFF"
       ],
       "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_663114-MLA99564275112_122025-AB.webp",
-      "category": "[WRISTWATCHES]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786072394.881755,
-      "is_new": false
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_840847-MLB109636934324_042026-AB.webp",
+      "category": "[SANDALS_AND_CLOGS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6925688542",
+      "title": "Organizador De Maquiagem Shopy_ud Acrílico Transparente - Transparente",
+      "link": "https://www.mercadolivre.com.br/organizador-de-maquiagem-shopyud-acrilico-transparente-transparente/p/MLB72877935",
+      "current_price": 33.05,
+      "original_price": 57.24,
+      "discount": 42.3,
+      "difference": 24.19,
+      "criteria": [
+        "42.3% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_787473-MLA111793939850_062026-AB.webp",
+      "category": "[MAKEUP_ORGANIZERS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1786116668.615084,
+      "is_new": true
     },
     {
       "asin": "MLB4070983856",
@@ -13305,24 +13480,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4342033645",
-      "title": "Kit De Sobrevivência Primeiros Socorros Emergência Trekking Cáqui",
-      "link": "https://www.mercadolivre.com.br/kit-de-sobrevivencia-primeiros-socorros-emergencia-trekking/up/MLBU3646708157",
-      "current_price": 166.32,
-      "original_price": 399,
-      "discount": 58.3,
-      "difference": 232.68,
-      "criteria": [
-        "58.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_954333-MLB104666444634_012026-AB.webp",
-      "category": "[FIRST_AID_KITS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786079053.765202,
-      "is_new": false
-    },
-    {
       "asin": "MLB3435115135",
       "title": "Envelope De Segurança Lacrado 60x80 100 Unidades",
       "link": "https://www.mercadolivre.com.br/envelope-de-seguranca-lacrado-60x80-100-unidades/up/MLBU761592313",
@@ -13377,24 +13534,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5850315764",
-      "title": "Sandalia Em Couro Usaflex Ud11007 004-blush Tira Velcro 35 Br",
-      "link": "https://www.mercadolivre.com.br/sandalia-em-couro-usaflex-ud11007/up/MLBU3519566780",
-      "current_price": 96.73,
-      "original_price": 229.99,
-      "discount": 57.9,
-      "difference": 133.26,
-      "criteria": [
-        "57.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_809458-MLB114845152855_072026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1785909986.285322,
-      "is_new": false
-    },
-    {
       "asin": "MLB5652869954",
       "title": "Colchonete Dobravel Espuma Solteiro Camping 1,80x0,65x0,5cm Cor Cinza",
       "link": "https://www.mercadolivre.com.br/colchonete-dobravel-espuma-solteiro-camping-180x065x05cm-cor-cinza/p/MLB54195174",
@@ -13410,24 +13549,6 @@
       "category": "[SLEEPING_BAGS]",
       "last_seen": 1786104586.454003,
       "discovery_ts": 1785568625.106273,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3915292329",
-      "title": "Tênis Mormaii Urban College 203381 Azul Com Bege Original",
-      "link": "https://produto.mercadolivre.com.br/MLB-3915292329-tnis-mormaii-urban-college-203381-azul-com-bege-original-_JM",
-      "current_price": 93.48,
-      "original_price": 209.9,
-      "discount": 55.5,
-      "difference": 116.42,
-      "criteria": [
-        "55.5% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_939068-MLB80508989264_112024-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786072394.881755,
       "is_new": false
     },
     {
@@ -13464,6 +13585,24 @@
       "category": "[HEADPHONES]",
       "last_seen": 1786113375.295476,
       "discovery_ts": 1786072394.881755,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6434353026",
+      "title": "Kit 10 Calcinhas Feminina Microfibra Cintura Alta Trifil Preto / Branco  Macadâmia Med",
+      "link": "https://www.mercadolivre.com.br/kit-10-calcinhas-feminina-microfibra-cintura-alta-trifil/up/MLBU736302350",
+      "current_price": 119.9,
+      "original_price": 219,
+      "discount": 45.3,
+      "difference": 99.1,
+      "criteria": [
+        "45.3% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_687866-MLB114490412497_072026-AB.webp",
+      "category": "[PANTIES]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785716067.931084,
       "is_new": false
     },
     {
@@ -13516,7 +13655,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867030-MLU77983865228_082024-AB.webp",
       "category": "[LIP_GLOSSES]",
-      "last_seen": 1786113375.295476,
+      "last_seen": 1786116668.615084,
       "discovery_ts": 1786095815.771607,
       "is_new": false
     },
@@ -13629,6 +13768,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB5288471998",
+      "title": "Cortina 3,00x2,80 Metros Blackout Blecaute Palha Corta Luz Em Tecido Grosso Para Quarto E Sala Casa Laura Enxovais",
+      "link": "https://www.mercadolivre.com.br/cortina-300x280-metros-blackout-blecaute-palha-corta-luz-em-tecido-grosso-para-quarto-e-sala-casa-laura-enxovais/p/MLB29614932",
+      "current_price": 72.9,
+      "original_price": 135.21,
+      "discount": 46.1,
+      "difference": 62.31,
+      "criteria": [
+        "46.1% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_750197-MLA99506070940_112025-AB.webp",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785527244.279413,
+      "is_new": false
+    },
+    {
       "asin": "MLB4618968545",
       "title": "Pillow Top Cama Solteiro Toque Extra Macio Conforto 400 Fios Branco Matelado Solteiro",
       "link": "https://www.mercadolivre.com.br/pillow-top-cama-solteiro-toque-extra-macio-conforto-400-fios-branco-matelado-solteiro/p/MLB68332350",
@@ -13647,24 +13804,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5952890892",
-      "title": "Creality Grasa Térmica+grasa Lubricante+barra De Pegamento ",
-      "link": "https://produto.mercadolivre.com.br/MLB-5952890892-creality-grasa-termicagrasa-lubricantebarra-de-pegamento-_JM",
-      "current_price": 66.61,
-      "original_price": 123.44,
-      "discount": 46.0,
-      "difference": 56.83,
-      "criteria": [
-        "46.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_659150-CBT98456060044_112025-AB.webp",
-      "category": "[COMPUTER_EQUIPMENT_AND_REPLACEMENTS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786072394.881755,
-      "is_new": false
-    },
-    {
       "asin": "MLB4101039515",
       "title": "Camisa Proteção Uv Manga Longa Esportiva Raglan Academia",
       "link": "https://produto.mercadolivre.com.br/MLB-4101039515-camisa-proteco-uv-manga-longa-esportiva-raglan-academia-_JM",
@@ -13680,6 +13819,24 @@
       "category": "[SPORT_T_SHIRTS]",
       "last_seen": 1786095815.771615,
       "discovery_ts": 1785299081.51594,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6433765606",
+      "title": "Meia De Compressão Feminina 1871 3/4 15-20 Mmhg Sem Ponteira Kendall Mel Liso M",
+      "link": "https://www.mercadolivre.com.br/meia-de-compressao-feminina-1871-34-1520-mmhg-sem-ponteira-kendall/up/MLBU776405923",
+      "current_price": 55.9,
+      "original_price": 108.38,
+      "discount": 48.4,
+      "difference": 52.48,
+      "criteria": [
+        "48.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785686205.633008,
       "is_new": false
     },
     {
@@ -13715,24 +13872,6 @@
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_853615-MLA99218799155_112025-AB.webp",
       "category": "[MATTRESS_COVERS]",
       "last_seen": 1786102107.86303,
-      "discovery_ts": 1786072394.881755,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5362284908",
-      "title": "Plug RCA Macho Kit 10 Unidades Bertô Metal Niquelado Ponta Banhada a Ouro, 5 Anéis Vermelhos e 5 Pretos, Encaixe Firme, Nota 4.8 em 469 Avaliações, Ideal para Som Automotivo, Home Theater e Cabos Pers",
-      "link": "https://www.mercadolivre.com.br/plug-rca-macho-kit-10-unidades-berto-metal-niquelado-ponta-banhada-a-ouro-5-aneis-vermelhos-e-5-pretos-encaixe-firme-nota-48-em-469-avaliacoes-ideal-para-som-automotivo-home-theater-e-cabos-pers/p/MLB48918789",
-      "current_price": 26,
-      "original_price": 69.1,
-      "discount": 62.4,
-      "difference": 43.1,
-      "criteria": [
-        "62.4% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_658314-MLA115650194449_082026-AB.webp",
-      "category": "[AUDIO_AND_VIDEO_CONNECTORS]",
-      "last_seen": 1786092025.353285,
       "discovery_ts": 1786072394.881755,
       "is_new": false
     },
@@ -13809,24 +13948,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3871615471",
-      "title": "Kit Máquina Costura Mini Brinquedo Infantil Roupas Acessório Cor Sortido/Colorido",
-      "link": "https://www.mercadolivre.com.br/kit-maquina-costura-mini-brinquedo-infantil-roupas-acessorio-cor-sortidocolorido/p/MLB24391782",
-      "current_price": 34.29,
-      "original_price": 69.98,
-      "discount": 51.0,
-      "difference": 35.69,
-      "criteria": [
-        "51.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_691656-MLA100048439569_122025-AB.webp",
-      "category": "[TOY_SEWING_MACHINES]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1785576302.434275,
-      "is_new": false
-    },
-    {
       "asin": "MLB2774485738",
       "title": "Chinelo Feminino Durio Buzios Praia Macio Estampado Colorido",
       "link": "https://produto.mercadolivre.com.br/MLB-2774485738-chinelo-feminino-durio-buzios-praia-macio-estampado-colorido-_JM",
@@ -13881,24 +14002,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5361188160",
-      "title": "Capa Mala Luxo Malha Canelada Elástica Protetor Bordo P M G",
-      "link": "https://produto.mercadolivre.com.br/MLB-5361188160-capa-mala-luxo-malha-canelada-elastica-protetor-bordo-p-m-g-_JM",
-      "current_price": 37.9,
-      "original_price": 69.9,
-      "discount": 45.8,
-      "difference": 32.0,
-      "criteria": [
-        "45.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_874438-MLB93105556153_092025-AB.webp",
-      "category": "[SUITCASE_COVERS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786079053.765202,
-      "is_new": false
-    },
-    {
       "asin": "MLB4641119835",
       "title": "Kit Camping Gás De Maçarico Fogareiro 4 Latas Refil Ntk 227g Laranja",
       "link": "https://www.mercadolivre.com.br/kit-camping-gas-de-macarico-fogareiro-4-latas-refil-ntk-227g/up/MLBU3935085366",
@@ -13932,24 +14035,6 @@
       "category": "[TABLET_CASES_AND_COVERS]",
       "last_seen": 1786113375.295476,
       "discovery_ts": 1785389121.131261,
-      "is_new": false
-    },
-    {
-      "asin": "MLB7092581168",
-      "title": "Areia Sanitaria Para Gato/Pet 4kg Flocos Finos Aglomerante Controle de Odor Neutraliza Cheiro Baixa Poeira Alto Poder de Absorção Areia Higiênica Econômica Rende Mais Fácil de Limpar",
-      "link": "https://www.mercadolivre.com.br/areia-sanitaria-para-gatopet-4kg-flocos-finos-aglomerante-controle-de-odor-neutraliza-cheiro-baixa-poeira-alto-poder-de-absorcao-areia-higienica-economica-rende-mais-facil-de-limpar/p/MLB74906390",
-      "current_price": 9.49,
-      "original_price": 39.99,
-      "discount": 76.3,
-      "difference": 30.5,
-      "criteria": [
-        "76.3% OFF"
-      ],
-      "badge": "🟡 ML | 17 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_778840-MLA112855122176_072026-AB.webp",
-      "category": "[CATS_LITTER]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786079053.765202,
       "is_new": false
     },
     {
@@ -14007,6 +14092,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB5458195620",
+      "title": "Luz De Leitura Recarregável De Livro Luminária Usb Com Clipe",
+      "link": "https://produto.mercadolivre.com.br/MLB-5458195620-luz-de-leitura-recarregavel-de-livro-luminaria-usb-com-clipe-_JM",
+      "current_price": 32.34,
+      "original_price": 56.74,
+      "discount": 43.0,
+      "difference": 24.4,
+      "criteria": [
+        "43.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_667214-MLB111603313106_062026-AB.webp",
+      "category": "[TABLE_AND_DESK_LAMPS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785858039.234202,
+      "is_new": false
+    },
+    {
       "asin": "MLB6312270524",
       "title": "Kit Roupa Para Cachorro Roupa Pet Vestido Roupinha De Frio Femêa Roupas Para Cachorro Tamanho 4",
       "link": "https://www.mercadolivre.com.br/kit-roupa-para-cachorro-roupa-pet-vestido-roupinha-de-frio/up/MLBU3114342443",
@@ -14025,6 +14128,42 @@
       "is_new": false
     },
     {
+      "asin": "MLB4263450329",
+      "title": "Suporte Celular Carro Magnético Rotativo 360dobrável Ventosa Preto",
+      "link": "https://www.mercadolivre.com.br/suporte-celular-carro-magnetico-rotativo-360dobravel-ventosa/up/MLBU3500921855",
+      "current_price": 26.34,
+      "original_price": 49.99,
+      "discount": 47.3,
+      "difference": 23.65,
+      "criteria": [
+        "47.3% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_677142-MLB95756675611_102025-AB.webp",
+      "category": "[VEHICLE_CELLPHONE_AND_GPS_MOUNTS]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6717203220",
+      "title": "Balança Corporal Digital Vidro Temperado Transparente Portátil pesagem Academia Nutricionista Balanca 180kg Dieta Treino Fitness Musculação Saúde Profissional Ou Domestico - Rhead Red High End Studios",
+      "link": "https://www.mercadolivre.com.br/balanca-corporal-digital-vidro-temperado-transparente-portatil-pesagem-academia-nutricionista-balanca-180kg-dieta-treino-fitness-musculacao-saude-profissional-ou-domestico-rhead-red-high-end-studios/p/MLB68417029",
+      "current_price": 30.63,
+      "original_price": 51.13,
+      "discount": 40.1,
+      "difference": 20.5,
+      "criteria": [
+        "40.1% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_672839-MLA113685851696_072026-AB.webp",
+      "category": "[BODYWEIGHT_SCALES]",
+      "last_seen": 1786116668.615084,
+      "discovery_ts": 1785427623.418875,
+      "is_new": false
+    },
+    {
       "asin": "MLB5917060078",
       "title": "Case De Proteção Total Slim Para Amazfit Gts 4",
       "link": "https://www.mercadolivre.com.br/case-de-protecao-total-slim-para-amazfit-gts-4/p/MLB29328256",
@@ -14040,42 +14179,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786113375.295476,
       "discovery_ts": 1785208231.358935,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6689662242",
-      "title": "Pote De Vidro Com Tampa Hermética 640ml Retangular Marmita Vidro",
-      "link": "https://www.mercadolivre.com.br/pote-de-vidro-com-tampa-hermetica-640ml-retangular-marmita-vidro/p/MLB66610062",
-      "current_price": 20.99,
-      "original_price": 37.9,
-      "discount": 44.6,
-      "difference": 16.91,
-      "criteria": [
-        "44.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_805008-MLA107903932598_032026-AB.webp",
-      "category": "[FOOD_STORAGE_CONTAINERS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1785335319.795561,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4810712818",
-      "title": "Óleo De Coco Extra Virgem Copra 200ml",
-      "link": "https://www.mercadolivre.com.br/oleo-de-coco-extra-virgem-copra-200ml/p/MLB16636982",
-      "current_price": 17.26,
-      "original_price": 33.99,
-      "discount": 49.2,
-      "difference": 16.73,
-      "criteria": [
-        "49.2% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_828767-MLA81124825674_122024-AB.webp",
-      "category": "[COOKING_OILS]",
-      "last_seen": 1786092025.353285,
-      "discovery_ts": 1786079053.765202,
       "is_new": false
     }
   ]
