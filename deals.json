@@ -1,5 +1,5 @@
 {
-  "last_check": "08/08/2026 15:40:11",
+  "last_check": "08/08/2026 16:01:29",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -9092,6 +9092,10 @@
         {
           "price": 55.9,
           "date": "2026-08-02T15:56:45.633008"
+        },
+        {
+          "price": 56.26,
+          "date": "2026-08-08T16:01:29.069142"
         }
       ]
     },
@@ -13943,6 +13947,78 @@
           "date": "2026-08-08T15:40:11.573225"
         }
       ]
+    },
+    "MLB5834782116": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 282.14,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB3802520525": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 229.9,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB7184063708": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 188.52,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB7022745726": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 3349,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB6044794604": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 38,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB4888424270": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 1201,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB5563379528": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 34.09,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
+    },
+    "MLB7159194004": {
+      "discovery_date": "2026-08-08T16:01:29.069142",
+      "price_history": [
+        {
+          "price": 85.6,
+          "date": "2026-08-08T16:01:29.069142"
+        }
+      ]
     }
   },
   "data": [
@@ -13961,8 +14037,45 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_965855-MLA95694523598_102025-AB.webp",
       "category": "[BICYCLES]",
-      "last_seen": 1786203611.573232,
-      "discovery_ts": 1786203611.573232,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786203611.573225,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4888424270",
+      "title": "Bicicleta Aro 29 Gts Feel Avax 12v Freio A Disco Hidráulico Cor Vermelho Tamanho Do Quadro 21",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-feel-avax-12v-freio-a-disco-hidraulico-cor-vermelho-tamanho-do-quadro-21/p/MLB38212645",
+      "current_price": 1201,
+      "original_price": 2999,
+      "discount": 60.0,
+      "difference": 1798,
+      "criteria": [
+        "60.0% OFF",
+        "R$ 1798 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_702935-MLA95403505048_102025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7022745726",
+      "title": "Carabina Espingarda Rifle de Pressão Pcp Rossi T-rex Montecarlo 6,35mm completa com bomba",
+      "link": "https://www.mercadolivre.com.br/carabina-espingarda-rifle-de-pressao-pcp-rossi-t-rex-montecarlo-635mm-completa-com-bomba/p/MLB61525789",
+      "current_price": 3349,
+      "original_price": 4799,
+      "discount": 30.2,
+      "difference": 1450,
+      "criteria": [
+        "R$ 1450 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_844131-MLA113674922617_062026-AB.webp",
+      "category": "[AIRSOFT_GUNS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -13999,8 +14112,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_830247-MLA111347584832_052026-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1786203611.573232,
-      "discovery_ts": 1786203611.573232,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786203611.573225,
       "is_new": true
     },
     {
@@ -14017,8 +14130,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_698378-MLB81009923684_122024-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1786203611.573232,
-      "discovery_ts": 1786203611.573232,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786203611.573225,
       "is_new": true
     },
     {
@@ -14032,11 +14145,49 @@
       "criteria": [
         "R$ 435 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_970104-MLB108086375386_032026-AB.webp",
       "category": "[DESKTOP_COMPUTER_KITS]",
-      "last_seen": 1786201274.697015,
-      "discovery_ts": 1786201274.697015,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786201274.697008,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7184063708",
+      "title": "Tênis Feminino Qix Urban Trek Casual Trilha Original Preto/branco 38 Br",
+      "link": "https://www.mercadolivre.com.br/tenis-feminino-qix-urban-trek-casual-trilha-original/up/MLBU1434015563",
+      "current_price": 188.52,
+      "original_price": 549.99,
+      "discount": 65.7,
+      "difference": 361.47,
+      "criteria": [
+        "65.7% OFF",
+        "R$ 361.47 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_732199-MLB83553890080_042025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5834782116",
+      "title": "Óculos De Sol Clubmaster Ray-ban Unissex Elegância Atemporal",
+      "link": "https://www.mercadolivre.com.br/oculos-de-sol-clubmaster-rayban-unissex-elegancia-atemporal/up/MLBU3504252955",
+      "current_price": 282.14,
+      "original_price": 599,
+      "discount": 52.9,
+      "difference": 316.86,
+      "criteria": [
+        "52.9% OFF",
+        "R$ 316.86 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_620515-MLB95925402021_102025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -14071,8 +14222,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_654932-MLU78875475994_092024-AB.webp",
       "category": "[COMPUTER_MICE]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786201274.697008,
+      "is_new": true
+    },
+    {
+      "asin": "MLB3802520525",
+      "title": "Jogo De Ferramentas 169 Peças Com Maleta E Furadeira Parafusadeira Sem Fio A Bateria Tb-12e 12v 3/8 10mm The Black Tools",
+      "link": "https://www.mercadolivre.com.br/jogo-de-ferramentas-169-pecas-com-maleta-e-furadeira-parafusadeira-sem-fio-a-bateria-tb-12e-12v-38-10mm-the-black-tools/p/MLB38835569",
+      "current_price": 229.9,
+      "original_price": 399.9,
+      "discount": 42.5,
+      "difference": 170.0,
+      "criteria": [
+        "42.5% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_783124-MLA109307987120_042026-AB.webp",
+      "category": "[WRENCHES]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -14089,7 +14258,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_743251-MLA84237273228_052025-AB.webp",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786201274.697008,
       "is_new": true
     },
@@ -14107,8 +14276,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_664169-MLA115338029169_072026-AB.webp",
       "category": "[ELECTRIC_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1786203611.573232,
-      "discovery_ts": 1786203611.573232,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786203611.573225,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7159194004",
+      "title": "Bola de Futsal Penalty Stadium Arena XXII Branco- Vermelho - Preto",
+      "link": "https://www.mercadolivre.com.br/bola-de-futsal-penalty-stadium-arena-xxii-branco-vermelho-preto/p/MLB63177965",
+      "current_price": 85.6,
+      "original_price": 164.07,
+      "discount": 47.8,
+      "difference": 78.47,
+      "criteria": [
+        "47.8% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_701490-MLA101354107731_122025-AB.webp",
+      "category": "[FOOTBALL_BALLS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -14125,8 +14312,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_990850-CBT100818673641_122025-AB.webp",
       "category": "[COMPUTER_EQUIPMENT_AND_REPLACEMENTS]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786201274.697008,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5563379528",
+      "title": "Kit 2 Tiara Daminha De Casamento Arranjo De Flores Infantil",
+      "link": "https://produto.mercadolivre.com.br/MLB-5563379528-kit-2-tiara-daminha-de-casamento-arranjo-de-flores-infantil-_JM",
+      "current_price": 34.09,
+      "original_price": 78.9,
+      "discount": 56.8,
+      "difference": 44.81,
+      "criteria": [
+        "56.8% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_653872-MLB87578082905_072025-AB.webp",
+      "category": "[HEADPIECES_TIARAS_AND_HEADBANDS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -14161,8 +14366,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_899784-MLB92519355825_092025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786201274.697008,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6044794604",
+      "title": "Papete Moleca Feminina Confortável Brilho Flatform Eva Preto 36 Br",
+      "link": "https://www.mercadolivre.com.br/papete-moleca-feminina-confortavel-brilho-flatform-eva/up/MLBU3012006530",
+      "current_price": 38,
+      "original_price": 78.4,
+      "discount": 51.5,
+      "difference": 40.4,
+      "criteria": [
+        "51.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_918952-MLB82114587364_022025-AB.webp",
+      "category": "[SANDALS_AND_CLOGS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786204889.069151,
       "is_new": true
     },
     {
@@ -14179,8 +14402,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_661431-MLA99923107715_112025-AB.webp",
       "category": "[SUNSCREENS]",
-      "last_seen": 1786203611.573232,
-      "discovery_ts": 1786203611.573232,
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786203611.573225,
       "is_new": true
     },
     {
@@ -14240,6 +14463,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB6549197082",
+      "title": "Kit 4 Pneus 175/75r13 84t Rp203 Poise Aptany Aro 13",
+      "link": "https://www.mercadolivre.com.br/kit-4-pneus-17575r13-84t-rp203-poise-aptany-aro-13/p/MLB34807442",
+      "current_price": 982.82,
+      "original_price": 1450,
+      "discount": 32.2,
+      "difference": 467.18,
+      "criteria": [
+        "R$ 467.18 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_804665-MLU77360009679_062024-AB.webp",
+      "category": "[AUTOMOTIVE_TIRES]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1786129951.624788,
+      "is_new": false
+    },
+    {
       "asin": "MLB4695447529",
       "title": "Óculos De Sol Proteção Uv400 Unissex Premium E Sofisticado  Justin Preto",
       "link": "https://www.mercadolivre.com.br/oculos-de-sol-protecao-uv400-unissex-premium-e-sofisticado/up/MLBU3976101349",
@@ -14291,7 +14532,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682112-MLA96149262117_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -14328,8 +14569,27 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_698457-MLA96145807173_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785773212.874439,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4765885103",
+      "title": "Legging Lupo Original Poliamida Texturizada Ar Sem Costura Preto Legging Academia Fitness M",
+      "link": "https://www.mercadolivre.com.br/legging-lupo-original-poliamida-texturizada-ar-sem-costura/up/MLBU4076228717",
+      "current_price": 157.99,
+      "original_price": 519.99,
+      "discount": 69.6,
+      "difference": 362.0,
+      "criteria": [
+        "69.6% OFF",
+        "R$ 362.0 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_785886-MLB112801450448_072026-AB.webp",
+      "category": "[LEGGINGS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1785858039.234202,
       "is_new": false
     },
     {
@@ -14384,7 +14644,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_627652-MLB110045697586_042026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785870352.910327,
       "is_new": false
     },
@@ -14399,10 +14659,10 @@
       "criteria": [
         "46.6% OFF"
       ],
-      "badge": "🟡 ML | 33 VENDIDOS",
+      "badge": "🟡 ML | 74 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_924131-MLB95952932823_102025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786038777.187815,
       "is_new": false
     },
@@ -14435,10 +14695,10 @@
       "criteria": [
         "41.6% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_928179-MLB92463558686_092025-AB.webp",
+      "badge": "🟡 ML | 2 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_775655-MLB114909652291_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786038777.187815,
       "is_new": false
     },
@@ -14492,7 +14752,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674437-MLB109943696683_042026-AB.webp",
       "category": "[JACKETS_AND_COATS]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -14510,7 +14770,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_865332-MLA96868279679_102025-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1786061026.161118,
       "is_new": false
     },
@@ -14564,7 +14824,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_796067-MLA111971910206_062026-AB.webp",
       "category": "[DOLLS]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -14785,6 +15045,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB6433765606",
+      "title": "Meia De Compressão Feminina 1871 3/4 15-20 Mmhg Sem Ponteira Kendall Mel Liso M",
+      "link": "https://www.mercadolivre.com.br/meia-de-compressao-feminina-1871-34-1520-mmhg-sem-ponteira-kendall/up/MLBU776405923",
+      "current_price": 56.26,
+      "original_price": 108.38,
+      "discount": 48.1,
+      "difference": 52.12,
+      "criteria": [
+        "48.1% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1785686205.633008,
+      "is_new": false
+    },
+    {
       "asin": "MLB5430024734",
       "title": "Caixa Porta Pilha Simples Aquecedor Ko 0100021533 Komeco",
       "link": "https://www.mercadolivre.com.br/caixa-porta-pilha-simples-aquecedor-ko-0100021533-komeco/p/MLB37998486",
@@ -14857,6 +15135,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB3590923503",
+      "title": "Shorts Feminino Sarja Com Elastano Desfiado Moda Verão",
+      "link": "https://produto.mercadolivre.com.br/MLB-3590923503-shorts-feminino-sarja-com-elastano-desfiado-moda-vero-_JM",
+      "current_price": 44.87,
+      "original_price": 88.53,
+      "discount": 49.3,
+      "difference": 43.66,
+      "criteria": [
+        "49.3% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_845923-MLB85885001631_062025-AB.webp",
+      "category": "[SHORTS]",
+      "last_seen": 1786204889.069151,
+      "discovery_ts": 1785568625.106273,
+      "is_new": false
+    },
+    {
       "asin": "MLB5100806342",
       "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
       "link": "https://produto.mercadolivre.com.br/MLB-5100806342-kit-9-meias-sport-polo-fit-pares-masculino-algodo-invisivel-_JM",
@@ -14870,7 +15166,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -14906,7 +15202,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_911185-MLB85886691559_062025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1786201274.697015,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -15176,7 +15472,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_744953-CBT107548011759_022026-AB.webp",
       "category": "[HATS_AND_CAPS]",
-      "last_seen": 1786203611.573232,
+      "last_seen": 1786204889.069151,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
