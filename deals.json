@@ -1,5 +1,5 @@
 {
-  "last_check": "08/08/2026 12:15:36",
+  "last_check": "08/08/2026 13:14:09",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -10611,6 +10611,10 @@
         {
           "price": 33,
           "date": "2026-08-04T03:42:59.827020"
+        },
+        {
+          "price": 32.15,
+          "date": "2026-08-08T13:14:09.992067"
         }
       ]
     },
@@ -13765,6 +13769,51 @@
           "date": "2026-08-08T12:15:36.017569"
         }
       ]
+    },
+    "MLB6209908906": {
+      "discovery_date": "2026-08-08T13:14:09.992067",
+      "price_history": [
+        {
+          "price": 118.9,
+          "date": "2026-08-08T13:14:09.992067"
+        }
+      ]
+    },
+    "MLB4000492789": {
+      "discovery_date": "2026-08-08T13:14:09.992067",
+      "price_history": [
+        {
+          "price": 76.37,
+          "date": "2026-08-08T13:14:09.992067"
+        }
+      ]
+    },
+    "MLB4265002871": {
+      "discovery_date": "2026-08-08T13:14:09.992067",
+      "price_history": [
+        {
+          "price": 25.99,
+          "date": "2026-08-08T13:14:09.992067"
+        }
+      ]
+    },
+    "MLB5354705334": {
+      "discovery_date": "2026-08-08T13:14:09.992067",
+      "price_history": [
+        {
+          "price": 67,
+          "date": "2026-08-08T13:14:09.992067"
+        }
+      ]
+    },
+    "MLB5830799012": {
+      "discovery_date": "2026-08-08T13:14:09.992067",
+      "price_history": [
+        {
+          "price": 261,
+          "date": "2026-08-08T13:14:09.992067"
+        }
+      ]
     }
   },
   "data": [
@@ -13780,11 +13829,102 @@
         "40.0% OFF",
         "R$ 400.0 desc."
       ],
-      "badge": "🟡 ML | 3 VENDIDOS",
+      "badge": "🟡 ML | 5 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_887229-MLA110014977515_042026-AB.webp",
       "category": "[POWERED_RIDE_ON_TOYS]",
-      "last_seen": 1786191336.017575,
-      "discovery_ts": 1786191336.017575,
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786191336.017569,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5830799012",
+      "title": "Óculos De Sol Ray-ban Justin Rb4165 Estilo Casual Unissex",
+      "link": "https://www.mercadolivre.com.br/oculos-de-sol-rayban-justin-rb4165-estilo-casual-unissex/up/MLBU3502690975",
+      "current_price": 261,
+      "original_price": 599,
+      "discount": 56.4,
+      "difference": 338,
+      "criteria": [
+        "56.4% OFF",
+        "R$ 338 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_807407-MLB95835841273_102025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786194849.992075,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6209908906",
+      "title": "Bicicleta Equilíbrio Sem Pedal Andador Infantil Verde-claro",
+      "link": "https://www.mercadolivre.com.br/bicicleta-equilibrio-sem-pedal-andador-infantil-verde-claro/p/MLB65058936",
+      "current_price": 118.9,
+      "original_price": 299.9,
+      "discount": 60.4,
+      "difference": 181.0,
+      "criteria": [
+        "60.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_654767-MLA105503520170_012026-AB.webp",
+      "category": "[BALANCE_BICYCLES]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786194849.992075,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4000492789",
+      "title": "Jarra De Vidro Compatível Com Oster Oliq500 Oliq501 1,5l",
+      "link": "https://www.mercadolivre.com.br/jarra-de-vidro-compativel-com-oster-oliq500-oliq501-15l/p/MLB2038180837",
+      "current_price": 76.37,
+      "original_price": 167.77,
+      "discount": 54.5,
+      "difference": 91.4,
+      "criteria": [
+        "54.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 10",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_771375-MLB107953265503_032026-AB.webp",
+      "category": "[BLENDER_JARS]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786194849.992075,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5354705334",
+      "title": "Ducha Quadrada de Aço Inoxidável Preta Fosca Via Flix para Banheiro com Aquecedor a Gás",
+      "link": "https://www.mercadolivre.com.br/ducha-quadrada-de-aco-inoxidavel-preta-fosca-via-flix-para-banheiro-com-aquecedor-a-gas/p/MLB42794525",
+      "current_price": 67,
+      "original_price": 150,
+      "discount": 55.3,
+      "difference": 83,
+      "criteria": [
+        "55.3% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 8",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_803415-MLA96101662287_102025-AB.webp",
+      "category": "[SHOWER_HEADS]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786194849.992075,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4265002871",
+      "title": "Camiseta Feminina Manga Longa Proteção Solar Uv 50+",
+      "link": "https://produto.mercadolivre.com.br/MLB-4265002871-camiseta-feminina-manga-longa-proteco-solar-uv-50-_JM",
+      "current_price": 25.99,
+      "original_price": 49.99,
+      "discount": 48.0,
+      "difference": 24.0,
+      "criteria": [
+        "48.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_834082-MLB115191989353_072026-AB.webp",
+      "category": "[THERMAL_SHIRTS]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786194849.992075,
       "is_new": true
     },
     {
@@ -13799,10 +13939,10 @@
         "46.0% OFF",
         "R$ 1912.25 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_668136-MLA112365663317_052026-AB.webp",
       "category": "[ELECTRONIC_DRUMS]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785772342.218037,
       "is_new": false
     },
@@ -13818,10 +13958,10 @@
         "40.0% OFF",
         "R$ 1251.99 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_745794-MLA95696476334_102025-AB.webp",
       "category": "[SPEAKERS]",
-      "last_seen": 1786187559.059721,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786166702.619761,
       "is_new": false
     },
@@ -13836,10 +13976,10 @@
       "criteria": [
         "R$ 1172.19 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 8",
+      "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_888120-MLA115027451229_072026-AB.webp",
       "category": "[HOME_GYMS]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786180922.72024,
       "is_new": false
     },
@@ -13882,44 +14022,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5500225906",
-      "title": "Cadeira de Alimentação Portátil Joie Mimzy Snacker Alphabet até 15kg Dobrável Ajuste de Altura Bandeja Removível Compacta Fácil de Limpar",
-      "link": "https://www.mercadolivre.com.br/cadeira-de-alimentacao-portatil-joie-mimzy-snacker-alphabet-ate-15kg-dobravel-ajuste-de-altura-bandeja-removivel-compacta-facil-de-limpar/p/MLB23128770",
-      "current_price": 351.99,
-      "original_price": 776,
-      "discount": 54.6,
-      "difference": 424.01,
-      "criteria": [
-        "54.6% OFF",
-        "R$ 424.01 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_649532-MLA106595453254_022026-AB.webp",
-      "category": "[BABY_HIGH_CHAIRS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786169078.738692,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4159309481",
-      "title": "Vestido Super Midi De Alças Com Amarração",
-      "link": "https://produto.mercadolivre.com.br/MLB-4159309481-vestido-super-midi-de-alcas-com-amarraco-_JM",
-      "current_price": 197.01,
-      "original_price": 597,
-      "discount": 67.0,
-      "difference": 399.99,
-      "criteria": [
-        "67.0% OFF",
-        "R$ 399.99 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_766384-MLB89888358653_082025-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1785483419.458495,
-      "is_new": false
-    },
-    {
       "asin": "MLB7208414796",
       "title": "Tênis Puma 180 Sneaker Skate Robusto Urbano Macio Preto 40 Br",
       "link": "https://www.mercadolivre.com.br/tenis-puma-180-sneaker-skate-robusto-urbano-macio/up/MLBU4380351920",
@@ -13931,10 +14033,10 @@
         "65.8% OFF",
         "R$ 361.9 desc."
       ],
-      "badge": "🟡 ML | 3 VENDIDOS",
+      "badge": "🟡 ML | 4 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_701542-MLB112438320791_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786160455.235015,
       "is_new": false
     },
@@ -13952,8 +14054,8 @@
       "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_763731-MLA96152862791_102025-AB.webp",
       "category": "[GYM_BARS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1786172960.355831,
       "is_new": false
     },
     {
@@ -14006,26 +14108,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_758169-MLB105894234386_022026-AB.webp",
       "category": "[CURLING_IRONS]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3993945643",
-      "title": "Mochila Notebook 15,6 Usb Executiva Resistente 15l Ika Soft",
-      "link": "https://produto.mercadolivre.com.br/MLB-3993945643-mochila-notebook-156-usb-executiva-resistente-15l-ika-soft-_JM",
-      "current_price": 75.76,
-      "original_price": 189.9,
-      "discount": 60.1,
-      "difference": 114.14,
-      "criteria": [
-        "60.1% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_775567-MLB82604197318_032025-AB.webp",
-      "category": "[BACKPACKS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
       "is_new": false
     },
     {
@@ -14039,10 +14123,10 @@
       "criteria": [
         "41.0% OFF"
       ],
-      "badge": "🟡 ML | 5 VENDIDOS",
+      "badge": "🟡 ML | 7 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_873917-MLB106264535202_022026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785849596.955756,
       "is_new": false
     },
@@ -14057,10 +14141,10 @@
       "criteria": [
         "46.5% OFF"
       ],
-      "badge": "🟡 ML | 46 VENDIDOS",
+      "badge": "🟡 ML | 87 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_708210-MLA100016985413_122025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786189557.154874,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785814979.82702,
       "is_new": false
     },
@@ -14093,10 +14177,10 @@
       "criteria": [
         "42.0% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 15 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_902360-MLB54378895321_032023-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785989955.838596,
       "is_new": false
     },
@@ -14119,24 +14203,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6737840178",
-      "title": "Vestido Feminino Assimétrico Ombro Único Casual Chic Marrom Gg 44-46",
-      "link": "https://www.mercadolivre.com.br/vestido-feminino-assimetrico-ombro-unico-casual-chic/up/MLBU3956266126",
-      "current_price": 51.48,
-      "original_price": 129.99,
-      "discount": 60.4,
-      "difference": 78.51,
-      "criteria": [
-        "60.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_957507-MLB111381584267_052026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
       "asin": "MLB5721474416",
       "title": "Conjunto Feminino Completo Look Calça E Blusa Clássico",
       "link": "https://produto.mercadolivre.com.br/MLB-5721474416-conjunto-feminino-completo-look-calca-e-blusa-classico-_JM",
@@ -14150,7 +14216,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933225-MLB91209513390_092025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785208231.358935,
       "is_new": false
     },
@@ -14168,7 +14234,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_914812-MLB113985612924_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786186004.78279,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -14186,7 +14252,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_866769-MLA99533131226_122025-AB.webp",
       "category": "[BABY_CAR_SEATS]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786172960.355831,
       "is_new": false
     },
@@ -14222,7 +14288,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_639913-MLB112378051095_052026-AB.webp",
       "category": "[SWEATSHIRTS_AND_HOODIES]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786160455.235015,
       "is_new": false
     },
@@ -14242,42 +14308,6 @@
       "category": "[MOBILE_DEVICE_CHARGERS]",
       "last_seen": 1786180922.720246,
       "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB2864887258",
-      "title": "Parafusos  C/buchas Anel 6mm 8mm 10mm - Kit 550 Peças",
-      "link": "https://www.mercadolivre.com.br/parafusos--cbuchas-anel-6mm-8mm-10mm--kit-550-pecas/up/MLBU1428649893",
-      "current_price": 65.22,
-      "original_price": 124.9,
-      "discount": 47.8,
-      "difference": 59.68,
-      "criteria": [
-        "47.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_905437-MLB52009631373_102022-AB.webp",
-      "category": "[SCREWS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4279108359",
-      "title": "Tênis W-box Masculino Estilo Esportivo  Amortecimento",
-      "link": "https://produto.mercadolivre.com.br/MLB-4279108359-tnis-w-box-masculino-estilo-esportivo-amortecimento-_JM",
-      "current_price": 72.77,
-      "original_price": 129,
-      "discount": 43.6,
-      "difference": 56.23,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_639617-MLB110507433419_042026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1785943476.675234,
       "is_new": false
     },
     {
@@ -14312,8 +14342,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916993-MLA105989638129_012026-AB.webp",
       "category": "[WATER_HEATERS]",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786160455.235015,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5378932862",
+      "title": "Palmilha Para Dor Calcanhar E Inchaço Pés Tamanho da palmilha 1Par 35a40",
+      "link": "https://www.mercadolivre.com.br/palmilha-para-dor-calcanhar-e-inchaco-pes-tamanho-da-palmilha-1par-35a40/p/MLB28607377",
+      "current_price": 32.15,
+      "original_price": 78.9,
+      "discount": 59.3,
+      "difference": 46.75,
+      "criteria": [
+        "59.3% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_732836-MLA79370861056_092024-AB.webp",
+      "category": "[ORTHOTIC_INSERTS]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1785814979.82702,
       "is_new": false
     },
     {
@@ -14345,29 +14393,11 @@
       "criteria": [
         "43.8% OFF"
       ],
-      "badge": "🟡 ML | 3 VENDIDOS",
+      "badge": "🟡 ML | 9 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_699986-MLB114287063451_072026-AB.webp",
       "category": "[ANKLE_AND_WRIST_WEIGHTS]",
-      "last_seen": 1786187559.059721,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4250175663",
-      "title": "Bico Nozzle Hotend Creality K1 K1c K1max 0.4mm Endurecido",
-      "link": "https://www.mercadolivre.com.br/bico-nozzle-hotend-creality-k1-k1c-k1max-04mm-endurecido/p/MLB2082652001",
-      "current_price": 38.97,
-      "original_price": 78,
-      "discount": 50.0,
-      "difference": 39.03,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_946851-MLB94981629687_102025-AB.webp",
-      "category": "[3D_PRINTER_NOZZLES]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786169078.738692,
       "is_new": false
     },
     {
@@ -14407,42 +14437,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3802439001",
-      "title": "Capa Acrílico Com Suporte Caneta Para iPad 8 10.2 -  (a2270)",
-      "link": "https://produto.mercadolivre.com.br/MLB-3802439001-capa-acrilico-com-suporte-caneta-para-ipad-8-102-a2270-_JM",
-      "current_price": 42.41,
-      "original_price": 78.99,
-      "discount": 46.3,
-      "difference": 36.58,
-      "criteria": [
-        "46.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_797311-MLB90488105645_082025-AB.webp",
-      "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3886125361",
-      "title": "Camisa De Pesca Black Uv 50+ Dry Fit Proteção Solar Full",
-      "link": "https://produto.mercadolivre.com.br/MLB-3886125361-camisa-de-pesca-black-uv-50-dry-fit-proteco-solar-full-_JM",
-      "current_price": 43,
-      "original_price": 78.9,
-      "discount": 45.5,
-      "difference": 35.9,
-      "criteria": [
-        "45.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_673371-MLB92438912603_092025-AB.webp",
-      "category": "[FISHING_SHIRTS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
       "asin": "MLB4115144717",
       "title": "Apoio De Pés Descanso Ergonômico Com Massageador Escritório Norma Regulamentadora NR 17 Ergonomia",
       "link": "https://www.mercadolivre.com.br/apoio-de-pes-descanso-ergonomico-com-massageador-escritorio-norma-regulamentadora-nr-17-ergonomia/p/MLB65918398",
@@ -14456,7 +14450,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_619201-MLA110378190837_042026-AB.webp",
       "category": "[HOME_AND_OFFICE_FOOTRESTS]",
-      "last_seen": 1786187559.059721,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786166702.619761,
       "is_new": false
     },
@@ -14476,24 +14470,6 @@
       "category": "[VEHICLE_COATING_PRODUCTS]",
       "last_seen": 1786178459.310327,
       "discovery_ts": 1786160455.235015,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3774962349",
-      "title": "Kit 2 Travesseiro Antialérgico Regulável Lavável Fibra 50x70 Branco",
-      "link": "https://www.mercadolivre.com.br/kit-2-travesseiro-antialergico-regulavel-lavavel-fibra-50x70/up/MLBU1983713758",
-      "current_price": 45.81,
-      "original_price": 78.99,
-      "discount": 42.0,
-      "difference": 33.18,
-      "criteria": [
-        "42.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_936804-MLB98157444182_112025-AB.webp",
-      "category": "[PILLOWS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
       "is_new": false
     },
     {
@@ -14533,6 +14509,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB3933035477",
+      "title": "Capa Resistente A Queda + Caneta Touch Para Redmi Pad Se 8,7",
+      "link": "https://produto.mercadolivre.com.br/MLB-3933035477-capa-resistente-a-queda-caneta-touch-para-redmi-pad-se-87-_JM",
+      "current_price": 47.3,
+      "original_price": 78.99,
+      "discount": 40.1,
+      "difference": 31.69,
+      "criteria": [
+        "40.1% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_716109-MLB81123864568_122024-AB.webp",
+      "category": "[TABLET_CASES_AND_COVERS]",
+      "last_seen": 1786194849.992075,
+      "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
       "asin": "MLB4040505991",
       "title": "Tapete Interativo Térmico Tatame Infantil Educativo P/ Bebê",
       "link": "https://www.mercadolivre.com.br/tapete-interativo-termico-tatame-infantil-educativo-p-bebe/up/MLBU3142856152",
@@ -14561,10 +14555,10 @@
       "criteria": [
         "44.8% OFF"
       ],
-      "badge": "🟡 ML | 6 VENDIDOS",
+      "badge": "🟡 ML | 10 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_828826-MLB91123700135_082025-AB.webp",
       "category": "[SPORT_AND_BAZAAR_BOTTLES]",
-      "last_seen": 1786187559.059721,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786169078.738692,
       "is_new": false
     },
@@ -14587,24 +14581,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4432494209",
-      "title": "Sandália Infantil Menina Laço Coração Delicada Confortável",
-      "link": "https://produto.mercadolivre.com.br/MLB-4432494209-sandalia-infantil-menina-laco-coraco-delicada-confortavel-_JM",
-      "current_price": 39.4,
-      "original_price": 69.9,
-      "discount": 43.6,
-      "difference": 30.5,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_714495-MLB105352160383_012026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
       "asin": "MLB6475654316",
       "title": "Esguicho Giratório Irrigador Base Jardim Regulador Pressão 360 Sprinkler Para Grama E Horta e Acessórios QBQ IMPORT",
       "link": "https://www.mercadolivre.com.br/esguicho-giratorio-irrigador-base-jardim-regulador-pressao-360-sprinkler-para-grama-e-horta-e-acessorios-qbq-import/p/MLB44897492",
@@ -14615,47 +14591,11 @@
       "criteria": [
         "54.4% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 17 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_836544-MLA106725810786_022026-AB.webp",
       "category": "[IRRIGATION_SPRINKLERS]",
-      "last_seen": 1786187559.059721,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4838994367",
-      "title": "Sapatilha Nautica Flexivel Ideal Para Pesca Faxina Trilha Verde 41 Br",
-      "link": "https://www.mercadolivre.com.br/sapatilha-nautica-flexivel-ideal-para-pesca-faxina-trilha/up/MLBU3246319174",
-      "current_price": 41.71,
-      "original_price": 69.9,
-      "discount": 40.3,
-      "difference": 28.19,
-      "criteria": [
-        "40.3% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_840204-MLB83734165340_042025-AB.webp",
-      "category": "[NEOPRENE_BOOTS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1785989955.838596,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3935692475",
-      "title": "Capinha Couro Para Kindle 12ª Gen Rs23cv - Ultra Leve",
-      "link": "https://produto.mercadolivre.com.br/MLB-3935692475-capinha-couro-para-kindle-12-gen-rs23cv-ultra-leve-_JM",
-      "current_price": 31,
-      "original_price": 56.08,
-      "discount": 44.7,
-      "difference": 25.08,
-      "criteria": [
-        "44.7% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_951341-MLB91145927404_092025-AB.webp",
-      "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
       "is_new": false
     },
     {
@@ -14677,24 +14617,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3935703311",
-      "title": "Capa Para Kindle 12 Gen 2024 Rs23cv + Couro Com Alça Interna",
-      "link": "https://produto.mercadolivre.com.br/MLB-3935703311-capa-para-kindle-12-gen-2024-rs23cv-couro-com-alca-interna-_JM",
-      "current_price": 31.65,
-      "original_price": 56.08,
-      "discount": 43.6,
-      "difference": 24.43,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_942234-MLB91145868402_092025-AB.webp",
-      "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
       "asin": "MLB3765138431",
       "title": "Ponta Caneta S Pen Para Samsung Tab S6 Lite/ S7 / Note 10 20",
       "link": "https://produto.mercadolivre.com.br/MLB-3765138431-ponta-caneta-s-pen-para-samsung-tab-s6-lite-s7-note-10-20-_JM",
@@ -14713,24 +14635,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6177901226",
-      "title": "Papel Parede Lavável Autocolante Rolo Adesivo Decorativo 5m Cinza Claro",
-      "link": "https://www.mercadolivre.com.br/papel-parede-lavavel-autocolante-rolo-adesivo-decorativo-5m/up/MLBU3741588122",
-      "current_price": 27.55,
-      "original_price": 49.9,
-      "discount": 44.8,
-      "difference": 22.35,
-      "criteria": [
-        "44.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_754486-MLB104338826340_012026-AB.webp",
-      "category": "[WALLPAPER_ROLLS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786169078.738692,
-      "is_new": false
-    },
-    {
       "asin": "MLB5831852094",
       "title": "Arandela Duo Led 4w Ip65 3000k Preto 2 Fachos Duplo",
       "link": "https://www.mercadolivre.com.br/arandela-duo-led-4w-ip65-3000k-preto-2-fachos-duplo/p/MLB56472894",
@@ -14744,7 +14648,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_737707-MLA93337423108_092025-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786189557.154874,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -14785,60 +14689,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4162147829",
-      "title": "Lixa 240 320 500 1200 2500 D'agua Kit 1 Cada Polimento Grão 2402500",
-      "link": "https://www.mercadolivre.com.br/lixa-240-320-500-1200-2500-dagua-kit-1-cada-polimento-grao/up/MLBU3289398167",
-      "current_price": 21.19,
-      "original_price": 36.52,
-      "discount": 42.0,
-      "difference": 15.33,
-      "criteria": [
-        "42.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_784636-MLB113488933401_062026-AB.webp",
-      "category": "[SANDPAPERS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1785208851.763192,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5444803680",
-      "title": "Balão Bexiga 9 Polegadas 25 Unidades Metalizado Alumínio",
-      "link": "https://produto.mercadolivre.com.br/MLB-5444803680-balo-bexiga-9-polegadas-25-unidades-metalizado-aluminio-_JM",
-      "current_price": 20.79,
-      "original_price": 34.9,
-      "discount": 40.4,
-      "difference": 14.11,
-      "criteria": [
-        "40.4% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_786570-MLB71732294234_092023-AB.webp",
-      "category": "[BALLOONS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3937201007",
-      "title": "Saco para Lixo Boca Larga 110l Embalixo 25 Unidades",
-      "link": "https://www.mercadolivre.com.br/saco-para-lixo-boca-larga-110l-embalixo-25-unidades/p/MLB16200503",
-      "current_price": 12.11,
-      "original_price": 24.97,
-      "discount": 51.5,
-      "difference": 12.86,
-      "criteria": [
-        "51.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_992082-MLA112776391236_062026-AB.webp",
-      "category": "[TRASH_BAGS]",
-      "last_seen": 1786172960.355838,
-      "discovery_ts": 1786172960.355838,
-      "is_new": false
-    },
-    {
       "asin": "MLB2971873183",
       "title": "Proteção De Tela Em Acrilico/ Vidro Para Amazfit Gts 4 A2168",
       "link": "https://produto.mercadolivre.com.br/MLB-2971873183-proteco-de-tela-em-acrilico-vidro-para-amazfit-gts-4-a2168-_JM",
@@ -14852,7 +14702,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_887148-MLB77742115030_072024-AB.webp",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786191336.017575,
+      "last_seen": 1786194849.992075,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     }
