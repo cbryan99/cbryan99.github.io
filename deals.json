@@ -1,5 +1,5 @@
 {
-  "last_check": "08/08/2026 14:35:38",
+  "last_check": "08/08/2026 15:01:14",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -8031,6 +8031,10 @@
         {
           "price": 15.96,
           "date": "2026-08-01T23:43:40.487505"
+        },
+        {
+          "price": 16.03,
+          "date": "2026-08-08T15:01:14.697008"
         }
       ]
     },
@@ -12490,6 +12494,10 @@
         {
           "price": 252.99,
           "date": "2026-08-07T05:04:13.765202"
+        },
+        {
+          "price": 266.99,
+          "date": "2026-08-08T15:01:14.697008"
         }
       ]
     },
@@ -12503,6 +12511,10 @@
         {
           "price": 292,
           "date": "2026-08-07T05:04:13.765202"
+        },
+        {
+          "price": 291.99,
+          "date": "2026-08-08T15:01:14.697008"
         }
       ]
     },
@@ -13814,9 +13826,81 @@
           "date": "2026-08-08T13:14:09.992067"
         }
       ]
+    },
+    "MLB3310355091": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 1660,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
+    },
+    "MLB5474859082": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 178.1,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
+    },
+    "MLB5652387318": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 35.05,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
+    },
+    "MLB5785018436": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 206.79,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
+    },
+    "MLB5704070286": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 28.77,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
+    },
+    "MLB6024915484": {
+      "discovery_date": "2026-08-08T15:01:14.697008",
+      "price_history": [
+        {
+          "price": 46.9,
+          "date": "2026-08-08T15:01:14.697008"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "MLB3310355091",
+      "title": "Pc Gamer Cpu Intel I7 3.4ghz Ssd 480gb Memoria Ram 16gb 500w 16 Gb",
+      "link": "https://www.mercadolivre.com.br/pc-gamer-cpu-intel-i7-34ghz-ssd-480gb-memoria-ram-16gb-500w/up/MLBU1975506492",
+      "current_price": 1660,
+      "original_price": 2095,
+      "discount": 20.8,
+      "difference": 435,
+      "criteria": [
+        "R$ 435 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 10",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_970104-MLB108086375386_032026-AB.webp",
+      "category": "[DESKTOP_COMPUTER_KITS]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
+      "is_new": true
+    },
     {
       "asin": "MLB5830799012",
       "title": "Óculos De Sol Ray-ban Justin Rb4165 Estilo Casual Unissex",
@@ -13837,6 +13921,24 @@
       "is_new": true
     },
     {
+      "asin": "MLB5474859082",
+      "title": "Mouse Gamer Attack Shark X11 22000dpi Sem Fio Usb Bluetooth Preto",
+      "link": "https://www.mercadolivre.com.br/mouse-gamer-attack-shark-x11-22000dpi-sem-fio-usb-bluetooth/up/MLBU3269725495",
+      "current_price": 178.1,
+      "original_price": 429,
+      "discount": 58.5,
+      "difference": 250.9,
+      "criteria": [
+        "58.5% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_654932-MLU78875475994_092024-AB.webp",
+      "category": "[COMPUTER_MICE]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
+      "is_new": true
+    },
+    {
       "asin": "MLB6209908906",
       "title": "Bicicleta Equilíbrio Sem Pedal Andador Infantil Verde-claro",
       "link": "https://www.mercadolivre.com.br/bicicleta-equilibrio-sem-pedal-andador-infantil-verde-claro/p/MLB65058936",
@@ -13852,6 +13954,24 @@
       "category": "[BALANCE_BICYCLES]",
       "last_seen": 1786199738.447059,
       "discovery_ts": 1786194849.992067,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5785018436",
+      "title": "Perfume Unissex Eau de Parfum Zakat Areej Al Ward Rose 100ml Floral",
+      "link": "https://www.mercadolivre.com.br/perfume-unissex-eau-de-parfum-zakat-areej-al-ward-rose-100ml-floral/p/MLB49285311",
+      "current_price": 206.79,
+      "original_price": 349,
+      "discount": 40.7,
+      "difference": 142.21,
+      "criteria": [
+        "40.7% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_743251-MLA84237273228_052025-AB.webp",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
       "is_new": true
     },
     {
@@ -13888,6 +14008,60 @@
       "category": "[SHOWER_HEADS]",
       "last_seen": 1786199738.447059,
       "discovery_ts": 1786194849.992067,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6024915484",
+      "title": "Creality - Graxa Térmica Para Impressoras 3d",
+      "link": "https://produto.mercadolivre.com.br/MLB-6024915484-creality-graxa-termica-para-impressoras-3d-_JM",
+      "current_price": 46.9,
+      "original_price": 111.77,
+      "discount": 58.0,
+      "difference": 64.87,
+      "criteria": [
+        "58.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_990850-CBT100818673641_122025-AB.webp",
+      "category": "[COMPUTER_EQUIPMENT_AND_REPLACEMENTS]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5652387318",
+      "title": "Kit 9 Pares Meias Cano Baixo Invisivel Sapatilha Polo Fit",
+      "link": "https://produto.mercadolivre.com.br/MLB-5652387318-kit-9-pares-meias-cano-baixo-invisivel-sapatilha-polo-fit-_JM",
+      "current_price": 35.05,
+      "original_price": 77.9,
+      "discount": 55.0,
+      "difference": 42.85,
+      "criteria": [
+        "55.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_954200-MLB111198255852_052026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5704070286",
+      "title": "Camiseta Masculina Cruz Street Cristã Casual Algodão Premium",
+      "link": "https://produto.mercadolivre.com.br/MLB-5704070286-camiseta-masculina-cruz-street-crist-casual-algodo-premium-_JM",
+      "current_price": 28.77,
+      "original_price": 69.99,
+      "discount": 58.9,
+      "difference": 41.22,
+      "criteria": [
+        "58.9% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_899784-MLB92519355825_092025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786201274.697015,
       "is_new": true
     },
     {
@@ -14041,6 +14215,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB5249519268",
+      "title": "Tênis Masculino adidas Acelera 2 Corrida Caminhada Leve",
+      "link": "https://produto.mercadolivre.com.br/MLB-5249519268-tnis-masculino-adidas-acelera-2-corrida-caminhada-leve-_JM",
+      "current_price": 266.99,
+      "original_price": 499.99,
+      "discount": 46.6,
+      "difference": 233.0,
+      "criteria": [
+        "46.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_924131-MLB95952932823_102025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786038777.187815,
+      "is_new": false
+    },
+    {
       "asin": "MLB5291454810",
       "title": "Barra W Olímpica 120cm Academia Com 2 Presilhas",
       "link": "https://www.mercadolivre.com.br/barra-w-olimpica-120cm-academia-com-2-presilhas/p/MLB46167855",
@@ -14056,6 +14248,24 @@
       "category": "[GYM_BARS]",
       "last_seen": 1786199738.447059,
       "discovery_ts": 1786172960.355831,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3948238531",
+      "title": "Tênis adidas Acelera Running Esportivo Conforto - Feminino",
+      "link": "https://produto.mercadolivre.com.br/MLB-3948238531-tnis-adidas-acelera-running-esportivo-conforto-feminino-_JM",
+      "current_price": 291.99,
+      "original_price": 499.99,
+      "discount": 41.6,
+      "difference": 208.0,
+      "criteria": [
+        "41.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_928179-MLB92463558686_092025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1786038777.187815,
       "is_new": false
     },
     {
@@ -14311,24 +14521,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4219132509",
-      "title": "Capa Proteção Extra Para Xiaomi Redmi Pad 2 11 Pol. 2025",
-      "link": "https://produto.mercadolivre.com.br/MLB-4219132509-capa-proteco-extra-para-xiaomi-redmi-pad-2-11-pol-2025-_JM",
-      "current_price": 66.06,
-      "original_price": 119,
-      "discount": 44.5,
-      "difference": 52.94,
-      "criteria": [
-        "44.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_843194-MLB92794365078_092025-AB.webp",
-      "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786178459.310327,
-      "discovery_ts": 1785299081.51594,
-      "is_new": false
-    },
-    {
       "asin": "MLB5430024734",
       "title": "Caixa Porta Pilha Simples Aquecedor Ko 0100021533 Komeco",
       "link": "https://www.mercadolivre.com.br/caixa-porta-pilha-simples-aquecedor-ko-0100021533-komeco/p/MLB37998486",
@@ -14383,6 +14575,42 @@
       "is_new": false
     },
     {
+      "asin": "MLB4341462355",
+      "title": "Spray Derrete Gorduras Para Limpeza De Cozinhas E Eletro",
+      "link": "https://www.mercadolivre.com.br/spray-derrete-gorduras-para-limpeza-de-cozinhas-e-eletro/up/MLBU3645088279",
+      "current_price": 29.1,
+      "original_price": 73.8,
+      "discount": 60.6,
+      "difference": 44.7,
+      "criteria": [
+        "60.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_657075-MLA101066721851_122025-AB.webp",
+      "category": "[MULTIPURPOSE_CLEANERS_AND_DISINFECTANTS]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1785258352.585216,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5100806342",
+      "title": "Kit 9 Meias Sport Polo Fit Pares Masculino Algodão Invisivel",
+      "link": "https://produto.mercadolivre.com.br/MLB-5100806342-kit-9-meias-sport-polo-fit-pares-masculino-algodo-invisivel-_JM",
+      "current_price": 36.66,
+      "original_price": 78.9,
+      "discount": 53.5,
+      "difference": 42.24,
+      "criteria": [
+        "53.5% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
       "asin": "MLB3933730528",
       "title": "Par Munhequeira Elástica Pro Compressão Ajustável Musculação",
       "link": "https://produto.mercadolivre.com.br/MLB-3933730528-par-munhequeira-elastica-pro-compresso-ajustavel-musculaco-_JM",
@@ -14398,6 +14626,24 @@
       "category": "[ANKLE_AND_WRIST_WEIGHTS]",
       "last_seen": 1786199738.447059,
       "discovery_ts": 1786166702.619761,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4437894516",
+      "title": "Calça Feminina Plus Size Size Capri Vermelho Elástico",
+      "link": "https://produto.mercadolivre.com.br/MLB-4437894516-calca-feminina-plus-size-size-capri-vermelho-elastico-_JM",
+      "current_price": 40.04,
+      "original_price": 79,
+      "discount": 49.3,
+      "difference": 38.96,
+      "criteria": [
+        "49.3% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_911185-MLB85886691559_062025-AB.webp",
+      "category": "[PANTS]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1785568625.106273,
       "is_new": false
     },
     {
@@ -14452,24 +14698,6 @@
       "category": "[HOME_AND_OFFICE_FOOTRESTS]",
       "last_seen": 1786197544.46985,
       "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4659783065",
-      "title": "WD-40 LIMPADOR MULTIUSO DESENCRAVANTE AUTOMOTIVO 300 Ml LIMPADOR",
-      "link": "https://www.mercadolivre.com.br/wd-40-limpador-multiuso-desencravante-automotivo-300-ml-limpador/p/MLB34693612",
-      "current_price": 35,
-      "original_price": 69.9,
-      "discount": 49.9,
-      "difference": 34.9,
-      "criteria": [
-        "49.9% OFF"
-      ],
-      "badge": "🟡 ML | 38 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_745023-MLA111651599695_052026-AB.webp",
-      "category": "[VEHICLE_COATING_PRODUCTS]",
-      "last_seen": 1786178459.310327,
-      "discovery_ts": 1786160455.235015,
       "is_new": false
     },
     {
@@ -14668,6 +14896,24 @@
       "category": "[AUDIO_AND_VIDEO_CABLES_AND_ADAPTERS]",
       "last_seen": 1786187559.059721,
       "discovery_ts": 1786160455.235015,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4483268383",
+      "title": "Boné Unissex Ajustável Camuflado",
+      "link": "https://produto.mercadolivre.com.br/MLB-4483268383-bone-unissex-ajustavel-camuflado-_JM",
+      "current_price": 16.03,
+      "original_price": 28.11,
+      "discount": 43.0,
+      "difference": 12.08,
+      "criteria": [
+        "43.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_744953-CBT107548011759_022026-AB.webp",
+      "category": "[HATS_AND_CAPS]",
+      "last_seen": 1786201274.697015,
+      "discovery_ts": 1785627820.487505,
       "is_new": false
     },
     {
