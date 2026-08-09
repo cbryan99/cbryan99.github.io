@@ -1,5 +1,5 @@
 {
-  "last_check": "09/08/2026 21:06:31",
+  "last_check": "09/08/2026 21:44:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -15150,6 +15150,24 @@
           "date": "2026-08-09T21:06:31.686713"
         }
       ]
+    },
+    "MLB6443843222": {
+      "discovery_date": "2026-08-09T21:44:59.545881",
+      "price_history": [
+        {
+          "price": 83.99,
+          "date": "2026-08-09T21:44:59.545881"
+        }
+      ]
+    },
+    "MLB3900534851": {
+      "discovery_date": "2026-08-09T21:44:59.545881",
+      "price_history": [
+        {
+          "price": 139.96,
+          "date": "2026-08-09T21:44:59.545881"
+        }
+      ]
     }
   },
   "data": [
@@ -15170,6 +15188,24 @@
       "category": "[ELECTRIC_TOOL_KITS]",
       "last_seen": 1786309591.686721,
       "discovery_ts": 1786305558.177326,
+      "is_new": true
+    },
+    {
+      "asin": "MLB3900534851",
+      "title": "Papete Dumond Couro Preta",
+      "link": "https://produto.mercadolivre.com.br/MLB-3900534851-papete-dumond-couro-preta-_JM",
+      "current_price": 139.96,
+      "original_price": 349.9,
+      "discount": 60.0,
+      "difference": 209.94,
+      "criteria": [
+        "60.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 7",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_903861-MLB97910226186_112025-AB.webp",
+      "category": "[SANDALS_AND_CLOGS]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786311899.545887,
       "is_new": true
     },
     {
@@ -15204,8 +15240,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_938912-MLA94808681218_102025-AB.webp",
       "category": "[VINYL_ROLLS_AND_SHEETS]",
-      "last_seen": 1786305558.177333,
-      "discovery_ts": 1786305558.177333,
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786305558.177326,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6443843222",
+      "title": "Sapato Feminino Scarpin Preto Vizzano 15745 - Preto 01 Liso 36",
+      "link": "https://www.mercadolivre.com.br/sapato-feminino-scarpin-preto-vizzano/up/MLBU734000298",
+      "current_price": 83.99,
+      "original_price": 149.9,
+      "discount": 44.0,
+      "difference": 65.91,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "🟡 ML | 5 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_785493-MLB112258249879_052026-AB.webp",
+      "category": "[HEELS_AND_WEDGES]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786311899.545887,
       "is_new": true
     },
     {
@@ -15222,7 +15276,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_875756-MLB87293796833_072025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786305558.177326,
       "is_new": true
     },
@@ -15294,7 +15348,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_610915-MLA104463057170_012026-AB.webp",
       "category": "[DESKTOP_COMPUTER_KITS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786301765.096934,
       "is_new": false
     },
@@ -15331,7 +15385,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_615823-MLA102380010565_122025-AB.webp",
       "category": "[POWERED_RIDE_ON_TOYS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786301765.096934,
       "is_new": false
     },
@@ -15350,7 +15404,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_892877-MLA95146754494_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785625724.070771,
       "is_new": false
     },
@@ -15393,25 +15447,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5979848372",
-      "title": "Bicicleta Ergométrica Spinning Profissional Fitness Academia Sport 120 Kgs Preto Premium Bike academia para Cardio e Musculação com base + brinde SQUEEZEBAR",
-      "link": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-profissional-fitness-academia-sport-120-kgs-preto-premium-bike-academia-para-cardio-e-musculacao-com-base-brinde-squeezebar/p/MLB53486618",
-      "current_price": 575,
-      "original_price": 1123.75,
-      "discount": 48.8,
-      "difference": 548.75,
-      "criteria": [
-        "48.8% OFF",
-        "R$ 548.75 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_692054-MLA99720253775_112025-AB.webp",
-      "category": "[STATIONARY_BICYCLES]",
-      "last_seen": 1786288511.425792,
-      "discovery_ts": 1786288511.425792,
-      "is_new": false
-    },
-    {
       "asin": "MLB6549197082",
       "title": "Kit 4 Pneus 175/75r13 84t Rp203 Poise Aptany Aro 13",
       "link": "https://www.mercadolivre.com.br/kit-4-pneus-17575r13-84t-rp203-poise-aptany-aro-13/p/MLB34807442",
@@ -15425,7 +15460,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804665-MLU77360009679_062024-AB.webp",
       "category": "[AUTOMOTIVE_TIRES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786129951.624788,
       "is_new": false
     },
@@ -15467,6 +15502,44 @@
       "is_new": false
     },
     {
+      "asin": "MLB4918638697",
+      "title": "Espelho retangular grande com Moldura Lapidado 100x50 Preto",
+      "link": "https://www.mercadolivre.com.br/espelho-retangular-grande-com-moldura-lapidado-100x50-preto/p/MLB75481302",
+      "current_price": 94.99,
+      "original_price": 399.99,
+      "discount": 76.3,
+      "difference": 305.0,
+      "criteria": [
+        "76.3% OFF",
+        "R$ 305.0 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_883401-MLA113308418138_072026-AB.webp",
+      "category": "[MIRRORS]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786288511.425785,
+      "is_new": false
+    },
+    {
+      "asin": "MLB7209201812",
+      "title": "Espelho grande Orgânico com Moldura Lapidado 100x50 Caramelo",
+      "link": "https://www.mercadolivre.com.br/espelho-grande-organico-com-moldura-lapidado-100x50-caramelo/p/MLB74774133",
+      "current_price": 94.99,
+      "original_price": 399.99,
+      "discount": 76.3,
+      "difference": 305.0,
+      "criteria": [
+        "76.3% OFF",
+        "R$ 305.0 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_624383-MLA112785812088_062026-AB.webp",
+      "category": "[MIRRORS]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786288511.425785,
+      "is_new": false
+    },
+    {
       "asin": "MLB4940607573",
       "title": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
       "link": "https://www.mercadolivre.com.br/espelho-100x50-organico-corpo-inteiro-grande-moldura-caramelo/p/MLB55868679",
@@ -15486,44 +15559,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4918638697",
-      "title": "Espelho retangular grande com Moldura Lapidado 100x50 Preto",
-      "link": "https://www.mercadolivre.com.br/espelho-retangular-grande-com-moldura-lapidado-100x50-preto/p/MLB75481302",
-      "current_price": 94.99,
-      "original_price": 399.99,
-      "discount": 76.3,
-      "difference": 305.0,
-      "criteria": [
-        "76.3% OFF",
-        "R$ 305.0 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_883401-MLA113308418138_072026-AB.webp",
-      "category": "[MIRRORS]",
-      "last_seen": 1786309591.686721,
-      "discovery_ts": 1786288511.425785,
-      "is_new": false
-    },
-    {
-      "asin": "MLB7209201812",
-      "title": "Espelho grande Orgânico com Moldura Lapidado 100x50 Caramelo",
-      "link": "https://www.mercadolivre.com.br/espelho-grande-organico-com-moldura-lapidado-100x50-caramelo/p/MLB74774133",
-      "current_price": 94.99,
-      "original_price": 399.99,
-      "discount": 76.3,
-      "difference": 305.0,
-      "criteria": [
-        "76.3% OFF",
-        "R$ 305.0 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_624383-MLA112785812088_062026-AB.webp",
-      "category": "[MIRRORS]",
-      "last_seen": 1786309591.686721,
-      "discovery_ts": 1786288511.425785,
-      "is_new": false
-    },
-    {
       "asin": "MLB2147554247",
       "title": "Tênis Lacoste T-base Lancamento",
       "link": "https://produto.mercadolivre.com.br/MLB-2147554247-tnis-lacoste-t-base-lancamento-_JM",
@@ -15535,10 +15570,10 @@
         "61.2% OFF",
         "R$ 300.0 desc."
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 55 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_782822-MLB93205744763_092025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -15556,7 +15591,7 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_637945-MLA106531612516_022026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786301765.096934,
       "is_new": false
     },
@@ -15628,7 +15663,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_896552-CBT105188918639_012026-AB.webp",
       "category": "[VEHICLE_LED_BULBS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785438126.314124,
       "is_new": false
     },
@@ -15664,7 +15699,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_930645-MLA96869500172_112025-AB.webp",
       "category": "[MIRRORS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     },
@@ -15718,8 +15753,26 @@
       "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959078-MLB111192627268_052026-AB.webp",
       "category": "[BOOTS_AND_BOOTIES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786290536.167453,
+      "is_new": false
+    },
+    {
+      "asin": "MLB6209908906",
+      "title": "Bicicleta Equilíbrio Sem Pedal Andador Infantil Verde-claro",
+      "link": "https://www.mercadolivre.com.br/bicicleta-equilibrio-sem-pedal-andador-infantil-verde-claro/p/MLB65058936",
+      "current_price": 118.9,
+      "original_price": 299.9,
+      "discount": 60.4,
+      "difference": 181.0,
+      "criteria": [
+        "60.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_654767-MLA105503520170_012026-AB.webp",
+      "category": "[BALANCE_BICYCLES]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1786194849.992067,
       "is_new": false
     },
     {
@@ -15808,7 +15861,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_642144-MLB71365749074_082023-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -15949,10 +16002,10 @@
       "criteria": [
         "52.1% OFF"
       ],
-      "badge": "🟡 ML | 24 VENDIDOS",
+      "badge": "🟡 ML | 26 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_803983-MLA113199350763_062026-AB.webp",
       "category": "[AM_FM_SW_RADIOS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     },
@@ -15967,10 +16020,10 @@
       "criteria": [
         "42.1% OFF"
       ],
-      "badge": "🟡 ML | 47 VENDIDOS",
+      "badge": "🟡 ML | 50 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_995332-MLA114845503161_072026-AB.webp",
       "category": "[OUTDOOR_TABLES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785287058.57229,
       "is_new": false
     },
@@ -16060,7 +16113,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_996083-CBT114871948487_072026-AB.webp",
       "category": "[PENCILS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16114,7 +16167,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_828290-MLA99494665488_112025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
@@ -16150,7 +16203,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_750197-MLA99506070940_112025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785527244.279413,
       "is_new": false
     },
@@ -16258,7 +16311,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -16276,7 +16329,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916993-MLA105989638129_012026-AB.webp",
       "category": "[WATER_HEATERS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786160455.235015,
       "is_new": false
     },
@@ -16312,7 +16365,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_832178-MLA104025936094_012026-AB.webp",
       "category": "[OBJECT_FINDERS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785406754.569515,
       "is_new": false
     },
@@ -16366,8 +16419,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674225-MLB70216867727_062023-AB.webp",
       "category": "[OPTICAL_INSTRUMENTS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785655214.729552,
+      "is_new": false
+    },
+    {
+      "asin": "MLB2724734998",
+      "title": "Cordao Oculos Infantil Adulto Menino Menina Ajustavel Salva",
+      "link": "https://produto.mercadolivre.com.br/MLB-2724734998-cordao-oculos-infantil-adulto-menino-menina-ajustavel-salva-_JM",
+      "current_price": 37.63,
+      "original_price": 69.9,
+      "discount": 46.2,
+      "difference": 32.27,
+      "criteria": [
+        "46.2% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_960488-MLB49875731381_052022-AB.webp",
+      "category": "[FASHION_ACCESSORIES]",
+      "last_seen": 1786311899.545887,
+      "discovery_ts": 1785824163.623413,
       "is_new": false
     },
     {
@@ -16384,7 +16455,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_863846-CBT110020763896_042026-AB.webp",
       "category": "[SQUISHIES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786301765.096934,
       "is_new": false
     },
@@ -16435,10 +16506,10 @@
       "criteria": [
         "44.8% OFF"
       ],
-      "badge": "🟡 ML | 18 VENDIDOS",
+      "badge": "🟡 ML | 24 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_821462-MLA108925035208_032026-AB.webp",
       "category": "[AIRTIGHT_AND_VACUUM_BAGS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785960401.955246,
       "is_new": false
     },
@@ -16453,10 +16524,10 @@
       "criteria": [
         "53.6% OFF"
       ],
-      "badge": "🟡 ML | 34 VENDIDOS",
+      "badge": "🟡 ML | 39 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_653974-CBT113888348187_062026-AB.webp",
       "category": "[SQUISHIES]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785705156.78269,
       "is_new": false
     },
@@ -16474,7 +16545,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_708911-MLB91913988316_092025-AB.webp",
       "category": "[COMPUTER_EQUIPMENT_AND_REPLACEMENTS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -16492,7 +16563,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_706728-CBT109588700011_032026-AB.webp",
       "category": "[HAIRDRESSING_CLIPS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16510,7 +16581,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_964488-CBT107667500104_032026-AB.webp",
       "category": "[PLANT_POTS_AND_PLANTERS]",
-      "last_seen": 1786309591.686721,
+      "last_seen": 1786311899.545887,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     }
