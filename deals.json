@@ -1,5 +1,5 @@
 {
-  "last_check": "09/08/2026 19:29:50",
+  "last_check": "09/08/2026 19:59:18",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2919,6 +2919,10 @@
         {
           "price": 32.47,
           "date": "2026-08-01T04:41:11.197150"
+        },
+        {
+          "price": 33.28,
+          "date": "2026-08-09T19:59:18.177326"
         }
       ]
     },
@@ -15083,6 +15087,60 @@
           "date": "2026-08-09T18:56:05.096934"
         }
       ]
+    },
+    "MLB4897790468": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 75.8,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
+    },
+    "MLB3604348179": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 68.7,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
+    },
+    "MLB4890919625": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 46.67,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
+    },
+    "MLB6201552092": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 94.99,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
+    },
+    "MLB6971016466": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 909.9,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
+    },
+    "MLB4869871825": {
+      "discovery_date": "2026-08-09T19:59:18.177326",
+      "price_history": [
+        {
+          "price": 16.59,
+          "date": "2026-08-09T19:59:18.177326"
+        }
+      ]
     }
   },
   "data": [
@@ -15100,7 +15158,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_610915-MLA104463057170_012026-AB.webp",
       "category": "[DESKTOP_COMPUTER_KITS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
       "is_new": true
     },
@@ -15118,8 +15176,27 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_615823-MLA102380010565_122025-AB.webp",
       "category": "[POWERED_RIDE_ON_TOYS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6971016466",
+      "title": "Kit Profissional 4 Em 1 21 V Brushless 2 Baterias Com Maleta",
+      "link": "https://www.mercadolivre.com.br/kit-profissional-4-em-1-21-v-brushless-2-baterias-com-maleta/up/MLBU4111126576",
+      "current_price": 909.9,
+      "original_price": 1599.9,
+      "discount": 43.1,
+      "difference": 690.0,
+      "criteria": [
+        "43.1% OFF",
+        "R$ 690.0 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 9",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_879377-MLB113295832051_062026-AB.webp",
+      "category": "[ELECTRIC_TOOL_KITS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
       "is_new": true
     },
     {
@@ -15136,7 +15213,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_637945-MLA106531612516_022026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
       "is_new": true
     },
@@ -15169,10 +15246,10 @@
       "criteria": [
         "44.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_941235-MLA114066824434_072026-AB.webp",
       "category": "[ELECTRIC_AIR_PUMPS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
       "is_new": true
     },
@@ -15190,8 +15267,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_663899-MLA101578165062_122025-AB.webp",
       "category": "[NON_CORRECTIVE_GLASSES_AND_FRAMES]",
-      "last_seen": 1786301765.096942,
-      "discovery_ts": 1786301765.096942,
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786301765.096934,
       "is_new": true
     },
     {
@@ -15208,8 +15285,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_617302-MLA95969711565_102025-AB.webp",
       "category": "[BACKPACKS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6201552092",
+      "title": "Calça Jeans Feminina Sawary Cintura Alta 273706 Mom Azul Liso 38",
+      "link": "https://www.mercadolivre.com.br/calca-jeans-feminina-sawary-cintura-alta-273706-mom/up/MLBU759422505",
+      "current_price": 94.99,
+      "original_price": 168.99,
+      "discount": 43.8,
+      "difference": 74.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "🟡 ML | 2 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_794352-MLB109047483084_032026-AB.webp",
+      "category": "[PANTS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
       "is_new": true
     },
     {
@@ -15231,6 +15326,24 @@
       "is_new": true
     },
     {
+      "asin": "MLB4897790468",
+      "title": "Adesivo Vinil Branco Envelopamento Geladeira Móveis 10m X 1m Cor Branco fosco Printoriah",
+      "link": "https://www.mercadolivre.com.br/adesivo-vinil-branco-envelopamento-geladeira-moveis-10m-x-1m-cor-branco-fosco-printoriah/p/MLB25070378",
+      "current_price": 75.8,
+      "original_price": 145.9,
+      "discount": 48.0,
+      "difference": 70.1,
+      "criteria": [
+        "48.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_938912-MLA94808681218_102025-AB.webp",
+      "category": "[VINYL_ROLLS_AND_SHEETS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
+      "is_new": true
+    },
+    {
       "asin": "MLB6881916684",
       "title": "Mini Compressor Digital Portátil para Carro Moto e Bicicleta com Calibrador Digital Inflador Elétrico de Pneus LCD Lanterna LED Compacto e Recarregável Preto Marca Rezzet",
       "link": "https://www.mercadolivre.com.br/mini-compressor-digital-portatil-para-carro-moto-e-bicicleta-com-calibrador-digital-inflador-eletrico-de-pneus-lcd-lanterna-led-compacto-e-recarregavel-preto-marca-rezzet/p/MLB46403237",
@@ -15241,11 +15354,47 @@
       "criteria": [
         "45.8% OFF"
       ],
-      "badge": "🟡 ML | 197 VENDIDOS",
+      "badge": "🟡 ML | 222 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_917148-MLA113618915765_062026-AB.webp",
       "category": "[AIR_COMPRESSORS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
+      "is_new": true
+    },
+    {
+      "asin": "MLB3604348179",
+      "title": "Sandalia Tamanco Feminino Salto Fino Baixo Tiras Delicada",
+      "link": "https://produto.mercadolivre.com.br/MLB-3604348179-sandalia-tamanco-feminino-salto-fino-baixo-tiras-delicada-_JM",
+      "current_price": 68.7,
+      "original_price": 116.9,
+      "discount": 41.2,
+      "difference": 48.2,
+      "criteria": [
+        "41.2% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_875756-MLB87293796833_072025-AB.webp",
+      "category": "[SANDALS_AND_CLOGS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4890919625",
+      "title": "Tábua De Corte Dupla Face Anti-bactérias Para Carne Legumes",
+      "link": "https://www.mercadolivre.com.br/tabua-de-corte-dupla-face-anti-bacterias-para-carne-legumes/p/MLB75423992",
+      "current_price": 46.67,
+      "original_price": 78.58,
+      "discount": 40.6,
+      "difference": 31.91,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_861791-MLA113236041364_072026-AB.webp",
+      "category": "[CUTTING_BOARDS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
       "is_new": true
     },
     {
@@ -15262,8 +15411,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_863846-CBT110020763896_042026-AB.webp",
       "category": "[SQUISHIES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786301765.096934,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4869871825",
+      "title": "Sérum Facial Hoygi Niacinamida 10% Txa 4% 30ml",
+      "link": "https://www.mercadolivre.com.br/ch-dark-spot-treatment-essence-30ml-1pc/p/MLB2036748662",
+      "current_price": 16.59,
+      "original_price": 30.62,
+      "discount": 45.8,
+      "difference": 14.03,
+      "criteria": [
+        "45.8% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_914873-CBT112967565327_062026-AB.webp",
+      "category": "[FACIAL_SKIN_CARE_PRODUCTS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786305558.177333,
       "is_new": true
     },
     {
@@ -15300,7 +15467,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_892877-MLA95146754494_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785625724.070771,
       "is_new": false
     },
@@ -15319,7 +15486,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_805643-MLA113083680577_062026-AB.webp",
       "category": "[ELECTRIC_LOCKS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786225685.902789,
       "is_new": false
     },
@@ -15338,8 +15505,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_925901-MLA110384799037_042026-AB.webp",
       "category": "[DIGITAL_CAMERAS]",
-      "last_seen": 1786292140.20467,
-      "discovery_ts": 1786292140.20467,
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786292140.204662,
       "is_new": false
     },
     {
@@ -15375,7 +15542,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804665-MLU77360009679_062024-AB.webp",
       "category": "[AUTOMOTIVE_TIRES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786129951.624788,
       "is_new": false
     },
@@ -15394,7 +15561,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_732199-MLB83553890080_042025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786204889.069142,
       "is_new": false
     },
@@ -15473,25 +15640,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4940607573",
-      "title": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
-      "link": "https://www.mercadolivre.com.br/espelho-100x50-organico-corpo-inteiro-grande-moldura-caramelo/p/MLB55868679",
-      "current_price": 94.99,
-      "original_price": 399.99,
-      "discount": 76.3,
-      "difference": 305.0,
-      "criteria": [
-        "76.3% OFF",
-        "R$ 305.0 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_936790-MLA96100703939_102025-AB.webp",
-      "category": "[MIRRORS]",
-      "last_seen": 1786303790.663004,
-      "discovery_ts": 1786288511.425785,
-      "is_new": false
-    },
-    {
       "asin": "MLB4918638697",
       "title": "Espelho retangular grande com Moldura Lapidado 100x50 Preto",
       "link": "https://www.mercadolivre.com.br/espelho-retangular-grande-com-moldura-lapidado-100x50-preto/p/MLB75481302",
@@ -15506,7 +15654,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_883401-MLA113308418138_072026-AB.webp",
       "category": "[MIRRORS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     },
@@ -15524,6 +15672,25 @@
       ],
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_624383-MLA112785812088_062026-AB.webp",
+      "category": "[MIRRORS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786288511.425785,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4940607573",
+      "title": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
+      "link": "https://www.mercadolivre.com.br/espelho-100x50-organico-corpo-inteiro-grande-moldura-caramelo/p/MLB55868679",
+      "current_price": 94.99,
+      "original_price": 399.99,
+      "discount": 76.3,
+      "difference": 305.0,
+      "criteria": [
+        "76.3% OFF",
+        "R$ 305.0 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_936790-MLA96100703939_102025-AB.webp",
       "category": "[MIRRORS]",
       "last_seen": 1786303790.663004,
       "discovery_ts": 1786288511.425785,
@@ -15544,7 +15711,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_782822-MLB93205744763_092025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -15577,11 +15744,11 @@
       "criteria": [
         "41.8% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_873141-MLA106411020003_022026-AB.webp",
       "category": "[PC_KEYBOARDS]",
-      "last_seen": 1786292140.20467,
-      "discovery_ts": 1786292140.20467,
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786292140.204662,
       "is_new": false
     },
     {
@@ -15598,7 +15765,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_706261-MLB98556728737_112025-AB.webp",
       "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -15634,7 +15801,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_896552-CBT105188918639_012026-AB.webp",
       "category": "[VEHICLE_LED_BULBS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785438126.314124,
       "is_new": false
     },
@@ -15652,7 +15819,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_627652-MLB110045697586_042026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785870352.910327,
       "is_new": false
     },
@@ -15688,7 +15855,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_930645-MLA96869500172_112025-AB.webp",
       "category": "[MIRRORS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     },
@@ -15742,7 +15909,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_775278-MLB109943305881_042026-AB.webp",
       "category": "[FOOTBALL_SHIRTS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -15778,7 +15945,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959078-MLB111192627268_052026-AB.webp",
       "category": "[BOOTS_AND_BOOTIES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -15994,7 +16161,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_642144-MLB71365749074_082023-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -16066,7 +16233,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_735931-MLB81043959231_112024-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786292140.204662,
       "is_new": false
     },
@@ -16120,7 +16287,7 @@
       "badge": "🟡 ML | 5 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_745408-MLB78434040091_082024-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786079053.765202,
       "is_new": false
     },
@@ -16138,7 +16305,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_662606-MLB109285000045_032026-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -16192,7 +16359,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_803983-MLA113199350763_062026-AB.webp",
       "category": "[AM_FM_SW_RADIOS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     },
@@ -16207,10 +16374,10 @@
       "criteria": [
         "42.1% OFF"
       ],
-      "badge": "🟡 ML | 35 VENDIDOS",
+      "badge": "🟡 ML | 36 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_995332-MLA114845503161_072026-AB.webp",
       "category": "[OUTDOOR_TABLES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785287058.57229,
       "is_new": false
     },
@@ -16228,7 +16395,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_654117-MLB108626527137_032026-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786296673.998249,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16264,7 +16431,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_601531-MLA106784592384_022026-AB.webp",
       "category": "[VEHICLE_COATING_PRODUCTS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786292140.204662,
       "is_new": false
     },
@@ -16318,7 +16485,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_996083-CBT114871948487_072026-AB.webp",
       "category": "[PENCILS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16351,10 +16518,10 @@
       "criteria": [
         "50.0% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 2 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_855368-MLA95660789926_102025-AB.webp",
       "category": "[CLIMBING_ROPES]",
-      "last_seen": 1786296673.998249,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16390,7 +16557,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_828290-MLA99494665488_112025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
@@ -16408,7 +16575,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_866439-MLA101351282319_122025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785689737.249491,
       "is_new": false
     },
@@ -16444,8 +16611,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_750197-MLA99506070940_112025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785527244.279413,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3969639519",
+      "title": "Kit Com 3 Camisetas Masculinas Básicas Slim Gola V Hering",
+      "link": "https://produto.mercadolivre.com.br/MLB-3969639519-kit-com-3-camisetas-masculinas-basicas-slim-gola-v-hering-_JM",
+      "current_price": 89.99,
+      "original_price": 149.99,
+      "discount": 40.0,
+      "difference": 60.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_992645-MLB113477136265_062026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1786221867.545957,
       "is_new": false
     },
     {
@@ -16516,7 +16701,7 @@
       "badge": "🟡 ML | 8 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_866801-MLA110474373612_052026-AB.webp",
       "category": "[KICK_SCOOTERS]",
-      "last_seen": 1786301765.096942,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785870352.910327,
       "is_new": false
     },
@@ -16534,7 +16719,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -16588,7 +16773,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916993-MLA105989638129_012026-AB.webp",
       "category": "[WATER_HEATERS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786160455.235015,
       "is_new": false
     },
@@ -16611,6 +16796,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB3549578737",
+      "title": "Capa Protetora Giratória 360° Para Redmi Pad Se + Película",
+      "link": "https://produto.mercadolivre.com.br/MLB-3549578737-capa-protetora-giratoria-360-para-redmi-pad-se-pelicula-_JM",
+      "current_price": 33.28,
+      "original_price": 78.99,
+      "discount": 57.9,
+      "difference": 45.71,
+      "criteria": [
+        "57.9% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_802177-MLB73494937366_122023-AB.webp",
+      "category": "[TABLET_CASES_AND_COVERS]",
+      "last_seen": 1786305558.177333,
+      "discovery_ts": 1785211726.382873,
+      "is_new": false
+    },
+    {
       "asin": "MLB4415801503",
       "title": "Mini Localizador Rastreador Smart Tag Gps Com Cordão Chaveiro Cor Preto Compatível Com Android Samsung Motorola Xiaomi Chrome Technology",
       "link": "https://www.mercadolivre.com.br/mini-localizador-rastreador-smart-tag-gps-com-cordao-chaveiro-cor-preto-compativel-com-android-samsung-motorola-xiaomi-chrome-technology/p/MLB64186498",
@@ -16624,7 +16827,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_832178-MLA104025936094_012026-AB.webp",
       "category": "[OBJECT_FINDERS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785406754.569515,
       "is_new": false
     },
@@ -16750,7 +16953,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674225-MLB70216867727_062023-AB.webp",
       "category": "[OPTICAL_INSTRUMENTS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -16909,10 +17112,10 @@
       "criteria": [
         "44.8% OFF"
       ],
-      "badge": "🟡 ML | 12 VENDIDOS",
+      "badge": "🟡 ML | 13 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_821462-MLA108925035208_032026-AB.webp",
       "category": "[AIRTIGHT_AND_VACUUM_BAGS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785960401.955246,
       "is_new": false
     },
@@ -16930,7 +17133,7 @@
       "badge": "🟡 ML | 24 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_653974-CBT113888348187_062026-AB.webp",
       "category": "[SQUISHIES]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785705156.78269,
       "is_new": false
     },
@@ -16948,7 +17151,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_708911-MLB91913988316_092025-AB.webp",
       "category": "[COMPUTER_EQUIPMENT_AND_REPLACEMENTS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -17020,7 +17223,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_706728-CBT109588700011_032026-AB.webp",
       "category": "[HAIRDRESSING_CLIPS]",
-      "last_seen": 1786296673.998249,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -17038,7 +17241,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_964488-CBT107667500104_032026-AB.webp",
       "category": "[PLANT_POTS_AND_PLANTERS]",
-      "last_seen": 1786303790.663004,
+      "last_seen": 1786305558.177333,
       "discovery_ts": 1786288511.425785,
       "is_new": false
     }
