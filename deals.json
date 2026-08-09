@@ -1,5 +1,5 @@
 {
-  "last_check": "09/08/2026 00:35:44",
+  "last_check": "09/08/2026 02:38:26",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -11504,6 +11504,10 @@
         {
           "price": 1295,
           "date": "2026-08-05T03:27:33.328679"
+        },
+        {
+          "price": 1224,
+          "date": "2026-08-09T02:38:26.900063"
         }
       ]
     },
@@ -14252,9 +14256,120 @@
           "date": "2026-08-08T21:48:05.902789"
         }
       ]
+    },
+    "MLB5829216534": {
+      "discovery_date": "2026-08-09T02:38:26.900063",
+      "price_history": [
+        {
+          "price": 1164,
+          "date": "2026-08-09T02:38:26.900063"
+        }
+      ]
+    },
+    "MLB4657434142": {
+      "discovery_date": "2026-08-09T02:38:26.900063",
+      "price_history": [
+        {
+          "price": 1164,
+          "date": "2026-08-09T02:38:26.900063"
+        }
+      ]
+    },
+    "MLB7184063726": {
+      "discovery_date": "2026-08-09T02:38:26.900063",
+      "price_history": [
+        {
+          "price": 188.52,
+          "date": "2026-08-09T02:38:26.900063"
+        }
+      ]
+    },
+    "MLB4469427621": {
+      "discovery_date": "2026-08-09T02:38:26.900063",
+      "price_history": [
+        {
+          "price": 141.55,
+          "date": "2026-08-09T02:38:26.900063"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "MLB5829216534",
+      "title": "Bicicleta Aro 29 Alfameq Vx 12v Freio A Disco Hidráulico Cor Marrom/preto Tamanho Do Quadro 19",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-alfameq-vx-12v-freio-a-disco-hidraulico-cor-marrompreto-tamanho-do-quadro-19/p/MLB26012548",
+      "current_price": 1164,
+      "original_price": 2999,
+      "discount": 61.2,
+      "difference": 1835,
+      "criteria": [
+        "61.2% OFF",
+        "R$ 1835 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_955898-MLA99489583568_112025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786243106.900072,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4657434142",
+      "title": "Bicicleta Aro 29 Alfameq Vx 12v Freio A Disco Hidráulico Cor Cinza/preto Tamanho Do Quadro 19",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-alfameq-vx-12v-freio-a-disco-hidraulico-cor-cinzapreto-tamanho-do-quadro-19/p/MLB26031397",
+      "current_price": 1164,
+      "original_price": 2999,
+      "discount": 61.2,
+      "difference": 1835,
+      "criteria": [
+        "61.2% OFF",
+        "R$ 1835 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_895433-MLA99501260354_112025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786243106.900072,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7184063726",
+      "title": "Tênis Feminino Qix Urban Trek Casual Trilha Original Preto/cinza 40 Br",
+      "link": "https://www.mercadolivre.com.br/tenis-feminino-qix-urban-trek-casual-trilha-original/up/MLBU1434013947",
+      "current_price": 188.52,
+      "original_price": 549.99,
+      "discount": 65.7,
+      "difference": 361.47,
+      "criteria": [
+        "65.7% OFF",
+        "R$ 361.47 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_872097-MLB108553365770_032026-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786243106.900072,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4469427621",
+      "title": "Bolsa Feminina Para Notebook Com Compartimento Térmico Para Almoço Bolsa Tote Executiva Pu Couro 15,6 Polegadas Mochila Conversível Leve Para Trabalho E Escritório, Matein 1447 Cor Preto Liso",
+      "link": "https://www.mercadolivre.com.br/bolsa-feminina-para-notebook-com-compartimento-termico-para-almoco-bolsa-tote-executiva-pu-couro-156-polegadas-mochila-conversivel-leve-para-trabalho-e-escritorio-matein-1447-cor-preto-liso/p/MLB47281532",
+      "current_price": 141.55,
+      "original_price": 300,
+      "discount": 52.8,
+      "difference": 158.45,
+      "criteria": [
+        "52.8% OFF"
+      ],
+      "badge": "🟡 ML | 18 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_907577-MLA99583764690_122025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786243106.900072,
+      "is_new": true
+    },
     {
       "asin": "MLB4516309629",
       "title": "Notebook Gamer Lenovo LOQ 15IRX9 Intel Core i5-13450HX RTX 3050 8GB 512GB SSD windows 11",
@@ -14269,7 +14384,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_891763-MLA112377969125_052026-AB.webp",
       "category": "[NOTEBOOKS]",
-      "last_seen": 1786232832.810951,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786209323.346595,
       "is_new": false
     },
@@ -14288,7 +14403,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_867463-MLA96135268247_102025-AB.webp",
       "category": "[BICYCLES]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786223593.921168,
       "is_new": false
     },
@@ -14307,7 +14422,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_870929-MLA99524519666_122025-AB.webp",
       "category": "[BICYCLES]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786223593.921168,
       "is_new": false
     },
@@ -14331,6 +14446,25 @@
       "is_new": false
     },
     {
+      "asin": "MLB3811541075",
+      "title": "Bicicleta Aro 29 Gts Feel Avax 12v Freio A Disco Hidráulico Cor Vermelho Tamanho Do Quadro 21",
+      "link": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-feel-avax-12v-freio-a-disco-hidraulico-cor-vermelho-tamanho-do-quadro-21/p/MLB39257631",
+      "current_price": 1224,
+      "original_price": 2699.9,
+      "discount": 54.7,
+      "difference": 1475.9,
+      "criteria": [
+        "54.7% OFF",
+        "R$ 1475.9 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_688009-MLA96419055006_102025-AB.webp",
+      "category": "[BICYCLES]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1785900453.328679,
+      "is_new": false
+    },
+    {
       "asin": "MLB7022745726",
       "title": "Carabina Espingarda Rifle de Pressão Pcp Rossi T-rex Montecarlo 6,35mm completa com bomba",
       "link": "https://www.mercadolivre.com.br/carabina-espingarda-rifle-de-pressao-pcp-rossi-t-rex-montecarlo-635mm-completa-com-bomba/p/MLB61525789",
@@ -14341,10 +14475,10 @@
       "criteria": [
         "R$ 1450 desc."
       ],
-      "badge": "🟡 ML | 5 VENDIDOS",
+      "badge": "🟡 ML | 6 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_844131-MLA113674922617_062026-AB.webp",
       "category": "[AIRSOFT_GUNS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786204889.069142,
       "is_new": false
     },
@@ -14382,8 +14516,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_844024-MLA97349180051_112025-AB.webp",
       "category": "[SOFAS_FUTONS_AND_ARMCHAIRS]",
-      "last_seen": 1786221867.545964,
-      "discovery_ts": 1786221867.545964,
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786221867.545957,
       "is_new": false
     },
     {
@@ -14401,27 +14535,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_830247-MLA111347584832_052026-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786203611.573225,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4122755649",
-      "title": "Jogo Panelas Brinox Ceramic Life 6 Peças Sirius Inducao",
-      "link": "https://www.mercadolivre.com.br/jogo-panelas-brinox-ceramic-life-6-pecas-sirius-inducao/p/MLB46668772",
-      "current_price": 784,
-      "original_price": 1499.99,
-      "discount": 47.7,
-      "difference": 715.99,
-      "criteria": [
-        "47.7% OFF",
-        "R$ 715.99 desc."
-      ],
-      "badge": "🟡 ML | 30 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_998786-MLA83254308546_042025-AB.webp",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786215654.392286,
-      "discovery_ts": 1786211300.094263,
       "is_new": false
     },
     {
@@ -14438,7 +14553,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_698378-MLB81009923684_122024-AB.webp",
       "category": "[BOX_SPRING_AND_MATTRESS_KITS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786203611.573225,
       "is_new": false
     },
@@ -14453,10 +14568,10 @@
       "criteria": [
         "R$ 467.18 desc."
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 9 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804665-MLU77360009679_062024-AB.webp",
       "category": "[AUTOMOTIVE_TIRES]",
-      "last_seen": 1786221867.545964,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786129951.624788,
       "is_new": false
     },
@@ -14472,10 +14587,10 @@
         "41.4% OFF",
         "R$ 445.49 desc."
       ],
-      "badge": "🟡 ML | 13 VENDIDOS",
+      "badge": "🟡 ML | 20 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_926335-MLA99491802638_112025-AB.webp",
       "category": "[COMBUSTION_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1786225685.902796,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785258352.585216,
       "is_new": false
     },
@@ -14490,10 +14605,10 @@
       "criteria": [
         "R$ 435 desc."
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 8",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_970104-MLB108086375386_032026-AB.webp",
       "category": "[DESKTOP_COMPUTER_KITS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786201274.697008,
       "is_new": false
     },
@@ -14509,11 +14624,11 @@
         "61.9% OFF",
         "R$ 414.09 desc."
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 74 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_805643-MLA113083680577_062026-AB.webp",
       "category": "[ELECTRIC_LOCKS]",
-      "last_seen": 1786225685.902796,
-      "discovery_ts": 1786225685.902796,
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786225685.902789,
       "is_new": false
     },
     {
@@ -14530,7 +14645,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682112-MLA96149262117_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -14566,7 +14681,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_698457-MLA96145807173_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785773212.874439,
       "is_new": false
     },
@@ -14585,7 +14700,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_785886-MLB112801450448_072026-AB.webp",
       "category": "[LEGGINGS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -14622,7 +14737,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_987765-MLA97573958583_112025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786221867.545957,
       "is_new": false
     },
@@ -14660,7 +14775,7 @@
       "badge": "🟡 ML | 5 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_620515-MLB95925402021_102025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786204889.069142,
       "is_new": false
     },
@@ -14711,10 +14826,10 @@
       "criteria": [
         "41.9% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 6",
+      "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_601265-MLA97929158562_112025-AB.webp",
       "category": "[POWER_GRINDERS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786203611.573225,
       "is_new": false
     },
@@ -14729,10 +14844,10 @@
       "criteria": [
         "58.5% OFF"
       ],
-      "badge": "🟡 ML | 159 VENDIDOS",
+      "badge": "🟡 ML | 186 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_654932-MLU78875475994_092024-AB.webp",
       "category": "[COMPUTER_MICE]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786201274.697008,
       "is_new": false
     },
@@ -14747,29 +14862,11 @@
       "criteria": [
         "40.2% OFF"
       ],
-      "badge": "🟡 ML | 19 VENDIDOS",
+      "badge": "🟡 ML | 29 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_627652-MLB110045697586_042026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786221867.545964,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785870352.910327,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3948238531",
-      "title": "Tênis adidas Acelera Running Esportivo Conforto - Feminino",
-      "link": "https://produto.mercadolivre.com.br/MLB-3948238531-tnis-adidas-acelera-running-esportivo-conforto-feminino-_JM",
-      "current_price": 291.99,
-      "original_price": 499.99,
-      "discount": 41.6,
-      "difference": 208.0,
-      "criteria": [
-        "41.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_775655-MLB114909652291_072026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786219234.86513,
-      "discovery_ts": 1786038777.187815,
       "is_new": false
     },
     {
@@ -14822,8 +14919,26 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804101-MLB81923193675_012025-AB.webp",
       "category": "[NECKLACES]",
-      "last_seen": 1786232832.810951,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785786737.880825,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4460167529",
+      "title": "Jaqueta Jeans Masculina - Ecko",
+      "link": "https://produto.mercadolivre.com.br/MLB-4460167529-jaqueta-jeans-masculina-ecko-_JM",
+      "current_price": 124.74,
+      "original_price": 299.99,
+      "discount": 58.4,
+      "difference": 175.25,
+      "criteria": [
+        "58.4% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_674437-MLB109943696683_042026-AB.webp",
+      "category": "[JACKETS_AND_COATS]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1785427623.418875,
       "is_new": false
     },
     {
@@ -14873,10 +14988,10 @@
       "criteria": [
         "50.9% OFF"
       ],
-      "badge": "🟡 ML | 445 VENDIDOS",
+      "badge": "🟡 ML | 506 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_865332-MLA96868279679_102025-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786061026.161118,
       "is_new": false
     },
@@ -14891,10 +15006,10 @@
       "criteria": [
         "66.7% OFF"
       ],
-      "badge": "🟡 ML | 235 VENDIDOS",
+      "badge": "🟡 ML | 269 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_796067-MLA111971910206_062026-AB.webp",
       "category": "[DOLLS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -14912,7 +15027,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_743251-MLA84237273228_052025-AB.webp",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786232832.810951,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786201274.697008,
       "is_new": false
     },
@@ -14945,10 +15060,10 @@
       "criteria": [
         "40.3% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 43 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_664169-MLA115338029169_072026-AB.webp",
       "category": "[ELECTRIC_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1786215654.392286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786203611.573225,
       "is_new": false
     },
@@ -14963,10 +15078,10 @@
       "criteria": [
         "55.4% OFF"
       ],
-      "badge": "🟡 ML | 68 VENDIDOS",
+      "badge": "🟡 ML | 84 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_792318-MLA99928543517_112025-AB.webp",
       "category": "[ELECTRIC_BLOWERS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785442975.344579,
       "is_new": false
     },
@@ -15020,7 +15135,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_701490-MLA101354107731_122025-AB.webp",
       "category": "[FOOTBALL_BALLS]",
-      "last_seen": 1786225685.902796,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786204889.069142,
       "is_new": false
     },
@@ -15038,7 +15153,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_828290-MLA99494665488_112025-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
@@ -15089,11 +15204,11 @@
       "criteria": [
         "49.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_890376-MLA107996842990_032026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1786225685.902796,
-      "discovery_ts": 1786225685.902796,
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1786225685.902789,
       "is_new": false
     },
     {
@@ -15128,7 +15243,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786225685.902796,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -15161,10 +15276,10 @@
       "criteria": [
         "60.6% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 2 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_657075-MLA101066721851_122025-AB.webp",
       "category": "[MULTIPURPOSE_CLEANERS_AND_DISINFECTANTS]",
-      "last_seen": 1786232832.810951,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785258352.585216,
       "is_new": false
     },
@@ -15182,7 +15297,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_845923-MLB85885001631_062025-AB.webp",
       "category": "[SHORTS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -15197,10 +15312,10 @@
       "criteria": [
         "53.5% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 45 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682377-MLB112381105581_052026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786225685.902796,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -15218,7 +15333,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_911185-MLB85886691559_062025-AB.webp",
       "category": "[PANTS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -15238,6 +15353,24 @@
       "category": "[ORTHOPEDIC_CANES]",
       "last_seen": 1786221867.545964,
       "discovery_ts": 1786221867.545964,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3713641235",
+      "title": "Saia Feminina Sarja Com Elastano Plus Razon Jeans",
+      "link": "https://produto.mercadolivre.com.br/MLB-3713641235-saia-feminina-sarja-com-elastano-plus-razon-jeans-_JM",
+      "current_price": 36.76,
+      "original_price": 69.99,
+      "discount": 47.5,
+      "difference": 33.23,
+      "criteria": [
+        "47.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 4",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_800329-MLB87174306826_072025-AB.webp",
+      "category": "[SKIRTS]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -15287,10 +15420,10 @@
       "criteria": [
         "44.7% OFF"
       ],
-      "badge": "🟡 ML | 465 VENDIDOS",
+      "badge": "🟡 ML | 537 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_661431-MLA99923107715_112025-AB.webp",
       "category": "[SUNSCREENS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786203611.573225,
       "is_new": false
     },
@@ -15308,7 +15441,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_982925-MLB93820446925_092025-AB.webp",
       "category": "[SHORTS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785447645.241594,
       "is_new": false
     },
@@ -15326,8 +15459,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_977870-MLA110172900055_042026-AB.webp",
       "category": "[VEHICLE_CELLPHONE_AND_GPS_MOUNTS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786223593.921168,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3877092831",
+      "title": "Calça Legging Academia Modeladora Zero Transparencia Premium",
+      "link": "https://produto.mercadolivre.com.br/MLB-3877092831-calca-legging-academia-modeladora-zero-transparencia-premium-_JM",
+      "current_price": 27.99,
+      "original_price": 46.9,
+      "discount": 40.3,
+      "difference": 18.91,
+      "criteria": [
+        "40.3% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_889758-MLB86940516289_062025-AB.webp",
+      "category": "[LEGGINGS]",
+      "last_seen": 1786243106.900072,
+      "discovery_ts": 1785802663.616558,
       "is_new": false
     },
     {
@@ -15341,10 +15492,10 @@
       "criteria": [
         "40.0% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 1.421 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_941769-MLA99925691215_112025-AB.webp",
       "category": "[DISHWASHING_DETERGENTS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786223593.921168,
       "is_new": false
     },
@@ -15362,7 +15513,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_604670-MLB87434053877_072025-AB.webp",
       "category": "[TOILET_RUGS]",
-      "last_seen": 1786225685.902796,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1786221867.545957,
       "is_new": false
     },
@@ -15377,10 +15528,10 @@
       "criteria": [
         "43.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_744953-CBT107548011759_022026-AB.webp",
       "category": "[HATS_AND_CAPS]",
-      "last_seen": 1786235744.326286,
+      "last_seen": 1786243106.900072,
       "discovery_ts": 1785627820.487505,
       "is_new": false
     },
