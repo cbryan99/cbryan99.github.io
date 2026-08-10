@@ -1,5 +1,5 @@
 {
-  "last_check": "10/08/2026 05:07:04",
+  "last_check": "10/08/2026 06:20:26",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -15480,46 +15480,36 @@
           "date": "2026-08-10T05:07:04.792042"
         }
       ]
+    },
+    "B0DD1KD5JP": {
+      "discovery_date": "2026-08-10T06:20:26.475291",
+      "price_history": [
+        {
+          "price": 672.17,
+          "date": "2026-08-10T06:20:26.475291"
+        }
+      ]
+    },
+    "MLB3949441415": {
+      "discovery_date": "2026-08-10T06:20:26.475291",
+      "price_history": [
+        {
+          "price": 117.81,
+          "date": "2026-08-10T06:20:26.475291"
+        }
+      ]
+    },
+    "MLB3371095224": {
+      "discovery_date": "2026-08-10T06:20:26.475291",
+      "price_history": [
+        {
+          "price": 39,
+          "date": "2026-08-10T06:20:26.475291"
+        }
+      ]
     }
   },
   "data": [
-    {
-      "asin": "MLB6676485060",
-      "title": "Apple Macbook Pro (16 polegadas, Intel Core i7, 512 GB de SSD) - Cinza-espacial",
-      "link": "https://www.mercadolivre.com.br/apple-macbook-pro-16-polegadas-intel-core-i7-512-gb-de-ssd-cinza-espacial/p/MLB17828535",
-      "current_price": 6929.9,
-      "original_price": 15999.9,
-      "discount": 56.7,
-      "difference": 9070.0,
-      "criteria": [
-        "56.7% OFF",
-        "R$ 9070.0 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_830417-MLA48708038815_122021-AB.webp",
-      "category": "[NOTEBOOKS]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "B0F1W9PGB5",
-      "title": "Dyson V15 Detect Aspirador de Pó Sem Fio - Bivolt",
-      "link": "https://www.amazon.com.br/Dyson-V15-Detect-Aspirador-Sem/dp/B0F1W9PGB5",
-      "current_price": 5876.28,
-      "original_price": 8969.06,
-      "discount": 34.5,
-      "difference": 3092.78,
-      "criteria": [
-        "R$ 3092.78 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51uSS9tb-uL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786332587.274545,
-      "discovery_ts": 1786332587.274545,
-      "is_new": true
-    },
     {
       "asin": "B0F8KVQZQX",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
@@ -15557,42 +15547,6 @@
       "is_new": true
     },
     {
-      "asin": "B0DJFTJ6LX",
-      "title": "Apple iPhone 16 (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
-      "current_price": 5110.0,
-      "original_price": 6799.0,
-      "discount": 24.8,
-      "difference": 1689.0,
-      "criteria": [
-        "R$ 1689.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "B0CP69NT2N",
-      "title": "Apple iPhone 15 (128 GB) — Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP69NT2N",
-      "current_price": 4443.33,
-      "original_price": 5999.0,
-      "discount": 25.9,
-      "difference": 1555.67,
-      "criteria": [
-        "R$ 1555.67 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786332587.274545,
-      "discovery_ts": 1786332587.274545,
-      "is_new": true
-    },
-    {
       "asin": "B0GTRWMZWZ",
       "title": "Apple iPhone 17e de 256 GB — Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTRWMZWZ",
@@ -15606,26 +15560,8 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41aApj0ACOL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786338424.79205,
-      "is_new": true
-    },
-    {
-      "asin": "B0GTS998HJ",
-      "title": "Apple iPhone 17e de 256 GB — Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
-      "current_price": 4443.33,
-      "original_price": 5799.0,
-      "discount": 23.4,
-      "difference": 1355.67,
-      "criteria": [
-        "R$ 1355.67 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786332587.274545,
-      "discovery_ts": 1786332587.274545,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786338424.792042,
       "is_new": true
     },
     {
@@ -15643,8 +15579,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_914986-MLA111102863127_052026-AB.webp",
       "category": "[DUMBBELLS]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786338424.79205,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786338424.792042,
       "is_new": true
     },
     {
@@ -15667,61 +15603,6 @@
       "is_new": true
     },
     {
-      "asin": "B0DHWFBYVC",
-      "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
-      "current_price": 849.0,
-      "original_price": 1499.0,
-      "discount": 43.4,
-      "difference": 650.0,
-      "criteria": [
-        "43.4% OFF",
-        "R$ 650.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "B0FHCHBRGF",
-      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, Windows 11 Home | Tela 15.6 FHD 120 Hz Antirreflexo, 8 GB RAM, 512 GB SSD, UHD Graphics, Wi‑Fi 6, leitor SD, USB 3.2 Type-C, Garantia de 1 Ano",
-      "link": "https://www.amazon.com.br/Notebook-Dell-Inspiron-I15-I1300-A30P-Carbono/dp/B0FHCHBRGF",
-      "current_price": 3899.0,
-      "original_price": 4500.0,
-      "discount": 13.4,
-      "difference": 601.0,
-      "criteria": [
-        "R$ 601.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "B0GC17K7K7",
-      "title": "Samsung Smart TV 43\" QLED Full HD Q5F 2025, Xbox Cloud Gaming, Canais Gratuitos, HDR, Som em Movimento Virtual",
-      "link": "https://www.amazon.com.br/Samsung-Gaming-Gratuitos-Movimento-Virtual/dp/B0GC17K7K7",
-      "current_price": 1529.1,
-      "original_price": 2099.0,
-      "discount": 27.2,
-      "difference": 569.9,
-      "criteria": [
-        "R$ 569.9 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
       "asin": "B00DCTI47M",
       "title": "Máquina de Lavar Panasonic 15kg Titânio 127v NA-F150B1T",
       "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00DCTI47M",
@@ -15735,26 +15616,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61aihS5uIXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786338424.79205,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786338424.792042,
       "is_new": true
     },
     {
-      "asin": "B0DD1M9WJT",
-      "title": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
-      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1M9WJT",
-      "current_price": 674.31,
+      "asin": "B0DD1KD5JP",
+      "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V",
+      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
+      "current_price": 672.17,
       "original_price": 999.9,
-      "discount": 32.6,
-      "difference": 325.59,
+      "discount": 32.8,
+      "difference": 327.73,
       "criteria": [
-        "R$ 325.59 desc."
+        "R$ 327.73 desc."
       ],
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786342826.475298,
       "is_new": true
     },
     {
@@ -15776,39 +15657,21 @@
       "is_new": true
     },
     {
-      "asin": "MLB7195441324",
-      "title": "Mochila feminina, impermeável, reforçada, com capacidade expansível de 25 a 40 L, capaz de acomodar um laptop de 15,6 polegadas, com porta de carregamento SUB",
-      "link": "https://www.mercadolivre.com.br/mochila-feminina-impermeavel-reforcada-com-capacidade-expansivel-de-25-a-40-l-capaz-de-acomodar-um-laptop-de-156-polegadas-com-porta-de-carregamento-sub/p/MLB75521100",
-      "current_price": 82.05,
-      "original_price": 268,
-      "discount": 69.4,
-      "difference": 185.95,
+      "asin": "MLB3949441415",
+      "title": "Relógio Masculino Saint Germain Murray Full Black de Couro Sintético Preto",
+      "link": "https://www.mercadolivre.com.br/relogio-masculino-saint-germain-murray-full-black-de-couro-sintetico-preto/p/MLB22898174",
+      "current_price": 117.81,
+      "original_price": 246.79,
+      "discount": 52.3,
+      "difference": 128.98,
       "criteria": [
-        "69.4% OFF"
+        "52.3% OFF"
       ],
       "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_816218-MLA115053426863_072026-AB.webp",
-      "category": "[BACKPACKS]",
-      "last_seen": 1786332587.274545,
-      "discovery_ts": 1786332587.274545,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4186673209",
-      "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
-      "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante-detalhes-bronze/p/MLB54422844",
-      "current_price": 133.59,
-      "original_price": 249.9,
-      "discount": 46.5,
-      "difference": 116.31,
-      "criteria": [
-        "46.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_758835-MLA100010183395_122025-AB.webp",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_790764-MLA103240222120_012026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786342826.475298,
       "is_new": true
     },
     {
@@ -15825,8 +15688,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_633084-MLB84078383275_042025-AB.webp",
       "category": "[BOARD_AND_CARD_GAMES]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786338424.79205,
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786338424.792042,
       "is_new": true
     },
     {
@@ -15902,6 +15765,24 @@
       "is_new": true
     },
     {
+      "asin": "MLB3371095224",
+      "title": "Kit Banheiro Dispenser Sabonete, Porta Escovas E Algodão 3pç",
+      "link": "https://produto.mercadolivre.com.br/MLB-3371095224-kit-banheiro-dispenser-sabonete-porta-escovas-e-algodo-3pc-_JM",
+      "current_price": 39,
+      "original_price": 78.9,
+      "discount": 50.6,
+      "difference": 39.9,
+      "criteria": [
+        "50.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 10",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_924220-MLB70211783928_062023-AB.webp",
+      "category": "[BATHROOM_ACCESSORIES_KITS]",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786342826.475298,
+      "is_new": true
+    },
+    {
       "asin": "MLB4601341140",
       "title": "Cortina De Cozinha Renda Túlipa 260x130cm Com Bandô Branco",
       "link": "https://www.mercadolivre.com.br/cortina-de-cozinha-renda-tulipa-260x130cm-com-bando/up/MLBU777525837",
@@ -15917,24 +15798,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1786338424.79205,
       "discovery_ts": 1786338424.79205,
-      "is_new": true
-    },
-    {
-      "asin": "B09XFLHJ1S",
-      "title": "Danos Vorazes Máscara de Tratamento 450g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Lola-Cosmetics-Vorazes-Repara%C3%A7%C3%A3o-Intensiva/dp/B09XFLHJ1S",
-      "current_price": 28.94,
-      "original_price": 64.9,
-      "discount": 55.4,
-      "difference": 35.96,
-      "criteria": [
-        "55.4% OFF"
-      ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
       "is_new": true
     },
     {
@@ -15956,60 +15819,6 @@
       "is_new": true
     },
     {
-      "asin": "MLB4081980993",
-      "title": "Tapete Para Banheiro Box Antiderrapante 1,00x0,60 Macio Pvc",
-      "link": "https://produto.mercadolivre.com.br/MLB-4081980993-tapete-para-banheiro-box-antiderrapante-100x060-macio-pvc-_JM",
-      "current_price": 39.77,
-      "original_price": 67,
-      "discount": 40.6,
-      "difference": 27.23,
-      "criteria": [
-        "40.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_624656-MLB114141235904_082026-AB.webp",
-      "category": "[NON_SLIP_BATHTUB_APPLIQUES_AND_MATS]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "B09GHN14FP",
-      "title": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/DANOS-VORAZES-REPARADOR-Lola-Cosmetics/dp/B09GHN14FP",
-      "current_price": 19.93,
-      "original_price": 44.9,
-      "discount": 55.6,
-      "difference": 24.97,
-      "criteria": [
-        "55.6% OFF"
-      ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4075917717",
-      "title": "Mini Boleira Cogumelo Plástico Preto 10\" Para Bolo e Doces Festa Decor",
-      "link": "https://www.mercadolivre.com.br/mini-boleira-cogumelo-plastico-preto-10-para-bolo-e-doces-festa-decor/p/MLB50181904",
-      "current_price": 12.27,
-      "original_price": 26.9,
-      "discount": 54.4,
-      "difference": 14.63,
-      "criteria": [
-        "54.4% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_893352-MLA96210225538_102025-AB.webp",
-      "category": "[CAKE_AND_CUPCAKE_STANDS]",
-      "last_seen": 1786338424.79205,
-      "discovery_ts": 1786332587.274524,
-      "is_new": true
-    },
-    {
       "asin": "MLB1765295055",
       "title": "Controle Bluetooth Compatível Celular Android iPhone Selfie  Váriadas",
       "link": "https://www.mercadolivre.com.br/controle-bluetooth-compativel-celular-android-iphone-selfie/up/MLBU1420202184",
@@ -16028,6 +15837,43 @@
       "is_new": true
     },
     {
+      "asin": "MLB6676485060",
+      "title": "Apple Macbook Pro (16 polegadas, Intel Core i7, 512 GB de SSD) - Cinza-espacial",
+      "link": "https://www.mercadolivre.com.br/apple-macbook-pro-16-polegadas-intel-core-i7-512-gb-de-ssd-cinza-espacial/p/MLB17828535",
+      "current_price": 6929.9,
+      "original_price": 15999.9,
+      "discount": 56.7,
+      "difference": 9070.0,
+      "criteria": [
+        "56.7% OFF",
+        "R$ 9070.0 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 10",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_830417-MLA48708038815_122021-AB.webp",
+      "category": "[NOTEBOOKS]",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0F1W9PGB5",
+      "title": "Dyson V15 Detect Aspirador de Pó Sem Fio - Bivolt",
+      "link": "https://www.amazon.com.br/Dyson-V15-Detect-Aspirador-Sem/dp/B0F1W9PGB5",
+      "current_price": 5876.28,
+      "original_price": 8969.06,
+      "discount": 34.5,
+      "difference": 3092.78,
+      "criteria": [
+        "R$ 3092.78 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uSS9tb-uL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786332587.274545,
+      "discovery_ts": 1786332587.274545,
+      "is_new": false
+    },
+    {
       "asin": "B0GQW2J4SK",
       "title": "Apple iPhone 17 de 256 GB — Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK",
@@ -16041,7 +15887,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -16064,6 +15910,42 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFTJ6LX",
+      "title": "Apple iPhone 16 (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
+      "current_price": 5110.0,
+      "original_price": 6799.0,
+      "discount": 24.8,
+      "difference": 1689.0,
+      "criteria": [
+        "R$ 1689.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786338424.79205,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP69NT2N",
+      "title": "Apple iPhone 15 (128 GB) — Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP69NT2N",
+      "current_price": 4443.33,
+      "original_price": 5999.0,
+      "discount": 25.9,
+      "difference": 1555.67,
+      "criteria": [
+        "R$ 1555.67 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786332587.274545,
+      "discovery_ts": 1786332587.274545,
+      "is_new": false
+    },
+    {
       "asin": "B0GVTMNF8P",
       "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Cinza) | Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC",
       "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVTMNF8P",
@@ -16077,7 +15959,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LpX2qhRfL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -16097,6 +15979,24 @@
       "category": "[DESKTOP_COMPUTER_KITS]",
       "last_seen": 1786325964.756083,
       "discovery_ts": 1786301765.096934,
+      "is_new": false
+    },
+    {
+      "asin": "B0GTS998HJ",
+      "title": "Apple iPhone 17e de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
+      "current_price": 4443.33,
+      "original_price": 5799.0,
+      "discount": 23.4,
+      "difference": 1355.67,
+      "criteria": [
+        "R$ 1355.67 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786332587.274545,
+      "discovery_ts": 1786332587.274545,
       "is_new": false
     },
     {
@@ -16173,6 +16073,43 @@
       "is_new": false
     },
     {
+      "asin": "B0DHWFBYVC",
+      "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
+      "current_price": 849.0,
+      "original_price": 1499.0,
+      "discount": 43.4,
+      "difference": 650.0,
+      "criteria": [
+        "43.4% OFF",
+        "R$ 650.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0FHCHBRGF",
+      "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, Windows 11 Home | Tela 15.6 FHD 120 Hz Antirreflexo, 8 GB RAM, 512 GB SSD, UHD Graphics, Wi‑Fi 6, leitor SD, USB 3.2 Type-C, Garantia de 1 Ano",
+      "link": "https://www.amazon.com.br/Notebook-Dell-Inspiron-I15-I1300-A30P-Carbono/dp/B0FHCHBRGF",
+      "current_price": 3899.0,
+      "original_price": 4500.0,
+      "discount": 13.4,
+      "difference": 601.0,
+      "criteria": [
+        "R$ 601.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
       "asin": "B0B7KK3KM2",
       "title": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 38 min base recarregamento luz frontal LED pedal limpeza facil da escova rotativa aspira escova capacidade 420Ml ERG25B Bivolt branco",
       "link": "https://www.amazon.com.br/Aspirador-Vertical-Electrolux-Ergorapido-ERG25B/dp/B0B7KK3KM2",
@@ -16187,8 +16124,26 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jMQ+0bblL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785220693.562389,
+      "is_new": false
+    },
+    {
+      "asin": "B0GC17K7K7",
+      "title": "Samsung Smart TV 43\" QLED Full HD Q5F 2025, Xbox Cloud Gaming, Canais Gratuitos, HDR, Som em Movimento Virtual",
+      "link": "https://www.amazon.com.br/Samsung-Gaming-Gratuitos-Movimento-Virtual/dp/B0GC17K7K7",
+      "current_price": 1529.1,
+      "original_price": 2099.0,
+      "discount": 27.2,
+      "difference": 569.9,
+      "criteria": [
+        "R$ 569.9 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -16226,6 +16181,24 @@
       "category": "👕 Moda & Acessórios",
       "last_seen": 1786325964.756083,
       "discovery_ts": 1786204889.069142,
+      "is_new": false
+    },
+    {
+      "asin": "B0DD1M9WJT",
+      "title": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1M9WJT",
+      "current_price": 674.31,
+      "original_price": 999.9,
+      "discount": 32.6,
+      "difference": 325.59,
+      "criteria": [
+        "R$ 325.59 desc."
+      ],
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1786338424.79205,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -16342,42 +16315,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6218542384",
-      "title": "Teclado Gamer Switch Magnético 8000hz Rgb Anti-ghosting Total Keycaps Pbt Gradiente Trigger Ajustável 01mm",
-      "link": "https://www.mercadolivre.com.br/teclado-gamer-switch-magnetico-8000hz-rgb-anti-ghosting-total-keycaps-pbt-gradiente-trigger-ajustavel-01mm/p/MLB65199695",
-      "current_price": 364.32,
-      "original_price": 626,
-      "discount": 41.8,
-      "difference": 261.68,
-      "criteria": [
-        "41.8% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_873141-MLA106411020003_022026-AB.webp",
-      "category": "[PC_KEYBOARDS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786292140.204662,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3676440389",
-      "title": "Polo Masculina Lacoste Slim Fit - Original",
-      "link": "https://produto.mercadolivre.com.br/MLB-3676440389-polo-masculina-lacoste-slim-fit-original-_JM",
-      "current_price": 229.99,
-      "original_price": 487.9,
-      "discount": 52.9,
-      "difference": 257.91,
-      "criteria": [
-        "52.9% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_706261-MLB98556728737_112025-AB.webp",
-      "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1786319806.771926,
-      "discovery_ts": 1786290536.167453,
-      "is_new": false
-    },
-    {
       "asin": "MLB6180275844",
       "title": "Auxito 2 H4 9003 Led Farol 30000lm 100w Carro Lâmpada",
       "link": "https://produto.mercadolivre.com.br/MLB-6180275844-auxito-2-h4-9003-led-farol-30000lm-100w-carro-lmpada-_JM",
@@ -16414,24 +16351,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6552705796",
-      "title": "Camisa Oficial São Paulo 2026 Lançamento Envio Imediato",
-      "link": "https://produto.mercadolivre.com.br/MLB-6552705796-camisa-oficial-so-paulo-2026-lancamento-envio-imediato-_JM",
-      "current_price": 183.63,
-      "original_price": 383.91,
-      "discount": 52.2,
-      "difference": 200.28,
-      "criteria": [
-        "52.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_775278-MLB109943305881_042026-AB.webp",
-      "category": "[FOOTBALL_SHIRTS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786290536.167453,
-      "is_new": false
-    },
-    {
       "asin": "MLB6445557018",
       "title": "Aspirador de Pó Portátil Upbooz Sem Fio 14000Pa com LED e Soprador 2 em 1 para Casa e Carro",
       "link": "https://www.mercadolivre.com.br/aspirador-de-po-portatil-upbooz-sem-fio-14000pa-com-led-e-soprador-2-em-1-para-casa-e-carro/p/MLB50891120",
@@ -16447,6 +16366,24 @@
       "category": "[VACUUM_AND_STEAM_CLEANERS]",
       "last_seen": 1786338424.79205,
       "discovery_ts": 1785772342.218037,
+      "is_new": false
+    },
+    {
+      "asin": "MLB7195441324",
+      "title": "Mochila feminina, impermeável, reforçada, com capacidade expansível de 25 a 40 L, capaz de acomodar um laptop de 15,6 polegadas, com porta de carregamento SUB",
+      "link": "https://www.mercadolivre.com.br/mochila-feminina-impermeavel-reforcada-com-capacidade-expansivel-de-25-a-40-l-capaz-de-acomodar-um-laptop-de-156-polegadas-com-porta-de-carregamento-sub/p/MLB75521100",
+      "current_price": 82.05,
+      "original_price": 268,
+      "discount": 69.4,
+      "difference": 185.95,
+      "criteria": [
+        "69.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_816218-MLA115053426863_072026-AB.webp",
+      "category": "[BACKPACKS]",
+      "last_seen": 1786332587.274545,
+      "discovery_ts": 1786332587.274545,
       "is_new": false
     },
     {
@@ -16499,7 +16436,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_904903-MLB112252713472_062026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785389121.131261,
       "is_new": false
     },
@@ -16519,6 +16456,24 @@
       "category": "[FASHION_ACCESSORIES]",
       "last_seen": 1786325964.756083,
       "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4186673209",
+      "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
+      "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante-detalhes-bronze/p/MLB54422844",
+      "current_price": 133.59,
+      "original_price": 249.9,
+      "discount": 46.5,
+      "difference": 116.31,
+      "criteria": [
+        "46.5% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_758835-MLA100010183395_122025-AB.webp",
+      "category": "[WRISTWATCHES]",
+      "last_seen": 1786338424.79205,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -16553,7 +16508,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_995299-MLA99479082188_112025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -16571,7 +16526,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_765174-MLB89888451280_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -16589,7 +16544,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_825513-MLA109629080834_042026-AB.webp",
       "category": "[DOLLS]",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -16609,42 +16564,6 @@
       "category": "👕 Moda & Acessórios",
       "last_seen": 1786338424.79205,
       "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4286077136",
-      "title": "Mochila Bubu E As Corujinhas Bb23155j - Clio Style Cor Rosa",
-      "link": "https://www.mercadolivre.com.br/mochila-bubu-e-as-corujinhas-bb23155j-clio-style-cor-rosa/p/MLB28110803",
-      "current_price": 58.5,
-      "original_price": 149.99,
-      "discount": 61.0,
-      "difference": 91.49,
-      "criteria": [
-        "61.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_617302-MLA95969711565_102025-AB.webp",
-      "category": "[BACKPACKS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786301765.096934,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6795185366",
-      "title": "Scarpin Beira Rio Feminino 4076-1319 Conhaque Liso 38 Br",
-      "link": "https://www.mercadolivre.com.br/scarpin-beira-rio-feminino-40761319/up/MLBU3982969802",
-      "current_price": 76.99,
-      "original_price": 159.9,
-      "discount": 51.9,
-      "difference": 82.91,
-      "criteria": [
-        "51.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_967656-MLB115073147129_072026-AB.webp",
-      "category": "[HEELS_AND_WEDGES]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786313528.251089,
       "is_new": false
     },
     {
@@ -16684,24 +16603,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB5356002566",
-      "title": "Sandália Beira Rio Feminina Elástico Confortável Casual",
-      "link": "https://produto.mercadolivre.com.br/MLB-5356002566-sandalia-beira-rio-feminina-elastico-confortavel-casual-_JM",
-      "current_price": 62.65,
-      "original_price": 139.99,
-      "discount": 55.2,
-      "difference": 77.34,
-      "criteria": [
-        "55.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_654117-MLB108626527137_032026-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786290536.167453,
-      "is_new": false
-    },
-    {
       "asin": "MLB3900195221",
       "title": "Colcha Cobre Leito Queen 230x260 Casal Extra Macio Kit 3 Pçs",
       "link": "https://produto.mercadolivre.com.br/MLB-3900195221-colcha-cobre-leito-queen-230x260-casal-extra-macio-kit-3-pcs-_JM",
@@ -16734,42 +16635,6 @@
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_996083-CBT114871948487_072026-AB.webp",
       "category": "[PENCILS]",
       "last_seen": 1786325964.756083,
-      "discovery_ts": 1786290536.167453,
-      "is_new": false
-    },
-    {
-      "asin": "MLB1837525408",
-      "title": "Kit Com 10 Cuecas Boxer Masculina Microfibra Original ",
-      "link": "https://produto.mercadolivre.com.br/MLB-1837525408-kit-com-10-cuecas-boxer-masculina-microfibra-original-_JM",
-      "current_price": 69.29,
-      "original_price": 138,
-      "discount": 49.8,
-      "difference": 68.71,
-      "criteria": [
-        "49.8% OFF"
-      ],
-      "badge": "🟡 ML | 284 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_882952-MLB106804965837_022026-AB.webp",
-      "category": "[UNDERPANTS]",
-      "last_seen": 1786319806.771926,
-      "discovery_ts": 1785773212.874439,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4610904604",
-      "title": "Corda de Segurança 20m 12mm para Resgate e Montanhismo Plasmodia",
-      "link": "https://www.mercadolivre.com.br/corda-de-seguranca-20m-12mm-para-resgate-e-montanhismo-plasmodia/p/MLB26326532",
-      "current_price": 68,
-      "original_price": 136,
-      "discount": 50.0,
-      "difference": 68,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "🟡 ML | 2 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_855368-MLA95660789926_102025-AB.webp",
-      "category": "[CLIMBING_ROPES]",
-      "last_seen": 1786317890.556128,
       "discovery_ts": 1786290536.167453,
       "is_new": false
     },
@@ -16823,7 +16688,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786332587.274545,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -16841,26 +16706,8 @@
       "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_929142-MLA114210255433_072026-AB.webp",
       "category": "[WASTE_BASKETS]",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5288471998",
-      "title": "Cortina 3,00x2,80 Metros Blackout Blecaute Palha Corta Luz Em Tecido Grosso Para Quarto E Sala Casa Laura Enxovais",
-      "link": "https://www.mercadolivre.com.br/cortina-300x280-metros-blackout-blecaute-palha-corta-luz-em-tecido-grosso-para-quarto-e-sala-casa-laura-enxovais/p/MLB29614932",
-      "current_price": 72.9,
-      "original_price": 135.21,
-      "discount": 46.1,
-      "difference": 62.31,
-      "criteria": [
-        "46.1% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_750197-MLA99506070940_112025-AB.webp",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786319806.771926,
-      "discovery_ts": 1785527244.279413,
       "is_new": false
     },
     {
@@ -16877,7 +16724,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -16897,24 +16744,6 @@
       "category": "👕 Moda & Acessórios",
       "last_seen": 1786338424.79205,
       "discovery_ts": 1785473115.578853,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6548848878",
-      "title": "Emporio Viva 1kg castanha caju torrada W1 inteira premium com sal",
-      "link": "https://www.mercadolivre.com.br/emporio-viva-1kg-castanha-caju-torrada-w1-inteira-premium-com-sal/p/MLB24127655",
-      "current_price": 72.27,
-      "original_price": 124.49,
-      "discount": 41.9,
-      "difference": 52.22,
-      "criteria": [
-        "41.9% OFF"
-      ],
-      "badge": "🟡 ML | 58 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_909966-MLA113034283425_062026-AB.webp",
-      "category": "[DRIED_FRUITS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1786317890.556128,
       "is_new": false
     },
     {
@@ -16972,24 +16801,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3549578737",
-      "title": "Capa Protetora Giratória 360° Para Redmi Pad Se + Película",
-      "link": "https://produto.mercadolivre.com.br/MLB-3549578737-capa-protetora-giratoria-360-para-redmi-pad-se-pelicula-_JM",
-      "current_price": 33.28,
-      "original_price": 78.99,
-      "discount": 57.9,
-      "difference": 45.71,
-      "criteria": [
-        "57.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_802177-MLB73494937366_122023-AB.webp",
-      "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786317890.556128,
-      "discovery_ts": 1785211726.382873,
-      "is_new": false
-    },
-    {
       "asin": "MLB4415801503",
       "title": "Mini Localizador Rastreador Smart Tag Gps Com Cordão Chaveiro Cor Preto Compatível Com Android Samsung Motorola Xiaomi Chrome Technology",
       "link": "https://www.mercadolivre.com.br/mini-localizador-rastreador-smart-tag-gps-com-cordao-chaveiro-cor-preto-compativel-com-android-samsung-motorola-xiaomi-chrome-technology/p/MLB64186498",
@@ -17023,6 +16834,24 @@
       "category": "[SANDER_MACHINES]",
       "last_seen": 1786338424.79205,
       "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
+      "asin": "B09XFLHJ1S",
+      "title": "Danos Vorazes Máscara de Tratamento 450g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Lola-Cosmetics-Vorazes-Repara%C3%A7%C3%A3o-Intensiva/dp/B09XFLHJ1S",
+      "current_price": 28.94,
+      "original_price": 64.9,
+      "discount": 55.4,
+      "difference": 35.96,
+      "criteria": [
+        "55.4% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1786338424.79205,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -17075,7 +16904,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -17095,6 +16924,42 @@
       "category": "[BALLOON_GRIDS]",
       "last_seen": 1786332587.274545,
       "discovery_ts": 1785559271.19715,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4081980993",
+      "title": "Tapete Para Banheiro Box Antiderrapante 1,00x0,60 Macio Pvc",
+      "link": "https://produto.mercadolivre.com.br/MLB-4081980993-tapete-para-banheiro-box-antiderrapante-100x060-macio-pvc-_JM",
+      "current_price": 39.77,
+      "original_price": 67,
+      "discount": 40.6,
+      "difference": 27.23,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_624656-MLB114141235904_082026-AB.webp",
+      "category": "[NON_SLIP_BATHTUB_APPLIQUES_AND_MATS]",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B09GHN14FP",
+      "title": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/DANOS-VORAZES-REPARADOR-Lola-Cosmetics/dp/B09GHN14FP",
+      "current_price": 19.93,
+      "original_price": 44.9,
+      "discount": 55.6,
+      "difference": 24.97,
+      "criteria": [
+        "55.6% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -17183,8 +17048,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_862425-MLA95804056004_102025-AB.webp",
       "category": "[LAPTOP_STANDS]",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785338184.839718,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4075917717",
+      "title": "Mini Boleira Cogumelo Plástico Preto 10\" Para Bolo e Doces Festa Decor",
+      "link": "https://www.mercadolivre.com.br/mini-boleira-cogumelo-plastico-preto-10-para-bolo-e-doces-festa-decor/p/MLB50181904",
+      "current_price": 12.27,
+      "original_price": 26.9,
+      "discount": 54.4,
+      "difference": 14.63,
+      "criteria": [
+        "54.4% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_893352-MLA96210225538_102025-AB.webp",
+      "category": "[CAKE_AND_CUPCAKE_STANDS]",
+      "last_seen": 1786342826.475298,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -17237,7 +17120,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_887148-MLB77742115030_072024-AB.webp",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786338424.79205,
+      "last_seen": 1786342826.475298,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     }
