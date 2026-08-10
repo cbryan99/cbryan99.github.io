@@ -1,5 +1,5 @@
 {
-  "last_check": "10/08/2026 21:39:41",
+  "last_check": "10/08/2026 22:18:39",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3728,6 +3728,10 @@
         {
           "price": 3549.0,
           "date": "2026-07-28T20:06:16.438674"
+        },
+        {
+          "price": 3499.0,
+          "date": "2026-08-10T22:18:39.496484"
         }
       ]
     },
@@ -16363,9 +16367,36 @@
           "date": "2026-08-10T21:39:38.191197"
         }
       ]
+    },
+    "B0DGMPCP48": {
+      "discovery_date": "2026-08-10T22:18:39.496484",
+      "price_history": [
+        {
+          "price": 6499.0,
+          "date": "2026-08-10T22:18:39.496484"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DGMPCP48",
+      "title": "Apple iPhone 16 Plus (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGMPCP48",
+      "current_price": 6499.0,
+      "original_price": 8499.0,
+      "discount": 23.5,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786400319.496492,
+      "is_new": true
+    },
     {
       "asin": "B078929VCN",
       "title": "SUGGAR COIFA ILHA REDONDA QUARTZO INOX 35CM 220V TP3522IX",
@@ -16380,26 +16411,8 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/716jza-SoaS._AC_UL210_SR210,210_.jpg",
       "category": "[VENT_HOOD]",
-      "last_seen": 1786395411.117686,
-      "discovery_ts": 1786395411.117686,
-      "is_new": true
-    },
-    {
-      "asin": "B0DVH3R5WN",
-      "title": "ASUS Prime RTX5070 Ti, PCIe5, 16GB DDR7, HDMI, 3 DP, Relógio 2482MHz, Compact SFF-Ready",
-      "link": "https://www.amazon.com.br/ASUS-RTX5070-Rel%C3%B3gio-2482MHz-SFF-Ready/dp/B0DVH3R5WN",
-      "current_price": 7499.0,
-      "original_price": 8299.0,
-      "discount": 9.6,
-      "difference": 800.0,
-      "criteria": [
-        "R$ 800.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81qOec4Uz5L._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_CARD]",
-      "last_seen": 1786397978.191204,
-      "discovery_ts": 1786392328.152502,
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786395411.117679,
       "is_new": true
     },
     {
@@ -16440,60 +16453,6 @@
       "is_new": true
     },
     {
-      "asin": "MLB4881269367",
-      "title": "Tablet Profissional Android 10.1 Com Teclado 12gb 256gb Cinza Escuro 8gb 256gb",
-      "link": "https://www.mercadolivre.com.br/tablet-profissional-android-101-com-teclado-12gb-256gb/up/MLBU4276754687",
-      "current_price": 815.29,
-      "original_price": 1150,
-      "discount": 29.1,
-      "difference": 334.71,
-      "criteria": [
-        "R$ 334.71 desc."
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_845870-MLB113196364032_072026-AB.webp",
-      "category": "[TABLETS]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
-      "is_new": true
-    },
-    {
-      "asin": "B0D49PNNJ5",
-      "title": "Guarda-roupa Casal 4 Gavetas 2 Portas Caemmun Romanus",
-      "link": "https://www.amazon.com.br/Guarda-Roupa-Romanus-Portas-Gavetas-Espelho/dp/B0D49PNNJ5",
-      "current_price": 1381.91,
-      "original_price": 1709.99,
-      "discount": 19.2,
-      "difference": 328.08,
-      "criteria": [
-        "R$ 328.08 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61BHHnm9nHL._AC_UL210_SR210,210_.jpg",
-      "category": "[CABINET]",
-      "last_seen": 1786395411.117686,
-      "discovery_ts": 1786392328.152502,
-      "is_new": true
-    },
-    {
-      "asin": "MLB4445454487",
-      "title": "Perfume Arqus Voyage Pour Homme 100ml",
-      "link": "https://www.mercadolivre.com.br/perfume-arqus-voyage-pour-homme-100ml/p/MLB22835700",
-      "current_price": 107.67,
-      "original_price": 308,
-      "discount": 65.0,
-      "difference": 200.33,
-      "criteria": [
-        "65.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_978955-MLA112902274241_062026-AB.webp",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
-      "is_new": true
-    },
-    {
       "asin": "MLB5971004614",
       "title": "Inversor De Energia 12v Para 220v 1500w Conversor Com Usb",
       "link": "https://www.mercadolivre.com.br/inversor-de-energia-12v-para-220v-1500w-conversor-com-usb/p/MLB2100469922",
@@ -16509,24 +16468,6 @@
       "category": "[POWER_INVERTERS]",
       "last_seen": 1786397978.191204,
       "discovery_ts": 1786397978.191204,
-      "is_new": true
-    },
-    {
-      "asin": "B0BZ1WGR9N",
-      "title": "Cadeira de Escritório Secretária Base Preta com Rodinha Fortt Porto Preta - CSF01-P",
-      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Secret%C3%A1ria-Preta-Rodinha/dp/B0BZ1WGR9N",
-      "current_price": 109.0,
-      "original_price": 289.0,
-      "discount": 62.3,
-      "difference": 180.0,
-      "criteria": [
-        "62.3% OFF"
-      ],
-      "badge": "62% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51rMbAFDtfL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
       "is_new": true
     },
     {
@@ -16597,26 +16538,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_716663-MLA99599672360_122025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786397978.191204,
-      "discovery_ts": 1786397978.191204,
-      "is_new": true
-    },
-    {
-      "asin": "MLB6922189910",
-      "title": "Q.11 Guia Para Seleção De Cores Em Design Gráfico",
-      "link": "https://www.mercadolivre.com.br/1-guia-para-selecao-de-cores-em-design-grafico-1-by-/p/MLB2064424745",
-      "current_price": 37.6,
-      "original_price": 66.69,
-      "discount": 43.6,
-      "difference": 29.09,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_830900-MLM105570247288_012026-AB.webp",
-      "category": "[BOOKS]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786397978.191197,
       "is_new": true
     },
     {
@@ -16635,42 +16558,6 @@
       "category": "[TRASH_BAGS]",
       "last_seen": 1786397978.191204,
       "discovery_ts": 1786397978.191204,
-      "is_new": true
-    },
-    {
-      "asin": "MLB5350054262",
-      "title": "Plantfertil Grama 500g - Adubo Fertilizante Premium para Gramado",
-      "link": "https://www.mercadolivre.com.br/plantfertil-grama-500g-adubo-fertilizante-premium-para-gramado/p/MLB47912279",
-      "current_price": 10.58,
-      "original_price": 22.5,
-      "discount": 53.0,
-      "difference": 11.92,
-      "criteria": [
-        "53.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_835718-MLA99595078780_122025-AB.webp",
-      "category": "[GARDEN_FERTILIZERS]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
-      "is_new": true
-    },
-    {
-      "asin": "MLB5394725684",
-      "title": "Tapa Bumbum Com Amarração Modelo Básico Confortavel Slim",
-      "link": "https://produto.mercadolivre.com.br/MLB-5394725684-tapa-bumbum-com-amarraco-modelo-basico-confortavel-slim-_JM",
-      "current_price": 16,
-      "original_price": 27.9,
-      "discount": 42.7,
-      "difference": 11.9,
-      "criteria": [
-        "42.7% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_793766-MLB84913082937_052025-AB.webp",
-      "category": "[SPORTSWEAR]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
       "is_new": true
     },
     {
@@ -16706,7 +16593,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -16724,7 +16611,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -16760,7 +16647,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -16778,7 +16665,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -16833,7 +16720,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -16851,7 +16738,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -16869,8 +16756,26 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LpX2qhRfL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
+      "asin": "B0GTS998HJ",
+      "title": "Apple iPhone 17e de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
+      "current_price": 4443.33,
+      "original_price": 5799.0,
+      "discount": 23.4,
+      "difference": 1355.67,
+      "criteria": [
+        "R$ 1355.67 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -16905,8 +16810,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786389542.412694,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1784752600.373367,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -16923,7 +16846,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -16941,8 +16864,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MV8w-DQmS._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786382621.995871,
+      "is_new": false
+    },
+    {
+      "asin": "B0DVH3R5WN",
+      "title": "ASUS Prime RTX5070 Ti, PCIe5, 16GB DDR7, HDMI, 3 DP, Relógio 2482MHz, Compact SFF-Ready",
+      "link": "https://www.amazon.com.br/ASUS-RTX5070-Rel%C3%B3gio-2482MHz-SFF-Ready/dp/B0DVH3R5WN",
+      "current_price": 7499.0,
+      "original_price": 8299.0,
+      "discount": 9.6,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81qOec4Uz5L._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_CARD]",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786392328.152502,
       "is_new": false
     },
     {
@@ -16959,7 +16900,7 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
       "category": "[CAMCORDER]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785140720.516192,
       "is_new": false
     },
@@ -16996,7 +16937,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17015,7 +16956,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_838605-MLA99983691269_112025-AB.webp",
       "category": "[OVENS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17033,7 +16974,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17069,7 +17010,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17088,7 +17029,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_740407-MLA96384749878_102025-AB.webp",
       "category": "[ELECTRIC_SCREWDRIVERS_AND_IMPACT_WRENCHES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17125,7 +17066,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804665-MLU77360009679_062024-AB.webp",
       "category": "[AUTOMOTIVE_TIRES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786129951.624788,
       "is_new": false
     },
@@ -17182,6 +17123,42 @@
       "category": "[VIDEO_GAME_CONSOLE]",
       "last_seen": 1786397978.191204,
       "discovery_ts": 1786385523.800129,
+      "is_new": false
+    },
+    {
+      "asin": "MLB4881269367",
+      "title": "Tablet Profissional Android 10.1 Com Teclado 12gb 256gb Cinza Escuro 8gb 256gb",
+      "link": "https://www.mercadolivre.com.br/tablet-profissional-android-101-com-teclado-12gb-256gb/up/MLBU4276754687",
+      "current_price": 815.29,
+      "original_price": 1150,
+      "discount": 29.1,
+      "difference": 334.71,
+      "criteria": [
+        "R$ 334.71 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_845870-MLB113196364032_072026-AB.webp",
+      "category": "[TABLETS]",
+      "last_seen": 1786392328.15251,
+      "discovery_ts": 1786392328.15251,
+      "is_new": false
+    },
+    {
+      "asin": "B0D49PNNJ5",
+      "title": "Guarda-roupa Casal 4 Gavetas 2 Portas Caemmun Romanus",
+      "link": "https://www.amazon.com.br/Guarda-Roupa-Romanus-Portas-Gavetas-Espelho/dp/B0D49PNNJ5",
+      "current_price": 1381.91,
+      "original_price": 1709.99,
+      "discount": 19.2,
+      "difference": 328.08,
+      "criteria": [
+        "R$ 328.08 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61BHHnm9nHL._AC_UL210_SR210,210_.jpg",
+      "category": "[CABINET]",
+      "last_seen": 1786395411.117686,
+      "discovery_ts": 1786392328.152502,
       "is_new": false
     },
     {
@@ -17293,6 +17270,42 @@
       "is_new": false
     },
     {
+      "asin": "MLB4445454487",
+      "title": "Perfume Arqus Voyage Pour Homme 100ml",
+      "link": "https://www.mercadolivre.com.br/perfume-arqus-voyage-pour-homme-100ml/p/MLB22835700",
+      "current_price": 107.67,
+      "original_price": 308,
+      "discount": 65.0,
+      "difference": 200.33,
+      "criteria": [
+        "65.0% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_978955-MLA112902274241_062026-AB.webp",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1786392328.15251,
+      "discovery_ts": 1786392328.15251,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ1WGR9N",
+      "title": "Cadeira de Escritório Secretária Base Preta com Rodinha Fortt Porto Preta - CSF01-P",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Secret%C3%A1ria-Preta-Rodinha/dp/B0BZ1WGR9N",
+      "current_price": 109.0,
+      "original_price": 289.0,
+      "discount": 62.3,
+      "difference": 180.0,
+      "criteria": [
+        "62.3% OFF"
+      ],
+      "badge": "62% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51rMbAFDtfL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1786392328.15251,
+      "discovery_ts": 1786392328.15251,
+      "is_new": false
+    },
+    {
       "asin": "MLB7184063522",
       "title": "Tênis Masculino Puma Rebound V6 Low Original Casual Macio Branco/marrom 40 Br",
       "link": "https://www.mercadolivre.com.br/tenis-masculino-puma-rebound-v6-low-original-casual-macio/up/MLBU3039506202",
@@ -17306,7 +17319,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933820-MLB82506639548_022025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786379104.693303,
       "is_new": false
     },
@@ -17324,7 +17337,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_846019-MLB100740577577_122025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -17339,10 +17352,10 @@
       "criteria": [
         "65.0% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 7 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_878974-MLB111954042965_052026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -17378,7 +17391,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_812084-MLA115085982265_072026-AB.webp",
       "category": "[ELECTRIC_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17396,7 +17409,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_741906-MLA115899482179_082026-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785632589.883027,
       "is_new": false
     },
@@ -17411,10 +17424,10 @@
       "criteria": [
         "47.2% OFF"
       ],
-      "badge": "🟡 ML | 39 VENDIDOS",
+      "badge": "🟡 ML | 46 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_645354-MLB114497719037_072026-AB.webp",
       "category": "[GAMEPADS_AND_JOYSTICKS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -17537,10 +17550,10 @@
       "criteria": [
         "49.8% OFF"
       ],
-      "badge": "🟡 ML | 267 VENDIDOS",
+      "badge": "🟡 ML | 401 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_882952-MLB106804965837_022026-AB.webp",
       "category": "[UNDERPANTS]",
-      "last_seen": 1786392328.15251,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785773212.874439,
       "is_new": false
     },
@@ -17558,7 +17571,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_808743-MLB111611547555_052026-AB.webp",
       "category": "[DRAFTING_KITS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785689737.249491,
       "is_new": false
     },
@@ -17576,7 +17589,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_656256-MLA99977473125_112025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785697944.515953,
       "is_new": false
     },
@@ -17594,7 +17607,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786382621.995879,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -17635,6 +17648,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CKK4XLTB",
+      "title": "I2GO, Carregador Portátil (Power Bank), Pocket, 5000mAh, Não Necessita Cabos, Modelo USB-C",
+      "link": "https://www.amazon.com.br/Carregador-Port%C3%A1til-Power-Pocket-5000mAh/dp/B0CKK4XLTB",
+      "current_price": 89.9,
+      "original_price": 149.9,
+      "discount": 40.0,
+      "difference": 60.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61wg5LVdnOL._AC_UL210_SR210,210_.jpg",
+      "category": "[POWER_BANK]",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786359737.45714,
+      "is_new": false
+    },
+    {
       "asin": "MLB6415054212",
       "title": "Relógio de pulso Oremte PREMIUM XII1159 com corria de aço inoxidável color dourado e verde",
       "link": "https://www.mercadolivre.com.br/relogio-de-pulso-oremte-premium-xii1159-com-corria-de-aco-inoxidavel-color-dourado-e-verde/p/MLB25297034",
@@ -17648,7 +17679,7 @@
       "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_890376-MLA107996842990_032026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786225685.902789,
       "is_new": false
     },
@@ -17663,10 +17694,10 @@
       "criteria": [
         "48.4% OFF"
       ],
-      "badge": "🟡 ML | 519 VENDIDOS",
+      "badge": "🟡 ML | 575 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_755662-MLA99498152944_112025-AB.webp",
       "category": "[DECORATIVE_CARPETS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -17702,7 +17733,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -17720,7 +17751,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB.webp",
       "category": "[LIP_GLOSSES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -17738,7 +17769,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804516-CBT115485841043_082026-AB.webp",
       "category": "[SERVING_AND_HOME_TRAYS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786389542.412685,
       "is_new": false
     },
@@ -17756,7 +17787,7 @@
       "badge": "🟡 ML | 12 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_810953-MLB113728997842_072026-AB.webp",
       "category": "[SPORT_PANTS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17810,7 +17841,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916993-MLA105989638129_012026-AB.webp",
       "category": "[WATER_HEATERS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786160455.235015,
       "is_new": false
     },
@@ -17846,7 +17877,7 @@
       "badge": "🟡 ML | 27 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_756054-MLB90729158096_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786379104.693303,
       "is_new": false
     },
@@ -17882,7 +17913,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700560-MLA95656352366_102025-AB.webp",
       "category": "[MANUAL_SOAP_AND_DETERGENT_DISPENSERS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -17897,10 +17928,10 @@
       "criteria": [
         "51.5% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_812966-MLB82616675211_022025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17936,7 +17967,7 @@
       "badge": "🟡 ML | ÚLTIMAS 8",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_728968-MLB51576957591_092022-AB.webp",
       "category": "[SPORT_AND_BAZAAR_BOTTLES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -18008,7 +18039,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_739067-MLB108040612652_032026-AB.webp",
       "category": "[LUNCHBOXES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -18067,6 +18098,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB6922189910",
+      "title": "Q.11 Guia Para Seleção De Cores Em Design Gráfico",
+      "link": "https://www.mercadolivre.com.br/1-guia-para-selecao-de-cores-em-design-grafico-1-by-/p/MLB2064424745",
+      "current_price": 37.6,
+      "original_price": 66.69,
+      "discount": 43.6,
+      "difference": 29.09,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_830900-MLM105570247288_012026-AB.webp",
+      "category": "[BOOKS]",
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786392328.152502,
+      "is_new": false
+    },
+    {
       "asin": "MLB5652367374",
       "title": "Camiseta Masculina Estampada Italy Casual 100% Algodão",
       "link": "https://produto.mercadolivre.com.br/MLB-5652367374-camiseta-masculina-estampada-italy-casual-100-algodo-_JM",
@@ -18080,7 +18129,7 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_724522-MLB91281479813_082025-AB.webp",
       "category": "[SHIRTS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -18134,7 +18183,7 @@
       "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_733809-MLA79941265316_102024-AB.webp",
       "category": "[ULTRASONIC_SKIN_SCRUBBERS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18206,7 +18255,7 @@
       "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_625557-MLA113590086799_062026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -18224,7 +18273,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_865903-MLB91876439886_092025-AB.webp",
       "category": "[BABY_MONITORS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18242,7 +18291,7 @@
       "badge": "🟡 ML | 9 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_926210-MLB106359948982_022026-AB.webp",
       "category": "[STRAIGHT_RAZORS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785689737.249491,
       "is_new": false
     },
@@ -18278,7 +18327,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_849415-MLB100967068557_122025-AB.webp",
       "category": "[HOME_CLEANING_BRUSHES]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -18296,7 +18345,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_760218-MLB103150514811_122025-AB.webp",
       "category": "[BALLOONS]",
-      "last_seen": 1786395411.117686,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18314,7 +18363,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_772839-MLB99146623020_112025-AB.webp",
       "category": "[BALLOON_GRIDS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1785591712.392455,
       "is_new": false
     },
@@ -18332,8 +18381,44 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_604670-MLB87434053877_072025-AB.webp",
       "category": "[TOILET_RUGS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786400319.496492,
       "discovery_ts": 1786221867.545957,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5350054262",
+      "title": "Plantfertil Grama 500g - Adubo Fertilizante Premium para Gramado",
+      "link": "https://www.mercadolivre.com.br/plantfertil-grama-500g-adubo-fertilizante-premium-para-gramado/p/MLB47912279",
+      "current_price": 10.58,
+      "original_price": 22.5,
+      "discount": 53.0,
+      "difference": 11.92,
+      "criteria": [
+        "53.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_835718-MLA99595078780_122025-AB.webp",
+      "category": "[GARDEN_FERTILIZERS]",
+      "last_seen": 1786392328.15251,
+      "discovery_ts": 1786392328.15251,
+      "is_new": false
+    },
+    {
+      "asin": "MLB5394725684",
+      "title": "Tapa Bumbum Com Amarração Modelo Básico Confortavel Slim",
+      "link": "https://produto.mercadolivre.com.br/MLB-5394725684-tapa-bumbum-com-amarraco-modelo-basico-confortavel-slim-_JM",
+      "current_price": 16,
+      "original_price": 27.9,
+      "discount": 42.7,
+      "difference": 11.9,
+      "criteria": [
+        "42.7% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMA!",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_793766-MLB84913082937_052025-AB.webp",
+      "category": "[SPORTSWEAR]",
+      "last_seen": 1786392328.15251,
+      "discovery_ts": 1786392328.15251,
       "is_new": false
     },
     {
