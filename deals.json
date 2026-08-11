@@ -1,5 +1,5 @@
 {
-  "last_check": "10/08/2026 23:41:35",
+  "last_check": "11/08/2026 00:35:41",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1909,6 +1909,10 @@
         {
           "price": "7099.0",
           "date": "2026-07-25T15:48:33.776849"
+        },
+        {
+          "price": 7099.0,
+          "date": "2026-08-11T00:35:38.411514"
         }
       ]
     },
@@ -7037,6 +7041,10 @@
         {
           "price": 3599.0,
           "date": "2026-07-31T16:26:20.635022"
+        },
+        {
+          "price": 3585.0,
+          "date": "2026-08-11T00:35:38.411514"
         }
       ]
     },
@@ -7304,6 +7312,10 @@
         {
           "price": 278.9,
           "date": "2026-08-05T21:22:37.427839"
+        },
+        {
+          "price": 279.9,
+          "date": "2026-08-11T00:35:38.411514"
         }
       ]
     },
@@ -16439,6 +16451,33 @@
           "date": "2026-08-10T22:59:58.843876"
         }
       ]
+    },
+    "B0FJYLF46G": {
+      "discovery_date": "2026-08-11T00:35:38.411514",
+      "price_history": [
+        {
+          "price": 1099.0,
+          "date": "2026-08-11T00:35:38.411514"
+        }
+      ]
+    },
+    "MLB7319552432": {
+      "discovery_date": "2026-08-11T00:35:38.411514",
+      "price_history": [
+        {
+          "price": 479.9,
+          "date": "2026-08-11T00:35:38.411514"
+        }
+      ]
+    },
+    "MLB6234244250": {
+      "discovery_date": "2026-08-11T00:35:38.411514",
+      "price_history": [
+        {
+          "price": 296.99,
+          "date": "2026-08-11T00:35:38.411514"
+        }
+      ]
     }
   },
   "data": [
@@ -16480,24 +16519,6 @@
       "is_new": true
     },
     {
-      "asin": "B0DGMPCP48",
-      "title": "Apple iPhone 16 Plus (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGMPCP48",
-      "current_price": 6499.0,
-      "original_price": 8499.0,
-      "discount": 23.5,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1786400319.496492,
-      "is_new": true
-    },
-    {
       "asin": "B0CD2QBT7X",
       "title": "Fogão Electrolux 5 Bocas Experience com PerfectCook360 Prata (FE5DC) 127V",
       "link": "https://www.amazon.com.br/Fog%C3%A3o-Electrolux-Experience-PerfectCook360-FE5DC/dp/B0CD2QBT7X",
@@ -16513,6 +16534,62 @@
       "category": "[RANGE]",
       "last_seen": 1786405295.884075,
       "discovery_ts": 1786402798.843876,
+      "is_new": true
+    },
+    {
+      "asin": "MLB7319552432",
+      "title": "Cadeira Escritório Ergonômica Giratoria Reclinavel Olinda RSH500 Rishon Cor Preto Com Suporte Lombar Estofado Mesh",
+      "link": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-giratoria-reclinavel-olinda-rsh500-rishon-cor-preto-com-suporte-lombar-estofado-mesh/p/MLB75797375",
+      "current_price": 479.9,
+      "original_price": 999,
+      "discount": 52.0,
+      "difference": 519.1,
+      "criteria": [
+        "52.0% OFF",
+        "R$ 519.1 desc."
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_870436-MLA113900534628_072026-AB.webp",
+      "category": "[OFFICE_CHAIRS]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786408538.411521,
+      "is_new": true
+    },
+    {
+      "asin": "B0FJYLF46G",
+      "title": "Frigobar Retrô 93 litros Vermelho Inverter Bivolt Midea",
+      "link": "https://www.amazon.com.br/Frigobar-litros-Vermelho-Inverter-Midea/dp/B0FJYLF46G",
+      "current_price": 1099.0,
+      "original_price": 1599.0,
+      "discount": 31.3,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41wzbNLUNNL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786408538.411521,
+      "is_new": true
+    },
+    {
+      "asin": "MLB6234244250",
+      "title": "Chuteira Futsal Umbro Pro 5 Bump - Original, Nota, Garantia Coral/branco/preto 37 Br",
+      "link": "https://www.mercadolivre.com.br/chuteira-futsal-umbro-pro-5-bump--original-nota-garantia/up/MLBU3478545013",
+      "current_price": 296.99,
+      "original_price": 649.99,
+      "discount": 54.3,
+      "difference": 353.0,
+      "criteria": [
+        "54.3% OFF",
+        "R$ 353.0 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_886407-MLB94684132213_102025-AB.webp",
+      "category": "[FOOTBALL_SHOES]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786408538.411521,
       "is_new": true
     },
     {
@@ -16607,6 +16684,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DGMFW4VB",
+      "title": "Apple iPhone 16 Plus (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFW4VB",
+      "current_price": 7099.0,
+      "original_price": 9299.0,
+      "discount": 23.7,
+      "difference": 2200.0,
+      "criteria": [
+        "R$ 2200.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1784994513.776849,
+      "is_new": false
+    },
+    {
       "asin": "B0GQW2J4SK",
       "title": "Apple iPhone 17 de 256 GB — Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK",
@@ -16620,7 +16715,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -16638,26 +16733,26 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
-      "asin": "B0DJFVKKWT",
-      "title": "Apple iPhone 16 (256 GB) – Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
-      "current_price": 5699.0,
-      "original_price": 7599.0,
-      "discount": 25.0,
-      "difference": 1900.0,
+      "asin": "B0DGMPCP48",
+      "title": "Apple iPhone 16 Plus (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGMPCP48",
+      "current_price": 6499.0,
+      "original_price": 8499.0,
+      "discount": 23.5,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 1900.0 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1786366711.615938,
+      "last_seen": 1786400319.496492,
+      "discovery_ts": 1786400319.496492,
       "is_new": false
     },
     {
@@ -16674,8 +16769,26 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFTJ6LX",
+      "title": "Apple iPhone 16 (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
+      "current_price": 5110.0,
+      "original_price": 6799.0,
+      "discount": 24.8,
+      "difference": 1689.0,
+      "criteria": [
+        "R$ 1689.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -16697,43 +16810,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFTJ6LX",
-      "title": "Apple iPhone 16 (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
-      "current_price": 5110.0,
-      "original_price": 6799.0,
-      "discount": 24.8,
-      "difference": 1689.0,
-      "criteria": [
-        "R$ 1689.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVT7QXF7",
-      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
-      "current_price": 1998.89,
-      "original_price": 3599.0,
-      "discount": 44.5,
-      "difference": 1600.11,
-      "criteria": [
-        "44.5% OFF",
-        "R$ 1600.11 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
       "asin": "B0CP69NT2N",
       "title": "Apple iPhone 15 (128 GB) — Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP69NT2N",
@@ -16747,7 +16823,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -16783,7 +16859,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LpX2qhRfL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -16801,7 +16877,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41aApj0ACOL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -16824,6 +16900,25 @@
       "is_new": false
     },
     {
+      "asin": "MLB4801690555",
+      "title": "Esteira Elétrica Dobrável Residencial Compacta Para Caminhada 8km/h 400W Até 110kg",
+      "link": "https://www.mercadolivre.com.br/esteira-eletrica-dobravel-residencial-compacta-para-caminhada-8kmh-400w-ate-110kg/p/MLB76544641",
+      "current_price": 662.51,
+      "original_price": 1999,
+      "discount": 66.9,
+      "difference": 1336.49,
+      "criteria": [
+        "66.9% OFF",
+        "R$ 1336.49 desc."
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 2",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_947839-MLA114450320300_082026-AB.webp",
+      "category": "[TREADMILLS]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1785814979.82702,
+      "is_new": false
+    },
+    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -16837,8 +16932,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1784752600.373367,
+      "is_new": false
+    },
+    {
+      "asin": "B0B61WJRY5",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -16891,7 +17004,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -16950,24 +17063,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F5X6NDTR",
-      "title": "Samsung Smart TV 85\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X6NDTR",
-      "current_price": 6549.0,
-      "original_price": 7299.99,
-      "discount": 10.3,
-      "difference": 750.99,
-      "criteria": [
-        "R$ 750.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6181BLtQnFL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1784743052.777175,
-      "is_new": false
-    },
-    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -16982,7 +17077,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17001,7 +17096,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_838605-MLA99983691269_112025-AB.webp",
       "category": "[OVENS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17019,7 +17114,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17055,7 +17150,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17074,7 +17169,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_740407-MLA96384749878_102025-AB.webp",
       "category": "[ELECTRIC_SCREWDRIVERS_AND_IMPACT_WRENCHES]",
-      "last_seen": 1786400319.496492,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17093,7 +17188,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51i3nkPbZ-L._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -17275,7 +17370,7 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17293,7 +17388,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6181BLtQnFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786385523.800138,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786382621.995871,
       "is_new": false
     },
@@ -17349,6 +17444,24 @@
       "category": "[AIR_MATTRESSES]",
       "last_seen": 1786392328.15251,
       "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
+      "asin": "MLB3525364839",
+      "title": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta The Black Tools",
+      "link": "https://www.mercadolivre.com.br/chave-de-impacto-a-bateria-21v-12-pol-2400-rpm-bivolt-com-acessorios-e-maleta-the-black-tools/p/MLB28530314",
+      "current_price": 279.9,
+      "original_price": 513.39,
+      "discount": 45.5,
+      "difference": 233.49,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_652182-MLA113971474078_072026-AB.webp",
+      "category": "[ELECTRIC_DRILLS]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1785527244.279413,
       "is_new": false
     },
     {
@@ -17419,7 +17532,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933820-MLB82506639548_022025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786379104.693303,
       "is_new": false
     },
@@ -17442,6 +17555,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB4470380081",
+      "title": "Tênis Masculino E Feminino Advantage 2.0 adidas Branco E Verde Liso 36 Br",
+      "link": "https://www.mercadolivre.com.br/tenis-masculino-e-feminino-advantage-20-adidas/up/MLBU3556992723",
+      "current_price": 204.99,
+      "original_price": 349.99,
+      "discount": 41.4,
+      "difference": 145.0,
+      "criteria": [
+        "41.4% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_846019-MLB100740577577_122025-AB.webp",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1785253019.20744,
+      "is_new": false
+    },
+    {
       "asin": "6584004406",
       "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
       "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
@@ -17460,24 +17591,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4470380081",
-      "title": "Tênis Masculino E Feminino Advantage 2.0 adidas Branco E Verde Liso 36 Br",
-      "link": "https://www.mercadolivre.com.br/tenis-masculino-e-feminino-advantage-20-adidas/up/MLBU3556992723",
-      "current_price": 204.99,
-      "original_price": 349.99,
-      "discount": 41.4,
-      "difference": 145.0,
-      "criteria": [
-        "41.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_846019-MLB100740577577_122025-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786405295.884075,
-      "discovery_ts": 1785253019.20744,
-      "is_new": false
-    },
-    {
       "asin": "MLB2834571039",
       "title": "Chuteira Umbro Molekinho Futsal Masculino Menino Eva",
       "link": "https://produto.mercadolivre.com.br/MLB-2834571039-chuteira-umbro-molekinho-futsal-masculino-menino-eva-_JM",
@@ -17488,10 +17601,10 @@
       "criteria": [
         "65.0% OFF"
       ],
-      "badge": "🟡 ML | 8 VENDIDOS",
+      "badge": "🟡 ML | 10 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_878974-MLB111954042965_052026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -17527,7 +17640,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_812084-MLA115085982265_072026-AB.webp",
       "category": "[ELECTRIC_BRUSH_CUTTERS_AND_STRING_TRIMMERS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -17545,7 +17658,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_741906-MLA115899482179_082026-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785632589.883027,
       "is_new": false
     },
@@ -17560,10 +17673,10 @@
       "criteria": [
         "47.2% OFF"
       ],
-      "badge": "🟡 ML | 58 VENDIDOS",
+      "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_645354-MLB114497719037_072026-AB.webp",
       "category": "[GAMEPADS_AND_JOYSTICKS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -17640,24 +17753,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3465889671",
-      "title": "Conjunto Maiô Decot Com Pareô Canga Saída De Banho Plus Size",
-      "link": "https://produto.mercadolivre.com.br/MLB-3465889671-conjunto-mai-decot-com-pare-canga-saida-de-banho-plus-size-_JM",
-      "current_price": 104,
-      "original_price": 177.75,
-      "discount": 41.5,
-      "difference": 73.75,
-      "criteria": [
-        "41.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_799577-MLB111229584519_052026-AB.webp",
-      "category": "[SWIMWEAR]",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1785427623.418875,
-      "is_new": false
-    },
-    {
       "asin": "MLB4235468003",
       "title": "Kit 50 Peças 100% Folheados A Prata 925 Semi Joias Femininas",
       "link": "https://www.mercadolivre.com.br/kit-50-pecas-100-folheados-a-prata-925-semi-joias-femininas/up/MLBU3461837171",
@@ -17668,10 +17763,10 @@
       "criteria": [
         "50.7% OFF"
       ],
-      "badge": "🟡 ML | 15 VENDIDOS",
+      "badge": "🟡 ML | 19 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_651685-MLB101983838269_122025-AB.webp",
       "category": "[JEWELRY]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -17686,10 +17781,10 @@
       "criteria": [
         "41.2% OFF"
       ],
-      "badge": "🟡 ML | 50 VENDIDOS",
+      "badge": "🟡 ML | 93 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_693732-MLA114247552873_072026-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1786397978.191204,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -17704,10 +17799,10 @@
       "criteria": [
         "49.8% OFF"
       ],
-      "badge": "🟡 ML | 499 VENDIDOS",
+      "badge": "🟡 ML | 551 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_882952-MLB106804965837_022026-AB.webp",
       "category": "[UNDERPANTS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785773212.874439,
       "is_new": false
     },
@@ -17722,10 +17817,10 @@
       "criteria": [
         "49.2% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_808743-MLB111611547555_052026-AB.webp",
       "category": "[DRAFTING_KITS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785689737.249491,
       "is_new": false
     },
@@ -17761,7 +17856,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_656256-MLA99977473125_112025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785697944.515953,
       "is_new": false
     },
@@ -17815,7 +17910,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61wg5LVdnOL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_BANK]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -17848,10 +17943,10 @@
       "criteria": [
         "48.4% OFF"
       ],
-      "badge": "🟡 ML | 696 VENDIDOS",
+      "badge": "🟡 ML | 768 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_755662-MLA99498152944_112025-AB.webp",
       "category": "[DECORATIVE_CARPETS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -17887,7 +17982,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_824087-MLB75887654141_042024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -17905,7 +18000,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB.webp",
       "category": "[LIP_GLOSSES]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -17920,10 +18015,10 @@
       "criteria": [
         "51.6% OFF"
       ],
-      "badge": "🟡 ML | 41 VENDIDOS",
+      "badge": "🟡 ML | 53 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_949931-MLA106923405178_022026-AB.webp",
       "category": "[BATHROOM_GRAB_BARS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786397978.191197,
       "is_new": false
     },
@@ -17941,7 +18036,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_804516-CBT115485841043_082026-AB.webp",
       "category": "[SERVING_AND_HOME_TRAYS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786389542.412685,
       "is_new": false
     },
@@ -17977,7 +18072,7 @@
       "badge": "🟡 ML | 15 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_810953-MLB113728997842_072026-AB.webp",
       "category": "[SPORT_PANTS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18031,26 +18126,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916993-MLA105989638129_012026-AB.webp",
       "category": "[WATER_HEATERS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786160455.235015,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4907921807",
-      "title": "Luminária Ring Light Portátil 26cm C/ Tripé 14cm Completo Iluminador Youtuber T-photo Lumi 1ª Linha",
-      "link": "https://www.mercadolivre.com.br/luminaria-ring-light-portatil-26cm-c-tripe-14cm-completo-iluminador-youtuber-t-photo-lumi-1-linha/p/MLB21939177",
-      "current_price": 33.16,
-      "original_price": 79.98,
-      "discount": 58.5,
-      "difference": 46.82,
-      "criteria": [
-        "58.5% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_905758-MLA112406784787_052026-AB.webp",
-      "category": "[CONTINUOUS_LIGHTING]",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1786349565.683197,
       "is_new": false
     },
     {
@@ -18067,7 +18144,7 @@
       "badge": "🟡 ML | 27 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_756054-MLB90729158096_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786379104.693303,
       "is_new": false
     },
@@ -18103,7 +18180,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700560-MLA95656352366_102025-AB.webp",
       "category": "[MANUAL_SOAP_AND_DETERGENT_DISPENSERS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -18175,7 +18252,7 @@
       "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_728968-MLB51576957591_092022-AB.webp",
       "category": "[SPORT_AND_BAZAAR_BOTTLES]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -18216,24 +18293,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4115144717",
-      "title": "Apoio De Pés Descanso Ergonômico Com Massageador Escritório Norma Regulamentadora NR 17 Ergonomia",
-      "link": "https://www.mercadolivre.com.br/apoio-de-pes-descanso-ergonomico-com-massageador-escritorio-norma-regulamentadora-nr-17-ergonomia/p/MLB65918398",
-      "current_price": 45.69,
-      "original_price": 78.99,
-      "discount": 42.2,
-      "difference": 33.3,
-      "criteria": [
-        "42.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_619201-MLA110378190837_042026-AB.webp",
-      "category": "[HOME_AND_OFFICE_FOOTRESTS]",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1786166702.619761,
-      "is_new": false
-    },
-    {
       "asin": "MLB4534156073",
       "title": "Lancheira Termica Infantil Escolar Mickey Azul Xeryus 13264 Azul",
       "link": "https://www.mercadolivre.com.br/lancheira-termica-infantil-escolar-mickey-azul-xeryus-13264/up/MLBU3850980224",
@@ -18247,7 +18306,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_739067-MLB108040612652_032026-AB.webp",
       "category": "[LUNCHBOXES]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785568625.106273,
       "is_new": false
     },
@@ -18283,7 +18342,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_933876-MLB104196283672_012026-AB.webp",
       "category": "[VEHICLE_SEAT_COVERS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785780117.267779,
       "is_new": false
     },
@@ -18301,8 +18360,26 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786385523.800138,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B08HK41RHJ",
+      "title": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L",
+      "link": "https://www.amazon.com.br/Vida-Macia-Lava-Roupas-Amaciante/dp/B08HK41RHJ",
+      "current_price": 20.29,
+      "original_price": 49.99,
+      "discount": 59.4,
+      "difference": 29.7,
+      "criteria": [
+        "59.4% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OYJq2IHHL._AC_UL210_SR210,210_.jpg",
+      "category": "[FABRIC_SOFTENER]",
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786359737.45714,
       "is_new": false
     },
     {
@@ -18337,7 +18414,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_724522-MLB91281479813_082025-AB.webp",
       "category": "[SHIRTS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -18373,7 +18450,7 @@
       "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_733809-MLA79941265316_102024-AB.webp",
       "category": "[ULTRASONIC_SKIN_SCRUBBERS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18445,7 +18522,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_865903-MLB91876439886_092025-AB.webp",
       "category": "[BABY_MONITORS]",
-      "last_seen": 1786405295.884075,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -18463,26 +18540,8 @@
       "badge": "🟡 ML | 9 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_926210-MLB106359948982_022026-AB.webp",
       "category": "[STRAIGHT_RAZORS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785689737.249491,
-      "is_new": false
-    },
-    {
-      "asin": "B08HK41RHJ",
-      "title": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L",
-      "link": "https://www.amazon.com.br/Vida-Macia-Lava-Roupas-Amaciante/dp/B08HK41RHJ",
-      "current_price": 29.89,
-      "original_price": 49.99,
-      "discount": 40.2,
-      "difference": 20.1,
-      "criteria": [
-        "40.2% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OYJq2IHHL._AC_UL210_SR210,210_.jpg",
-      "category": "[FABRIC_SOFTENER]",
-      "last_seen": 1786385523.800138,
-      "discovery_ts": 1786359737.45714,
       "is_new": false
     },
     {
@@ -18499,7 +18558,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_849415-MLB100967068557_122025-AB.webp",
       "category": "[HOME_CLEANING_BRUSHES]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -18553,7 +18612,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_772839-MLB99146623020_112025-AB.webp",
       "category": "[BALLOON_GRIDS]",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786408538.411521,
       "discovery_ts": 1785591712.392455,
       "is_new": false
     },
@@ -18589,8 +18648,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_835718-MLA99595078780_122025-AB.webp",
       "category": "[GARDEN_FERTILIZERS]",
-      "last_seen": 1786392328.15251,
-      "discovery_ts": 1786392328.15251,
+      "last_seen": 1786408538.411521,
+      "discovery_ts": 1786392328.152502,
       "is_new": false
     },
     {
