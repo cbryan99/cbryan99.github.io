@@ -1,5 +1,5 @@
 {
-  "last_check": "11/08/2026 04:05:15",
+  "last_check": "11/08/2026 05:18:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3857,6 +3857,10 @@
         {
           "price": 161.26,
           "date": "2026-07-28T21:18:41.886407"
+        },
+        {
+          "price": 169.22,
+          "date": "2026-08-11T05:18:32.309444"
         }
       ]
     },
@@ -16826,61 +16830,61 @@
           "date": "2026-08-11T04:05:14.339604"
         }
       ]
+    },
+    "B0GRJV247C": {
+      "discovery_date": "2026-08-11T05:18:32.309444",
+      "price_history": [
+        {
+          "price": 6949.0,
+          "date": "2026-08-11T05:18:32.309444"
+        }
+      ]
+    },
+    "MLB4426820615": {
+      "discovery_date": "2026-08-11T05:18:32.309444",
+      "price_history": [
+        {
+          "price": 28.8,
+          "date": "2026-08-11T05:18:32.309444"
+        }
+      ]
+    },
+    "MLB4186092305": {
+      "discovery_date": "2026-08-11T05:18:32.309444",
+      "price_history": [
+        {
+          "price": 56,
+          "date": "2026-08-11T05:18:32.309444"
+        }
+      ]
+    },
+    "MLB5184052762": {
+      "discovery_date": "2026-08-11T05:18:32.309444",
+      "price_history": [
+        {
+          "price": 62.07,
+          "date": "2026-08-11T05:18:32.309444"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
       "difference": 1750.0,
       "criteria": [
         "R$ 1750.0 desc."
       ],
-      "badge": "19% off",
+      "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786415879.781815,
-      "is_new": true
-    },
-    {
-      "asin": "MLB5454722792",
-      "title": "Gerador de energia monofásico com tecnologia Avr 127/220V Tgr1000 The Black Tools",
-      "link": "https://www.mercadolivre.com.br/gerador-de-energia-monofasico-com-tecnologia-avr-127220v-tgr1000-the-black-tools/p/MLB51532922",
-      "current_price": 1799.9,
-      "original_price": 2767.7,
-      "discount": 35.0,
-      "difference": 967.8,
-      "criteria": [
-        "R$ 967.8 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_965948-MLA87635940077_072025-AB.webp",
-      "category": "[PORTABLE_GENERATORS]",
-      "last_seen": 1786415879.781824,
-      "discovery_ts": 1786415879.781824,
-      "is_new": true
-    },
-    {
-      "asin": "B0DBN2NR2Q",
-      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN2NR2Q",
-      "current_price": 2699.0,
-      "original_price": 3472.63,
-      "discount": 22.3,
-      "difference": 773.63,
-      "criteria": [
-        "R$ 773.63 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1786415879.781824,
-      "discovery_ts": 1786415879.781824,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786425512.309451,
       "is_new": true
     },
     {
@@ -16894,11 +16898,11 @@
       "criteria": [
         "R$ 500.0 desc."
       ],
-      "badge": "27% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81myi7-w95L._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -16935,8 +16939,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_866317-MLA82763290105_022025-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -16954,8 +16958,8 @@
       "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_818602-MLA99937817677_112025-AB.webp",
       "category": "[PADDLE_TENNIS_RACKETS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -16990,8 +16994,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_871758-MLB75158412535_032024-AB.webp",
       "category": "[POLY_MAILERS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17008,8 +17012,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_607021-MLA110349889675_042026-AB.webp",
       "category": "[CHARMS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17026,8 +17030,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_884212-MLB92587211859_092025-AB.webp",
       "category": "[HAIR_SHAMPOOS_AND_CONDITIONERS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17062,8 +17066,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_818371-MLB106750401006_022026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17077,11 +17081,11 @@
       "criteria": [
         "62.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_667704-MLB112905101730_072026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17095,11 +17099,11 @@
       "criteria": [
         "62.6% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
+      "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_785151-MLB112749071848_062026-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17116,26 +17120,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_969886-MLB110129520827_042026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
-      "asin": "MLB4968130585",
-      "title": "Câmera Dupla Segurança Ip Externa Wifi A31 App À Prova Dágua Branco",
-      "link": "https://www.mercadolivre.com.br/camera-dupla-seguranca-ip-externa-wifi-a31-app-a-prova-dagua/up/MLBU4488825551",
-      "current_price": 119.99,
-      "original_price": 200,
-      "discount": 40.0,
-      "difference": 80.01,
+      "asin": "MLB4186092305",
+      "title": "Carregador Indução Magnético Sem Fio Turbo Compativel Com iPhone 11 12 13 14 15 16 Pro Max Samsung Galaxy S25 S24 S23 S22 S21 S20 Fe Ultra Xiaomi Motorola Branco Dtimp",
+      "link": "https://www.mercadolivre.com.br/carregador-inducao-magnetico-sem-fio-turbo-compativel-com-iphone-11-12-13-14-15-16-pro-max-samsung-galaxy-s25-s24-s23-s22-s21-s20-fe-ultra-xiaomi-motorola-branco-dtimp/p/MLB54426467",
+      "current_price": 56,
+      "original_price": 119.9,
+      "discount": 53.3,
+      "difference": 63.9,
       "criteria": [
-        "40.0% OFF"
+        "53.3% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_799275-MLB115325315733_072026-AB.webp",
-      "category": "[SURVEILLANCE_CAMERAS]",
-      "last_seen": 1786415879.781824,
-      "discovery_ts": 1786415879.781824,
+      "badge": "🟡 ML | ÚLTIMAS 3",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_615127-MLA99983552743_112025-AB.webp",
+      "category": "[MOBILE_DEVICE_CHARGERS]",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786425512.309451,
       "is_new": true
     },
     {
@@ -17152,8 +17156,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_986977-MLA108909923716_032026-AB.webp",
       "category": "[FOUNDATIONS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17167,11 +17171,29 @@
       "criteria": [
         "53.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 10",
+      "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_607736-MLB94608736823_102025-AB.webp",
       "category": "[CAMPING_CHAIRS_AND_STOOLS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
+      "is_new": true
+    },
+    {
+      "asin": "MLB5184052762",
+      "title": "Saia Longa Estampada Viscolinho Com Fendas Laterais E Bolsos",
+      "link": "https://produto.mercadolivre.com.br/MLB-5184052762-saia-longa-estampada-viscolinho-com-fendas-laterais-e-bolsos-_JM",
+      "current_price": 62.07,
+      "original_price": 120,
+      "discount": 48.3,
+      "difference": 57.93,
+      "criteria": [
+        "48.3% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_984629-MLA115073776291_072026-AB.webp",
+      "category": "[SKIRTS]",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786425512.309451,
       "is_new": true
     },
     {
@@ -17188,8 +17210,8 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_761583-MLA99555656234_122025-AB.webp",
       "category": "[DIAPER_BAGS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17206,8 +17228,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_672827-MLA115247511015_072026-AB.webp",
       "category": "[CONTINUOUS_LIGHTING]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17224,8 +17246,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_871996-MLB111112299070_052026-AB.webp",
       "category": "[MAKEUP_ORGANIZERS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17242,8 +17264,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_854265-MLB108318152906_032026-AB.webp",
       "category": "[WRISTWATCHES]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17260,8 +17282,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_869080-MLB89936390411_082025-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17278,8 +17300,8 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_982599-MLB109768218206_042026-AB.webp",
       "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17314,26 +17336,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_768505-MLB102165813095_122025-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
-      "is_new": true
-    },
-    {
-      "asin": "MLB3415792837",
-      "title": "Capa Para Carro Forrada Impermeável Proteção Anti Raios Uv",
-      "link": "https://produto.mercadolivre.com.br/MLB-3415792837-capa-para-carro-forrada-impermeavel-proteco-anti-raios-uv-_JM",
-      "current_price": 46.06,
-      "original_price": 79,
-      "discount": 41.7,
-      "difference": 32.94,
-      "criteria": [
-        "41.7% OFF"
-      ],
-      "badge": "🟡 ML | 20 VENDIDOS",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_782476-MLB93076016405_092025-AB.webp",
-      "category": "[VEHICLE_COVERS]",
-      "last_seen": 1786415879.781824,
-      "discovery_ts": 1786415879.781824,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17347,11 +17351,11 @@
       "criteria": [
         "40.0% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_774042-MLB100188818871_122025-AB.webp",
       "category": "[TACTICAL_AND_SPORTS_KNEE_PADS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17368,8 +17372,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_906444-MLA113292060459_062026-AB.webp",
       "category": "[DRINK_STIRRERS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17386,8 +17390,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_639343-MLB94814626894_102025-AB.webp",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
+      "is_new": true
+    },
+    {
+      "asin": "MLB4426820615",
+      "title": "Short Feminino Linho Cintura Alta Com Bolso Cós De Elástico",
+      "link": "https://produto.mercadolivre.com.br/MLB-4426820615-short-feminino-linho-cintura-alta-com-bolso-cos-de-elastico-_JM",
+      "current_price": 28.8,
+      "original_price": 49.9,
+      "discount": 42.3,
+      "difference": 21.1,
+      "criteria": [
+        "42.3% OFF"
+      ],
+      "badge": "🟡 ML | 6 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_991468-MLB105109530571_012026-AB.webp",
+      "category": "[SHORTS]",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786425512.309451,
       "is_new": true
     },
     {
@@ -17401,11 +17423,11 @@
       "criteria": [
         "41.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_627447-MLB114180863092_082026-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17422,8 +17444,8 @@
       "badge": "🟡 ML | ÚLTIMAS 10",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_641416-MLB113094386697_062026-AB.webp",
       "category": "[TOY_VIRTUAL_PETS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17440,8 +17462,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_832697-MLA114006835731_072026-AB.webp",
       "category": "[TOY_GUNS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17458,8 +17480,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_675392-MLB79621943157_092024-AB.webp",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17476,8 +17498,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_12840-MLB20067428702_032014-AB.webp",
       "category": "[BOOKS]",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1786421114.33961,
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786421114.339604,
       "is_new": true
     },
     {
@@ -17549,44 +17571,8 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786415879.781824,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGMK6JVG",
-      "title": "Apple iPhone 16 Plus (128 GB) – Ultramarino",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Plus-128-Ultramarino/dp/B0DGMK6JVG",
-      "current_price": 6499.0,
-      "original_price": 8499.0,
-      "discount": 23.5,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZYO1ZBusL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786402798.843881,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGMPCP48",
-      "title": "Apple iPhone 16 Plus (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGMPCP48",
-      "current_price": 6499.0,
-      "original_price": 8499.0,
-      "discount": 23.5,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1786400319.496492,
       "is_new": false
     },
     {
@@ -17603,8 +17589,26 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786421114.33961,
+      "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
@@ -17694,7 +17698,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -17712,7 +17716,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LpX2qhRfL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786415879.781824,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -17732,24 +17736,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786415879.781824,
       "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0GTS998HJ",
-      "title": "Apple iPhone 17e de 256 GB — Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
-      "current_price": 4443.33,
-      "original_price": 5799.0,
-      "discount": 23.4,
-      "difference": 1355.67,
-      "criteria": [
-        "R$ 1355.67 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -17785,7 +17771,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -17803,7 +17789,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -17826,21 +17812,21 @@
       "is_new": false
     },
     {
-      "asin": "B078929VCN",
-      "title": "SUGGAR COIFA ILHA REDONDA QUARTZO INOX 35CM 220V TP3522IX",
-      "link": "https://www.amazon.com.br/SUGGAR-COIFA-REDONDA-QUARTZO-TP3522IX/dp/B078929VCN",
-      "current_price": 3539.88,
-      "original_price": 4556.63,
-      "discount": 22.3,
-      "difference": 1016.75,
+      "asin": "B0B8Z8LHKX",
+      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
+      "current_price": 6999.0,
+      "original_price": 7999.0,
+      "discount": 12.5,
+      "difference": 1000.0,
       "criteria": [
-        "R$ 1016.75 desc."
+        "R$ 1000.0 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/716jza-SoaS._AC_UL210_SR210,210_.jpg",
-      "category": "[VENT_HOOD]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786395411.117679,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1784595805.500833,
       "is_new": false
     },
     {
@@ -17857,26 +17843,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MV8w-DQmS._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786382621.995871,
       "is_new": false
     },
     {
-      "asin": "B0B8Z8LHKX",
-      "title": "Notebook Acer Gamer Nitro V15 ANV15-52-77BG Core I7 13620H Memória Ram de 16GB DDR5 SSD NVMe 512GB Tela de 15,6\" Full HD IPS Geforce RTX 4050 6GB e WIndows Home 11",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-77BG-Mem%C3%B3ria-Geforce/dp/B0B8Z8LHKX",
-      "current_price": 6999.0,
-      "original_price": 7999.0,
-      "discount": 12.5,
-      "difference": 1000.0,
+      "asin": "MLB5454722792",
+      "title": "Gerador de energia monofásico com tecnologia Avr 127/220V Tgr1000 The Black Tools",
+      "link": "https://www.mercadolivre.com.br/gerador-de-energia-monofasico-com-tecnologia-avr-127220v-tgr1000-the-black-tools/p/MLB51532922",
+      "current_price": 1799.9,
+      "original_price": 2767.7,
+      "discount": 35.0,
+      "difference": 967.8,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 967.8 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zxrSnVQzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
-      "discovery_ts": 1784595805.500833,
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_965948-MLA87635940077_072025-AB.webp",
+      "category": "[PORTABLE_GENERATORS]",
+      "last_seen": 1786415879.781824,
+      "discovery_ts": 1786415879.781824,
       "is_new": false
     },
     {
@@ -17898,39 +17884,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DVH3R5WN",
-      "title": "ASUS Prime RTX5070 Ti, PCIe5, 16GB DDR7, HDMI, 3 DP, Relógio 2482MHz, Compact SFF-Ready",
-      "link": "https://www.amazon.com.br/ASUS-RTX5070-Rel%C3%B3gio-2482MHz-SFF-Ready/dp/B0DVH3R5WN",
-      "current_price": 7499.0,
-      "original_price": 8299.0,
-      "discount": 9.6,
-      "difference": 800.0,
+      "asin": "B0DBN2NR2Q",
+      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 127V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN2NR2Q",
+      "current_price": 2699.0,
+      "original_price": 3472.63,
+      "discount": 22.3,
+      "difference": 773.63,
       "criteria": [
-        "R$ 800.0 desc."
+        "R$ 773.63 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81qOec4Uz5L._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_CARD]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786392328.152502,
-      "is_new": false
-    },
-    {
-      "asin": "B0DW6X9K7P",
-      "title": "GoPro Max 360 - Câmera de Ação à Prova d'água, Vídeo 360 5.6K, Reenquadramento 4K, Foto 360, GPS, Live 1080p, Max HyperSmooth, TimeWarp, Trava de horizonte, Capturas com bastão invisível",
-      "link": "https://www.amazon.com.br/GoPro-Max-360-Reenquadramento-HyperSmooth/dp/B0DW6X9K7P",
-      "current_price": 1899.9,
-      "original_price": 2699.0,
-      "discount": 29.6,
-      "difference": 799.1,
-      "criteria": [
-        "R$ 799.1 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61M3F1IV4PL._AC_UL210_SR210,210_.jpg",
-      "category": "[CAMCORDER]",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1785140720.516192,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1786415879.781824,
+      "discovery_ts": 1786415879.781824,
       "is_new": false
     },
     {
@@ -17948,7 +17916,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -17985,7 +17953,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -18003,7 +17971,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -18137,25 +18105,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4988015165",
-      "title": "Jogo De Panelas Prime Ware-Es 12 Peças de Aço Inox Premium Com Medidor e Tampa De Vidro Para Indução",
-      "link": "https://www.mercadolivre.com.br/jogo-de-panelas-prime-ware-es-12-pecas-de-aco-inox-premium-com-medidor-e-tampa-de-vidro-para-inducao/p/MLB76246386",
-      "current_price": 399,
-      "original_price": 781.66,
-      "discount": 49.0,
-      "difference": 382.66,
-      "criteria": [
-        "49.0% OFF",
-        "R$ 382.66 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_972048-MLA115527760861_082026-AB.webp",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786397978.191197,
-      "is_new": false
-    },
-    {
       "asin": "MLB7141079700",
       "title": "Lustre Pendente Moderno Nitrolux LP-405D Anéis 5 Arcos Pe Direito Duplo Alto Cor Dourado Luz Branco Quente 3000K",
       "link": "https://www.mercadolivre.com.br/lustre-pendente-moderno-nitrolux-lp-405d-aneis-5-arcos-pe-direito-duplo-alto-cor-dourado-luz-branco-quente-3000k/p/MLB47063323",
@@ -18169,7 +18118,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_685386-MLA99988532595_112025-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -18265,21 +18214,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GWWLV9RV",
-      "title": "Notebook Dell 15 DC15-I51334U-U70 15.6\" Full HD 13ª Gen Intel Core i5 16GB 512GB SSD Linux Preto Carbono",
-      "link": "https://www.amazon.com.br/Notebook-Dell-DC15-I51334U-U70-Intel-Carbono/dp/B0GWWLV9RV",
-      "current_price": 4698.0,
-      "original_price": 4999.0,
-      "discount": 6.0,
-      "difference": 301.0,
+      "asin": "MLB6469533890",
+      "title": "Compressor de ar portátil para pneus AstroAI 160PSI,12V CC (sem CA),cabo de 3 m com estrutura metálica integrada,bomba de ar com luz LED para pneus de carro,bicicletas,motocicletas e outros infláveis",
+      "link": "https://www.mercadolivre.com.br/compressor-de-ar-portatil-para-pneus-astroai-160psi12v-cc-sem-cacabo-de-3-m-com-estrutura-metalica-integradabomba-de-ar-com-luz-led-para-pneus-de-carrobicicletasmotocicletas-e-outros-inflaveis/p/MLB29260066",
+      "current_price": 169.22,
+      "original_price": 447.67,
+      "discount": 62.2,
+      "difference": 278.45,
       "criteria": [
-        "R$ 301.0 desc."
+        "62.2% OFF"
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786375816.118134,
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_828667-MLA97918002220_112025-AB.webp",
+      "category": "[AIR_COMPRESSORS]",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1785273521.886407,
       "is_new": false
     },
     {
@@ -18296,7 +18245,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_873141-MLA106411020003_022026-AB.webp",
       "category": "[PC_KEYBOARDS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786292140.204662,
       "is_new": false
     },
@@ -18311,10 +18260,10 @@
       "criteria": [
         "59.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_916761-MLB106872604837_022026-AB.webp",
       "category": "[CAMPING_AND_FISHING_EQUIPMENT]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785814979.82702,
       "is_new": false
     },
@@ -18373,24 +18322,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB3534587847",
-      "title": "Cadeira De Escritório Eiffel Max Base Giratória Cor Cinza",
-      "link": "https://www.mercadolivre.com.br/cadeira-de-escritorio-eiffel-max-base-giratoria-cor-cinza/p/MLB26008724",
-      "current_price": 161.37,
-      "original_price": 349.99,
-      "discount": 53.9,
-      "difference": 188.62,
-      "criteria": [
-        "53.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_801433-MLA96869238801_102025-AB.webp",
-      "category": "[OFFICE_CHAIRS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786402798.843881,
-      "is_new": false
-    },
-    {
       "asin": "MLB7184063522",
       "title": "Tênis Masculino Puma Rebound V6 Low Original Casual Macio Branco/marrom 40 Br",
       "link": "https://www.mercadolivre.com.br/tenis-masculino-puma-rebound-v6-low-original-casual-macio/up/MLBU3039506202",
@@ -18422,26 +18353,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674437-MLB109943696683_042026-AB.webp",
       "category": "[JACKETS_AND_COATS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785427623.418875,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4454792233",
-      "title": "Luminária Pendente LED em Formato de Borboleta, Luminária Decorativa Moderna com Design Elegante 110–265V, Ideal para Quartos, Mesas de Cabeceira e Corredores, Tieesa Dourado",
-      "link": "https://www.mercadolivre.com.br/luminaria-pendente-led-em-formato-de-borboleta-luminaria-decorativa-moderna-com-design-elegante-110265v-ideal-para-quartos-mesas-de-cabeceira-e-corredores-tieesa-dourado/p/MLB63903331",
-      "current_price": 94.05,
-      "original_price": 250,
-      "discount": 62.4,
-      "difference": 155.95,
-      "criteria": [
-        "62.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_895740-MLA105078663233_012026-AB.webp",
-      "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1785263958.884077,
       "is_new": false
     },
     {
@@ -18458,7 +18371,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_945458-MLA95397248070_102025-AB.webp",
       "category": "[POLY_MAILERS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -18476,7 +18389,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_937651-MLB101056593602_122025-AB.webp",
       "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785772342.218037,
       "is_new": false
     },
@@ -18530,7 +18443,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_982224-MLA114854661777_072026-AB.webp",
       "category": "[TWEEZERS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -18584,7 +18497,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_710299-MLB93929473119_102025-AB.webp",
       "category": "[MARTIAL_ARTS_UNIFORMS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -18599,10 +18512,10 @@
       "criteria": [
         "64.2% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 8",
+      "badge": "🟡 ML | ÚLTIMAS 7",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_665630-MLB109872500182_042026-AB.webp",
       "category": "⚽ Esportes & Saúde",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -18638,7 +18551,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_612771-MLB107902600181_032026-AB.webp",
       "category": "[HAND_GRIPS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -18656,26 +18569,8 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_985572-MLB95286992828_102025-AB.webp",
       "category": "[VEHICLE_SPARK_PLUG_WIRESETS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786248224.526973,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6221754918",
-      "title": "Camisetas Térmicas Masculina Segunda Pele Camisa",
-      "link": "https://produto.mercadolivre.com.br/MLB-6221754918-camisetas-termicas-masculina-segunda-pele-camisa-_JM",
-      "current_price": 24.25,
-      "original_price": 119,
-      "discount": 79.6,
-      "difference": 94.75,
-      "criteria": [
-        "79.6% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_627597-MLB111931516425_052026-AB.webp",
-      "category": "[THERMAL_SHIRTS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786402798.843881,
       "is_new": false
     },
     {
@@ -18715,6 +18610,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB4968130585",
+      "title": "Câmera Dupla Segurança Ip Externa Wifi A31 App À Prova Dágua Branco",
+      "link": "https://www.mercadolivre.com.br/camera-dupla-seguranca-ip-externa-wifi-a31-app-a-prova-dagua/up/MLBU4488825551",
+      "current_price": 119.99,
+      "original_price": 200,
+      "discount": 40.0,
+      "difference": 80.01,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_799275-MLB115325315733_072026-AB.webp",
+      "category": "[SURVEILLANCE_CAMERAS]",
+      "last_seen": 1786415879.781824,
+      "discovery_ts": 1786415879.781824,
+      "is_new": false
+    },
+    {
       "asin": "MLB3832155571",
       "title": "Chinelo Tamanco Feminino Anabela Plataforma Alto Confortável",
       "link": "https://produto.mercadolivre.com.br/MLB-3832155571-chinelo-tamanco-feminino-anabela-plataforma-alto-confortavel-_JM",
@@ -18730,24 +18643,6 @@
       "category": "[SANDALS_AND_CLOGS]",
       "last_seen": 1786415879.781824,
       "discovery_ts": 1786375816.118134,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3900195221",
-      "title": "Colcha Cobre Leito Queen 230x260 Casal Extra Macio Kit 3 Pçs",
-      "link": "https://produto.mercadolivre.com.br/MLB-3900195221-colcha-cobre-leito-queen-230x260-casal-extra-macio-kit-3-pcs-_JM",
-      "current_price": 61.68,
-      "original_price": 136.89,
-      "discount": 54.9,
-      "difference": 75.21,
-      "criteria": [
-        "54.9% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_685251-MLB82310058179_022025-AB.webp",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1785814979.82702,
       "is_new": false
     },
     {
@@ -18854,7 +18749,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_664824-MLB97107844279_112025-AB.webp",
       "category": "[FISHING_SHIRTS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785989955.838596,
       "is_new": false
     },
@@ -18908,7 +18803,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -18931,24 +18826,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6415054212",
-      "title": "Relógio de pulso Oremte PREMIUM XII1159 com corria de aço inoxidável color dourado e verde",
-      "link": "https://www.mercadolivre.com.br/relogio-de-pulso-oremte-premium-xii1159-com-corria-de-aco-inoxidavel-color-dourado-e-verde/p/MLB25297034",
-      "current_price": 59,
-      "original_price": 115.96,
-      "discount": 49.1,
-      "difference": 56.96,
-      "criteria": [
-        "49.1% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_890376-MLA107996842990_032026-AB.webp",
-      "category": "[WRISTWATCHES]",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1786225685.902789,
-      "is_new": false
-    },
-    {
       "asin": "MLB5328512316",
       "title": "Vestido Feminino Longo Soltinho Com Decote Nas Costas Duna",
       "link": "https://produto.mercadolivre.com.br/MLB-5328512316-vestido-feminino-longo-soltinho-com-decote-nas-costas-duna-_JM",
@@ -18962,7 +18839,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_960698-MLB89364166634_082025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785772342.218037,
       "is_new": false
     },
@@ -18998,7 +18875,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_726240-MLB114646426401_072026-AB.webp",
       "category": "[SPORT_T_SHIRTS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -19013,10 +18890,10 @@
       "criteria": [
         "52.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
+      "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_807610-MLA114016675244_072026-AB.webp",
       "category": "[EXTERNAL_LAPTOP_COOLERS_AND_FANS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -19165,24 +19042,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6885130558",
-      "title": "Mola De Porta Aérea Hidráulica Fechador Ajustável Até 45kg",
-      "link": "https://www.mercadolivre.com.br/mola-de-porta-aerea-hidraulica-fechador-ajustavel-ate-45kg/p/MLB2041474745",
-      "current_price": 42.75,
-      "original_price": 90,
-      "discount": 52.5,
-      "difference": 47.25,
-      "criteria": [
-        "52.5% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_694294-MLB111543081786_062026-AB.webp",
-      "category": "[DOOR_HYDRAULIC_ARMS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786375816.118134,
-      "is_new": false
-    },
-    {
       "asin": "MLB5430024734",
       "title": "Caixa Porta Pilha Simples Aquecedor Ko 0100021533 Komeco",
       "link": "https://www.mercadolivre.com.br/caixa-porta-pilha-simples-aquecedor-ko-0100021533-komeco/p/MLB37998486",
@@ -19232,7 +19091,7 @@
       "badge": "🟡 ML | ÚLTIMAS 3",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_658314-MLA115650194449_082026-AB.webp",
       "category": "[AUDIO_AND_VIDEO_CONNECTORS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786072394.881755,
       "is_new": false
     },
@@ -19255,24 +19114,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6044794674",
-      "title": "Papete Moleca Feminina Confortável Brilho Flatform Eva Preto-prata 37 Br",
-      "link": "https://www.mercadolivre.com.br/papete-moleca-feminina-confortavel-brilho-flatform-eva/up/MLBU3025149931",
-      "current_price": 38,
-      "original_price": 78.4,
-      "discount": 51.5,
-      "difference": 40.4,
-      "criteria": [
-        "51.5% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_812966-MLB82616675211_022025-AB.webp",
-      "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786375816.118134,
-      "is_new": false
-    },
-    {
       "asin": "MLB3817089255",
       "title": "Creatina Monohidratada em Pote 300g 100% Pura Dark Lab",
       "link": "https://www.mercadolivre.com.br/creatina-monohidratada-em-pote-300g-100-pura-dark-lab/p/MLB19506691",
@@ -19291,24 +19132,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB6203132034",
-      "title": "Limpa Bancadas 500ml Tira Encardido Gordura E Mancha Leve",
-      "link": "https://www.mercadolivre.com.br/limpa-bancadas-500ml-tira-encardido-gordura-e-mancha-leve/up/MLBU3763177348",
-      "current_price": 33.78,
-      "original_price": 71.8,
-      "discount": 53.0,
-      "difference": 38.02,
-      "criteria": [
-        "53.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_615609-MLA105404001610_012026-AB.webp",
-      "category": "[MULTIPURPOSE_CLEANERS_AND_DISINFECTANTS]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1785864240.771817,
-      "is_new": false
-    },
-    {
       "asin": "MLB4590006507",
       "title": "Adaptador Para Esmerilhadeira De Cinta Com Rolamento Duplo Preto",
       "link": "https://www.mercadolivre.com.br/adaptador-para-esmerilhadeira-de-cinta-com-rolamento-duplo/up/MLBU3881449195",
@@ -19322,7 +19145,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_902800-MLB109279529356_042026-AB.webp",
       "category": "[SANDER_MACHINES]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -19342,6 +19165,24 @@
       "category": "[SPORT_AND_BAZAAR_BOTTLES]",
       "last_seen": 1786415879.781824,
       "discovery_ts": 1785427623.418875,
+      "is_new": false
+    },
+    {
+      "asin": "B09XFLHJ1S",
+      "title": "Danos Vorazes Máscara de Tratamento 450g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Lola-Cosmetics-Vorazes-Repara%C3%A7%C3%A3o-Intensiva/dp/B09XFLHJ1S",
+      "current_price": 28.94,
+      "original_price": 64.9,
+      "discount": 55.4,
+      "difference": 35.96,
+      "criteria": [
+        "55.4% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
@@ -19376,7 +19217,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_666766-MLB49202557704_022022-AB.webp",
       "category": "[FASHION_ACCESSORIES]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -19394,7 +19235,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_674225-MLB70216867727_062023-AB.webp",
       "category": "[OPTICAL_INSTRUMENTS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -19417,6 +19258,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB3415792837",
+      "title": "Capa Para Carro Forrada Impermeável Proteção Anti Raios Uv",
+      "link": "https://produto.mercadolivre.com.br/MLB-3415792837-capa-para-carro-forrada-impermeavel-proteco-anti-raios-uv-_JM",
+      "current_price": 46.06,
+      "original_price": 79,
+      "discount": 41.7,
+      "difference": 32.94,
+      "criteria": [
+        "41.7% OFF"
+      ],
+      "badge": "🟡 ML | 20 VENDIDOS",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_782476-MLB93076016405_092025-AB.webp",
+      "category": "[VEHICLE_COVERS]",
+      "last_seen": 1786415879.781824,
+      "discovery_ts": 1786415879.781824,
+      "is_new": false
+    },
+    {
       "asin": "MLB5665559590",
       "title": "Maleta Infantil de Pintura Fun Game 150 Peças Dinossauro",
       "link": "https://www.mercadolivre.com.br/maleta-infantil-de-pintura-fun-game-150-pecas-dinossauro/p/MLB35686626",
@@ -19430,7 +19289,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_640060-MLA99456728830_112025-AB.webp",
       "category": "[SCHOOL_KITS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785928092.964833,
       "is_new": false
     },
@@ -19448,26 +19307,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_910582-MLB111084256910_052026-AB.webp",
       "category": "[CAMPING_MESS_KITS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785778089.49384,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4488806653",
-      "title": "150cm+50cm Rodo Mágico Vassoura  Multiuso Limpeza Vidro Piso",
-      "link": "https://www.mercadolivre.com.br/150cm50cm-rodo-magico-vassoura--multiuso-limpeza-vidro-piso/up/MLBU3807589057",
-      "current_price": 38.33,
-      "original_price": 69.99,
-      "discount": 45.2,
-      "difference": 31.66,
-      "criteria": [
-        "45.2% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_941508-MLB107679117011_022026-AB.webp",
-      "category": "[SQUEEGEES]",
-      "last_seen": 1786402798.843881,
-      "discovery_ts": 1786375816.118134,
       "is_new": false
     },
     {
@@ -19502,7 +19343,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -19520,7 +19361,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_852632-MLB94778166930_102025-AB.webp",
       "category": "[NECK_GAITERS_AND_BALACLAVAS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785870352.910327,
       "is_new": false
     },
@@ -19540,24 +19381,6 @@
       "category": "[FABRIC_SOFTENER]",
       "last_seen": 1786408538.411521,
       "discovery_ts": 1786359737.45714,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6922189910",
-      "title": "Q.11 Guia Para Seleção De Cores Em Design Gráfico",
-      "link": "https://www.mercadolivre.com.br/1-guia-para-selecao-de-cores-em-design-grafico-1-by-/p/MLB2064424745",
-      "current_price": 37.6,
-      "original_price": 66.69,
-      "discount": 43.6,
-      "difference": 29.09,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_830900-MLM105570247288_012026-AB.webp",
-      "category": "[BOOKS]",
-      "last_seen": 1786400319.496492,
-      "discovery_ts": 1786392328.152502,
       "is_new": false
     },
     {
@@ -19607,10 +19430,10 @@
       "criteria": [
         "52.1% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
+      "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_851395-MLB97619237163_112025-AB.webp",
       "category": "[VEHICLE_SUN_SHADES]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -19646,7 +19469,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786402798.843881,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -19682,7 +19505,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_816965-MLB85308012077_052025-AB.webp",
       "category": "[PET_DRESSES]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785686205.633008,
       "is_new": false
     },
@@ -19736,7 +19559,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_723863-MLB106663558489_022026-AB.webp",
       "category": "[TOY_VIRTUAL_PETS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785742098.427671,
       "is_new": false
     },
@@ -19754,7 +19577,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_640862-MLB99146551228_112025-AB.webp",
       "category": "[BALLOON_GRIDS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785900453.328679,
       "is_new": false
     },
@@ -19831,6 +19654,24 @@
       "is_new": false
     },
     {
+      "asin": "MLB5088362768",
+      "title": "Capa Protetora 360° Acrílica Com Vidro Para Haylou Rs5 Ls19",
+      "link": "https://produto.mercadolivre.com.br/MLB-5088362768-capa-protetora-360-acrilica-com-vidro-para-haylou-rs5-ls19-_JM",
+      "current_price": 20.72,
+      "original_price": 36.88,
+      "discount": 43.8,
+      "difference": 16.16,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "🟡 ML | ÚLTIMAS 5",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_633242-MLB89109934994_082025-AB.webp",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786425512.309451,
+      "discovery_ts": 1786079053.765202,
+      "is_new": false
+    },
+    {
       "asin": "MLB4725346162",
       "title": "Pulseira Silicone Com Varias Cores Para Galaxy Fit 3 - R390",
       "link": "https://produto.mercadolivre.com.br/MLB-4725346162-pulseira-silicone-com-varias-cores-para-galaxy-fit-3-r390-_JM",
@@ -19880,7 +19721,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_862425-MLA95804056004_102025-AB.webp",
       "category": "[LAPTOP_STANDS]",
-      "last_seen": 1786421114.33961,
+      "last_seen": 1786425512.309451,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
