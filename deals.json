@@ -1,5 +1,5 @@
 {
-  "last_check": "12/08/2026 22:05:02",
+  "last_check": "12/08/2026 22:55:36",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -9485,6 +9485,10 @@
         {
           "price": 69.2,
           "date": "2026-08-04T15:40:39.234202"
+        },
+        {
+          "price": 69.9,
+          "date": "2026-08-12T22:55:36.395005"
         }
       ]
     },
@@ -19255,26 +19259,34 @@
           "date": "2026-08-12T21:11:46.337824"
         }
       ]
+    },
+    "B0F9PSCBYV": {
+      "discovery_date": "2026-08-12T22:55:36.395005",
+      "price_history": [
+        {
+          "price": 6079.05,
+          "date": "2026-08-12T22:55:36.395005"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GVT4L94F",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Branco)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Branco/dp/B0GVT4L94F",
-      "current_price": 1886.43,
-      "original_price": 3299.0,
-      "discount": 42.8,
-      "difference": 1412.57,
+      "asin": "B0F9PSCBYV",
+      "title": "Monitor Samsung Odyssey G9 49\", DQHD, 144Hz, 1ms, ajuste de altura, FreeSync Premium Pro, DP, HDMI, USB, preto",
+      "link": "https://www.amazon.com.br/Monitor-Odyssey-G9-Display-HDR600/dp/B0F9PSCBYV",
+      "current_price": 6079.05,
+      "original_price": 8999.0,
+      "discount": 32.4,
+      "difference": 2919.95,
       "criteria": [
-        "42.8% OFF",
-        "R$ 1412.57 desc."
+        "R$ 2919.95 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786566279.236902,
-      "discovery_ts": 1786566279.236902,
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FWegmI0zL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786575336.395013,
       "is_new": true
     },
     {
@@ -19291,7 +19303,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_619314-MLA99358413802_112025-AB.webp",
       "category": "[VEHICLE_MULTIMEDIA_SYSTEMS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786569106.337824,
       "is_new": true
     },
@@ -19306,10 +19318,10 @@
       "criteria": [
         "46.8% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 2",
+      "badge": "🟡 ML | ÚLTIMA!",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_734924-MLB70348392812_072023-AB.webp",
       "category": "[SERVING_AND_HOME_TRAYS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786569106.337824,
       "is_new": true
     },
@@ -19328,7 +19340,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -19352,6 +19364,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DGM1PJMK",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
+      "current_price": 5110.0,
+      "original_price": 7799.0,
+      "discount": 34.5,
+      "difference": 2689.0,
+      "criteria": [
+        "R$ 2689.0 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
       "asin": "B0H4J13B2M",
       "title": "Notebook Lenovo Gamer LOQ Essential Intel Core i5-12450HX 16GB 1TB SSD RTX 4050 144Hz Windows 11 15.6\" - 83ME0001BR",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-Essential-i5-12450HX-Windows/dp/B0H4J13B2M",
@@ -19365,7 +19395,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81L8oOFpueL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -19383,7 +19413,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51v9qqepPbL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -19401,7 +19431,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -19528,8 +19558,46 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LpX2qhRfL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT89H5W",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
+      "current_price": 1886.43,
+      "original_price": 3299.0,
+      "discount": 42.8,
+      "difference": 1412.57,
+      "criteria": [
+        "42.8% OFF",
+        "R$ 1412.57 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786473102.157315,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT4L94F",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Branco)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Branco/dp/B0GVT4L94F",
+      "current_price": 1886.43,
+      "original_price": 3299.0,
+      "discount": 42.8,
+      "difference": 1412.57,
+      "criteria": [
+        "42.8% OFF",
+        "R$ 1412.57 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786566279.236902,
+      "discovery_ts": 1786566279.236902,
       "is_new": false
     },
     {
@@ -19546,7 +19614,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -19582,7 +19650,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -19600,7 +19668,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -19618,7 +19686,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -19636,7 +19704,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZM0Xk2y2L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -19690,26 +19758,8 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MV8w-DQmS._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786382621.995871,
-      "is_new": false
-    },
-    {
-      "asin": "B0FMFTWHJJ",
-      "title": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
-      "link": "https://www.amazon.com.br/Galaxy-Lite-128GB-Tela-Vermelho/dp/B0FMFTWHJJ",
-      "current_price": 2199.0,
-      "original_price": 3149.0,
-      "discount": 30.2,
-      "difference": 950.0,
-      "criteria": [
-        "R$ 950.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51OCtiSoKWL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786462932.947145,
       "is_new": false
     },
     {
@@ -19818,7 +19868,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_717216-MLA114261298938_082026-AB.webp",
       "category": "[POWERED_RIDE_ON_TOYS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -19837,7 +19887,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -19856,7 +19906,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_862185-MLA99458220954_112025-AB.webp",
       "category": "[WORKOUT_BENCHES]",
-      "last_seen": 1786563826.252178,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -19874,7 +19924,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -19911,7 +19961,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_959926-MLA100019034683_122025-AB.webp",
       "category": "[STATIONARY_BICYCLES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785438126.314124,
       "is_new": false
     },
@@ -19948,27 +19998,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_770173-MLA113050175809_062026-AB.webp",
       "category": "[FLOOD_LIGHTS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785253019.20744,
-      "is_new": false
-    },
-    {
-      "asin": "MLB5841767606",
-      "title": "Barraca de Camping Inflável para 4 Pessoas Joyfox com Bomba Manual e 3000 mm de Impermeabilidade",
-      "link": "https://www.mercadolivre.com.br/barraca-de-camping-inflavel-para-4-pessoas-joyfox-com-bomba-manual-e-3000-mm-de-impermeabilidade/p/MLB58316634",
-      "current_price": 742.36,
-      "original_price": 1299,
-      "discount": 42.9,
-      "difference": 556.64,
-      "criteria": [
-        "42.9% OFF",
-        "R$ 556.64 desc."
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_634209-MLA99877177175_112025-AB.webp",
-      "category": "[TENTS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -20004,7 +20035,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_868175-MLB96210639972_102025-AB.webp",
       "category": "[TOILETS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786482845.187191,
       "is_new": false
     },
@@ -20022,8 +20053,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_746682-MLA86432182111_062025-AB.webp",
       "category": "[BACKPACKS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786563826.252169,
+      "is_new": false
+    },
+    {
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3299.0,
+      "original_price": 3799.0,
+      "discount": 13.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -20040,7 +20089,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_801750-MLA115786554119_082026-AB.webp",
       "category": "[TABLE_SAWS]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -20132,7 +20181,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_682112-MLA96149262117_102025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -20151,7 +20200,7 @@
       "badge": "🟡 ML | 6 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_977255-MLB105090699467_012026-AB.webp",
       "category": "[TV_AND_MONITOR_STANDS_AND_WALL_HANGERS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -20169,7 +20218,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_987765-MLA97573958583_112025-AB.webp",
       "category": "[WARDROBES_AND_UPPER_STORAGES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786221867.545957,
       "is_new": false
     },
@@ -20205,7 +20254,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -20221,10 +20270,10 @@
         "61.6% OFF",
         "R$ 316.87 desc."
       ],
-      "badge": "🟡 ML | 4 VENDIDOS",
+      "badge": "🟡 ML | 5 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_996566-MLA84538334870_052025-AB.webp",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -20247,24 +20296,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FHJ7RLMT",
-      "title": "PHILIPS, Smart TV, 65'' 4K UHD, 65PUG7019/78, Google TV, Comando de Voz, HDR",
-      "link": "https://www.amazon.com.br/PHILIPS-65PUG7019-78-Google-Comando/dp/B0FHJ7RLMT",
-      "current_price": 3099.0,
-      "original_price": 3399.0,
-      "discount": 8.8,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61y8KGLOtpL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786572302.218642,
-      "discovery_ts": 1786542030.20045,
-      "is_new": false
-    },
-    {
       "asin": "B093XZ9TLW",
       "title": "Lava Louças Midea 14 Serviços Preta (127)",
       "link": "https://www.amazon.com.br/Lava-Lou%C3%A7as-Midea-Servi%C3%A7os-Preta/dp/B093XZ9TLW",
@@ -20278,8 +20309,44 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MV8w-DQmS._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786466332.414894,
+      "is_new": false
+    },
+    {
+      "asin": "B0FR6N4WWH",
+      "title": "Bundle Nintendo Switch + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
+      "link": "https://www.amazon.com.br/Bundle-Nintendo-Switch-Wonder-Assinatura/dp/B0FR6N4WWH",
+      "current_price": 1999.0,
+      "original_price": 2299.0,
+      "discount": 13.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zaf8R7S7L._AC_UL210_SR210,210_.jpg",
+      "category": "[CONSOLE_VIDEO_GAMES]",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786462932.947145,
+      "is_new": false
+    },
+    {
+      "asin": "B0FHJ7RLMT",
+      "title": "PHILIPS, Smart TV, 65'' 4K UHD, 65PUG7019/78, Google TV, Comando de Voz, HDR",
+      "link": "https://www.amazon.com.br/PHILIPS-65PUG7019-78-Google-Comando/dp/B0FHJ7RLMT",
+      "current_price": 3099.0,
+      "original_price": 3399.0,
+      "discount": 8.8,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61y8KGLOtpL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1786542030.20045,
       "is_new": false
     },
     {
@@ -20301,24 +20368,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FR6N4WWH",
-      "title": "Bundle Nintendo Switch + Super Mario Bros. Wonder + 3 Meses de Assinatura Nintendo Switch Online",
-      "link": "https://www.amazon.com.br/Bundle-Nintendo-Switch-Wonder-Assinatura/dp/B0FR6N4WWH",
-      "current_price": 1999.0,
-      "original_price": 2299.0,
-      "discount": 13.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zaf8R7S7L._AC_UL210_SR210,210_.jpg",
-      "category": "[CONSOLE_VIDEO_GAMES]",
-      "last_seen": 1786566279.236902,
-      "discovery_ts": 1786462932.947145,
-      "is_new": false
-    },
-    {
       "asin": "MLB6412618858",
       "title": "Scanner Obd2 P10 Hud Temperatura Da Água Do Motor",
       "link": "https://www.mercadolivre.com.br/scanner-obd2-p10-hud-temperatura-da-agua-do-motor/up/MLBU3830437624",
@@ -20332,26 +20381,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_795118-MLB108230437315_032026-AB.webp",
       "category": "[VEHICLE_SCANNERS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4482434669",
-      "title": "Tênis Masculino Forest Asics Preto Liso 41 Br",
-      "link": "https://www.mercadolivre.com.br/tenis-masculino-forest-asics/up/MLBU3444735851",
-      "current_price": 230.99,
-      "original_price": 499.99,
-      "discount": 53.8,
-      "difference": 269.0,
-      "criteria": [
-        "53.8% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_863017-MLA92874977690_092025-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
       "is_new": false
     },
     {
@@ -20386,7 +20417,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_896552-CBT105188918639_012026-AB.webp",
       "category": "[VEHICLE_LED_BULBS]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785438126.314124,
       "is_new": false
     },
@@ -20404,7 +20435,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_849026-MLB86554805411_062025-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785208231.358935,
       "is_new": false
     },
@@ -20422,26 +20453,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_765017-MLB97525585263_112025-AB.webp",
       "category": "[DISHES_RACKS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
-      "is_new": false
-    },
-    {
-      "asin": "MLB6719366644",
-      "title": "Microfone Condensador USB Cardioide RGB para Gravação e Jogos Preto",
-      "link": "https://www.mercadolivre.com.br/microfone-condensador-usb-cardioide-rgb-para-gravacao-e-jogos-preto/p/MLB51050010",
-      "current_price": 173.46,
-      "original_price": 399.98,
-      "discount": 56.6,
-      "difference": 226.52,
-      "criteria": [
-        "56.6% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 4",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_612920-MLA85801432059_062025-AB.webp",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
       "is_new": false
     },
     {
@@ -20458,7 +20471,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_787765-MLB112570365726_062026-AB.webp",
       "category": "[SOLDERING_STATIONS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -20473,10 +20486,10 @@
       "criteria": [
         "48.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 7",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_695876-MLB107094504826_022026-AB.webp",
       "category": "[POWER_INVERTERS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786397978.191197,
       "is_new": false
     },
@@ -20530,7 +20543,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_806534-MLB105859474765_012026-AB.webp",
       "category": "[BACKPACKS]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -20563,10 +20576,10 @@
       "criteria": [
         "58.3% OFF"
       ],
-      "badge": "🟡 ML | 48 VENDIDOS",
+      "badge": "🟡 ML | 55 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_872621-MLA94373607443_102025-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -20581,10 +20594,10 @@
       "criteria": [
         "47.0% OFF"
       ],
-      "badge": "🟡 ML | 56 VENDIDOS",
+      "badge": "🟡 ML | 68 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700686-MLA114215050849_072026-AB.webp",
       "category": "[ELECTRIC_CHAINSAWS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -20602,7 +20615,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_975378-MLA103730513422_012026-AB.webp",
       "category": "[FLOOR_CEILING_AND_WALL_LIGHTS]",
-      "last_seen": 1786559638.816872,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786556343.919248,
       "is_new": false
     },
@@ -20620,7 +20633,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_767934-MLB106677218479_022026-AB.webp",
       "category": "[FOOTBALL_SHOES]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786495428.468379,
       "is_new": false
     },
@@ -20656,7 +20669,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_983786-MLA109858179106_042026-AB.webp",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786563826.252169,
       "is_new": false
     },
@@ -20674,7 +20687,7 @@
       "badge": "🟡 ML | ÚLTIMAS 9",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_998571-MLA109268728932_042026-AB.webp",
       "category": "[HEADPHONES]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -20692,7 +20705,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_928895-MLB71023834813_082023-AB.webp",
       "category": "[BACKPACKS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -20710,7 +20723,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_922881-MLA95240646250_102025-AB.webp",
       "category": "[BACKPACKS]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -20743,10 +20756,10 @@
       "criteria": [
         "54.0% OFF"
       ],
-      "badge": "🟡 ML | 11 VENDIDOS",
+      "badge": "🟡 ML | 12 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_738537-MLB109635606308_042026-AB.webp",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -20764,7 +20777,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_796527-MLB108025667425_032026-AB.webp",
       "category": "[SANDALS_AND_CLOGS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786375816.118134,
       "is_new": false
     },
@@ -20782,26 +20795,8 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_803601-MLB114256081069_072026-AB.webp",
       "category": "[SHIRTS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3477611091",
-      "title": "Sapato Feminino Mule Loafer Salto Bloco Grosso Confortável",
-      "link": "https://produto.mercadolivre.com.br/MLB-3477611091-sapato-feminino-mule-loafer-salto-bloco-grosso-confortavel-_JM",
-      "current_price": 77.9,
-      "original_price": 149.9,
-      "discount": 48.0,
-      "difference": 72.0,
-      "criteria": [
-        "48.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_843048-MLB107320774818_032026-AB.webp",
-      "category": "[LOAFERS_AND_OXFORDS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
       "is_new": false
     },
     {
@@ -20815,10 +20810,10 @@
       "criteria": [
         "41.2% OFF"
       ],
-      "badge": "🟡 ML | 46 VENDIDOS",
+      "badge": "🟡 ML | 55 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_693732-MLA114247552873_072026-AB.webp",
       "category": "[ELECTRIC_DRILLS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785858039.234202,
       "is_new": false
     },
@@ -20836,26 +20831,26 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_611911-MLA108769384250_032026-AB.webp",
       "category": "[DIGITAL_TIRE_GAUGES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
     {
-      "asin": "MLB3534527621",
-      "title": "120 Botões De Pressão Metal Martelo Aplicador Manual Duplo Cor 4 Cores",
-      "link": "https://www.mercadolivre.com.br/120-botoes-de-pressao-metal-martelo-aplicador-manual-duplo-cor-4-cores/p/MLB28691770",
-      "current_price": 65.14,
-      "original_price": 130.95,
-      "discount": 50.3,
-      "difference": 65.81,
+      "asin": "MLB4675079411",
+      "title": "Kit 29pcs Desenho Esboço Profissional Carvão Lápis Borracha",
+      "link": "https://www.mercadolivre.com.br/kit-29pcs-desenho-esboco-profissional-carvao-lapis-borracha/up/MLBU3956915115",
+      "current_price": 69.9,
+      "original_price": 136.25,
+      "discount": 48.7,
+      "difference": 66.35,
       "criteria": [
-        "50.3% OFF"
+        "48.7% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_846036-MLA99542554646_122025-AB.webp",
-      "category": "[HABERDASHERY_BUTTONS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786530504.605256,
+      "badge": "🟡 ML | POPULAR",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_808743-MLB111611547555_052026-AB.webp",
+      "category": "[DRAFTING_KITS]",
+      "last_seen": 1786575336.395013,
+      "discovery_ts": 1785689737.249491,
       "is_new": false
     },
     {
@@ -20872,7 +20867,7 @@
       "badge": "🟡 ML | ÚLTIMAS 5",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_694209-MLB92693183471_092025-AB.webp",
       "category": "[TABLET_CASES_AND_COVERS]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785909986.285322,
       "is_new": false
     },
@@ -20923,10 +20918,10 @@
       "criteria": [
         "43.2% OFF"
       ],
-      "badge": "🟡 ML | 17 VENDIDOS",
+      "badge": "🟡 ML | 18 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_968424-MLB89189464107_082025-AB.webp",
       "category": "[EYESHADOWS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -20944,7 +20939,7 @@
       "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_897560-MLB77322931162_072024-AB.webp",
       "category": "👕 Moda & Acessórios",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785772342.218037,
       "is_new": false
     },
@@ -20962,7 +20957,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_638558-MLA99443556230_112025-AB.webp",
       "category": "[SUNSCREENS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785378662.597364,
       "is_new": false
     },
@@ -20985,42 +20980,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4580534701",
-      "title": "Kit de Gravação Youtuber Tiktoker Video Maker Estabilizador Com Microfone Tripé Led Vlog Profissional Para Celular iPhone/android Luz Led Para Gravação E Fotos Cor Preto - Good Vision",
-      "link": "https://www.mercadolivre.com.br/kit-de-gravacao-youtuber-tiktoker-video-maker-estabilizador-com-microfone-tripe-led-vlog-profissional-para-celular-iphoneandroid-luz-led-para-gravacao-e-fotos-cor-preto-good-vision/p/MLB67534529",
-      "current_price": 33.59,
-      "original_price": 78.89,
-      "discount": 57.4,
-      "difference": 45.3,
-      "criteria": [
-        "57.4% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_736310-MLA110520512109_042026-AB.webp",
-      "category": "[CAMERA_AND_CELLPHONE_STABILIZERS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
-      "is_new": false
-    },
-    {
-      "asin": "MLB3658272716",
-      "title": "Aliança De Tungstênio Banhada A Ouro 18k Reta 8mm Noivado",
-      "link": "https://produto.mercadolivre.com.br/MLB-3658272716-alianca-de-tungstnio-banhada-a-ouro-18k-reta-8mm-noivado-_JM",
-      "current_price": 33.95,
-      "original_price": 78.9,
-      "discount": 57.0,
-      "difference": 44.95,
-      "criteria": [
-        "57.0% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 5",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_719671-MLB109945131310_042026-AB.webp",
-      "category": "👕 Moda & Acessórios",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
-      "is_new": false
-    },
-    {
       "asin": "MLB6385785166",
       "title": "Saca-rolhas Elétrico Automático Portátil de Pilhas para Vinhos",
       "link": "https://www.mercadolivre.com.br/saca-rolhas-eletrico-automatico-portatil-de-pilhas-para-vinhos/p/MLB64532795",
@@ -21031,10 +20990,10 @@
       "criteria": [
         "57.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 3",
+      "badge": "🟡 ML | ÚLTIMAS 2",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_797718-MLA107280126738_032026-AB.webp",
       "category": "[CORKSCREWS_AND_BOTTLE_OPENERS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -21070,7 +21029,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_700560-MLA95656352366_102025-AB.webp",
       "category": "[MANUAL_SOAP_AND_DETERGENT_DISPENSERS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -21121,10 +21080,10 @@
       "criteria": [
         "59.1% OFF"
       ],
-      "badge": "🟡 ML | POPULAR",
+      "badge": "🟡 ML | 55 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_660993-MLA114985609485_072026-AB.webp",
       "category": "[MOTORCYCLIST_GLOVES]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785954337.161522,
       "is_new": false
     },
@@ -21139,10 +21098,10 @@
       "criteria": [
         "44.6% OFF"
       ],
-      "badge": "🟡 ML | 56 VENDIDOS",
+      "badge": "🟡 ML | 65 VENDIDOS",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_920574-MLA110375106425_042026-AB.webp",
       "category": "[GAMEPADS_AND_JOYSTICKS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785814979.82702,
       "is_new": false
     },
@@ -21157,10 +21116,10 @@
       "criteria": [
         "47.4% OFF"
       ],
-      "badge": "🟡 ML | ÚLTIMAS 7",
+      "badge": "🟡 ML | ÚLTIMAS 6",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_728968-MLB51576957591_092022-AB.webp",
       "category": "[SPORT_AND_BAZAAR_BOTTLES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785427623.418875,
       "is_new": false
     },
@@ -21178,7 +21137,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_962300-MLA99590217824_122025-AB.webp",
       "category": "[STYLUSES]",
-      "last_seen": 1786566279.236902,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
       "is_new": false
     },
@@ -21196,26 +21155,8 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_748749-MLA100076537741_122025-AB.webp",
       "category": "[DATA_CABLES_AND_ADAPTERS]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786552728.317822,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4084843533",
-      "title": "Suporte De Parede Metal Preto 2 Prateleiras 36 cm Para Banheiro",
-      "link": "https://www.mercadolivre.com.br/suporte-de-parede-metal-preto-2-prateleiras-36-cm-para-banheiro/p/MLB45353506",
-      "current_price": 20.69,
-      "original_price": 49.5,
-      "discount": 58.2,
-      "difference": 28.81,
-      "criteria": [
-        "58.2% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMAS 9",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_717442-MLA100057011287_122025-AB.webp",
-      "category": "[BATHROOM_SHOWER_ORGANIZERS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
       "is_new": false
     },
     {
@@ -21250,7 +21191,7 @@
       "badge": "🟡 ML | POPULAR",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_792479-MLB111877326470_062026-AB.webp",
       "category": "[FOOTBALL_SOCKS]",
-      "last_seen": 1786569106.33783,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1785299081.51594,
       "is_new": false
     },
@@ -21268,7 +21209,7 @@
       "badge": "🟡 ML | ÚLTIMAS 4",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_999037-MLB88646624730_072025-AB.webp",
       "category": "[HAND_FILES]",
-      "last_seen": 1786572302.218642,
+      "last_seen": 1786575336.395013,
       "discovery_ts": 1786038777.187815,
       "is_new": false
     },
@@ -21291,24 +21232,6 @@
       "is_new": false
     },
     {
-      "asin": "MLB4931812445",
-      "title": "Kit Escovinha Cílios Sobrancelha Descartável Profissional Kit Com 200 Unidades Reta 10 Cm 5 Mm",
-      "link": "https://www.mercadolivre.com.br/kit-escovinha-cilios-sobrancelha-descartavel-profissional/up/MLBU4384237123",
-      "current_price": 20.59,
-      "original_price": 39.9,
-      "discount": 48.4,
-      "difference": 19.31,
-      "criteria": [
-        "48.4% OFF"
-      ],
-      "badge": "🟡 ML | ÚLTIMA!",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_784453-MLB113735075318_072026-AB.webp",
-      "category": "[EYELASH_EXTENSIONS]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
-      "is_new": false
-    },
-    {
       "asin": "B08NX5DKM1",
       "title": "Kit NIVEA Desodorante Aerosol Men Black&White Invisible - 2 unidades",
       "link": "https://www.amazon.com.br/Desodorante-Nivea-Invisible-Aerosol-Unidades/dp/B08NX5DKM1",
@@ -21324,24 +21247,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1786572302.218642,
       "discovery_ts": 1785050714.261271,
-      "is_new": false
-    },
-    {
-      "asin": "MLB4852110627",
-      "title": "Brinquedo Antiestresse Squishy Butter Bar 1pcs/butter Bar",
-      "link": "https://www.mercadolivre.com.br/brinquedo-antiestresse-squishy-butter-bar/up/MLBU4216915351",
-      "current_price": 15.81,
-      "original_price": 26.36,
-      "discount": 40.0,
-      "difference": 10.55,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "🟡 ML | POPULAR",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_829206-CBT112986988209_062026-AB.webp",
-      "category": "[SQUISHIES]",
-      "last_seen": 1786552728.317829,
-      "discovery_ts": 1786552728.317829,
       "is_new": false
     }
   ]
