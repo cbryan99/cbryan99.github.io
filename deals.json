@@ -1,5 +1,5 @@
 {
-  "last_check": "14/08/2026 14:45:27",
+  "last_check": "14/08/2026 15:36:09",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20722,9 +20722,36 @@
           "date": "2026-08-14T14:45:27.238969"
         }
       ]
+    },
+    "B0DJFSTQHX": {
+      "discovery_date": "2026-08-14T15:36:09.386069",
+      "price_history": [
+        {
+          "price": 4999.0,
+          "date": "2026-08-14T15:36:09.386069"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DJFSTQHX",
+      "title": "Apple iPhone 16 (128 GB) – Verde-acinzentado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Verde-acinzentado/dp/B0DJFSTQHX",
+      "current_price": 4999.0,
+      "original_price": 6799.0,
+      "discount": 26.5,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1786721769.386077,
+      "is_new": true
+    },
     {
       "asin": "B0GWVYL512",
       "title": "Notebook Dell 15 DC15-I51334U-M50 15.6\" Full HD 13ª Gen Intel Core i5 8GB 512GB SSD Win 11 Preto Carbono",
@@ -20763,6 +20790,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F9PSCBYV",
+      "title": "Monitor Samsung Odyssey G9 49\", DQHD, 144Hz, 1ms, ajuste de altura, FreeSync Premium Pro, DP, HDMI, USB, preto",
+      "link": "https://www.amazon.com.br/Monitor-Odyssey-G9-Display-HDR600/dp/B0F9PSCBYV",
+      "current_price": 6079.05,
+      "original_price": 8999.0,
+      "discount": 32.4,
+      "difference": 2919.95,
+      "criteria": [
+        "R$ 2919.95 desc."
+      ],
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FWegmI0zL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1786575336.395005,
+      "is_new": false
+    },
+    {
       "asin": "B0FWMTLMR4",
       "title": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (220V)",
       "link": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWMTLMR4",
@@ -20776,7 +20821,7 @@
       "badge": "37% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41ERzs42EXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786715500.166348,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1784929622.888228,
       "is_new": false
     },
@@ -20794,8 +20839,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81L8oOFpueL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786715500.166348,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3399.0,
+      "original_price": 5499.0,
+      "discount": 38.2,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -20993,7 +21056,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -21011,7 +21074,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786479963.636436,
       "is_new": false
     },
@@ -21048,8 +21111,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": 3598.98,
+      "original_price": 4899.0,
+      "discount": 26.5,
+      "difference": 1300.02,
+      "criteria": [
+        "R$ 1300.02 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1784752600.373367,
       "is_new": false
     },
     {
@@ -21066,7 +21147,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -21084,7 +21165,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21102,7 +21183,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21156,7 +21237,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -21246,7 +21327,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -21265,7 +21346,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21337,7 +21418,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ZGXiEEPbL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_CARD]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786707032.383302,
       "is_new": false
     },
@@ -21373,8 +21454,8 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786697263.070361,
-      "discovery_ts": 1786697263.070361,
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1786697263.070354,
       "is_new": false
     },
     {
@@ -21393,24 +21474,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1786700742.98978,
       "discovery_ts": 1786697263.070354,
-      "is_new": false
-    },
-    {
-      "asin": "B0FG4WRRNM",
-      "title": "Piano Digital Yamaha P145BT Bluetooth 88 Teclas Sensíveis ao Toque",
-      "link": "https://www.amazon.com.br/Digital-Port%C3%A1til-Teclas-Sensitivas-Bluetooth/dp/B0FG4WRRNM",
-      "current_price": 2999.9,
-      "original_price": 3448.85,
-      "discount": 13.0,
-      "difference": 448.95,
-      "criteria": [
-        "R$ 448.95 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BNy5MhJcL._AC_UL210_SR210,210_.jpg",
-      "category": "[KEYBOARD_INSTRUMENTS]",
-      "last_seen": 1786697263.070361,
-      "discovery_ts": 1786687169.912262,
       "is_new": false
     },
     {
@@ -21486,6 +21549,42 @@
       "is_new": false
     },
     {
+      "asin": "B0FPBPDWZQ",
+      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
+      "current_price": 3198.9,
+      "original_price": 3535.9,
+      "discount": 9.5,
+      "difference": 337.0,
+      "criteria": [
+        "R$ 337.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1786459242.546747,
+      "is_new": false
+    },
+    {
+      "asin": "B0FCW79ZM3",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" Touch Screen Prata - Intel Core i5-13420H, 8GB RAM, 512GB SSD, Windows 11",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i5-13420H-Screen/dp/B0FCW79ZM3",
+      "current_price": 4079.0,
+      "original_price": 4399.0,
+      "discount": 7.3,
+      "difference": 320.0,
+      "criteria": [
+        "R$ 320.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786721769.386077,
+      "discovery_ts": 1786421114.339604,
+      "is_new": false
+    },
+    {
       "asin": "B0FVYB71RW",
       "title": "American Tourister Mala de Viagem Tesa 4.0 Média",
       "link": "https://www.amazon.com.br/American-Tourister-Mala-Viagem-M%C3%A9dia/dp/B0FVYB71RW",
@@ -21519,7 +21618,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51iJYGpWU5L._AC_UL210_SR210,210_.jpg",
       "category": "[COOKWARE_SET]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786444170.735799,
       "is_new": false
     },
@@ -21555,26 +21654,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786718727.238977,
+      "last_seen": 1786721769.386077,
       "discovery_ts": 1786433627.124475,
-      "is_new": false
-    },
-    {
-      "asin": "B0CKJNCZ8P",
-      "title": "I2GO, Carregador Portátil (Power Bank), Pocket, 5000mAh, Não Necessita Cabos, Modelo Lightning",
-      "link": "https://www.amazon.com.br/Carregador-Port%C3%A1til-Power-Pocket-5000mAh/dp/B0CKJNCZ8P",
-      "current_price": 59.9,
-      "original_price": 149.9,
-      "discount": 60.0,
-      "difference": 90.0,
-      "criteria": [
-        "60.0% OFF"
-      ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61nHcSa96BL._AC_UL210_SR210,210_.jpg",
-      "category": "[POWER_BANK]",
-      "last_seen": 1786697263.070361,
-      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
