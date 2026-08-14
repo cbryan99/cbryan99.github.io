@@ -1,5 +1,5 @@
 {
-  "last_check": "14/08/2026 04:30:06",
+  "last_check": "14/08/2026 05:59:30",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20566,25 +20566,34 @@
           "date": "2026-08-14T04:30:04.577201"
         }
       ]
+    },
+    "B0FG4WRRNM": {
+      "discovery_date": "2026-08-14T05:59:29.912262",
+      "price_history": [
+        {
+          "price": 2999.9,
+          "date": "2026-08-14T05:59:29.912262"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GZRMWM29",
-      "title": "Smart TV TCL 98 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 98A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-98A400M/dp/B0GZRMWM29",
-      "current_price": 16299.0,
-      "original_price": 19549.0,
-      "discount": 16.6,
-      "difference": 3250.0,
+      "asin": "B0FG4WRRNM",
+      "title": "Piano Digital Yamaha P145BT Bluetooth 88 Teclas Sensíveis ao Toque",
+      "link": "https://www.amazon.com.br/Digital-Port%C3%A1til-Teclas-Sensitivas-Bluetooth/dp/B0FG4WRRNM",
+      "current_price": 2999.9,
+      "original_price": 3448.85,
+      "discount": 13.0,
+      "difference": 448.95,
       "criteria": [
-        "R$ 3250.0 desc."
+        "R$ 448.95 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81Do4-k2xiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1786675240.133605,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BNy5MhJcL._AC_UL210_SR210,210_.jpg",
+      "category": "[KEYBOARD_INSTRUMENTS]",
+      "last_seen": 1786687169.91227,
+      "discovery_ts": 1786687169.91227,
       "is_new": true
     },
     {
@@ -20601,8 +20610,8 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1786681804.577207,
+      "last_seen": 1786687169.91227,
+      "discovery_ts": 1786681804.577201,
       "is_new": true
     },
     {
@@ -20620,7 +20629,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -20640,6 +20649,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786675240.133612,
       "discovery_ts": 1786646035.165925,
+      "is_new": false
+    },
+    {
+      "asin": "B0GZRMWM29",
+      "title": "Smart TV TCL 98 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 98A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-98A400M/dp/B0GZRMWM29",
+      "current_price": 16299.0,
+      "original_price": 19549.0,
+      "discount": 16.6,
+      "difference": 3250.0,
+      "criteria": [
+        "R$ 3250.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Do4-k2xiL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786681804.577207,
+      "discovery_ts": 1786675240.133605,
       "is_new": false
     },
     {
@@ -20746,7 +20773,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51v9qqepPbL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -20800,7 +20827,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786666007.567267,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -20818,7 +20845,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -20836,7 +20863,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786479963.636436,
       "is_new": false
     },
@@ -20891,7 +20918,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -20909,7 +20936,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VTZ8N0FYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -20932,24 +20959,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0B61WJRY5",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
@@ -20963,8 +20972,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786687169.91227,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -20981,7 +21008,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21058,6 +21085,24 @@
       "is_new": false
     },
     {
+      "asin": "B0G22R3QLT",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
+      "current_price": 3999.0,
+      "original_price": 4699.0,
+      "discount": 14.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786687169.91227,
+      "discovery_ts": 1786504373.611184,
+      "is_new": false
+    },
+    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -21072,7 +21117,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21149,24 +21194,6 @@
       "is_new": false
     },
     {
-      "asin": "B0D1676MKQ",
-      "title": "SUGGAR FOGÃO NEO GLASS PRETO MESA DE VIDRO 5 BOCAS TREMPE 6 APOIOS ACENDIMENTO AUTOMÁTICO FGVNG510PT",
-      "link": "https://www.amazon.com.br/SUGGAR-TREMPE-ACENDIMENTO-AUTOM%C3%81TICO-FGVNG510PT/dp/B0D1676MKQ",
-      "current_price": 948.97,
-      "original_price": 1359.0,
-      "discount": 30.2,
-      "difference": 410.03,
-      "criteria": [
-        "R$ 410.03 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61PQ0dR-KUL._AC_UL210_SR210,210_.jpg",
-      "category": "[RANGE]",
-      "last_seen": 1786663570.52231,
-      "discovery_ts": 1786663570.52231,
-      "is_new": false
-    },
-    {
       "asin": "B0FPBPDWZQ",
       "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
@@ -21198,8 +21225,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786681804.577207,
+      "last_seen": 1786687169.91227,
       "discovery_ts": 1786433627.124475,
+      "is_new": false
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": 58.45,
+      "original_price": 119.9,
+      "discount": 51.3,
+      "difference": 61.45,
+      "criteria": [
+        "51.3% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "last_seen": 1786687169.91227,
+      "discovery_ts": 1784433482.515947,
       "is_new": false
     }
   ]
