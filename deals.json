@@ -1,5 +1,5 @@
 {
-  "last_check": "14/08/2026 07:39:56",
+  "last_check": "14/08/2026 08:47:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20602,6 +20602,51 @@
           "date": "2026-08-14T07:39:52.443660"
         }
       ]
+    },
+    "B0DJFRYWK8": {
+      "discovery_date": "2026-08-14T08:47:43.070354",
+      "price_history": [
+        {
+          "price": 4999.0,
+          "date": "2026-08-14T08:47:43.070354"
+        }
+      ]
+    },
+    "B0FVLYB9X3": {
+      "discovery_date": "2026-08-14T08:47:43.070354",
+      "price_history": [
+        {
+          "price": 4339.52,
+          "date": "2026-08-14T08:47:43.070354"
+        }
+      ]
+    },
+    "B019HBG0QK": {
+      "discovery_date": "2026-08-14T08:47:43.070354",
+      "price_history": [
+        {
+          "price": 2346.0,
+          "date": "2026-08-14T08:47:43.070354"
+        }
+      ]
+    },
+    "B082FQD17H": {
+      "discovery_date": "2026-08-14T08:47:43.070354",
+      "price_history": [
+        {
+          "price": 2579.02,
+          "date": "2026-08-14T08:47:43.070354"
+        }
+      ]
+    },
+    "B0FJYH5CQC": {
+      "discovery_date": "2026-08-14T08:47:43.070354",
+      "price_history": [
+        {
+          "price": 1099.9,
+          "date": "2026-08-14T08:47:43.070354"
+        }
+      ]
     }
   },
   "data": [
@@ -20625,6 +20670,24 @@
       "is_new": true
     },
     {
+      "asin": "B0DJFRYWK8",
+      "title": "Apple iPhone 16 (128 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Ultramarino/dp/B0DJFRYWK8",
+      "current_price": 4999.0,
+      "original_price": 6799.0,
+      "discount": 26.5,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786697263.070361,
+      "is_new": true
+    },
+    {
       "asin": "B0F2GNQSKS",
       "title": "Dyson Supersonic™ Secador de Cabelo 127v",
       "link": "https://www.amazon.com.br/Dyson-SupersonicTM-Secador-Cabelo-127v/dp/B0F2GNQSKS",
@@ -20643,21 +20706,75 @@
       "is_new": true
     },
     {
-      "asin": "B0FG4WRRNM",
-      "title": "Piano Digital Yamaha P145BT Bluetooth 88 Teclas Sensíveis ao Toque",
-      "link": "https://www.amazon.com.br/Digital-Port%C3%A1til-Teclas-Sensitivas-Bluetooth/dp/B0FG4WRRNM",
-      "current_price": 2999.9,
-      "original_price": 3448.85,
-      "discount": 13.0,
-      "difference": 448.95,
+      "asin": "B0FVLYB9X3",
+      "title": "Lápis de Cor Caran d'Ache Luminance 100 Cores Cx de Madeira",
+      "link": "https://www.amazon.com.br/L%C3%A1pis-Caran-dAche-Luminance-Madeira/dp/B0FVLYB9X3",
+      "current_price": 4339.52,
+      "original_price": 5440.0,
+      "discount": 20.2,
+      "difference": 1100.48,
       "criteria": [
-        "R$ 448.95 desc."
+        "R$ 1100.48 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71p2PcBLWkL._AC_UL210_SR210,210_.jpg",
+      "category": "[WRITING_INSTRUMENT]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786697263.070361,
+      "is_new": true
+    },
+    {
+      "asin": "B082FQD17H",
+      "title": "Cooktop 4 Bocas de Indução Electrolux Experience com Unicook e Timer (IE60P)",
+      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Electrolux-IE60P-Unicook/dp/B082FQD17H",
+      "current_price": 2579.02,
+      "original_price": 3079.0,
+      "discount": 16.2,
+      "difference": 499.98,
+      "criteria": [
+        "R$ 499.98 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKTOP]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786697263.070361,
+      "is_new": true
+    },
+    {
+      "asin": "B0FJYH5CQC",
+      "title": "Frigobar Retrô 93 litros Preto Inverter Bivolt Midea",
+      "link": "https://www.amazon.com.br/Frigobar-litros-Inverter-Bivolt-Midea/dp/B0FJYH5CQC",
+      "current_price": 1099.9,
+      "original_price": 1599.0,
+      "discount": 31.2,
+      "difference": 499.1,
+      "criteria": [
+        "R$ 499.1 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41oVbnMNePL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786697263.070361,
+      "is_new": true
+    },
+    {
+      "asin": "B019HBG0QK",
+      "title": "Panasonic NA-F190G1 Máquina de Lavar Top Load, Branco, Classe A, 115x64x72cm, 19Kg, Sistema Ciclone sem Agitador, Painel Digital, Ciclo Pet, Aço Inox (110V, Volts)",
+      "link": "https://www.amazon.com.br/Panasonic-NA-F190G1-M%C3%A1quina-115x64x72cm-Agitador/dp/B019HBG0QK",
+      "current_price": 2346.0,
+      "original_price": 2707.2,
+      "discount": 13.3,
+      "difference": 361.2,
+      "criteria": [
+        "R$ 361.2 desc."
       ],
       "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BNy5MhJcL._AC_UL210_SR210,210_.jpg",
-      "category": "[KEYBOARD_INSTRUMENTS]",
-      "last_seen": 1786693192.443667,
-      "discovery_ts": 1786687169.912262,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41O6Nb-1k5L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786697263.070361,
       "is_new": true
     },
     {
@@ -20674,8 +20791,8 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pje6PuF7L._AC_UL210_SR210,210_.jpg",
       "category": "[FURNITURE]",
-      "last_seen": 1786693192.443667,
-      "discovery_ts": 1786693192.443667,
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786693192.44366,
       "is_new": true
     },
     {
@@ -20695,24 +20812,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786693192.443667,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQK9ZVT",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Branco",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQK9ZVT",
-      "current_price": 7999.0,
-      "original_price": 11499.0,
-      "discount": 30.4,
-      "difference": 3500.0,
-      "criteria": [
-        "R$ 3500.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ecNFaOQRL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786675240.133612,
-      "discovery_ts": 1786646035.165925,
       "is_new": false
     },
     {
@@ -20752,42 +20851,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FWMTLMR4",
-      "title": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (220V)",
-      "link": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWMTLMR4",
-      "current_price": 4369.0,
-      "original_price": 7000.0,
-      "discount": 37.6,
-      "difference": 2631.0,
-      "criteria": [
-        "R$ 2631.0 desc."
-      ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ERzs42EXL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786675240.133612,
-      "discovery_ts": 1784929622.888228,
-      "is_new": false
-    },
-    {
-      "asin": "B0FWMTC71W",
-      "title": "Samsung Lava e Seca Smart AI Control WD13FG Black 13kg (220V)",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Control-WD13FG-Black/dp/B0FWMTC71W",
-      "current_price": 4499.0,
-      "original_price": 7000.0,
-      "discount": 35.7,
-      "difference": 2501.0,
-      "criteria": [
-        "R$ 2501.0 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/410V+8kXYYL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786675240.133612,
-      "discovery_ts": 1786504373.611184,
-      "is_new": false
-    },
-    {
       "asin": "B0H4J13B2M",
       "title": "Notebook Lenovo Gamer LOQ Essential Intel Core i5-12450HX 16GB 1TB SSD RTX 4050 144Hz Windows 11 15.6\" - 83ME0001BR",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-Essential-i5-12450HX-Windows/dp/B0H4J13B2M",
@@ -20801,7 +20864,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81L8oOFpueL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786675240.133612,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -20819,26 +20882,8 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51v9qqepPbL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786687169.91227,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1786469861.404163,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3399.0,
-      "original_price": 5499.0,
-      "discount": 38.2,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786675240.133612,
-      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -20874,7 +20919,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786693192.443667,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -20947,7 +20992,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786693192.443667,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -21128,7 +21173,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786693192.443667,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21151,21 +21196,58 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBPDWZQ",
-      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
-      "current_price": 3198.9,
-      "original_price": 3535.9,
-      "discount": 9.5,
-      "difference": 337.0,
+      "asin": "B0FG4WRRNM",
+      "title": "Piano Digital Yamaha P145BT Bluetooth 88 Teclas Sensíveis ao Toque",
+      "link": "https://www.amazon.com.br/Digital-Port%C3%A1til-Teclas-Sensitivas-Bluetooth/dp/B0FG4WRRNM",
+      "current_price": 2999.9,
+      "original_price": 3448.85,
+      "discount": 13.0,
+      "difference": 448.95,
       "criteria": [
-        "R$ 337.0 desc."
+        "R$ 448.95 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786675240.133612,
-      "discovery_ts": 1786459242.546747,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BNy5MhJcL._AC_UL210_SR210,210_.jpg",
+      "category": "[KEYBOARD_INSTRUMENTS]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786687169.912262,
+      "is_new": false
+    },
+    {
+      "asin": "B0DX2M1RCD",
+      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (127V)",
+      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M1RCD",
+      "current_price": 3176.66,
+      "original_price": 3623.75,
+      "discount": 12.3,
+      "difference": 447.09,
+      "criteria": [
+        "R$ 447.09 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786395411.117679,
+      "is_new": false
+    },
+    {
+      "asin": "B07BMZS1BN",
+      "title": "Brinox - Jogo de Panelas Antiaderente Ceramic Life 6 Peças Smart Plus - Vanilla",
+      "link": "https://www.amazon.com.br/Brinox-Conjunto-Panelas-Ceramic-Vanilla/dp/B07BMZS1BN",
+      "current_price": 395.42,
+      "original_price": 699.9,
+      "discount": 43.5,
+      "difference": 304.48,
+      "criteria": [
+        "43.5% OFF",
+        "R$ 304.48 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51iJYGpWU5L._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKWARE_SET]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786444170.735799,
       "is_new": false
     },
     {
@@ -21200,8 +21282,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786693192.443667,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1786433627.124475,
+      "is_new": false
+    },
+    {
+      "asin": "B0CKJNCZ8P",
+      "title": "I2GO, Carregador Portátil (Power Bank), Pocket, 5000mAh, Não Necessita Cabos, Modelo Lightning",
+      "link": "https://www.amazon.com.br/Carregador-Port%C3%A1til-Power-Pocket-5000mAh/dp/B0CKJNCZ8P",
+      "current_price": 59.9,
+      "original_price": 149.9,
+      "discount": 60.0,
+      "difference": 90.0,
+      "criteria": [
+        "60.0% OFF"
+      ],
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nHcSa96BL._AC_UL210_SR210,210_.jpg",
+      "category": "[POWER_BANK]",
+      "last_seen": 1786697263.070361,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -21218,7 +21318,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786687169.91227,
+      "last_seen": 1786697263.070361,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
