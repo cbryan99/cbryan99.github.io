@@ -1,5 +1,5 @@
 {
-  "last_check": "14/08/2026 09:45:42",
+  "last_check": "14/08/2026 10:42:02",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20656,6 +20656,42 @@
           "date": "2026-08-14T09:45:42.989773"
         }
       ]
+    },
+    "B0FTKPP8LZ": {
+      "discovery_date": "2026-08-14T10:42:01.505645",
+      "price_history": [
+        {
+          "price": 3321.98,
+          "date": "2026-08-14T10:42:01.505645"
+        }
+      ]
+    },
+    "B09LHW62H7": {
+      "discovery_date": "2026-08-14T10:42:01.505645",
+      "price_history": [
+        {
+          "price": 1994.02,
+          "date": "2026-08-14T10:42:01.505645"
+        }
+      ]
+    },
+    "B0FVYB71RW": {
+      "discovery_date": "2026-08-14T10:42:01.505645",
+      "price_history": [
+        {
+          "price": 349.9,
+          "date": "2026-08-14T10:42:01.505645"
+        }
+      ]
+    },
+    "B08FDKX79W": {
+      "discovery_date": "2026-08-14T10:42:01.505645",
+      "price_history": [
+        {
+          "price": 36.6,
+          "date": "2026-08-14T10:42:01.505645"
+        }
+      ]
     }
   },
   "data": [
@@ -20678,6 +20714,24 @@
       "is_new": true
     },
     {
+      "asin": "B0FTKPP8LZ",
+      "title": "Apple iPhone 15 (128 GB) — Preto (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-Recondicionado/dp/B0FTKPP8LZ",
+      "current_price": 3321.98,
+      "original_price": 4499.1,
+      "discount": 26.2,
+      "difference": 1177.12,
+      "criteria": [
+        "R$ 1177.12 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786704121.505653,
+      "is_new": true
+    },
+    {
       "asin": "B0FVLYB9X3",
       "title": "Lápis de Cor Caran d'Ache Luminance 100 Cores Cx de Madeira",
       "link": "https://www.amazon.com.br/L%C3%A1pis-Caran-dAche-Luminance-Madeira/dp/B0FVLYB9X3",
@@ -20691,8 +20745,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71p2PcBLWkL._AC_UL210_SR210,210_.jpg",
       "category": "[WRITING_INSTRUMENT]",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786697263.070354,
+      "is_new": true
+    },
+    {
+      "asin": "B09LHW62H7",
+      "title": "Coifa de Ilha Oster Inox Touch Control, 90cm, 110v, OCFA590",
+      "link": "https://www.amazon.com.br/Coifa-Ilha-Oster-Touch-Control/dp/B09LHW62H7",
+      "current_price": 1994.02,
+      "original_price": 2899.0,
+      "discount": 31.2,
+      "difference": 904.98,
+      "criteria": [
+        "R$ 904.98 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419jwVCZRzL._AC_UL210_SR210,210_.jpg",
+      "category": "[VENT_HOOD]",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786704121.505653,
       "is_new": true
     },
     {
@@ -20709,8 +20781,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/711aeQZ7PxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
-      "discovery_ts": 1786700742.98978,
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786700742.989773,
       "is_new": true
     },
     {
@@ -20768,6 +20840,43 @@
       "is_new": true
     },
     {
+      "asin": "B0FVYB71RW",
+      "title": "American Tourister Mala de Viagem Tesa 4.0 Média",
+      "link": "https://www.amazon.com.br/American-Tourister-Mala-Viagem-M%C3%A9dia/dp/B0FVYB71RW",
+      "current_price": 349.9,
+      "original_price": 659.0,
+      "discount": 46.9,
+      "difference": 309.1,
+      "criteria": [
+        "46.9% OFF",
+        "R$ 309.1 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zQCYgjZ4L._AC_UL210_SR210,210_.jpg",
+      "category": "[SUITCASE]",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786704121.505653,
+      "is_new": true
+    },
+    {
+      "asin": "B08FDKX79W",
+      "title": "L'Oréal Paris Base BB Cream Efeito Matte Cor Média Fps 50, 30ml",
+      "link": "https://www.amazon.com.br/Cream-LOr%C3%A9al-Paris-Efeito-Matte/dp/B08FDKX79W",
+      "current_price": 36.6,
+      "original_price": 63.49,
+      "discount": 42.4,
+      "difference": 26.89,
+      "criteria": [
+        "42.4% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IjGH1mLyL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_FOUNDATION_CONCEALER]",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786704121.505653,
+      "is_new": true
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -20782,7 +20891,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786693192.443667,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -20803,24 +20912,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786693192.443667,
       "discovery_ts": 1786693192.443667,
-      "is_new": false
-    },
-    {
-      "asin": "B0GZRMWM29",
-      "title": "Smart TV TCL 98 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 98A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-98A400M/dp/B0GZRMWM29",
-      "current_price": 16299.0,
-      "original_price": 19549.0,
-      "discount": 16.6,
-      "difference": 3250.0,
-      "criteria": [
-        "R$ 3250.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81Do4-k2xiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1786675240.133605,
       "is_new": false
     },
     {
@@ -20855,8 +20946,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81L8oOFpueL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0F6NLGYGJ",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Azul, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-128GB-Inclusas/dp/B0F6NLGYGJ",
+      "current_price": 3199.0,
+      "original_price": 5299.0,
+      "discount": 39.6,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786482845.187191,
       "is_new": false
     },
     {
@@ -20910,7 +21019,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -20928,7 +21037,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786687169.91227,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1784646038.083462,
       "is_new": false
     },
@@ -20951,25 +21060,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GVT4L94F",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Branco)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Branco/dp/B0GVT4L94F",
-      "current_price": 1886.43,
-      "original_price": 3299.0,
-      "discount": 42.8,
-      "difference": 1412.57,
-      "criteria": [
-        "42.8% OFF",
-        "R$ 1412.57 desc."
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1786566279.236894,
-      "is_new": false
-    },
-    {
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
@@ -20983,7 +21073,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -21021,24 +21111,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1786687169.91227,
       "discovery_ts": 1786469861.404163,
-      "is_new": false
-    },
-    {
-      "asin": "B0B8MCB6KK",
-      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
-      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
-      "current_price": 3598.98,
-      "original_price": 4899.0,
-      "discount": 26.5,
-      "difference": 1300.02,
-      "criteria": [
-        "R$ 1300.02 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1784752600.373367,
       "is_new": false
     },
     {
@@ -21091,26 +21163,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786447364.656487,
-      "is_new": false
-    },
-    {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3499.0,
-      "original_price": 4618.9,
-      "discount": 24.2,
-      "difference": 1119.9,
-      "criteria": [
-        "R$ 1119.9 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786681804.577207,
-      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -21182,7 +21236,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21200,7 +21254,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Tuq7vSuRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786462932.947145,
       "is_new": false
     },
@@ -21254,7 +21308,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1784572052.68313,
       "is_new": false
     },
@@ -21274,6 +21328,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1786697263.070361,
       "discovery_ts": 1786395411.117679,
+      "is_new": false
+    },
+    {
+      "asin": "B094DKT1MM",
+      "title": "Celite, Kit Vaso Sanitário Rimless com Caixa Acoplada Smart Clean e Assento Soft Close Vip, Branco",
+      "link": "https://www.amazon.com.br/Bacia-Caixa-Acoplada-Assento-Branco/dp/B094DKT1MM",
+      "current_price": 989.8,
+      "original_price": 1333.31,
+      "discount": 25.8,
+      "difference": 343.51,
+      "criteria": [
+        "R$ 343.51 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61SLX+nPi2L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOILET]",
+      "last_seen": 1786704121.505653,
+      "discovery_ts": 1786375816.118134,
       "is_new": false
     },
     {
@@ -21345,7 +21417,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     },
@@ -21399,7 +21471,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786700742.98978,
+      "last_seen": 1786704121.505653,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
