@@ -1,5 +1,5 @@
 {
-  "last_check": "15/08/2026 08:20:03",
+  "last_check": "15/08/2026 08:49:37",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20818,6 +20818,15 @@
           "date": "2026-08-15T07:50:33.379961"
         }
       ]
+    },
+    "B0F19CK9PK": {
+      "discovery_date": "2026-08-15T08:49:37.017112",
+      "price_history": [
+        {
+          "price": 1699.0,
+          "date": "2026-08-15T08:49:37.017112"
+        }
+      ]
     }
   },
   "data": [
@@ -20836,8 +20845,26 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Vqs9NufmL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786780233.379961,
+      "is_new": true
+    },
+    {
+      "asin": "B0F19CK9PK",
+      "title": "Ar-Condicionado Janela Eletrônico Wi-Fi 10.000 btus Frio 127V AW-10CWBRVGU02 Hisense",
+      "link": "https://www.amazon.com.br/Condicionado-Janela-Eletr%C3%B4nico-Hisense-AW-10CWBRVGU02/dp/B0F19CK9PK",
+      "current_price": 1699.0,
+      "original_price": 2165.73,
+      "discount": 21.6,
+      "difference": 466.73,
+      "criteria": [
+        "R$ 466.73 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91R4evTaGpL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786783777.017119,
+      "discovery_ts": 1786783777.017119,
       "is_new": true
     },
     {
@@ -20874,7 +20901,7 @@
       "badge": "60% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Zbbl4P+LL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786563826.252169,
       "is_new": false
     },
@@ -21002,7 +21029,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786776843.478651,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786477286.868824,
       "is_new": false
     },
@@ -21075,7 +21102,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21111,7 +21138,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21147,7 +21174,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21170,6 +21197,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": 2499.0,
+      "original_price": 3199.0,
+      "discount": 21.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786783777.017119,
+      "discovery_ts": 1784936763.261283,
+      "is_new": false
+    },
+    {
       "asin": "B0G22R3QLT",
       "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
@@ -21188,24 +21233,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": 2499.0,
-      "original_price": 3199.0,
-      "discount": 21.9,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786782002.392233,
-      "discovery_ts": 1784936763.261283,
-      "is_new": false
-    },
-    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -21220,7 +21247,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21238,7 +21265,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21256,7 +21283,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/711aeQZ7PxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786700742.989773,
       "is_new": false
     },
@@ -21292,7 +21319,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -21310,7 +21337,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81myi7-w95L._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1786776843.478651,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -21454,7 +21481,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     },
@@ -21472,7 +21499,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786782002.392233,
+      "last_seen": 1786783777.017119,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
