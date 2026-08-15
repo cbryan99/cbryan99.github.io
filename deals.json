@@ -1,5 +1,5 @@
 {
-  "last_check": "14/08/2026 23:55:38",
+  "last_check": "15/08/2026 00:57:23",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1818,6 +1818,10 @@
         {
           "price": 2649.0,
           "date": "2026-07-28T03:04:08.029087"
+        },
+        {
+          "price": 2499.0,
+          "date": "2026-08-15T00:57:23.347247"
         }
       ]
     },
@@ -20774,9 +20778,36 @@
           "date": "2026-08-14T20:39:56.901075"
         }
       ]
+    },
+    "B00I3ZWJZI": {
+      "discovery_date": "2026-08-15T00:57:23.347247",
+      "price_history": [
+        {
+          "price": 2095.7,
+          "date": "2026-08-15T00:57:23.347247"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B00I3ZWJZI",
+      "title": "Máquina de Lavar Panasonic 15kg Titânio 220v NA-F150B1T",
+      "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00I3ZWJZI",
+      "current_price": 2095.7,
+      "original_price": 2599.0,
+      "discount": 19.4,
+      "difference": 503.3,
+      "criteria": [
+        "R$ 503.3 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aihS5uIXL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1786755443.347256,
+      "discovery_ts": 1786755443.347256,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -20792,7 +20823,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -20811,7 +20842,7 @@
       "badge": "60% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41rfDU6FGqL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786693192.44366,
       "is_new": false
     },
@@ -20847,7 +20878,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786750342.16779,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -20979,24 +21010,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFRYWK8",
-      "title": "Apple iPhone 16 (128 GB) – Ultramarino",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Ultramarino/dp/B0DJFRYWK8",
-      "current_price": 4999.0,
-      "original_price": 6799.0,
-      "discount": 26.5,
-      "difference": 1800.0,
-      "criteria": [
-        "R$ 1800.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786731969.799023,
-      "discovery_ts": 1786697263.070354,
-      "is_new": false
-    },
-    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -21010,7 +21023,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -21066,7 +21079,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/615EKrg4x1L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786750342.16779,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786739996.901075,
       "is_new": false
     },
@@ -21089,6 +21102,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GVSY9479",
+      "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Até 6 Atualizações de Android e Segurança (Azul Escuro) | 8GB RAM, Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\"",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Atualiza%C3%A7%C3%B5es-Android-Seguran%C3%A7a/dp/B0GVSY9479",
+      "current_price": 2554.0,
+      "original_price": 3999.0,
+      "discount": 36.1,
+      "difference": 1445.0,
+      "criteria": [
+        "R$ 1445.0 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786755443.347256,
+      "discovery_ts": 1786477286.868824,
+      "is_new": false
+    },
+    {
       "asin": "B0GVTB7BGQ",
       "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP, Selfie de 12MP, Tela Super AMOLED 6.7\", NFC, Recursos AI, IP68, Até 6 Atualizações de Android e Segurança (Lilás)",
       "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVTB7BGQ",
@@ -21104,24 +21135,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1786748496.470479,
       "discovery_ts": 1786479963.636436,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSY9479",
-      "title": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", Até 6 Atualizações de Android e Segurança (Azul Escuro) | 8GB RAM, Câmera Tripla até 50MP OIS, Selfie 12MP Video HDR, IP68, Tela Super AMOLED 6.7\"",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Atualiza%C3%A7%C3%B5es-Android-Seguran%C3%A7a/dp/B0GVSY9479",
-      "current_price": 2554.0,
-      "original_price": 3999.0,
-      "discount": 36.1,
-      "difference": 1445.0,
-      "criteria": [
-        "R$ 1445.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786744480.955781,
-      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -21144,6 +21157,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GVT4L94F",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Branco)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Branco/dp/B0GVT4L94F",
+      "current_price": 1886.43,
+      "original_price": 3299.0,
+      "discount": 42.8,
+      "difference": 1412.57,
+      "criteria": [
+        "42.8% OFF",
+        "R$ 1412.57 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786755443.347256,
+      "discovery_ts": 1786566279.236894,
+      "is_new": false
+    },
+    {
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
@@ -21157,7 +21189,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -21211,7 +21243,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -21227,9 +21259,9 @@
         "R$ 1253.9 desc."
       ],
       "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21247,7 +21279,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -21265,7 +21297,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21319,7 +21351,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21342,6 +21374,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": 2499.0,
+      "original_price": 3199.0,
+      "discount": 21.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786755443.347256,
+      "discovery_ts": 1784936763.261283,
+      "is_new": false
+    },
+    {
       "asin": "B0G22R3QLT",
       "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
@@ -21355,7 +21405,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -21374,7 +21424,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21392,7 +21442,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -21542,21 +21592,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GXGT3FS6",
-      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
-      "current_price": 2799.0,
-      "original_price": 3099.0,
-      "discount": 9.7,
-      "difference": 300.0,
+      "asin": "B0051LRFB0",
+      "title": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+      "link": "https://www.amazon.com.br/Run-Bacardi-Anos-750Ml-Sabor/dp/B0051LRFB0",
+      "current_price": 119.9,
+      "original_price": 243.9,
+      "discount": 50.8,
+      "difference": 124.0,
       "criteria": [
-        "R$ 300.0 desc."
+        "50.8% OFF"
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786731969.799023,
-      "discovery_ts": 1786681804.577201,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TOSd1e4qL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1786755443.347256,
+      "discovery_ts": 1786542030.20045,
       "is_new": false
     },
     {
@@ -21573,7 +21623,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786751738.959684,
+      "last_seen": 1786755443.347256,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     }
