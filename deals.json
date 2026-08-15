@@ -1,5 +1,5 @@
 {
-  "last_check": "15/08/2026 10:53:53",
+  "last_check": "15/08/2026 11:13:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20863,9 +20863,37 @@
           "date": "2026-08-15T10:34:13.341702"
         }
       ]
+    },
+    "B0DJFVHRQF": {
+      "discovery_date": "2026-08-15T11:13:59.155640",
+      "price_history": [
+        {
+          "price": 5799.0,
+          "date": "2026-08-15T11:13:59.155640"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DJFVHRQF",
+      "title": "Apple iPhone 16 (512 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFVHRQF",
+      "current_price": 5799.0,
+      "original_price": 10099.0,
+      "discount": 42.6,
+      "difference": 4300.0,
+      "criteria": [
+        "42.6% OFF",
+        "R$ 4300.0 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786792439.155649,
+      "discovery_ts": 1786792439.155649,
+      "is_new": true
+    },
     {
       "asin": "B0DZJPRL1Q",
       "title": "Apple 2025 iPad (Wi-Fi, 512 GB) - Prateado (A16)",
@@ -20880,26 +20908,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41kLdymn2jL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786790053.341702,
-      "is_new": true
-    },
-    {
-      "asin": "B0GJFS2Y3W",
-      "title": "Freezer Horizontal 142L Inverter Bivolt Branco Midea",
-      "link": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0GJFS2Y3W",
-      "current_price": 1408.99,
-      "original_price": 1999.0,
-      "discount": 29.5,
-      "difference": 590.01,
-      "criteria": [
-        "R$ 590.01 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41IAQgFLJQL._AC_UL210_SR210,210_.jpg",
-      "category": "[FREEZER]",
-      "last_seen": 1786785127.928131,
-      "discovery_ts": 1786785127.928131,
       "is_new": true
     },
     {
@@ -20990,7 +21000,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21026,7 +21036,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786482845.187191,
       "is_new": false
     },
@@ -21044,7 +21054,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -21081,7 +21091,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -21154,7 +21164,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VTZ8N0FYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -21226,7 +21236,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21281,7 +21291,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21299,7 +21309,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71LP2m5bdjL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786462932.947145,
       "is_new": false
     },
@@ -21317,7 +21327,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21354,7 +21364,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21395,21 +21405,21 @@
       "is_new": false
     },
     {
-      "asin": "B00I3ZWJZI",
-      "title": "Máquina de Lavar Panasonic 15kg Titânio 220v NA-F150B1T",
-      "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00I3ZWJZI",
-      "current_price": 2095.7,
-      "original_price": 2599.0,
-      "discount": 19.4,
-      "difference": 503.3,
+      "asin": "B0GJFS2Y3W",
+      "title": "Freezer Horizontal 142L Inverter Bivolt Branco Midea",
+      "link": "https://www.amazon.com.br/Freezer-Horizontal-Inverter-Bivolt-Midea/dp/B0GJFS2Y3W",
+      "current_price": 1408.99,
+      "original_price": 1999.0,
+      "discount": 29.5,
+      "difference": 590.01,
       "criteria": [
-        "R$ 503.3 desc."
+        "R$ 590.01 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61aihS5uIXL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1786769705.209458,
-      "discovery_ts": 1786755443.347247,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IAQgFLJQL._AC_UL210_SR210,210_.jpg",
+      "category": "[FREEZER]",
+      "last_seen": 1786785127.928131,
+      "discovery_ts": 1786785127.928131,
       "is_new": false
     },
     {
@@ -21426,7 +21436,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Tuq7vSuRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786462932.947145,
       "is_new": false
     },
@@ -21480,7 +21490,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21498,7 +21508,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91R4evTaGpL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786783777.017112,
       "is_new": false
     },
@@ -21588,7 +21598,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     },
@@ -21606,7 +21616,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786791233.6506,
+      "last_seen": 1786792439.155649,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
