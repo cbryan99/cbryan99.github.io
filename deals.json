@@ -1,5 +1,5 @@
 {
-  "last_check": "15/08/2026 11:36:24",
+  "last_check": "15/08/2026 11:52:32",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1774,6 +1774,10 @@
         {
           "price": "5599.0",
           "date": "2026-07-24T21:47:02.888228"
+        },
+        {
+          "price": 5599.0,
+          "date": "2026-08-15T11:52:32.120352"
         }
       ]
     },
@@ -20890,6 +20894,15 @@
           "date": "2026-08-15T11:36:24.851285"
         }
       ]
+    },
+    "B07K29F3SB": {
+      "discovery_date": "2026-08-15T11:52:32.120352",
+      "price_history": [
+        {
+          "price": 2029.47,
+          "date": "2026-08-15T11:52:32.120352"
+        }
+      ]
     }
   },
   "data": [
@@ -20926,7 +20939,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41kLdymn2jL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786790053.341702,
       "is_new": true
     },
@@ -20949,21 +20962,21 @@
       "is_new": true
     },
     {
-      "asin": "B0H5YR57FX",
-      "title": "Bicicleta Ergométrica Elite, Bike Spinning Profissional, 15 KG de Inércia, Com Amortecedor e Até 120 kg",
-      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Spinning-Profissional-Amortecedor/dp/B0H5YR57FX",
-      "current_price": 949.98,
-      "original_price": 1299.9,
-      "discount": 26.9,
-      "difference": 349.92,
+      "asin": "B07K29F3SB",
+      "title": "Geladeira Electrolux Cycle Defrost 260L Super Freezer Duplex Branca (DC35A) - 127 Volts",
+      "link": "https://www.amazon.com.br/Refrigerador-Portas-Classe-Branco-Electrolux/dp/B07K29F3SB",
+      "current_price": 2029.47,
+      "original_price": 2443.33,
+      "discount": 16.9,
+      "difference": 413.86,
       "criteria": [
-        "R$ 349.92 desc."
+        "R$ 413.86 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Mbkxx8H9L._AC_UL210_SR210,210_.jpg",
-      "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1786786986.305457,
-      "discovery_ts": 1786786986.305457,
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31VVoX6D74L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1786794752.120359,
       "is_new": true
     },
     {
@@ -20998,8 +21011,8 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/4183aoBiILL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786793784.851293,
-      "discovery_ts": 1786793784.851293,
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1786793784.851285,
       "is_new": true
     },
     {
@@ -21017,7 +21030,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21035,7 +21048,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ecNFaOQRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786646035.165925,
       "is_new": false
     },
@@ -21072,8 +21085,26 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0FWMTC71W",
+      "title": "Samsung Lava e Seca Smart AI Control WD13FG Black 13kg (220V)",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Control-WD13FG-Black/dp/B0FWMTC71W",
+      "current_price": 4499.0,
+      "original_price": 7000.0,
+      "discount": 35.7,
+      "difference": 2501.0,
+      "criteria": [
+        "R$ 2501.0 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410V+8kXYYL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1786504373.611184,
       "is_new": false
     },
     {
@@ -21108,7 +21139,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786482845.187191,
       "is_new": false
     },
@@ -21163,8 +21194,26 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786349565.683197,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZT6SMRS",
+      "title": "GELADEIRA PANASONIC BB41 TITÂNIO 397L 60CM 220 V",
+      "link": "https://www.amazon.com.br/GELADEIRA-PANASONIC-BB41-TIT%C3%82NIO-397L/dp/B0BZT6SMRS",
+      "current_price": 3198.0,
+      "original_price": 4699.0,
+      "discount": 31.9,
+      "difference": 1501.0,
+      "criteria": [
+        "R$ 1501.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ad8DMCOEL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1784646038.083462,
       "is_new": false
     },
     {
@@ -21186,22 +21235,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GVT4L94F",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Branco)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Branco/dp/B0GVT4L94F",
-      "current_price": 1886.43,
-      "original_price": 3299.0,
-      "discount": 42.8,
-      "difference": 1412.57,
+      "asin": "B0GX2MN152",
+      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
+      "current_price": 5599.0,
+      "original_price": 6999.0,
+      "discount": 20.0,
+      "difference": 1400.0,
       "criteria": [
-        "42.8% OFF",
-        "R$ 1412.57 desc."
+        "R$ 1400.0 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51G-NkDKaXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786772732.095079,
-      "discovery_ts": 1786566279.236894,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1784929622.888228,
       "is_new": false
     },
     {
@@ -21236,7 +21284,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VTZ8N0FYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -21259,6 +21307,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
       "asin": "B0B61WJRY5",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
@@ -21277,24 +21343,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786788061.877972,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0CQD9VK7X",
       "title": "Smartphone Samsung Galaxy S24 Ultra, Galaxy AI, Selfie de 12MP, Tela de 6.8\" 1-120Hz, 256GB, 12GB RAM - Titânio Preto",
       "link": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD9VK7X",
@@ -21308,7 +21356,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21363,7 +21411,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21381,7 +21429,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71LP2m5bdjL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786792439.155649,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786462932.947145,
       "is_new": false
     },
@@ -21399,7 +21447,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21436,7 +21484,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21454,7 +21502,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786783777.017119,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21495,6 +21543,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3299.0,
+      "original_price": 3799.0,
+      "discount": 13.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786794752.120359,
+      "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
       "asin": "B0GQJM9NJK",
       "title": "Notebook Gamer Lenovo LOQ E 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-15-6-144Hz/dp/B0GQJM9NJK",
@@ -21508,7 +21574,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Tuq7vSuRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786462932.947145,
       "is_new": false
     },
@@ -21531,24 +21597,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FS2CVM1T",
-      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
-      "current_price": 3299.0,
-      "original_price": 3799.0,
-      "discount": 13.2,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786785127.928131,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
       "asin": "B082FQD17H",
       "title": "Cooktop 4 Bocas de Indução Electrolux Experience com Unicook e Timer (IE60P)",
       "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Electrolux-IE60P-Unicook/dp/B082FQD17H",
@@ -21562,7 +21610,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21580,7 +21628,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91R4evTaGpL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786783777.017112,
       "is_new": false
     },
@@ -21616,8 +21664,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786385523.800129,
+      "is_new": false
+    },
+    {
+      "asin": "B0H5YR57FX",
+      "title": "Bicicleta Ergométrica Elite, Bike Spinning Profissional, 15 KG de Inércia, Com Amortecedor e Até 120 kg",
+      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Spinning-Profissional-Amortecedor/dp/B0H5YR57FX",
+      "current_price": 949.98,
+      "original_price": 1299.9,
+      "discount": 26.9,
+      "difference": 349.92,
+      "criteria": [
+        "R$ 349.92 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Mbkxx8H9L._AC_UL210_SR210,210_.jpg",
+      "category": "[STATIONARY_BICYCLE]",
+      "last_seen": 1786786986.305457,
+      "discovery_ts": 1786786986.305457,
       "is_new": false
     },
     {
@@ -21688,7 +21754,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1786793784.851293,
+      "last_seen": 1786794752.120359,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     },
