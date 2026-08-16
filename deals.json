@@ -1,5 +1,5 @@
 {
-  "last_check": "16/08/2026 10:21:15",
+  "last_check": "16/08/2026 10:47:17",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20992,25 +20992,61 @@
           "date": "2026-08-16T09:38:57.757085"
         }
       ]
+    },
+    "B0FDQHQY7H": {
+      "discovery_date": "2026-08-16T10:47:17.289017",
+      "price_history": [
+        {
+          "price": 5948.0,
+          "date": "2026-08-16T10:47:17.289017"
+        }
+      ]
+    },
+    "B0GBZBWBCK": {
+      "discovery_date": "2026-08-16T10:47:17.289017",
+      "price_history": [
+        {
+          "price": 1709.9,
+          "date": "2026-08-16T10:47:17.289017"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0D3FLB797",
-      "title": "Vespa (Azul) Eletrica 12V Bandeirante",
-      "link": "https://www.amazon.com.br/Vespa-Azul-Eletrica-12V-Bandeirante/dp/B0D3FLB797",
-      "current_price": 1759.2,
-      "original_price": 2199.0,
-      "discount": 20.0,
-      "difference": 439.8,
+      "asin": "B0GBZBWBCK",
+      "title": "Quarto de Bebê Completo com Berço Cômoda e Guarda-roupa Henn Ternura Branco e Jequitibá",
+      "link": "https://www.amazon.com.br/Completo-Guarda-roupa-Henn-Ternura-Jequitib%C3%A1/dp/B0GBZBWBCK",
+      "current_price": 1709.9,
+      "original_price": 2099.9,
+      "discount": 18.6,
+      "difference": 390.0,
       "criteria": [
-        "R$ 439.8 desc."
+        "R$ 390.0 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61pyQNRkD9L._AC_UL210_SR210,210_.jpg",
-      "category": "[RIDE_ON_TOY]",
-      "last_seen": 1786871373.992937,
-      "discovery_ts": 1786869740.864097,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51NxGy0NgEL._AC_UL210_SR210,210_.jpg",
+      "category": "[FURNITURE]",
+      "last_seen": 1786877237.289026,
+      "discovery_ts": 1786877237.289026,
+      "is_new": true
+    },
+    {
+      "asin": "B0FDQHQY7H",
+      "title": "Notebook i7 13 13620H 32GB RAM 1TB SSD MX550 Windows 11 16in",
+      "link": "https://www.amazon.com.br/Notebook-13620H-32GB-MX550-Windows/dp/B0FDQHQY7H",
+      "current_price": 5948.0,
+      "original_price": 6263.0,
+      "discount": 5.0,
+      "difference": 315.0,
+      "criteria": [
+        "R$ 315.0 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xgfHiyNzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786877237.289026,
+      "discovery_ts": 1786877237.289026,
       "is_new": true
     },
     {
@@ -21027,7 +21063,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71s73MoTrvL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786873137.757085,
       "is_new": true
     },
@@ -21107,6 +21143,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FTMWSS5V",
+      "title": "Apple iPhone 13 (128 GB) - Luz das estrelas (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-13-128-Recondicionado/dp/B0FTMWSS5V",
+      "current_price": 2172.98,
+      "original_price": 5499.0,
+      "discount": 60.5,
+      "difference": 3326.02,
+      "criteria": [
+        "60.5% OFF",
+        "R$ 3326.02 desc."
+      ],
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Zbbl4P+LL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786877237.289026,
+      "discovery_ts": 1786563826.252169,
+      "is_new": false
+    },
+    {
       "asin": "B0F9PSCBYV",
       "title": "Monitor Samsung Odyssey G9 49\", DQHD, 144Hz, 1ms, ajuste de altura, FreeSync Premium Pro, DP, HDMI, USB, preto",
       "link": "https://www.amazon.com.br/Monitor-Odyssey-G9-Display-HDR600/dp/B0F9PSCBYV",
@@ -21156,7 +21211,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786866249.862012,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -21210,7 +21265,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786477286.868824,
       "is_new": false
     },
@@ -21264,7 +21319,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -21282,8 +21337,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786447364.656487,
+      "is_new": false
+    },
+    {
+      "asin": "B0B625GC45",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1786877237.289026,
+      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -21302,24 +21375,6 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1786866249.862012,
       "discovery_ts": 1785269176.438674,
-      "is_new": false
-    },
-    {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3499.0,
-      "original_price": 4618.9,
-      "discount": 24.2,
-      "difference": 1119.9,
-      "criteria": [
-        "R$ 1119.9 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786855981.374783,
-      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -21354,7 +21409,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786871373.992937,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21390,7 +21445,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21428,7 +21483,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21446,7 +21501,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -21464,7 +21519,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21536,8 +21591,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786697263.070354,
+      "is_new": false
+    },
+    {
+      "asin": "B0D3FLB797",
+      "title": "Vespa (Azul) Eletrica 12V Bandeirante",
+      "link": "https://www.amazon.com.br/Vespa-Azul-Eletrica-12V-Bandeirante/dp/B0D3FLB797",
+      "current_price": 1759.2,
+      "original_price": 2199.0,
+      "discount": 20.0,
+      "difference": 439.8,
+      "criteria": [
+        "R$ 439.8 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61pyQNRkD9L._AC_UL210_SR210,210_.jpg",
+      "category": "[RIDE_ON_TOY]",
+      "last_seen": 1786871373.992937,
+      "discovery_ts": 1786869740.864097,
       "is_new": false
     },
     {
@@ -21554,7 +21627,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -21590,7 +21663,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -21608,7 +21681,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786875675.236903,
+      "last_seen": 1786877237.289026,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
