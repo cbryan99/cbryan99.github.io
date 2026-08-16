@@ -1,5 +1,5 @@
 {
-  "last_check": "16/08/2026 12:26:59",
+  "last_check": "16/08/2026 13:09:32",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21010,43 +21010,61 @@
           "date": "2026-08-16T10:47:17.289017"
         }
       ]
+    },
+    "B0GP7B99RY": {
+      "discovery_date": "2026-08-16T13:09:31.283717",
+      "price_history": [
+        {
+          "price": 14186.0,
+          "date": "2026-08-16T13:09:31.283717"
+        }
+      ]
+    },
+    "B0H6NPGQ86": {
+      "discovery_date": "2026-08-16T13:09:31.283717",
+      "price_history": [
+        {
+          "price": 3021.11,
+          "date": "2026-08-16T13:09:31.283717"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GBZBWBCK",
-      "title": "Quarto de Bebê Completo com Berço Cômoda e Guarda-roupa Henn Ternura Branco e Jequitibá",
-      "link": "https://www.amazon.com.br/Completo-Guarda-roupa-Henn-Ternura-Jequitib%C3%A1/dp/B0GBZBWBCK",
-      "current_price": 1709.9,
-      "original_price": 2099.9,
-      "discount": 18.6,
-      "difference": 390.0,
+      "asin": "B0GP7B99RY",
+      "title": "Hisense Smart TV 100 Polegadas 100Q7QG QLED 4K UHD com HDR10+ Dolby Vision Game Mode 120Hz Alexa AirPlay Wi-Fi",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-100Q7QG-Vision-AirPlay/dp/B0GP7B99RY",
+      "current_price": 14186.0,
+      "original_price": 14999.0,
+      "discount": 5.4,
+      "difference": 813.0,
       "criteria": [
-        "R$ 390.0 desc."
+        "R$ 813.0 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51NxGy0NgEL._AC_UL210_SR210,210_.jpg",
-      "category": "[FURNITURE]",
-      "last_seen": 1786878115.359024,
-      "discovery_ts": 1786877237.289017,
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mR-VnEDSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786885771.283724,
+      "discovery_ts": 1786885771.283724,
       "is_new": true
     },
     {
-      "asin": "B0FDQHQY7H",
-      "title": "Notebook i7 13 13620H 32GB RAM 1TB SSD MX550 Windows 11 16in",
-      "link": "https://www.amazon.com.br/Notebook-13620H-32GB-MX550-Windows/dp/B0FDQHQY7H",
-      "current_price": 5948.0,
-      "original_price": 6263.0,
-      "discount": 5.0,
-      "difference": 315.0,
+      "asin": "B0H6NPGQ86",
+      "title": "Expositor Refrigerador Vertical Porta de Vidro HQ 320 Litros Cinza HQ-320REVPVX (220, Volts)",
+      "link": "https://www.amazon.com.br/Expositor-Refrigerador-Vertical-HQ-HQ-320REVPVX/dp/B0H6NPGQ86",
+      "current_price": 3021.11,
+      "original_price": 3498.89,
+      "discount": 13.7,
+      "difference": 477.78,
       "criteria": [
-        "R$ 315.0 desc."
+        "R$ 477.78 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xgfHiyNzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
-      "discovery_ts": 1786877237.289017,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41e3DpxknFL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786885771.283724,
+      "discovery_ts": 1786885771.283724,
       "is_new": true
     },
     {
@@ -21083,7 +21101,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21102,7 +21120,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786873137.757092,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786799221.459366,
       "is_new": false
     },
@@ -21120,7 +21138,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ecNFaOQRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786861797.95158,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786646035.165925,
       "is_new": false
     },
@@ -21216,24 +21234,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786861797.95158,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
       "asin": "B0GVT65QTG",
       "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Verde",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVT65QTG",
@@ -21266,7 +21266,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786477286.868824,
       "is_new": false
     },
@@ -21284,8 +21284,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B0GX2MN152",
+      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
+      "current_price": 5599.0,
+      "original_price": 6999.0,
+      "discount": 20.0,
+      "difference": 1400.0,
+      "criteria": [
+        "R$ 1400.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1786885771.283724,
+      "discovery_ts": 1784929622.888228,
       "is_new": false
     },
     {
@@ -21302,7 +21320,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -21320,7 +21338,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -21338,7 +21356,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21356,7 +21374,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514T7uXr1oL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -21410,7 +21428,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786542030.20045,
       "is_new": false
     },
@@ -21428,7 +21446,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21446,7 +21464,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21484,7 +21502,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21520,7 +21538,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21543,24 +21561,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GQJM9NJK",
-      "title": "Notebook Gamer Lenovo LOQ E 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-15-6-144Hz/dp/B0GQJM9NJK",
-      "current_price": 5099.0,
-      "original_price": 5599.0,
-      "discount": 8.9,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Tuq7vSuRL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786883219.817993,
-      "discovery_ts": 1786462932.947145,
-      "is_new": false
-    },
-    {
       "asin": "B0FS2CVM1T",
       "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
@@ -21574,8 +21574,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786869740.864104,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQJM9NJK",
+      "title": "Notebook Gamer Lenovo LOQ E 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-15-6-144Hz/dp/B0GQJM9NJK",
+      "current_price": 5099.0,
+      "original_price": 5599.0,
+      "discount": 8.9,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Tuq7vSuRL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786885771.283724,
+      "discovery_ts": 1786462932.947145,
       "is_new": false
     },
     {
@@ -21592,7 +21610,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21610,7 +21628,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786883219.817993,
+      "last_seen": 1786885771.283724,
       "discovery_ts": 1786395411.117679,
       "is_new": false
     },
@@ -21633,6 +21651,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GBZBWBCK",
+      "title": "Quarto de Bebê Completo com Berço Cômoda e Guarda-roupa Henn Ternura Branco e Jequitibá",
+      "link": "https://www.amazon.com.br/Completo-Guarda-roupa-Henn-Ternura-Jequitib%C3%A1/dp/B0GBZBWBCK",
+      "current_price": 1709.9,
+      "original_price": 2099.9,
+      "discount": 18.6,
+      "difference": 390.0,
+      "criteria": [
+        "R$ 390.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51NxGy0NgEL._AC_UL210_SR210,210_.jpg",
+      "category": "[FURNITURE]",
+      "last_seen": 1786878115.359024,
+      "discovery_ts": 1786877237.289017,
+      "is_new": false
+    },
+    {
       "asin": "B0H2MZ1YK1",
       "title": "Bundle Nintendo Switch 2: Escolha Seu Jogo - Modelo Nacional de Tomada",
       "link": "https://www.amazon.com.br/Bundle-Nintendo-Switch-Escolha-Nacional/dp/B0H2MZ1YK1",
@@ -21648,6 +21684,24 @@
       "category": "[VIDEO_GAME_CONSOLE]",
       "last_seen": 1786883219.817993,
       "discovery_ts": 1786385523.800129,
+      "is_new": false
+    },
+    {
+      "asin": "B0FDQHQY7H",
+      "title": "Notebook i7 13 13620H 32GB RAM 1TB SSD MX550 Windows 11 16in",
+      "link": "https://www.amazon.com.br/Notebook-13620H-32GB-MX550-Windows/dp/B0FDQHQY7H",
+      "current_price": 5948.0,
+      "original_price": 6263.0,
+      "discount": 5.0,
+      "difference": 315.0,
+      "criteria": [
+        "R$ 315.0 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xgfHiyNzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1786883219.817993,
+      "discovery_ts": 1786877237.289017,
       "is_new": false
     },
     {
