@@ -1,5 +1,5 @@
 {
-  "last_check": "16/08/2026 08:02:07",
+  "last_check": "16/08/2026 08:42:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20680,6 +20680,10 @@
         {
           "price": 2579.02,
           "date": "2026-08-14T08:47:43.070354"
+        },
+        {
+          "price": 2582.57,
+          "date": "2026-08-16T08:42:20.864097"
         }
       ]
     },
@@ -20970,6 +20974,15 @@
           "date": "2026-08-16T08:02:07.290433"
         }
       ]
+    },
+    "B0D3FLB797": {
+      "discovery_date": "2026-08-16T08:42:20.864097",
+      "price_history": [
+        {
+          "price": 1759.2,
+          "date": "2026-08-16T08:42:20.864097"
+        }
+      ]
     }
   },
   "data": [
@@ -20987,8 +21000,26 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1786867327.290441,
-      "discovery_ts": 1786867327.290441,
+      "last_seen": 1786869740.864104,
+      "discovery_ts": 1786867327.290433,
+      "is_new": true
+    },
+    {
+      "asin": "B0D3FLB797",
+      "title": "Vespa (Azul) Eletrica 12V Bandeirante",
+      "link": "https://www.amazon.com.br/Vespa-Azul-Eletrica-12V-Bandeirante/dp/B0D3FLB797",
+      "current_price": 1759.2,
+      "original_price": 2199.0,
+      "discount": 20.0,
+      "difference": 439.8,
+      "criteria": [
+        "R$ 439.8 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61pyQNRkD9L._AC_UL210_SR210,210_.jpg",
+      "category": "[RIDE_ON_TOY]",
+      "last_seen": 1786869740.864104,
+      "discovery_ts": 1786869740.864104,
       "is_new": true
     },
     {
@@ -21025,7 +21056,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786799221.459366,
       "is_new": false
     },
@@ -21044,7 +21075,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786799221.459366,
       "is_new": false
     },
@@ -21117,7 +21148,7 @@
       "badge": "35% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/410V+8kXYYL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -21207,7 +21238,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51G6kqI5BQL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786477286.868824,
       "is_new": false
     },
@@ -21279,7 +21310,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dBND271dL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -21297,7 +21328,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51rPU0jDc0L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786447364.656487,
       "is_new": false
     },
@@ -21369,7 +21400,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21405,7 +21436,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786864210.344733,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21443,7 +21474,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21461,7 +21492,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21479,7 +21510,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61cwywLZR-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786603677.200311,
       "is_new": false
     },
@@ -21497,7 +21528,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -21523,17 +21554,17 @@
       "asin": "B082FQD17H",
       "title": "Cooktop 4 Bocas de Indução Electrolux Experience com Unicook e Timer (IE60P)",
       "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Electrolux-IE60P-Unicook/dp/B082FQD17H",
-      "current_price": 2579.02,
+      "current_price": 2582.57,
       "original_price": 3079.0,
-      "discount": 16.2,
-      "difference": 499.98,
+      "discount": 16.1,
+      "difference": 496.43,
       "criteria": [
-        "R$ 499.98 desc."
+        "R$ 496.43 desc."
       ],
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786857739.302025,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21556,6 +21587,24 @@
       "is_new": false
     },
     {
+      "asin": "B0051LRFB0",
+      "title": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+      "link": "https://www.amazon.com.br/Run-Bacardi-Anos-750Ml-Sabor/dp/B0051LRFB0",
+      "current_price": 119.9,
+      "original_price": 243.9,
+      "discount": 50.8,
+      "difference": 124.0,
+      "criteria": [
+        "50.8% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TOSd1e4qL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1786869740.864104,
+      "discovery_ts": 1786542030.20045,
+      "is_new": false
+    },
+    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -21569,7 +21618,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786867327.290441,
+      "last_seen": 1786869740.864104,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     }
