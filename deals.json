@@ -1,5 +1,5 @@
 {
-  "last_check": "17/08/2026 21:04:50",
+  "last_check": "17/08/2026 21:35:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21143,6 +21143,15 @@
           "date": "2026-08-17T21:04:50.318426"
         }
       ]
+    },
+    "B0BFSYQHCX": {
+      "discovery_date": "2026-08-17T21:35:43.355604",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-08-17T21:35:43.355604"
+        }
+      ]
     }
   },
   "data": [
@@ -21160,7 +21169,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786997386.722254,
       "is_new": true
     },
@@ -21178,8 +21187,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6157Cv5UEZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
-      "discovery_ts": 1787000690.318434,
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1787000690.318426,
+      "is_new": true
+    },
+    {
+      "asin": "B0BFSYQHCX",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSYQHCX",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1787002543.355612,
       "is_new": true
     },
     {
@@ -21237,9 +21264,9 @@
       "is_new": true
     },
     {
-      "asin": "B0DJFS7GXV",
-      "title": "Apple iPhone 16 (512 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
+      "asin": "B0DJFVHRQF",
+      "title": "Apple iPhone 16 (512 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFVHRQF",
       "current_price": 5799.0,
       "original_price": 10099.0,
       "discount": 42.6,
@@ -21249,10 +21276,10 @@
         "R$ 4300.0 desc."
       ],
       "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
-      "discovery_ts": 1786559638.816864,
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1786792439.15564,
       "is_new": false
     },
     {
@@ -21270,8 +21297,27 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786799221.459366,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFS7GXV",
+      "title": "Apple iPhone 16 (512 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
+      "current_price": 5799.0,
+      "original_price": 10099.0,
+      "discount": 42.6,
+      "difference": 4300.0,
+      "criteria": [
+        "42.6% OFF",
+        "R$ 4300.0 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1786559638.816864,
       "is_new": false
     },
     {
@@ -21293,6 +21339,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3399.0,
+      "original_price": 5499.0,
+      "discount": 38.2,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
       "asin": "B0F8KVQZQX",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
@@ -21311,21 +21375,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3399.0,
-      "original_price": 5499.0,
-      "discount": 38.2,
-      "difference": 2100.0,
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
       "criteria": [
-        "R$ 2100.0 desc."
+        "R$ 1750.0 desc."
       ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
-      "discovery_ts": 1785712474.49735,
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
@@ -21344,24 +21408,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787000690.318434,
       "discovery_ts": 1786425512.309444,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
-      "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
@@ -21396,7 +21442,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VTZ8N0FYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -21432,7 +21478,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21450,7 +21496,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21469,7 +21515,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21505,7 +21551,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -21523,7 +21569,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -21541,7 +21587,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21577,7 +21623,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -21649,7 +21695,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21667,7 +21713,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21685,7 +21731,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787000690.318434,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21703,8 +21749,26 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786981708.781958,
+      "last_seen": 1787002543.355612,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B09GHN14FP",
+      "title": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/DANOS-VORAZES-REPARADOR-Lola-Cosmetics/dp/B09GHN14FP",
+      "current_price": 19.93,
+      "original_price": 44.9,
+      "discount": 55.6,
+      "difference": 24.97,
+      "criteria": [
+        "55.6% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787002543.355612,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
