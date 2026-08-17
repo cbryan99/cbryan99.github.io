@@ -1,5 +1,5 @@
 {
-  "last_check": "17/08/2026 09:37:32",
+  "last_check": "17/08/2026 10:08:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21067,9 +21067,37 @@
           "date": "2026-08-17T08:56:15.322591"
         }
       ]
+    },
+    "B01N4V94GX": {
+      "discovery_date": "2026-08-17T10:08:25.349894",
+      "price_history": [
+        {
+          "price": 719.9,
+          "date": "2026-08-17T10:08:25.349894"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B01N4V94GX",
+      "title": "Samsonite Mala de Viagem Octolite Branca Pequena",
+      "link": "https://www.amazon.com.br/Mala-Viagem-Samsonite-Octolite-Branca/dp/B01N4V94GX",
+      "current_price": 719.9,
+      "original_price": 1300.0,
+      "discount": 44.6,
+      "difference": 580.1,
+      "criteria": [
+        "44.6% OFF",
+        "R$ 580.1 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419an8Q88dL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUITCASE]",
+      "last_seen": 1786961305.349901,
+      "discovery_ts": 1786961305.349901,
+      "is_new": true
+    },
     {
       "asin": "B0B4PZL68N",
       "title": "Midea Panela de Pressão Elétrica 6L com 12 receitas pré-programadas, 3 níveis de pressão e display digital, silenciosa e segura com 10 recursos de segurança, 127V",
@@ -21085,7 +21113,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51sNWqooJkL._AC_UL210_SR210,210_.jpg",
       "category": "[PRESSURE_COOKER]",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786956975.322591,
       "is_new": true
     },
@@ -21104,7 +21132,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786950745.975541,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21122,7 +21150,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41iBy6do6ZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786661270.6714,
       "is_new": false
     },
@@ -21159,7 +21187,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -21231,7 +21259,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21249,7 +21277,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21268,7 +21296,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21286,7 +21314,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -21395,7 +21423,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786944590.050834,
       "is_new": false
     },
@@ -21413,7 +21441,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -21431,7 +21459,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21449,7 +21477,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21521,7 +21549,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61MNgKAQcrL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1786959451.550843,
+      "last_seen": 1786961305.349901,
       "discovery_ts": 1785050714.261271,
       "is_new": false
     }
