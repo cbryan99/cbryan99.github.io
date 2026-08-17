@@ -1,720 +1,404 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-    <title>PagaMeno$ | Monitor de Ofertas Amazon & ML</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        brand: {
-                            dark: '#0a0a0a',
-                            card: '#141414',
-                            border: '#262626',
-                            yellow: '#d9ed92',
-                            'yellow-dim': '#ca8a04',
-                            gold: '#ffd700',
-                            surface: '#1a1a1a',
-                            accent: '#eab308'
-                        }
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-                    },
-                    animation: {
-                        'fade-in': 'fadeIn 0.4s ease-out forwards',
-                        'shimmer': 'shimmer 2s linear infinite',
-                    },
-                    keyframes: {
-                        fadeIn: {
-                            '0%': { opacity: '0', transform: 'translateY(12px)' },
-                            '100%': { opacity: '1', transform: 'translateY(0)' },
-                        },
-                        shimmer: {
-                            '0%': { backgroundPosition: '-1000px 0' },
-                            '100%': { backgroundPosition: '1000px 0' },
-                        }
-                    }
-                }
-            }
-        }
-    </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #0a0a0a;
-            color: #e5e5e5;
-        }
-        ::-webkit-scrollbar { width: 6px; height: 6px; }
-        ::-webkit-scrollbar-track { background: #0a0a0a; }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #444; }
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>PagaMeno$ — Entre no Grupo</title>
+<link rel="icon" type="image/png" href="pagamenos-logo.png" />
+<link rel="apple-touch-icon" href="pagamenos-logo.png" />
 
-        .card-hover {
-            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        .card-hover:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 20px 40px -12px rgba(250, 204, 21, 0.08);
-            border-color: rgba(250, 204, 21, 0.35);
-        }
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Lilita+One&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-dark:#1f232a;
+    --bg-darker:#15181d;
+    --green:#3ddc84;
+    --green-dark:#1f9b54;
+    --gold:#ffd23f;
+    --gold-dark:#d9a517;
+  }
 
-        .btn-amazon {
-            background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
-            border: 1px solid #374151;
-            color: #f3f4f6;
-        }
-        .btn-amazon:hover {
-            background: linear-gradient(135deg, #facc15 0%, #eab308 100%);
-            border-color: #facc15;
-            color: #0a0a0a;
-        }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
 
-        .btn-ml {
-            background: linear-gradient(135deg, #fff159 0%, #ffe600 100%);
-            border: 1px solid #ffe600;
-            color: #2d3277;
-        }
-        .btn-ml:hover {
-            background: linear-gradient(135deg, #ffe600 0%, #ffd100 100%);
-            box-shadow: 0 0 15px rgba(255, 230, 0, 0.3);
-            transform: translateY(-1px);
-        }
+  body{
+    font-family:'Fredoka', sans-serif;
+    background:
+      radial-gradient(circle at 20% 10%, rgba(61,220,132,0.12), transparent 40%),
+      radial-gradient(circle at 80% 90%, rgba(255,210,63,0.12), transparent 45%),
+      linear-gradient(180deg,#1f232a 0%, #15181d 100%);
+    color:#fff;
+    min-height:100vh;
+    overflow-x:hidden;
+    position:relative;
+  }
 
-        .discount-badge {
-            background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
-            box-shadow: 0 4px 12px rgba(220, 38, 38, 0.4);
-        }
+  #money-layer{
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    z-index:0;
+    overflow:hidden;
+  }
 
-        .best-deal-card {
-            background: linear-gradient(145deg, #1a1500 0%, #141414 100%);
-            border: 1px solid rgba(250, 204, 21, 0.25);
-        }
-        .best-deal-card:hover {
-            border-color: rgba(250, 204, 21, 0.6);
-            box-shadow: 0 12px 32px -8px rgba(250, 204, 21, 0.15);
-        }
+  .money-item, .money-bill {
+    position: absolute;
+    will-change: transform, opacity;
+    user-select: none;
+  }
 
-        .skeleton {
-            background: linear-gradient(90deg, #1a1a1a 25%, #262626 50%, #1a1a1a 75%);
-            background-size: 1000px 100%;
-            animation: shimmer 2s infinite linear;
-        }
+  .money-bill{
+    width: 80px;
+    height: 46px;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #3ddc84 0%, #2bb56b 50%, #1f9b54 100%);
+    border: 2px solid #0a3a1f;
+    box-shadow:
+      inset 0 0 0 2px rgba(255,255,255,0.25),
+      0 6px 14px rgba(0,0,0,0.4);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+    font-family:'Lilita One', sans-serif;
+    font-size: 22px;
+    text-shadow: 1px 1px 0 #0a3a1f;
+  }
+  .money-bill::before, .money-bill::after{
+    content:"";
+    position:absolute;
+    width:8px; height:8px;
+    border-radius:50%;
+    background:#15181d;
+    border:2px solid #0a3a1f;
+  }
+  .money-bill::before{ left:5px; top:50%; transform:translateY(-50%); }
+  .money-bill::after{ right:5px; top:50%; transform:translateY(-50%); }
 
-        .glass-bar {
-            background: rgba(10, 10, 10, 0.92);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border-bottom: 1px solid rgba(255,255,255,0.05);
-        }
+  .money-bill.gold{
+    background: linear-gradient(135deg, #ffe066 0%, #ffd23f 50%, #d9a517 100%);
+    border-color:#5c4408;
+    color:#5c4408;
+    text-shadow: 1px 1px 0 #ffe066;
+  }
+  .money-bill.gold::before, .money-bill.gold::after{
+    background:#5c4408;
+    border-color:#5c4408;
+  }
 
-        .store-filter.active {
-            background: rgba(250, 204, 21, 0.15);
-            border-color: rgba(250, 204, 21, 0.5);
-            color: #facc15;
-        }
+  .dollar-sign{
+    font-family:'Lilita One', sans-serif;
+    font-weight: 900;
+    color: var(--gold);
+    text-shadow:
+      2px 2px 0 #5c4408,
+      -1px -1px 0 rgba(255,255,255,0.2);
+    line-height:1;
+  }
 
-        .snap-x {
-            scroll-snap-type: x mandatory;
-            -webkit-overflow-scrolling: touch;
-        }
-        .snap-start {
-            scroll-snap-align: start;
-        }
-        .hide-scroll::-webkit-scrollbar { display: none; }
-        .hide-scroll { -ms-overflow-style: none; scrollbar-width: none; }
+  .stage{
+    position:relative;
+    z-index: 10;
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding: 40px 20px;
+  }
 
-        select {
-            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
-            background-position: right 0.5rem center;
-            background-repeat: no-repeat;
-            background-size: 1.5em 1.5em;
-            padding-right: 2.5rem;
-            -webkit-appearance: none;
-            appearance: none;
-        }
-    </style>
+  .glass-card{
+    background: rgba(33, 38, 46, 0.72);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow:
+      0 20px 60px rgba(0,0,0,0.5),
+      inset 0 1px 0 rgba(255,255,255,0.06);
+  }
+
+  .logo-wrapper{
+    position:relative;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    animation: logoBob 4s ease-in-out infinite;
+  }
+
+  .logo-glow{
+    position:absolute;
+    inset: -20px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(61,220,132,0.3) 0%, rgba(255,210,63,0.15) 40%, transparent 70%);
+    filter: blur(24px);
+    z-index: -1;
+    animation: glowPulse 3s ease-in-out infinite alternate;
+  }
+
+  @keyframes glowPulse{
+    0%{ opacity: 0.6; transform: scale(0.9); }
+    100%{ opacity: 1; transform: scale(1.1); }
+  }
+  @keyframes logoBob{
+    0%,100%{ transform: translateY(0); }
+    50%{ transform: translateY(-8px); }
+  }
+
+  .text-logo-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(-3deg);
+    filter: drop-shadow(0 6px 2px rgba(0, 0, 0, 0.6));
+    user-select: none;
+    margin-top: 10px;
+  }
+
+  /*
+    Fix 1: Textura Papel Moeda.
+    Blend-mode multiply mescla o fractal base64 com o verde.
+  */
+  .logo-paga {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 4.5rem;
+    line-height: 1;
+    padding-bottom: 8px;
+    margin-bottom: -32px;
+    background-image:
+      url("data:image/svg+xml;utf8,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.35'/%3E%3C/svg%3E"),
+      linear-gradient(180deg, #3ddc84 0%, #1f9b54 100%);
+    background-blend-mode: multiply; /* O segredo que faltava pra mesclar */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px #0a3a1f;
+    letter-spacing: 2px;
+    margin-left: -20px;
+    z-index: 2;
+  }
+
+  /*
+    Fix 2: Reflexo de Ouro
+    Curva de aceleração brusca (cubic-bezier) com gradiente mais fechado.
+  */
+  .logo-menos {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 5.5rem;
+    line-height: 0.85;
+    background: linear-gradient(-60deg, #ffd23f 35%, #ffffff 45%, #ffd23f 55%, #d9a517 100%);
+    background-size: 300% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px #5c4408;
+    animation: goldShimmer 5s cubic-bezier(0.25, 1, 0.5, 1) infinite;
+    z-index: 3;
+  }
+
+  /* Animação que dá o flash rápido e resfria */
+  @keyframes goldShimmer {
+    0% { background-position: 150% center; }
+    20% { background-position: -50% center; }
+    100% { background-position: -50% center; }
+  }
+
+  .invite-title{
+    font-family:'Lilita One', sans-serif;
+    background: linear-gradient(180deg, #ffffff 0%, #ffd23f 100%);
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+    letter-spacing: 1px;
+  }
+
+  .cta-btn{
+    position:relative;
+    overflow:hidden;
+    transition: transform .25s cubic-bezier(.34,1.56,.64,1), box-shadow .25s ease;
+    border-radius: 18px;
+    font-family:'Lilita One', sans-serif;
+    letter-spacing: 0.5px;
+  }
+  .cta-btn:hover{ transform: translateY(-4px) scale(1.02); }
+  .cta-btn:active{ transform: translateY(-1px) scale(0.99); }
+
+  .cta-telegram{
+    background: linear-gradient(135deg, #2aabee 0%, #229ed9 60%, #1c7bb8 100%);
+    box-shadow: 0 10px 30px rgba(42,171,238,0.4), inset 0 1px 0 rgba(255,255,255,0.25), inset 0 -3px 0 rgba(0,0,0,0.2);
+    border: 2px solid #1c7bb8;
+  }
+  .cta-telegram:hover{ box-shadow: 0 16px 40px rgba(42,171,238,0.55), inset 0 1px 0 rgba(255,255,255,0.3), inset 0 -3px 0 rgba(0,0,0,0.2); }
+
+  .cta-whatsapp{
+    background: linear-gradient(135deg, #4ff07a 0%, #25d366 60%, #128c47 100%);
+    box-shadow: 0 10px 30px rgba(37,211,102,0.4), inset 0 1px 0 rgba(255,255,255,0.3), inset 0 -3px 0 rgba(0,0,0,0.2);
+    border: 2px solid #128c47;
+  }
+  .cta-whatsapp:hover{ box-shadow: 0 16px 40px rgba(37,211,102,0.55), inset 0 1px 0 rgba(255,255,255,0.3), inset 0 -3px 0 rgba(0,0,0,0.2); }
+
+  .cta-btn::after{
+    content:"";
+    position:absolute;
+    top:0; left:-150%;
+    width:60%; height:100%;
+    background: linear-gradient(120deg, transparent, rgba(255,255,255,0.35), transparent);
+    transform: skewX(-20deg);
+    animation: shine 3.5s ease-in-out infinite;
+  }
+  @keyframes shine{
+    0%{ left:-150%; }
+    60%{ left:150%; }
+    100%{ left:150%; }
+  }
+
+  .divider-star{ color: var(--gold); text-shadow: 0 0 8px rgba(255,210,63,0.5); }
+  .money-bill.small{ width:50px; height:28px; font-size:14px; }
+  .money-bill.medium{ width:80px; height:46px; font-size:22px; }
+  .money-bill.large{ width:110px; height:62px; font-size:30px; }
+
+  @media (prefers-reduced-motion: reduce){
+    .logo-wrapper, .logo-glow, .cta-btn::after, .logo-menos { animation: none; }
+  }
+
+  .sparkle{
+    position:absolute;
+    color: var(--white);
+    font-size: 14px;
+    animation: twinkle 2s ease-in-out infinite;
+    z-index: 4;
+    text-shadow: 0 0 6px rgba(255,255,255,0.8);
+  }
+  @keyframes twinkle{
+    0%,100%{ opacity:0.2; transform:scale(0.6) rotate(0deg); }
+    50%{ opacity:1; transform:scale(1.2) rotate(15deg); }
+  }
+</style>
 </head>
-<body class="min-h-screen antialiased selection:bg-brand-yellow selection:text-black">
+<body>
 
-    <!-- Sticky Header -->
-    <header class="sticky top-0 z-50 glass-bar">
-        <div class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between py-3 sm:py-4 gap-3">
-                <!-- Logo -->
-                <div class="flex items-center gap-2 min-w-0">
-                    <h1 class="text-2xl sm:text-3xl font-black tracking-tight leading-none whitespace-nowrap">
-                        <span class="text-brand-yellow">Paga</span><span class="text-brand-gold">Meno$</span>
-                    </h1>
-                </div>
+  <div id="money-layer" aria-hidden="true"></div>
 
-                <!-- Right Controls -->
-                <div class="flex items-center gap-2 sm:gap-3 shrink-0">
-                    <button id="btn-notification" class="hidden items-center gap-1.5 px-2.5 sm:px-3 py-2 rounded-lg bg-neutral-900 border border-neutral-800 text-[11px] sm:text-xs font-medium text-neutral-400 hover:bg-neutral-800 transition-colors">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"></path></svg>
-                        <span class="hidden sm:inline">Notificações</span>
-                    </button>
+  <main class="stage">
+    <div class="logo-wrapper mb-6 mt-4">
+      <div class="logo-glow"></div>
 
-                    <div class="flex items-center gap-2 bg-neutral-900 rounded-lg px-2.5 sm:px-3 py-1.5 border border-neutral-800">
-                        <div class="text-right hidden sm:block">
-                            <div id="label-last-check" class="text-[10px] text-neutral-500 font-mono">Carregando...</div>
-                            <div class="flex items-center justify-end gap-1">
-                                <span class="relative flex h-1.5 w-1.5">
-                                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-yellow opacity-75"></span>
-                                    <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-brand-yellow"></span>
-                                </span>
-                                <span id="label-timer" class="text-[11px] text-brand-yellow font-mono font-bold">10:00</span>
-                            </div>
-                        </div>
-                        <button id="btn-refresh" class="group relative flex items-center justify-center w-8 h-8 rounded-md bg-brand-yellow text-black hover:bg-brand-yellow/90 transition-all active:scale-95">
-                            <svg id="spinner" class="hidden animate-spin w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                            </svg>
-                            <svg id="refresh-icon" class="w-4 h-4 group-hover:rotate-180 transition-transform duration-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+      <div class="text-logo-container">
+        <span class="sparkle" style="top:-5px; right:15px; animation-delay:0s; font-size:24px;">✦</span>
+        <span class="sparkle" style="bottom:15px; left:-25px; animation-delay:0.6s; font-size:18px;">✦</span>
+        <span class="sparkle" style="top:40%; right:-30px; animation-delay:1.2s; font-size:14px;">✦</span>
 
-    <!-- Filters Bar -->
-    <div class="border-b border-neutral-800 bg-neutral-900/30">
-        <div class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-3 sm:py-4">
-            <div class="flex flex-col xl:flex-row gap-3 items-stretch xl:items-center justify-between">
-
-                <!-- Search -->
-                <div class="relative flex-1 max-w-xl">
-                    <svg class="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-                    <input type="text" id="search-input" placeholder="Buscar produtos, categorias..." 
-                        class="w-full pl-9 pr-4 py-2 bg-neutral-900 border border-neutral-800 rounded-xl text-sm text-neutral-200 placeholder-neutral-600 focus:outline-none focus:border-brand-yellow/50 focus:ring-1 focus:ring-brand-yellow/20 transition-all">
-                </div>
-
-                <!-- Filters Group -->
-                <div class="flex flex-wrap items-center gap-2 sm:gap-3">
-                    <!-- Store Toggles -->
-                    <div class="flex items-center bg-neutral-900 rounded-lg p-0.5 border border-neutral-800">
-                        <button data-store="all" class="store-filter active px-2.5 sm:px-3 py-1.5 rounded-md text-[11px] sm:text-xs font-semibold text-neutral-400 transition-all">Todas</button>
-                        <button data-store="amazon" class="store-filter px-2.5 sm:px-3 py-1.5 rounded-md text-[11px] sm:text-xs font-semibold text-neutral-400 transition-all flex items-center gap-1">
-                            <span class="w-1.5 h-1.5 rounded-full bg-neutral-500"></span> Amazon
-                        </button>
-                        <button data-store="ml" class="store-filter px-2.5 sm:px-3 py-1.5 rounded-md text-[11px] sm:text-xs font-semibold text-neutral-400 transition-all flex items-center gap-1">
-                            <span class="w-1.5 h-1.5 rounded-full bg-neutral-500"></span> ML
-                        </button>
-                    </div>
-
-                    <!-- Category Filter -->
-                    <div class="relative">
-                        <select id="category-select" class="bg-neutral-900 border border-neutral-800 text-neutral-300 text-[11px] sm:text-xs font-semibold rounded-lg pl-2.5 sm:pl-3 pr-7 sm:pr-8 py-2 focus:outline-none focus:border-brand-yellow/50 cursor-pointer hover:bg-neutral-800 transition-colors min-w-[140px] sm:min-w-[160px]">
-                            <option value="all">Todas Categorias</option>
-                            <option value="💻 Eletrônicos & Informática">💻 Eletrônicos</option>
-                            <option value="❄️ Eletrodomésticos & Casa">❄️ Eletrodomésticos</option>
-                            <option value="👕 Moda & Acessórios">👕 Moda</option>
-                            <option value="🧴 Beleza & Cuidado Pessoal">🧴 Beleza</option>
-                            <option value="🎮 Games & Lazer">🎮 Games</option>
-                            <option value="🛒 Supermercado & Bebidas">🛒 Mercado</option>
-                            <option value="⚽ Esportes & Saúde">⚽ Esportes</option>
-                            <option value="🧸 Bebês & Brinquedos">🧸 Bebês</option>
-                        </select>
-                    </div>
-
-                    <!-- Sort -->
-                    <div class="relative">
-                        <select id="sort-select" class="bg-neutral-900 border border-neutral-800 text-neutral-300 text-[11px] sm:text-xs font-semibold rounded-lg pl-2.5 sm:pl-3 pr-7 sm:pr-8 py-2 focus:outline-none focus:border-brand-yellow/50 cursor-pointer hover:bg-neutral-800 transition-colors">
-                            <option value="recent">Mais Recentes</option>
-                            <option value="price_asc">Menor Preço</option>
-                            <option value="price_desc">Maior Preço</option>
-                            <option value="discount_desc">Maior Desconto</option>
-                        </select>
-                    </div>
-
-                    <!-- Counter -->
-                    <div class="hidden sm:flex items-center px-2.5 py-2 bg-neutral-900 border border-neutral-800 rounded-lg">
-                        <span id="item-counter" class="text-xs font-bold text-brand-yellow">0</span>
-                        <span class="text-xs text-neutral-500 ml-1">ofertas</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <span class="logo-paga">Paga</span>
+        <span class="logo-menos">Meno$</span>
+      </div>
     </div>
 
-    <!-- Main Content -->
-    <main class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-4 sm:py-6">
+    <section class="glass-card rounded-3xl px-6 py-8 sm:px-10 sm:py-10 max-w-md w-full text-center">
+      <h1 class="invite-title text-3xl sm:text-4xl mb-2 mt-2">Bora economizar?</h1>
+      <p class="text-[#cfd6df] text-sm sm:text-base mb-7">
+        Entre nos grupos oficiais e receba sinais todos os dias e toda hora.
+      </p>
 
-        <!-- Mobile Timer & Counter -->
-        <div class="sm:hidden flex items-center justify-between mb-3 text-[11px] text-neutral-500 font-mono">
-            <span id="label-last-check-mobile">Carregando...</span>
-            <div class="flex items-center gap-2">
-                <span id="item-counter-mobile" class="text-brand-yellow font-bold">0 ofertas</span>
-                <span class="text-brand-yellow font-bold" id="label-timer-mobile">10:00</span>
-            </div>
-        </div>
+      <div class="flex items-center gap-3 my-6 opacity-70">
+        <span class="flex-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent"></span>
+        <span class="divider-star">★</span>
+        <span class="flex-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent"></span>
+      </div>
 
-        <!-- Active Filters Tags -->
-        <div id="active-filters" class="hidden flex-wrap gap-2 mb-4"></div>
+      <div id="cta-container" class="flex flex-col gap-4">
+        <a href="https://t.me/pagamenos_promo" target="_blank" rel="noopener noreferrer"
+           class="cta-btn cta-telegram flex items-center justify-center gap-3 px-6 py-4 text-white text-lg">
+          <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" aria-hidden="true">
+            <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
+          </svg>
+          <span>Entrar no Telegram</span>
+        </a>
 
-        <!-- Best Deals Carousel (>50% off) -->
-        <div id="best-deals-section" class="mb-6 sm:mb-8">
-            <div class="flex items-center gap-2 mb-3">
-                <svg class="w-4 h-4 text-brand-yellow" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
-                <h2 class="text-sm sm:text-base font-bold text-brand-yellow tracking-tight">Melhores Ofertas</h2>
-                <span class="text-[10px] text-neutral-500 bg-neutral-900 border border-neutral-800 px-1.5 py-0.5 rounded-full">+50% OFF</span>
-            </div>
+        <a href="https://chat.whatsapp.com/HKaPfEzHQlL29ht6Ks3RHW" target="_blank" rel="noopener noreferrer"
+           class="cta-btn cta-whatsapp flex items-center justify-center gap-3 px-6 py-4 text-white text-lg">
+          <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" aria-hidden="true">
+            <path d="M17.47 14.38c-.3-.15-1.74-.86-2-.96-.27-.1-.47-.15-.66.15-.2.3-.76.96-.94 1.16-.17.2-.35.22-.64.07-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.05-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.53.15-.18.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.66-1.6-.9-2.18-.24-.58-.48-.5-.66-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.48 0 1.46 1.07 2.87 1.22 3.07.15.2 2.1 3.2 5.08 4.48.71.31 1.26.49 1.7.63.71.23 1.36.2 1.87.12.57-.09 1.74-.71 1.98-1.4.25-.69.25-1.28.17-1.4-.07-.13-.27-.2-.57-.35zM12 2a10 10 0 0 0-8.6 15.04L2 22l5.06-1.32A10 10 0 1 0 12 2zm0 18.13a8.13 8.13 0 0 1-4.14-1.13l-.3-.18-3 .78.8-2.93-.2-.3A8.13 8.13 0 1 1 12 20.13z"/>
+          </svg>
+          <span>Entrar no WhatsApp</span>
+        </a>
+      </div>
+    </section>
+  </main>
 
-            <div id="best-deals-carousel" class="flex gap-3 overflow-x-auto snap-x hide-scroll pb-2 -mx-3 px-3 sm:-mx-0 sm:px-0">
-                <!-- Best deals injected via JS -->
-            </div>
-        </div>
+<script>
+  const layer = document.getElementById('money-layer');
+  const sizes = ['small', 'medium', 'large'];
 
-        <!-- Regular Grid -->
-        <div class="flex items-center gap-2 mb-3">
-            <h2 class="text-sm sm:text-base font-bold text-neutral-300 tracking-tight">Todas as Ofertas</h2>
-            <span class="h-px flex-1 bg-neutral-800"></span>
-        </div>
+  function createItem(type, isInitial = false){
+    const el = document.createElement('div');
 
-        <div id="grid-container" class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5"></div>
+    const startX = Math.random() * window.innerWidth;
+    const startY = isInitial
+      ? (Math.random() * window.innerHeight)
+      : (window.innerHeight + 60);
 
-        <!-- Empty State -->
-        <div id="empty-state" class="hidden flex flex-col items-center justify-center py-16 sm:py-20 text-center">
-            <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-full bg-neutral-900 border border-neutral-800 flex items-center justify-center mb-4">
-                <svg class="w-6 h-6 sm:w-8 sm:h-8 text-neutral-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-            </div>
-            <h3 class="text-base sm:text-lg font-semibold text-neutral-300 mb-1">Nenhuma oferta encontrada</h3>
-            <p class="text-xs sm:text-sm text-neutral-500 max-w-xs">Tente ajustar os filtros ou aguarde a próxima atualização automática.</p>
-        </div>
+    const endRot = (Math.random() * 720 + 360) + 'deg';
+    const maxOpacity = type === 'bill' ? (0.5 + Math.random() * 0.35) : (0.3 + Math.random() * 0.4);
 
-        <!-- Skeleton Loader -->
-        <div id="skeleton-loader" class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5">
-            <script>
-                document.write(Array(8).fill(0).map(() => `
-                    <div class="bg-brand-card border border-brand-border rounded-2xl overflow-hidden">
-                        <div class="aspect-square sm:aspect-[4/3] skeleton"></div>
-                        <div class="p-3 sm:p-4 space-y-3">
-                            <div class="h-3 w-1/3 skeleton rounded"></div>
-                            <div class="h-4 w-3/4 skeleton rounded"></div>
-                            <div class="h-4 w-full skeleton rounded"></div>
-                            <div class="flex justify-between items-end pt-2">
-                                <div class="h-6 w-20 skeleton rounded"></div>
-                                <div class="h-8 w-28 skeleton rounded-lg"></div>
-                            </div>
-                        </div>
-                    </div>
-                `).join(''));
-            </script>
-        </div>
-    </main>
+    const duration = (type === 'bill' ? 5 : 6) + Math.random() * 4;
 
-    <footer class="border-t border-neutral-800 mt-8 sm:mt-12 py-6 sm:py-8 bg-neutral-900/30">
-        <div class="max-w-7xl mx-auto px-4 text-center">
-            <p class="text-[11px] sm:text-xs text-neutral-600">PagaMeno$ • Monitor inteligente de ofertas Amazon & Mercado Livre</p>
-        </div>
-    </footer>
+    if(type === 'bill'){
+      const isGold = Math.random() > 0.55;
+      const size = sizes[Math.floor(Math.random() * sizes.length)];
+      el.className = `money-bill ${size}${isGold ? ' gold' : ''}`;
+      el.textContent = '$';
+    } else {
+      el.className = 'money-item dollar-sign';
+      const size = [28, 36, 48, 60, 72][Math.floor(Math.random() * 5)];
+      el.style.fontSize = size + 'px';
+    }
 
-    <script>
-        // --- State ---
-        let appState = { data: [] };
-        let knownAsins = new Set();
-        const checkInterval = 600;
-        let secondsLeft = checkInterval;
-        let countdownTimer = null;
-        let isFetching = false;
-        let currentStoreFilter = 'all';
-        let currentCategoryFilter = 'all';
-        let searchQuery = '';
+    el.style.left = startX + 'px';
+    el.style.top = startY + 'px';
 
-        // --- DOM ---
-        const gridContainer = document.getElementById('grid-container');
-        const emptyState = document.getElementById('empty-state');
-        const skeletonLoader = document.getElementById('skeleton-loader');
-        const labelLastCheck = document.getElementById('label-last-check');
-        const labelLastCheckMobile = document.getElementById('label-last-check-mobile');
-        const labelTimer = document.getElementById('label-timer');
-        const labelTimerMobile = document.getElementById('label-timer-mobile');
-        const itemCounter = document.getElementById('item-counter');
-        const itemCounterMobile = document.getElementById('item-counter-mobile');
-        const btnRefresh = document.getElementById('btn-refresh');
-        const spinner = document.getElementById('spinner');
-        const refreshIcon = document.getElementById('refresh-icon');
-        const sortSelect = document.getElementById('sort-select');
-        const searchInput = document.getElementById('search-input');
-        const categorySelect = document.getElementById('category-select');
-        const storeButtons = document.querySelectorAll('.store-filter');
-        const activeFiltersContainer = document.getElementById('active-filters');
-        const bestDealsSection = document.getElementById('best-deals-section');
-        const bestDealsCarousel = document.getElementById('best-deals-carousel');
+    layer.appendChild(el);
 
-        // --- Notifications ---
-        function triggerPushNotification(deal) {
-            if (Notification.permission === 'granted') {
-                new Notification("🚨 Nova Oferta no PagaMeno$!", {
-                    body: `${deal.title.substring(0, 55)}... por R$ ${deal.current_price}`,
-                    icon: deal.image || "https://www.amazon.com.br/favicon.ico",
-                    tag: deal.asin,
-                    badge: "https://www.amazon.com.br/favicon.ico"
-                });
-            }
-        }
+    const cta = document.getElementById('cta-container');
+    const rect = cta.getBoundingClientRect();
 
-        // --- Store Filter ---
-        storeButtons.forEach(btn => {
-            btn.addEventListener('click', () => {
-                storeButtons.forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentStoreFilter = btn.dataset.store;
-                storeButtons.forEach(b => {
-                    const dot = b.querySelector('span');
-                    if(!dot) return;
-                    dot.className = b.classList.contains('active') 
-                        ? 'w-1.5 h-1.5 rounded-full bg-brand-yellow' 
-                        : 'w-1.5 h-1.5 rounded-full bg-neutral-500';
-                });
-                updateUI();
-            });
-        });
+    const targetX = rect.left + (rect.width / 2);
+    const targetY = rect.top + (rect.height / 2);
 
-        // --- Category Filter ---
-        categorySelect.addEventListener('change', (e) => {
-            currentCategoryFilter = e.target.value;
-            updateUI();
-        });
+    const deltaX = targetX - startX;
+    const deltaY = targetY - startY;
 
-        // --- Search ---
-        let searchTimeout;
-        searchInput.addEventListener('input', (e) => {
-            clearTimeout(searchTimeout);
-            searchTimeout = setTimeout(() => {
-                searchQuery = e.target.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-                updateUI();
-            }, 200);
-        });
+    const anim = el.animate([
+      { transform: 'translate3d(0, 0, 0) rotate(0deg) scale(1)', opacity: 0 },
+      { opacity: maxOpacity, offset: 0.1 },
+      { opacity: maxOpacity, offset: 0.75 },
+      { transform: `translate3d(${deltaX}px, ${deltaY}px, 0) rotate(${endRot}) scale(0)`, opacity: 0 }
+    ], {
+      duration: duration * 1000,
+      easing: 'cubic-bezier(0.55, 0.085, 0.68, 0.53)',
+      fill: 'forwards'
+    });
 
-        // --- Active Filters Tags ---
-        function renderActiveFilters() {
-            const tags = [];
-            if (currentStoreFilter !== 'all') {
-                tags.push({ type: 'store', label: currentStoreFilter === 'ml' ? 'Mercado Livre' : 'Amazon' });
-            }
-            if (currentCategoryFilter !== 'all') {
-                tags.push({ type: 'category', label: currentCategoryFilter });
-            }
-            if (searchQuery) {
-                tags.push({ type: 'search', label: `"${searchInput.value}"` });
-            }
+    anim.onfinish = () => el.remove();
+  }
 
-            if (tags.length === 0) {
-                activeFiltersContainer.classList.add('hidden');
-                return;
-            }
-            activeFiltersContainer.classList.remove('hidden');
-            activeFiltersContainer.innerHTML = tags.map(tag => `
-                <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-brand-yellow/10 border border-brand-yellow/20 text-brand-yellow text-[11px] font-semibold">
-                    ${tag.label}
-                    <button onclick="clearFilter('${tag.type}')" class="hover:text-white transition-colors">
-                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-                    </button>
-                </span>
-            `).join('');
-        }
+  function spawnInitial(){
+    const total = 25;
+    for(let i = 0; i < total; i++){
+      const type = Math.random() > 0.4 ? 'bill' : 'sign';
+      createItem(type, true);
+    }
+  }
 
-        window.clearFilter = function(type) {
-            if (type === 'store') {
-                currentStoreFilter = 'all';
-                storeButtons.forEach(b => {
-                    b.classList.toggle('active', b.dataset.store === 'all');
-                    const dot = b.querySelector('span');
-                    if(dot) dot.className = b.dataset.store === 'all' ? 'w-1.5 h-1.5 rounded-full bg-brand-yellow' : 'w-1.5 h-1.5 rounded-full bg-neutral-500';
-                });
-            } else if (type === 'category') {
-                currentCategoryFilter = 'all';
-                categorySelect.value = 'all';
-            } else if (type === 'search') {
-                searchQuery = '';
-                searchInput.value = '';
-            }
-            updateUI();
-        };
+  function spawnLoop(){
+    const type = Math.random() > 0.05 ? 'bill' : 'sign';
+    createItem(type, false);
+  }
 
-        // --- Helpers ---
-        function getBestDeals(deals) {
-            if (!deals) return [];
-            return deals
-                .filter(d => d.discount >= 50)
-                .sort((a, b) => b.discount - a.discount)
-                .slice(0, 10);
-        }
+  spawnInitial();
 
-        function renderBestDeals(deals) {
-            const best = getBestDeals(deals);
-            if (best.length === 0) {
-                bestDealsSection.classList.add('hidden');
-                return;
-            }
-            bestDealsSection.classList.remove('hidden');
-
-            bestDealsCarousel.innerHTML = best.map((deal, index) => {
-                const isML = deal.link && deal.link.includes('mercadolivre.com.br');
-                const storeName = isML ? 'Mercado Livre' : 'Amazon';
-                const btnClass = isML ? 'btn-ml' : 'btn-amazon';
-
-                const dateObj = new Date(deal.discovery_ts * 1000);
-                const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-                const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-
-                const imageHTML = deal.image 
-                    ? `<img src="${deal.image}" alt="${deal.title}" class="w-full h-full object-contain p-3 sm:p-4 mix-blend-multiply" referrerpolicy="no-referrer" loading="lazy">`
-                    : `<div class="w-full h-full flex items-center justify-center text-neutral-600"><svg class="w-6 h-6 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg></div>`;
-
-                return `
-                    <article class="snap-start shrink-0 w-[260px] sm:w-[300px] best-deal-card rounded-2xl overflow-hidden flex flex-col animate-fade-in" style="animation-delay: ${index * 0.05}s">
-                        <div class="relative bg-white aspect-square sm:aspect-[4/3] overflow-hidden">
-                            ${imageHTML}
-                            <div class="absolute top-2 left-2 bg-black/70 backdrop-blur text-neutral-300 text-[9px] sm:text-[10px] font-mono px-1.5 sm:px-2 py-0.5 sm:py-1 rounded-md border border-white/10 flex items-center gap-1">
-                                <svg class="w-2.5 h-2.5 text-brand-yellow" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                ${dateString} ${timeString}
-                            </div>
-                            <div class="absolute top-2 right-2 discount-badge text-white text-[11px] sm:text-xs font-black px-2 py-0.5 sm:py-1 rounded-lg shadow-lg">-${Math.round(deal.discount)}%</div>
-                        </div>
-                        <div class="p-3 sm:p-4 flex-1 flex flex-col gap-2">
-                            <h3 class="text-xs sm:text-sm font-semibold text-neutral-200 leading-snug line-clamp-2" title="${deal.title}">${deal.title}</h3>
-                            <div class="flex items-baseline gap-2 mt-auto pt-1">
-                                <span class="text-base sm:text-lg font-black text-brand-yellow tracking-tight">R$ ${deal.current_price.toFixed(2)}</span>
-                                ${deal.original_price && deal.original_price !== 'N/A' ? `<span class="text-[10px] sm:text-xs text-neutral-500 line-through">R$ ${deal.original_price}</span>` : ''}
-                            </div>
-                            <a href="${deal.link}" target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center gap-1.5 ${btnClass} font-bold py-2 rounded-xl text-[10px] sm:text-xs transition-all active:scale-[0.98] mt-1">
-                                <span>Ver ${storeName === 'Amazon' ? 'na' : 'no'} ${storeName}</span>
-                                <svg class="w-3 h-3 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                            </a>
-                        </div>
-                    </article>
-                `;
-            }).join('');
-        }
-
-        // --- Sort & Filter ---
-        function getProcessedDeals() {
-            if (!appState.data || appState.data.length === 0) return [];
-            let deals = [...appState.data];
-
-            if (currentStoreFilter !== 'all') {
-                deals = deals.filter(d => {
-                    const isML = d.link && d.link.includes('mercadolivre.com.br');
-                    return currentStoreFilter === 'ml' ? isML : !isML;
-                });
-            }
-            if (currentCategoryFilter !== 'all') {
-                deals = deals.filter(d => d.category === currentCategoryFilter);
-            }
-            if (searchQuery) {
-                deals = deals.filter(d => {
-                    const text = (d.title + ' ' + (d.category || '') + ' ' + (d.badge || '')).toLowerCase()
-                        .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-                    return text.includes(searchQuery);
-                });
-            }
-
-            const sortType = sortSelect.value;
-            deals.sort((a, b) => {
-                if (sortType === 'recent') {
-                    if (a.is_new !== b.is_new) return a.is_new ? -1 : 1;
-                    return b.discovery_ts - a.discovery_ts;
-                } else if (sortType === 'price_asc') {
-                    return a.current_price - b.current_price;
-                } else if (sortType === 'price_desc') {
-                    return b.current_price - a.current_price;
-                } else if (sortType === 'discount_desc') {
-                    return b.discount - a.discount;
-                }
-                return 0;
-            });
-
-            return deals;
-        }
-
-        function updateUI() {
-            const deals = getProcessedDeals();
-            renderBestDeals(appState.data);
-            renderDeals(deals);
-            renderActiveFilters();
-        }
-
-        function renderDeals(deals) {
-            itemCounter.textContent = deals.length;
-            itemCounterMobile.textContent = `${deals.length} ofertas`;
-
-            if (!deals || deals.length === 0) {
-                gridContainer.innerHTML = '';
-                gridContainer.classList.add('hidden');
-                emptyState.classList.remove('hidden');
-                skeletonLoader.classList.add('hidden');
-                return;
-            }
-
-            emptyState.classList.add('hidden');
-            skeletonLoader.classList.add('hidden');
-            gridContainer.classList.remove('hidden');
-
-            const cardsHTML = deals.map((deal, index) => {
-                const isML = deal.link && deal.link.includes('mercadolivre.com.br');
-                const storeName = isML ? 'Mercado Livre' : 'Amazon';
-                const btnClass = isML ? 'btn-ml' : 'btn-amazon';
-
-                const discountBadge = deal.discount > 0 
-                    ? `<div class="absolute top-2 right-2 discount-badge text-white text-[10px] sm:text-[11px] font-black px-2 py-0.5 sm:py-1 rounded-lg shadow-lg z-10">-${Math.round(deal.discount)}%</div>` : '';
-
-                const dateObj = new Date(deal.discovery_ts * 1000);
-                const timeString = dateObj.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-                const dateString = dateObj.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
-
-                const timeBadge = `<div class="absolute top-2 left-2 bg-black/70 backdrop-blur text-neutral-300 text-[9px] sm:text-[10px] font-mono px-1.5 sm:px-2 py-0.5 sm:py-1 rounded-md border border-white/10 z-10 flex items-center gap-1">
-                    <svg class="w-2.5 h-2.5 text-brand-yellow" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                    ${dateString} ${timeString}
-                </div>`;
-
-                const originalPriceLine = deal.original_price && deal.original_price !== 'N/A' 
-                    ? `<span class="text-[10px] sm:text-xs text-neutral-500 line-through font-medium">R$ ${deal.original_price}</span>` : '';
-
-                const criteriaBadges = (deal.criteria || []).slice(0, 2).map(crit => `
-                    <span class="inline-flex items-center bg-neutral-800/80 text-neutral-400 text-[9px] sm:text-[10px] font-medium px-1.5 sm:px-2 py-0.5 rounded-md border border-neutral-700/50 whitespace-nowrap">${crit}</span>
-                `).join('');
-
-                const imageHTML = deal.image 
-                    ? `<img src="${deal.image}" alt="${deal.title}" class="w-full h-full object-contain p-2 sm:p-4 mix-blend-multiply transition-transform duration-500 group-hover:scale-105" referrerpolicy="no-referrer" loading="lazy">`
-                    : `<div class="w-full h-full flex flex-col items-center justify-center text-neutral-600 gap-1 sm:gap-2"><svg class="w-6 h-6 sm:w-8 sm:h-8 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg><span class="text-[10px] sm:text-xs">Sem imagem</span></div>`;
-
-                const cleanCategory = (deal.category || '').replace(/[\[\]]/g, '').trim();
-                const cleanBadge = (deal.badge || 'Oferta Ativa').replace(/[\[\]]/g, '').trim();
-
-                return `
-                    <article class="group bg-brand-card border border-brand-border rounded-xl sm:rounded-2xl overflow-hidden flex flex-col card-hover animate-fade-in" style="animation-delay: ${index * 0.03}s">
-                        <div class="relative bg-white aspect-square sm:aspect-[4/3] overflow-hidden">
-                            ${imageHTML}
-                            ${timeBadge}
-                            ${discountBadge}
-                        </div>
-
-                        <div class="p-2.5 sm:p-4 flex-1 flex flex-col gap-2 sm:gap-3">
-                            <div class="flex items-start justify-between gap-2">
-                                <div class="flex-1 min-w-0">
-                                    <div class="flex items-center gap-1.5 sm:gap-2 mb-1 sm:mb-1.5 overflow-hidden">
-                                        <span class="text-[9px] sm:text-[10px] font-bold uppercase tracking-wider text-brand-yellow bg-white/5 px-1 sm:px-1.5 py-0.5 rounded border border-white/5 truncate shrink-0 max-w-[50%]">
-                                            ${cleanBadge}
-                                        </span>
-                                        ${cleanCategory ? `<span class="text-[9px] sm:text-[10px] font-medium uppercase tracking-wider text-neutral-500 truncate">${cleanCategory}</span>` : ''}
-                                    </div>
-                                    <h2 class="text-[11px] sm:text-sm font-semibold text-neutral-200 leading-snug line-clamp-2 group-hover:text-white transition-colors" title="${deal.title}">
-                                        ${deal.title}
-                                    </h2>
-                                </div>
-                            </div>
-
-                            <div class="mt-auto pt-1.5 sm:pt-2 border-t border-neutral-800">
-                                <div class="flex items-baseline gap-1.5 sm:gap-2 mb-1.5 sm:mb-2">
-                                    <span class="text-sm sm:text-lg font-black text-brand-yellow tracking-tight">R$ ${deal.current_price.toFixed(2)}</span>
-                                    ${originalPriceLine}
-                                </div>
-                                ${criteriaBadges ? `<div class="flex flex-wrap gap-1 mb-2 sm:mb-3">${criteriaBadges}</div>` : '<div class="mb-2 sm:mb-3"></div>'}
-                                <a href="${deal.link}" target="_blank" rel="noopener noreferrer" class="w-full flex items-center justify-center gap-1.5 ${btnClass} font-bold py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[10px] sm:text-xs transition-all active:scale-[0.98]">
-                                    <span>Ver ${storeName === 'Amazon' ? 'na' : 'no'} ${storeName}</span>
-                                    <svg class="w-3 h-3 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-                `;
-            }).join('');
-
-            gridContainer.innerHTML = cardsHTML;
-        }
-
-        // --- Data Fetching ---
-        async function fetchUpdatedDeals() {
-            if (isFetching) return;
-            isFetching = true;
-            spinner.classList.remove('hidden');
-            refreshIcon.classList.add('hidden');
-            btnRefresh.disabled = true;
-
-            try {
-                const response = await fetch('deals.json?t=' + new Date().getTime());
-                const newState = await response.json();
-
-                if (newState && newState.data) {
-                    let hasNewItems = false;
-                    newState.data.forEach(deal => {
-                        if (!knownAsins.has(deal.asin)) {
-                            knownAsins.add(deal.asin);
-                            hasNewItems = true;
-                            if (appState.data && appState.data.length > 0) {
-                                triggerPushNotification(deal);
-                            }
-                        }
-                    });
-
-                    appState = newState;
-                    const lastCheckText = `Último: ${newState.last_check}`;
-                    labelLastCheck.textContent = lastCheckText;
-                    labelLastCheckMobile.textContent = lastCheckText;
-                    updateUI();
-                }
-            } catch (err) {
-                console.error("Falha ao puxar JSON:", err);
-                labelLastCheck.textContent = "Último: Erro";
-                labelLastCheckMobile.textContent = "Erro";
-            } finally {
-                isFetching = false;
-                spinner.classList.add('hidden');
-                refreshIcon.classList.remove('hidden');
-                btnRefresh.disabled = false;
-                resetTimer();
-            }
-        }
-
-        // --- Timer ---
-        function startTimer() {
-            if (countdownTimer) clearInterval(countdownTimer);
-            countdownTimer = setInterval(() => {
-                secondsLeft--;
-                if (secondsLeft <= 0) {
-                    fetchUpdatedDeals();
-                } else {
-                    const mins = Math.floor(secondsLeft / 60);
-                    const secs = secondsLeft % 60;
-                    const text = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-                    labelTimer.textContent = text;
-                    labelTimerMobile.textContent = text;
-                }
-            }, 1000);
-        }
-
-        function resetTimer() {
-            secondsLeft = checkInterval;
-            startTimer();
-        }
-
-        // --- Event Listeners ---
-        btnRefresh.addEventListener('click', fetchUpdatedDeals);
-        sortSelect.addEventListener('change', updateUI);
-
-        // --- Init ---
-        window.onload = () => {
-            if ("Notification" in window && Notification.permission === 'default') {
-                const btnNotif = document.getElementById('btn-notification');
-                btnNotif.classList.remove('hidden');
-                btnNotif.classList.add('flex');
-                btnNotif.addEventListener('click', async () => {
-                    const perm = await Notification.requestPermission();
-                    if (perm === 'granted') btnNotif.classList.add('hidden');
-                });
-            }
-            fetchUpdatedDeals();
-        };
-    </script>
+  setInterval(spawnLoop, 800);
+</script>
 </body>
 </html>
