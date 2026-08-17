@@ -1,5 +1,5 @@
 {
-  "last_check": "17/08/2026 20:41:46",
+  "last_check": "17/08/2026 21:04:50",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21116,6 +21116,33 @@
           "date": "2026-08-17T20:41:46.204193"
         }
       ]
+    },
+    "B09ZG7Y9BL": {
+      "discovery_date": "2026-08-17T21:04:50.318426",
+      "price_history": [
+        {
+          "price": 29.0,
+          "date": "2026-08-17T21:04:50.318426"
+        }
+      ]
+    },
+    "B0H1282J24": {
+      "discovery_date": "2026-08-17T21:04:50.318426",
+      "price_history": [
+        {
+          "price": 1348.92,
+          "date": "2026-08-17T21:04:50.318426"
+        }
+      ]
+    },
+    "B0BFSNZHSF": {
+      "discovery_date": "2026-08-17T21:04:50.318426",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-08-17T21:04:50.318426"
+        }
+      ]
     }
   },
   "data": [
@@ -21133,8 +21160,44 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786997386.722254,
+      "is_new": true
+    },
+    {
+      "asin": "B0H1282J24",
+      "title": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
+      "link": "https://www.amazon.com.br/JBL-Essential-Bluetooth-Resistente-Respingos/dp/B0H1282J24",
+      "current_price": 1348.92,
+      "original_price": 1899.0,
+      "discount": 29.0,
+      "difference": 550.08,
+      "criteria": [
+        "R$ 550.08 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6157Cv5UEZL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1787000690.318434,
+      "is_new": true
+    },
+    {
+      "asin": "B0BFSNZHSF",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSNZHSF",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1787000690.318434,
       "is_new": true
     },
     {
@@ -21156,6 +21219,24 @@
       "is_new": true
     },
     {
+      "asin": "B09ZG7Y9BL",
+      "title": "Pilhas Alcalinas AA Elgin - Tubo com 24 unidades",
+      "link": "https://www.amazon.com.br/Tubo-com-24-Pilhas-Alcalinas/dp/B09ZG7Y9BL",
+      "current_price": 29.0,
+      "original_price": 59.0,
+      "discount": 50.8,
+      "difference": 30.0,
+      "criteria": [
+        "50.8% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51615j5xXoL._AC_UL210_SR210,210_.jpg",
+      "category": "[BATTERY]",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1787000690.318434,
+      "is_new": true
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -21170,7 +21251,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21189,7 +21270,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786799221.459366,
       "is_new": false
     },
@@ -21212,6 +21293,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3399.0,
+      "original_price": 5499.0,
+      "discount": 38.2,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
       "asin": "B0F8LJSC9B",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
@@ -21230,21 +21329,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3399.0,
-      "original_price": 5499.0,
-      "discount": 38.2,
-      "difference": 2100.0,
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
       "criteria": [
-        "R$ 2100.0 desc."
+        "R$ 1750.0 desc."
       ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786997386.722261,
-      "discovery_ts": 1786338424.792042,
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -21297,7 +21396,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41VTZ8N0FYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786469861.404163,
       "is_new": false
     },
@@ -21333,7 +21432,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21351,7 +21450,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
@@ -21370,7 +21469,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21406,7 +21505,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -21424,7 +21523,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -21442,7 +21541,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41wUwSMsKwL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKTOP]",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
@@ -21478,7 +21577,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -21514,7 +21613,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1786997386.722261,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -21550,7 +21649,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21568,8 +21667,26 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1786999306.2042,
+      "last_seen": 1787000690.318434,
       "discovery_ts": 1784433482.515947,
+      "is_new": false
+    },
+    {
+      "asin": "B09XFLHJ1S",
+      "title": "Danos Vorazes Máscara de Tratamento 450g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Lola-Cosmetics-Vorazes-Repara%C3%A7%C3%A3o-Intensiva/dp/B09XFLHJ1S",
+      "current_price": 28.94,
+      "original_price": 64.9,
+      "discount": 55.4,
+      "difference": 35.96,
+      "criteria": [
+        "55.4% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787000690.318434,
+      "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
