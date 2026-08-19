@@ -1,5 +1,5 @@
 {
-  "last_check": "19/08/2026 07:52:26",
+  "last_check": "19/08/2026 08:29:19",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21331,6 +21331,15 @@
           "date": "2026-08-19T07:52:26.603356"
         }
       ]
+    },
+    "B007KWR1N0": {
+      "discovery_date": "2026-08-19T08:29:12.678584",
+      "price_history": [
+        {
+          "price": 27.44,
+          "date": "2026-08-19T08:29:12.678584"
+        }
+      ]
     }
   },
   "data": [
@@ -21348,7 +21357,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71mLMXf64LL._AC_UL210_SR210,210_.jpg",
       "category": "[FURNITURE]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1787123381.26207,
       "is_new": true
     },
@@ -21368,6 +21377,24 @@
       "category": "[SHIRT]",
       "last_seen": 1787125946.603362,
       "discovery_ts": 1787125946.603362,
+      "is_new": true
+    },
+    {
+      "asin": "B007KWR1N0",
+      "title": "Pentel Lapiseira Técnica Graphgear 500 0.9mm SM/PG529-N",
+      "link": "https://www.amazon.com.br/Lapiseira-Graphgear-PG529-cinza-unid/dp/B007KWR1N0",
+      "current_price": 27.44,
+      "original_price": 46.65,
+      "discount": 41.2,
+      "difference": 19.21,
+      "criteria": [
+        "41.2% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5197KHMqOmL._AC_UL210_SR210,210_.jpg",
+      "category": "[WRITING_INSTRUMENT]",
+      "last_seen": 1787128152.678591,
+      "discovery_ts": 1787128152.678591,
       "is_new": true
     },
     {
@@ -21403,7 +21430,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41iBy6do6ZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787123381.262077,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786661270.6714,
       "is_new": false
     },
@@ -21421,26 +21448,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3399.0,
-      "original_price": 5499.0,
-      "discount": 38.2,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787105750.546721,
-      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -21475,7 +21484,7 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61u6DXtxW1L._AC_UL210_SR210,210_.jpg",
       "category": "[MUSICAL_INSTRUMENTS]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1785389121.131261,
       "is_new": false
     },
@@ -21498,25 +21507,6 @@
       "is_new": false
     },
     {
-      "asin": "B081PP4CB6",
-      "title": "Headset Gamer Sem Fio Logitech G PRO X Wireless LIGHTSPEED com 7.1 Dolby Surround, Tecnologia Blue VO!CE, Design Confortável e Durável, Drivers PRO-G 50 mm e Bateria Recarregável",
-      "link": "https://www.amazon.com.br/Headset-Gamer-Logitech-PRO-Wireless/dp/B081PP4CB6",
-      "current_price": 899.04,
-      "original_price": 1699.9,
-      "discount": 47.1,
-      "difference": 800.86,
-      "criteria": [
-        "47.1% OFF",
-        "R$ 800.86 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Vqs9NufmL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787105750.546721,
-      "discovery_ts": 1786780233.379961,
-      "is_new": false
-    },
-    {
       "asin": "B0FHCHBRGF",
       "title": "Notebook Dell 15 15-I1300-A30P, Intel Core i5-1334U, Windows 11 Home | Tela 15.6 FHD 120 Hz Antirreflexo, 8 GB RAM, 512 GB SSD, UHD Graphics, Wi‑Fi 6, leitor SD, USB 3.2 Type-C, Garantia de 1 Ano",
       "link": "https://www.amazon.com.br/Notebook-Dell-Inspiron-I15-I1300-A30P-Carbono/dp/B0FHCHBRGF",
@@ -21530,7 +21520,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21553,25 +21543,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DHWFBYVC",
-      "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
-      "current_price": 849.0,
-      "original_price": 1499.0,
-      "discount": 43.4,
-      "difference": 650.0,
-      "criteria": [
-        "43.4% OFF",
-        "R$ 650.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787105750.546721,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
       "asin": "B0C7H3P3C8",
       "title": "Forno à Gás de Embutir Stelar 46 litros Topázio Preto 127v",
       "link": "https://www.amazon.com.br/Forno-Embutir-Stelar-Top%C3%A1zio-Litros/dp/B0C7H3P3C8",
@@ -21585,7 +21556,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -21603,7 +21574,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -21622,7 +21593,7 @@
       "badge": "63% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619OPrLH6SL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKWARE_SET]",
-      "last_seen": 1787123381.262077,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1787109148.128629,
       "is_new": false
     },
@@ -21658,7 +21629,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-nviMYCXL._AC_UL210_SR210,210_.jpg",
       "category": "[LITTER_BOX]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1787045519.33669,
       "is_new": false
     },
@@ -21694,7 +21665,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UHc8hyIDL._AC_UL210_SR210,210_.jpg",
       "category": "[SUITCASE]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1787039397.988103,
       "is_new": false
     },
@@ -21766,7 +21737,7 @@
       "badge": "69% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -21802,7 +21773,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -21861,24 +21832,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT97SDN",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787105750.546721,
-      "discovery_ts": 1785319165.213328,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -21892,7 +21845,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -21910,7 +21863,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21928,7 +21881,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21964,7 +21917,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21982,7 +21935,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787125946.603362,
+      "last_seen": 1787128152.678591,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
