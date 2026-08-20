@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 11:58:39",
+  "last_check": "20/08/2026 12:55:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21511,9 +21511,127 @@
           "date": "2026-08-20T11:37:34.905687"
         }
       ]
+    },
+    "B0GL3B4FZ8": {
+      "discovery_date": "2026-08-20T12:55:12.713835",
+      "price_history": [
+        {
+          "price": 4199.0,
+          "date": "2026-08-20T12:55:12.713835"
+        }
+      ]
+    },
+    "B0GYQ3L2FT": {
+      "discovery_date": "2026-08-20T12:55:12.713835",
+      "price_history": [
+        {
+          "price": 4698.99,
+          "date": "2026-08-20T12:55:12.713835"
+        }
+      ]
+    },
+    "B076QCW9T6": {
+      "discovery_date": "2026-08-20T12:55:12.713835",
+      "price_history": [
+        {
+          "price": 689.0,
+          "date": "2026-08-20T12:55:12.713835"
+        }
+      ]
+    },
+    "B0CKKDCFHS": {
+      "discovery_date": "2026-08-20T12:55:12.713835",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-08-20T12:55:12.713835"
+        }
+      ]
+    },
+    "B0FCSSQ57K": {
+      "discovery_date": "2026-08-20T12:55:12.713835",
+      "price_history": [
+        {
+          "price": 2848.99,
+          "date": "2026-08-20T12:55:12.713835"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FCSSQ57K",
+      "title": "Ar Condicionado Split Hi Wall Convencional Tcl 22000 Btus Quente e Frio A2 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Convencional-22000-Quente/dp/B0FCSSQ57K",
+      "current_price": 2848.99,
+      "original_price": 4369.0,
+      "discount": 34.8,
+      "difference": 1520.01,
+      "criteria": [
+        "R$ 1520.01 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515wJXZSUKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": true
+    },
+    {
+      "asin": "B0GL3B4FZ8",
+      "title": "Brastemp Geladeira BRE66AK Frost Free Inverse 500L 70,5 x 74 x 194,3 cm Inox com Inteligência Artificial Xpert Inverter 2 Portas",
+      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRE66AK-Litros-Brastemp/dp/B0GL3B4FZ8",
+      "current_price": 4199.0,
+      "original_price": 5144.0,
+      "discount": 18.4,
+      "difference": 945.0,
+      "criteria": [
+        "R$ 945.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": true
+    },
+    {
+      "asin": "B076QCW9T6",
+      "title": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 220V",
+      "link": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QCW9T6",
+      "current_price": 689.0,
+      "original_price": 1359.9,
+      "discount": 49.3,
+      "difference": 670.9,
+      "criteria": [
+        "49.3% OFF",
+        "R$ 670.9 desc."
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRESSURE_WASHER]",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": true
+    },
+    {
+      "asin": "B0GYQ3L2FT",
+      "title": "Smart TV TCL 65 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 65A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65A400M/dp/B0GYQ3L2FT",
+      "current_price": 4698.99,
+      "original_price": 5034.05,
+      "discount": 6.7,
+      "difference": 335.06,
+      "criteria": [
+        "R$ 335.06 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": true
+    },
     {
       "asin": "B077FWP5M4",
       "title": "ELG, PWC-X4U/3M, PowerCube com Extensor USB, Filtro de Linha, Multiplicador 4 Tomadas Bivolt com 2 Portas USB 2.4A, Disjuntor Integrado de 10A, Cabo 3m, Cinza",
@@ -21528,7 +21646,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1787225854.905687,
       "is_new": true
     },
@@ -21587,6 +21705,24 @@
       "is_new": true
     },
     {
+      "asin": "B0CKKDCFHS",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0CKKDCFHS",
+      "current_price": 89.9,
+      "original_price": 165.0,
+      "discount": 45.5,
+      "difference": 75.1,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": true
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -21601,7 +21737,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21642,6 +21778,24 @@
       "is_new": false
     },
     {
+      "asin": "B0B61WJRY5",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -21657,24 +21811,6 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1787227119.691095,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0FTZSMH28",
-      "title": "Notebook ASUS Vivobook S14 IA PC, Core Ultra 7, 16 GB, 512 GB, Linux, 14'' Nivel IPS 60Hz, Matte Gray - S3407CA-LY121",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ultra-Linux/dp/B0FTZSMH28",
-      "current_price": 5799.0,
-      "original_price": 6999.0,
-      "discount": 17.1,
-      "difference": 1200.0,
-      "criteria": [
-        "R$ 1200.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787207719.998634,
-      "discovery_ts": 1786603677.200311,
       "is_new": false
     },
     {
@@ -21804,24 +21940,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F8P8KKH1",
-      "title": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
-      "link": "https://www.amazon.com.br/Infantil-El%C3%A9trico-Carrinho-Controle-Remoto/dp/B0F8P8KKH1",
-      "current_price": 919.9,
-      "original_price": 1499.9,
-      "discount": 38.7,
-      "difference": 580.0,
-      "criteria": [
-        "R$ 580.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ydB+Bt-cL._AC_UL210_SR210,210_.jpg",
-      "category": "[RIDE_ON_TOY]",
-      "last_seen": 1787207719.998634,
-      "discovery_ts": 1787207719.998634,
-      "is_new": false
-    },
-    {
       "asin": "B0H4RLZX5V",
       "title": "NEWPET Caixa De Areia Autolimpante Com Tampa Aberta, Caixa De Areia Automática Com Sensores De Segurança, Proteção Anti-Esmagamento E Degrau De Fácil Acesso Para Gatos Idosos",
       "link": "https://www.amazon.com.br/NEWPET-Autolimpante-Autom%C3%A1tica-Seguran%C3%A7a-Anti-Esmagamento/dp/B0H4RLZX5V",
@@ -21897,17 +22015,17 @@
       "asin": "B0CZBM7728",
       "title": "ELG, SHCI603, Câmera interna 1080P Full HD Inteligente Wi-Fi com Botão SOS, Áudio Bidirecional, Visão Noturna e Detecção de Movimentos, Branco",
       "link": "https://www.amazon.com.br/interna-Inteligente-Bidirecional-Detec%C3%A7%C3%A3o-Movimentos/dp/B0CZBM7728",
-      "current_price": 89.0,
+      "current_price": 67.66,
       "original_price": 290.0,
-      "discount": 69.3,
-      "difference": 201.0,
+      "discount": 76.7,
+      "difference": 222.34,
       "criteria": [
-        "69.3% OFF"
+        "76.7% OFF"
       ],
       "badge": "69% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787207719.998634,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -21943,7 +22061,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -21961,7 +22079,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22056,24 +22174,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT7BS3G",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7BS3G",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787207719.998634,
-      "discovery_ts": 1787125946.603356,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -22105,7 +22205,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22123,7 +22223,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22159,7 +22259,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22195,7 +22295,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22213,7 +22313,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787222514.700249,
+      "last_seen": 1787230512.713842,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
