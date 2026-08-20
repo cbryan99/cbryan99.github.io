@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 08:51:55",
+  "last_check": "20/08/2026 09:27:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21457,9 +21457,63 @@
           "date": "2026-08-20T06:35:19.998627"
         }
       ]
+    },
+    "B094X2N4HV": {
+      "discovery_date": "2026-08-20T09:27:30.770928",
+      "price_history": [
+        {
+          "price": 178.99,
+          "date": "2026-08-20T09:27:30.770928"
+        }
+      ]
+    },
+    "B0CRTPF7CZ": {
+      "discovery_date": "2026-08-20T09:27:30.770928",
+      "price_history": [
+        {
+          "price": 196.6,
+          "date": "2026-08-20T09:27:30.770928"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CRTPF7CZ",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787218050.770935,
+      "discovery_ts": 1787218050.770935,
+      "is_new": true
+    },
+    {
+      "asin": "B094X2N4HV",
+      "title": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
+      "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
+      "current_price": 178.99,
+      "original_price": 319.0,
+      "discount": 43.9,
+      "difference": 140.01,
+      "criteria": [
+        "43.9% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787218050.770935,
+      "discovery_ts": 1787218050.770935,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -21475,7 +21529,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21498,6 +21552,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787218050.770935,
+      "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -21513,24 +21585,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787215913.528506,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJV247C",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
-      "current_price": 6949.0,
-      "original_price": 8699.0,
-      "discount": 20.1,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787201319.346099,
-      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -21601,8 +21655,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1784936763.261283,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2189.0,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.0,
+      "criteria": [
+        "R$ 710.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787218050.770935,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -21637,7 +21709,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -21781,7 +21853,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -21822,6 +21894,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BFT7XG6C",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787218050.770935,
+      "discovery_ts": 1787140640.09174,
+      "is_new": false
+    },
+    {
       "asin": "B0BFSNZHSF",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSNZHSF",
@@ -21858,24 +21948,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT7XG6C",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787203068.137427,
-      "discovery_ts": 1787140640.09174,
-      "is_new": false
-    },
-    {
       "asin": "B0BFT97SDN",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
@@ -21891,24 +21963,6 @@
       "category": "[SHIRT]",
       "last_seen": 1787198473.977532,
       "discovery_ts": 1785319165.213328,
-      "is_new": false
-    },
-    {
-      "asin": "B0BFSRV5KM",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRV5KM",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787195490.070822,
-      "discovery_ts": 1787068104.940879,
       "is_new": false
     },
     {
@@ -21943,7 +21997,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21961,7 +22015,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21997,7 +22051,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22015,7 +22069,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ZzxtsCXmL._AC_UL210_SR210,210_.jpg",
       "category": "[WRITING_INSTRUMENT]",
-      "last_seen": 1787203068.137427,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -22033,7 +22087,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22051,7 +22105,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787218050.770935,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
