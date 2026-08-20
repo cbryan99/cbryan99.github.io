@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 18:30:10",
+  "last_check": "20/08/2026 19:11:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21534,6 +21534,10 @@
         {
           "price": 4129.9,
           "date": "2026-08-20T16:13:37.848811"
+        },
+        {
+          "price": 4199.0,
+          "date": "2026-08-20T19:11:38.380616"
         }
       ]
     },
@@ -21644,6 +21648,15 @@
           "date": "2026-08-20T18:30:04.402282"
         }
       ]
+    },
+    "B0DZJR4G1T": {
+      "discovery_date": "2026-08-20T19:11:38.380616",
+      "price_history": [
+        {
+          "price": 3747.0,
+          "date": "2026-08-20T19:11:38.380616"
+        }
+      ]
     }
   },
   "data": [
@@ -21663,6 +21676,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787250604.402288,
       "discovery_ts": 1787250604.402288,
+      "is_new": true
+    },
+    {
+      "asin": "B0DZJR4G1T",
+      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
+      "current_price": 3747.0,
+      "original_price": 4499.0,
+      "discount": 16.7,
+      "difference": 752.0,
+      "criteria": [
+        "R$ 752.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1787253098.380623,
+      "discovery_ts": 1787253098.380623,
       "is_new": true
     },
     {
@@ -21697,8 +21728,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
-      "discovery_ts": 1787250604.402288,
+      "last_seen": 1787253098.380623,
+      "discovery_ts": 1787250604.402282,
       "is_new": true
     },
     {
@@ -21717,24 +21748,6 @@
       "category": "[STROLLER]",
       "last_seen": 1787246584.057709,
       "discovery_ts": 1787246584.057709,
-      "is_new": true
-    },
-    {
-      "asin": "B0GNCKHV9G",
-      "title": "MONDIAL, Cafeteira Espresso Automática Dolce Latte 20 bar, Preto/Inox 1250W, 220V - CCL-01",
-      "link": "https://www.amazon.com.br/MONDIAL-Cafeteira-Espresso-Autom%C3%A1tica-Dolce/dp/B0GNCKHV9G",
-      "current_price": 1099.0,
-      "original_price": 1546.9,
-      "discount": 29.0,
-      "difference": 447.9,
-      "criteria": [
-        "R$ 447.9 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1787250604.402288,
-      "discovery_ts": 1787244764.880483,
       "is_new": true
     },
     {
@@ -21771,7 +21784,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21826,7 +21839,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -21844,7 +21857,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -21940,24 +21953,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787250604.402288,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0B61WJRY5",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
@@ -21971,8 +21966,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787253098.380623,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -21997,17 +22010,17 @@
       "asin": "B0GL3B4FZ8",
       "title": "Brastemp Geladeira BRE66AK Frost Free Inverse 500L 70,5 x 74 x 194,3 cm Inox com Inteligência Artificial Xpert Inverter 2 Portas",
       "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRE66AK-Litros-Brastemp/dp/B0GL3B4FZ8",
-      "current_price": 4129.9,
+      "current_price": 4199.0,
       "original_price": 5144.0,
-      "discount": 19.7,
-      "difference": 1014.1,
+      "discount": 18.4,
+      "difference": 945.0,
       "criteria": [
-        "R$ 1014.1 desc."
+        "R$ 945.0 desc."
       ],
-      "badge": "19% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -22175,6 +22188,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GNCKHV9G",
+      "title": "MONDIAL, Cafeteira Espresso Automática Dolce Latte 20 bar, Preto/Inox 1250W, 220V - CCL-01",
+      "link": "https://www.amazon.com.br/MONDIAL-Cafeteira-Espresso-Autom%C3%A1tica-Dolce/dp/B0GNCKHV9G",
+      "current_price": 1099.0,
+      "original_price": 1546.9,
+      "discount": 29.0,
+      "difference": 447.9,
+      "criteria": [
+        "R$ 447.9 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1787244764.880483,
+      "is_new": false
+    },
+    {
       "asin": "B0FPBPDWZQ",
       "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
@@ -22224,8 +22255,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1786421114.339604,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXGT3FS6",
+      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
+      "current_price": 2799.0,
+      "original_price": 3099.0,
+      "discount": 9.7,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787253098.380623,
+      "discovery_ts": 1786681804.577201,
       "is_new": false
     },
     {
@@ -22260,7 +22309,7 @@
       "badge": "69% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787230512.713842,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -22278,7 +22327,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787230512.713842,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22314,7 +22363,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22332,7 +22381,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22352,24 +22401,6 @@
       "category": "[PET_PEST_CONTROL]",
       "last_seen": 1787246584.057709,
       "discovery_ts": 1787224030.778876,
-      "is_new": false
-    },
-    {
-      "asin": "B0CKKDCFHS",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0CKKDCFHS",
-      "current_price": 89.9,
-      "original_price": 165.0,
-      "discount": 45.5,
-      "difference": 75.1,
-      "criteria": [
-        "45.5% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787230512.713842,
-      "discovery_ts": 1787230512.713842,
       "is_new": false
     },
     {
@@ -22440,7 +22471,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22476,7 +22507,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -22494,7 +22525,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22512,7 +22543,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787253098.380623,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
