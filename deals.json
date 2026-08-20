@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 17:54:38",
+  "last_check": "20/08/2026 18:30:10",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21626,9 +21626,45 @@
           "date": "2026-08-20T17:54:38.841992"
         }
       ]
+    },
+    "B0G613KGC2": {
+      "discovery_date": "2026-08-20T18:30:04.402282",
+      "price_history": [
+        {
+          "price": 7978.0,
+          "date": "2026-08-20T18:30:04.402282"
+        }
+      ]
+    },
+    "B0F7K1YRY4": {
+      "discovery_date": "2026-08-20T18:30:04.402282",
+      "price_history": [
+        {
+          "price": 7449.0,
+          "date": "2026-08-20T18:30:04.402282"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0G613KGC2",
+      "title": "Ar Condicionado Split Cassete Hitachi 4 Vias 36.000 Btus Frio 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Cassete-Hitachi-36-000/dp/B0G613KGC2",
+      "current_price": 7978.0,
+      "original_price": 9358.0,
+      "discount": 14.7,
+      "difference": 1380.0,
+      "criteria": [
+        "R$ 1380.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61j+IhwrAML._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1787250604.402288,
+      "is_new": true
+    },
     {
       "asin": "B0G52YJHL9",
       "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
@@ -21643,8 +21679,26 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
-      "discovery_ts": 1787248478.842,
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1787248478.841992,
+      "is_new": true
+    },
+    {
+      "asin": "B0F7K1YRY4",
+      "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
+      "current_price": 7449.0,
+      "original_price": 7999.0,
+      "discount": 6.9,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1787250604.402288,
       "is_new": true
     },
     {
@@ -21679,7 +21733,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1787244764.880483,
       "is_new": true
     },
@@ -21717,7 +21771,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21735,7 +21789,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -21753,7 +21807,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21772,7 +21826,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787244764.88049,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -21790,7 +21844,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -21886,24 +21940,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B61WJRY5",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787248478.842,
-      "discovery_ts": 1785515180.635022,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -21917,8 +21953,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0B61WJRY5",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -21935,7 +21989,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -21989,7 +22043,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -22009,6 +22063,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787240724.266105,
       "discovery_ts": 1784936763.261283,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.9,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.1,
+      "criteria": [
+        "R$ 775.1 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -22152,7 +22224,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22211,24 +22283,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CH8WH3VN",
-      "title": "Ventilador Philco PVT491 2 em 1 Maxx Force 8 Pás 174W 127V",
-      "link": "https://www.amazon.com.br/Ventilador-Philco-Force-Preto-PVT491/dp/B0CH8WH3VN",
-      "current_price": 132.04,
-      "original_price": 279.0,
-      "discount": 52.7,
-      "difference": 146.96,
-      "criteria": [
-        "52.7% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61cPXRAIcwL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_FAN]",
-      "last_seen": 1787227119.691095,
-      "discovery_ts": 1787225854.905687,
-      "is_new": false
-    },
-    {
       "asin": "6584004406",
       "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
       "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
@@ -22260,26 +22314,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1787218050.770928,
-      "is_new": false
-    },
-    {
-      "asin": "B07KYFQRXD",
-      "title": "MONDIAL Aparador de Pelos Super Groom 11, Preto/Prata, Bivolt - BG-05",
-      "link": "https://www.amazon.com.br/MONDIAL-Aparador-Pelos-Super-Bivolt/dp/B07KYFQRXD",
-      "current_price": 105.0,
-      "original_price": 219.9,
-      "discount": 52.3,
-      "difference": 114.9,
-      "criteria": [
-        "52.3% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/711eicqp4WL._AC_UL210_SR210,210_.jpg",
-      "category": "[HAIR_TRIMMER]",
-      "last_seen": 1787227119.691095,
-      "discovery_ts": 1787225854.905687,
       "is_new": false
     },
     {
@@ -22296,7 +22332,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22373,24 +22409,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFSRY7R8",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRY7R8",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787227119.691095,
-      "discovery_ts": 1786999306.204193,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -22458,7 +22476,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -22494,7 +22512,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787248478.842,
+      "last_seen": 1787250604.402288,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
