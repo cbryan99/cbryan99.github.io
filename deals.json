@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 13:40:57",
+  "last_check": "20/08/2026 14:21:30",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1045,6 +1045,10 @@
         {
           "price": 3448.0,
           "date": "2026-08-02T15:56:45.633008"
+        },
+        {
+          "price": 3398.99,
+          "date": "2026-08-20T14:21:28.397112"
         }
       ]
     },
@@ -21600,7 +21604,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1787230512.713835,
       "is_new": true
     },
@@ -21619,7 +21623,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
       "category": "[PRESSURE_WASHER]",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1787230512.713835,
       "is_new": true
     },
@@ -21637,8 +21641,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787230512.713842,
-      "discovery_ts": 1787230512.713842,
+      "last_seen": 1787235688.39712,
+      "discovery_ts": 1787230512.713835,
       "is_new": true
     },
     {
@@ -21673,8 +21677,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787233255.441367,
-      "discovery_ts": 1787233255.441367,
+      "last_seen": 1787235688.39712,
+      "discovery_ts": 1787233255.44136,
       "is_new": true
     },
     {
@@ -21692,8 +21696,27 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0CM3YVHMX",
+      "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
+      "current_price": 3398.99,
+      "original_price": 5799.0,
+      "discount": 41.4,
+      "difference": 2400.01,
+      "criteria": [
+        "41.4% OFF",
+        "R$ 2400.01 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787235688.39712,
+      "discovery_ts": 1784673560.96846,
       "is_new": false
     },
     {
@@ -21764,7 +21787,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21802,24 +21825,6 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1787220021.564492,
       "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
-      "asin": "B0DCBV1KTM",
-      "title": "Conjunto Sofá Duquesa Chesterfield 3 Lugares + 2 Poltronas Café",
-      "link": "https://www.amazon.com.br/Conjunto-Duquesa-Chesterfield-Lugares-Poltronas/dp/B0DCBV1KTM",
-      "current_price": 6323.17,
-      "original_price": 7367.8,
-      "discount": 14.2,
-      "difference": 1044.63,
-      "criteria": [
-        "R$ 1044.63 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71CvmXGtBjL._AC_UL210_SR210,210_.jpg",
-      "category": "[SOFA]",
-      "last_seen": 1787213067.725487,
-      "discovery_ts": 1787201319.346091,
       "is_new": false
     },
     {
@@ -21872,7 +21877,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22088,7 +22093,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22124,7 +22129,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22232,7 +22237,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787222514.700249,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -22268,7 +22273,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22340,7 +22345,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787235688.39712,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
