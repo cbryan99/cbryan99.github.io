@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 11:07:14",
+  "last_check": "20/08/2026 11:37:36",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21484,43 +21484,88 @@
           "date": "2026-08-20T11:07:10.778869"
         }
       ]
+    },
+    "B077FWP5M4": {
+      "discovery_date": "2026-08-20T11:37:34.905687",
+      "price_history": [
+        {
+          "price": 95.0,
+          "date": "2026-08-20T11:37:34.905687"
+        }
+      ]
+    },
+    "B0CH8WH3VN": {
+      "discovery_date": "2026-08-20T11:37:34.905687",
+      "price_history": [
+        {
+          "price": 132.04,
+          "date": "2026-08-20T11:37:34.905687"
+        }
+      ]
+    },
+    "B07KYFQRXD": {
+      "discovery_date": "2026-08-20T11:37:34.905687",
+      "price_history": [
+        {
+          "price": 105.0,
+          "date": "2026-08-20T11:37:34.905687"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CRTPF7CZ",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
+      "asin": "B077FWP5M4",
+      "title": "ELG, PWC-X4U/3M, PowerCube com Extensor USB, Filtro de Linha, Multiplicador 4 Tomadas Bivolt com 2 Portas USB 2.4A, Disjuntor Integrado de 10A, Cabo 3m, Cinza",
+      "link": "https://www.amazon.com.br/Multiplicador-Tomadas-Elg-PWC-X4U-3M/dp/B077FWP5M4",
+      "current_price": 95.0,
+      "original_price": 292.9,
+      "discount": 67.6,
+      "difference": 197.9,
       "criteria": [
-        "46.7% OFF"
+        "67.6% OFF"
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787220021.564492,
-      "discovery_ts": 1787218050.770928,
+      "badge": "67% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
+      "category": "[POWER_STRIP]",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1787225854.905695,
       "is_new": true
     },
     {
-      "asin": "B094X2N4HV",
-      "title": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
-      "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
-      "current_price": 178.99,
-      "original_price": 319.0,
-      "discount": 43.9,
-      "difference": 140.01,
+      "asin": "B0CH8WH3VN",
+      "title": "Ventilador Philco PVT491 2 em 1 Maxx Force 8 Pás 174W 127V",
+      "link": "https://www.amazon.com.br/Ventilador-Philco-Force-Preto-PVT491/dp/B0CH8WH3VN",
+      "current_price": 132.04,
+      "original_price": 279.0,
+      "discount": 52.7,
+      "difference": 146.96,
       "criteria": [
-        "43.9% OFF"
+        "52.7% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787224030.778876,
-      "discovery_ts": 1787218050.770928,
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cPXRAIcwL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1787225854.905695,
+      "is_new": true
+    },
+    {
+      "asin": "B07KYFQRXD",
+      "title": "MONDIAL Aparador de Pelos Super Groom 11, Preto/Prata, Bivolt - BG-05",
+      "link": "https://www.amazon.com.br/MONDIAL-Aparador-Pelos-Super-Bivolt/dp/B07KYFQRXD",
+      "current_price": 105.0,
+      "original_price": 219.9,
+      "discount": 52.3,
+      "difference": 114.9,
+      "criteria": [
+        "52.3% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/711eicqp4WL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_TRIMMER]",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1787225854.905695,
       "is_new": true
     },
     {
@@ -21556,26 +21601,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGM1PJMK",
-      "title": "Apple iPhone 16 (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
-      "current_price": 5110.0,
-      "original_price": 7799.0,
-      "discount": 34.5,
-      "difference": 2689.0,
-      "criteria": [
-        "R$ 2689.0 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787203068.137427,
-      "discovery_ts": 1786530504.605256,
       "is_new": false
     },
     {
@@ -21612,6 +21639,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787220021.564492,
       "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -21826,7 +21871,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787213067.725487,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -21867,6 +21912,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CRTPF7CZ",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787220021.564492,
+      "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
       "asin": "6584004406",
       "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
       "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
@@ -21880,8 +21943,26 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1786359737.45714,
+      "is_new": false
+    },
+    {
+      "asin": "B094X2N4HV",
+      "title": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
+      "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
+      "current_price": 178.99,
+      "original_price": 319.0,
+      "discount": 43.9,
+      "difference": 140.01,
+      "criteria": [
+        "43.9% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1787218050.770928,
       "is_new": false
     },
     {
@@ -21898,8 +21979,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1786950745.975533,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFSRY7R8",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRY7R8",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787225854.905695,
+      "discovery_ts": 1786999306.204193,
       "is_new": false
     },
     {
@@ -22006,7 +22105,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22024,7 +22123,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22096,7 +22195,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787224030.778876,
+      "last_seen": 1787225854.905695,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
