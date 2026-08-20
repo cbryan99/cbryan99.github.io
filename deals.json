@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 17:23:08",
+  "last_check": "20/08/2026 17:54:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20950,6 +20950,10 @@
         {
           "price": 6799.0,
           "date": "2026-08-15T13:07:01.459366"
+        },
+        {
+          "price": 6798.6,
+          "date": "2026-08-20T17:54:38.841992"
         }
       ]
     },
@@ -21613,9 +21617,36 @@
           "date": "2026-08-20T17:23:04.057702"
         }
       ]
+    },
+    "B0G52YJHL9": {
+      "discovery_date": "2026-08-20T17:54:38.841992",
+      "price_history": [
+        {
+          "price": 2699.65,
+          "date": "2026-08-20T17:54:38.841992"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0G52YJHL9",
+      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
+      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
+      "current_price": 2699.65,
+      "original_price": 3249.9,
+      "discount": 16.9,
+      "difference": 550.25,
+      "criteria": [
+        "R$ 550.25 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787248478.842,
+      "discovery_ts": 1787248478.842,
+      "is_new": true
+    },
     {
       "asin": "B0DB8VCNJZ",
       "title": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black Champagne",
@@ -21653,6 +21684,25 @@
       "is_new": true
     },
     {
+      "asin": "B0DSXZZH49",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
+      "current_price": 6798.6,
+      "original_price": 11999.0,
+      "discount": 43.3,
+      "difference": 5200.4,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 5200.4 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787248478.842,
+      "discovery_ts": 1786799221.459366,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -21667,7 +21717,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21703,7 +21753,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787242417.848819,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21740,7 +21790,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -21849,7 +21899,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21867,8 +21917,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787244764.88049,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787248478.842,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -21921,7 +21989,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787240724.266105,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -21976,7 +22044,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
       "category": "[PRESSURE_WASHER]",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -22084,7 +22152,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22102,7 +22170,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -22192,7 +22260,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22228,7 +22296,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787240724.266105,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22354,7 +22422,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787244764.88049,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22408,7 +22476,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787244764.88049,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22426,7 +22494,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787246584.057709,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22444,7 +22512,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787242417.848819,
+      "last_seen": 1787248478.842,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
