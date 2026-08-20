@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 05:50:15",
+  "last_check": "20/08/2026 06:35:23",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21448,6 +21448,15 @@
           "date": "2026-08-20T04:48:39.346091"
         }
       ]
+    },
+    "B0F8P8KKH1": {
+      "discovery_date": "2026-08-20T06:35:19.998627",
+      "price_history": [
+        {
+          "price": 919.9,
+          "date": "2026-08-20T06:35:19.998627"
+        }
+      ]
     }
   },
   "data": [
@@ -21465,26 +21474,26 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71CvmXGtBjL._AC_UL210_SR210,210_.jpg",
       "category": "[SOFA]",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1787201319.346091,
       "is_new": true
     },
     {
-      "asin": "B0DSCJ1C9S",
-      "title": "Samsonite Mala de Viagem Fiero 3.0",
-      "link": "https://www.amazon.com.br/Samsonite-Viagem-Fiero-Preta-Expans%C3%ADvel/dp/B0DSCJ1C9S",
-      "current_price": 799.9,
-      "original_price": 1100.0,
-      "discount": 27.3,
-      "difference": 300.1,
+      "asin": "B0F8P8KKH1",
+      "title": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (Preto)",
+      "link": "https://www.amazon.com.br/Infantil-El%C3%A9trico-Carrinho-Controle-Remoto/dp/B0F8P8KKH1",
+      "current_price": 919.9,
+      "original_price": 1499.9,
+      "discount": 38.7,
+      "difference": 580.0,
       "criteria": [
-        "R$ 300.1 desc."
+        "R$ 580.0 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/417ak69+jxL._AC_UL210_SR210,210_.jpg",
-      "category": "[SUITCASE]",
-      "last_seen": 1787198473.977532,
-      "discovery_ts": 1787198473.977532,
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ydB+Bt-cL._AC_UL210_SR210,210_.jpg",
+      "category": "[RIDE_ON_TOY]",
+      "last_seen": 1787207719.998634,
+      "discovery_ts": 1787207719.998634,
       "is_new": true
     },
     {
@@ -21520,26 +21529,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0CHXPC5G9",
-      "title": "Apple iPhone 15 (128 GB) — Amarelo",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CHXPC5G9",
-      "current_price": 4499.0,
-      "original_price": 7299.0,
-      "discount": 38.4,
-      "difference": 2800.0,
-      "criteria": [
-        "R$ 2800.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41iBy6do6ZL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787183666.670153,
-      "discovery_ts": 1786661270.6714,
       "is_new": false
     },
     {
@@ -21610,7 +21601,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786603677.200311,
       "is_new": false
     },
@@ -21664,7 +21655,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -21687,6 +21678,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DSCJ1C9S",
+      "title": "Samsonite Mala de Viagem Fiero 3.0",
+      "link": "https://www.amazon.com.br/Samsonite-Viagem-Fiero-Preta-Expans%C3%ADvel/dp/B0DSCJ1C9S",
+      "current_price": 799.9,
+      "original_price": 1100.0,
+      "discount": 27.3,
+      "difference": 300.1,
+      "criteria": [
+        "R$ 300.1 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417ak69+jxL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUITCASE]",
+      "last_seen": 1787198473.977532,
+      "discovery_ts": 1787198473.977532,
+      "is_new": false
+    },
+    {
       "asin": "B0FVPLDKKG",
       "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
@@ -21700,26 +21709,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
-      "asin": "B0GWW2J4F3",
-      "title": "Notebook Dell 15 DC15-I51334U-M70 15.6\" Full HD 13ª Gen Intel Core i5 16GB 512GB SSD Win 11 Preto Carbono",
-      "link": "https://www.amazon.com.br/Notebook-Dell-DC15-I51334U-M70-Intel-Carbono/dp/B0GWW2J4F3",
-      "current_price": 4999.0,
-      "original_price": 5299.0,
-      "discount": 5.7,
-      "difference": 300.0,
+      "asin": "B0CZBM7728",
+      "title": "ELG, SHCI603, Câmera interna 1080P Full HD Inteligente Wi-Fi com Botão SOS, Áudio Bidirecional, Visão Noturna e Detecção de Movimentos, Branco",
+      "link": "https://www.amazon.com.br/interna-Inteligente-Bidirecional-Detec%C3%A7%C3%A3o-Movimentos/dp/B0CZBM7728",
+      "current_price": 89.0,
+      "original_price": 290.0,
+      "discount": 69.3,
+      "difference": 201.0,
       "criteria": [
-        "R$ 300.0 desc."
+        "69.3% OFF"
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787183666.670153,
-      "discovery_ts": 1786982691.468981,
+      "badge": "69% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
+      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
+      "last_seen": 1787207719.998634,
+      "discovery_ts": 1785655214.729552,
       "is_new": false
     },
     {
@@ -21790,7 +21799,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1787125946.603356,
       "is_new": false
     },
@@ -21880,7 +21889,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -21898,7 +21907,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21916,7 +21925,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21952,7 +21961,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21988,7 +21997,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22006,7 +22015,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787205015.837332,
+      "last_seen": 1787207719.998634,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
