@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 22:03:25",
+  "last_check": "20/08/2026 22:39:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21693,9 +21693,54 @@
           "date": "2026-08-20T21:45:44.029138"
         }
       ]
+    },
+    "B0GQW5WSNJ": {
+      "discovery_date": "2026-08-20T22:39:28.987579",
+      "price_history": [
+        {
+          "price": 7099.0,
+          "date": "2026-08-20T22:39:28.987579"
+        }
+      ]
+    },
+    "B0D47Z9ZNW": {
+      "discovery_date": "2026-08-20T22:39:28.987579",
+      "price_history": [
+        {
+          "price": 2990.15,
+          "date": "2026-08-20T22:39:28.987579"
+        }
+      ]
+    },
+    "B0FJHZWJ3V": {
+      "discovery_date": "2026-08-20T22:39:28.987579",
+      "price_history": [
+        {
+          "price": 909.9,
+          "date": "2026-08-20T22:39:28.987579"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GQW5WSNJ",
+      "title": "Apple iPhone 17 de 512 GB — Lavanda",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-GB/dp/B0GQW5WSNJ",
+      "current_price": 7099.0,
+      "original_price": 9499.0,
+      "discount": 25.3,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41UGaIt6TnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1787265568.987586,
+      "is_new": true
+    },
     {
       "asin": "B0F6NQY99G",
       "title": "Samsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
@@ -21716,39 +21761,39 @@
       "is_new": true
     },
     {
-      "asin": "B0D9P9V38B",
-      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0D9P9V38B",
-      "current_price": 5198.99,
-      "original_price": 6099.0,
-      "discount": 14.8,
-      "difference": 900.01,
+      "asin": "B0D47Z9ZNW",
+      "title": "Cadeirinha Maxi-Cosi, Spinel Plus, 0 a 36kg, com Giro 360°, Authentic Black",
+      "link": "https://www.amazon.com.br/Maxi-Cosi-Cadeirinha-Spinel-Authentic-Graphite/dp/B0D47Z9ZNW",
+      "current_price": 2990.15,
+      "original_price": 3699.0,
+      "discount": 19.2,
+      "difference": 708.85,
       "criteria": [
-        "R$ 900.01 desc."
+        "R$ 708.85 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787263405.733489,
-      "discovery_ts": 1787256698.854804,
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
+      "category": "[INFANT_TODDLER_CAR_SEAT]",
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1787265568.987586,
       "is_new": true
     },
     {
-      "asin": "B0DWV5Z7LC",
-      "title": "Smart TV 58\" Philco LED 4K Google TV HDR10 P58KGA",
-      "link": "https://www.amazon.com.br/Smart-Philco-Google-HDR10-P58KGA/dp/B0DWV5Z7LC",
-      "current_price": 2399.91,
-      "original_price": 2999.9,
-      "discount": 20.0,
-      "difference": 599.99,
+      "asin": "B0FJHZWJ3V",
+      "title": "Frigobar 93 Litros Inverter Bivolt Preto com Porta na Cor Inox, Midea",
+      "link": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Midea/dp/B0FJHZWJ3V",
+      "current_price": 909.9,
+      "original_price": 1349.0,
+      "discount": 32.6,
+      "difference": 439.1,
       "criteria": [
-        "R$ 599.99 desc."
+        "R$ 439.1 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787258928.489872,
-      "discovery_ts": 1787256698.854804,
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZyKtoJUDL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1787265568.987586,
       "is_new": true
     },
     {
@@ -21803,7 +21848,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21821,7 +21866,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -21839,7 +21884,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21878,6 +21923,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787263405.733489,
       "discovery_ts": 1786459242.546747,
+      "is_new": false
+    },
+    {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -21950,7 +22013,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -22004,7 +22067,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22022,7 +22085,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22040,7 +22103,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -22076,7 +22139,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787260379.236168,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -22099,6 +22162,24 @@
       "is_new": false
     },
     {
+      "asin": "B0D9P9V38B",
+      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0D9P9V38B",
+      "current_price": 5198.99,
+      "original_price": 6099.0,
+      "discount": 14.8,
+      "difference": 900.01,
+      "criteria": [
+        "R$ 900.01 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787263405.733489,
+      "discovery_ts": 1787256698.854804,
+      "is_new": false
+    },
+    {
       "asin": "B0G22R3QLT",
       "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
@@ -22112,7 +22193,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -22148,7 +22229,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22184,7 +22265,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22244,6 +22325,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DWV5Z7LC",
+      "title": "Smart TV 58\" Philco LED 4K Google TV HDR10 P58KGA",
+      "link": "https://www.amazon.com.br/Smart-Philco-Google-HDR10-P58KGA/dp/B0DWV5Z7LC",
+      "current_price": 2399.91,
+      "original_price": 2999.9,
+      "discount": 20.0,
+      "difference": 599.99,
+      "criteria": [
+        "R$ 599.99 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787258928.489872,
+      "discovery_ts": 1787256698.854804,
+      "is_new": false
+    },
+    {
       "asin": "B0G52YJHL9",
       "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
       "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
@@ -22293,8 +22392,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61u1kzupvDL._AC_UL210_SR210,210_.jpg",
       "category": "[STROLLER]",
-      "last_seen": 1787246584.057709,
-      "discovery_ts": 1787246584.057709,
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1787246584.057702,
       "is_new": false
     },
     {
@@ -22347,8 +22446,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786421114.339604,
+      "is_new": false
+    },
+    {
+      "asin": "B0GWWLV9RV",
+      "title": "Notebook Dell 15 DC15-I51334U-U70 15.6\" Full HD 13ª Gen Intel Core i5 16GB 512GB SSD Linux Preto Carbono",
+      "link": "https://www.amazon.com.br/Notebook-Dell-DC15-I51334U-U70-Intel-Carbono/dp/B0GWWLV9RV",
+      "current_price": 4698.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
+      "difference": 301.0,
+      "criteria": [
+        "R$ 301.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787265568.987586,
+      "discovery_ts": 1786375816.118134,
       "is_new": false
     },
     {
@@ -22365,7 +22482,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -22455,7 +22572,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22581,7 +22698,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22635,7 +22752,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787263405.733489,
+      "last_seen": 1787265568.987586,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
