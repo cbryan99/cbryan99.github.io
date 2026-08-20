@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 03:11:35",
+  "last_check": "20/08/2026 04:01:17",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21421,9 +21421,36 @@
           "date": "2026-08-19T19:47:59.591191"
         }
       ]
+    },
+    "B0DSCJ1C9S": {
+      "discovery_date": "2026-08-20T04:01:13.977524",
+      "price_history": [
+        {
+          "price": 799.9,
+          "date": "2026-08-20T04:01:13.977524"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DSCJ1C9S",
+      "title": "Samsonite Mala de Viagem Fiero 3.0",
+      "link": "https://www.amazon.com.br/Samsonite-Viagem-Fiero-Preta-Expans%C3%ADvel/dp/B0DSCJ1C9S",
+      "current_price": 799.9,
+      "original_price": 1100.0,
+      "discount": 27.3,
+      "difference": 300.1,
+      "criteria": [
+        "R$ 300.1 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417ak69+jxL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUITCASE]",
+      "last_seen": 1787198473.977532,
+      "discovery_ts": 1787198473.977532,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -21439,7 +21466,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21548,7 +21575,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786603677.200311,
       "is_new": false
     },
@@ -21620,7 +21647,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -21656,7 +21683,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -21692,7 +21719,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -21710,8 +21737,44 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786950745.975533,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGTKZ2S1",
+      "title": "Bebedouro para Gatos, 3L Fonte Gato Inox Comedouros, Bebedouros e Acessorios para Gatos, Silenciosa, Bivolt",
+      "link": "https://www.amazon.com.br/Bebedouro-Comedouros-Bebedouros-Acessorios-Silenciosa/dp/B0DGTKZ2S1",
+      "current_price": 100.34,
+      "original_price": 178.0,
+      "discount": 43.6,
+      "difference": 77.66,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61EJXP1YreL._AC_UL210_SR210,210_.jpg",
+      "category": "[ANIMAL_WATER_DISPENSER]",
+      "last_seen": 1787198473.977532,
+      "discovery_ts": 1786359737.45714,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFT97SDN",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787198473.977532,
+      "discovery_ts": 1785319165.213328,
       "is_new": false
     },
     {
@@ -21769,42 +21832,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT97SDN",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787180973.796348,
-      "discovery_ts": 1785319165.213328,
-      "is_new": false
-    },
-    {
-      "asin": "B0BFSYQHCX",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSYQHCX",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787176566.956673,
-      "discovery_ts": 1787002543.355604,
-      "is_new": false
-    },
-    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -21818,7 +21845,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21836,7 +21863,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21854,7 +21881,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51wlcSTwZsL._AC_UL210_SR210,210_.jpg",
       "category": "[BATTERY]",
-      "last_seen": 1787175336.025183,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786973034.100232,
       "is_new": false
     },
@@ -21872,7 +21899,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21890,7 +21917,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ZzxtsCXmL._AC_UL210_SR210,210_.jpg",
       "category": "[WRITING_INSTRUMENT]",
-      "last_seen": 1787192045.759236,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -21908,7 +21935,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -21926,7 +21953,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787195490.070822,
+      "last_seen": 1787198473.977532,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
