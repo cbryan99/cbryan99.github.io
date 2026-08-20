@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 14:21:30",
+  "last_check": "20/08/2026 15:03:06",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21569,98 +21569,61 @@
           "date": "2026-08-20T13:40:55.441360"
         }
       ]
+    },
+    "B0GQZFF9VC": {
+      "discovery_date": "2026-08-20T15:02:56.703387",
+      "price_history": [
+        {
+          "price": 1649.98,
+          "date": "2026-08-20T15:02:56.703387"
+        }
+      ]
+    },
+    "B088C4QZV2": {
+      "discovery_date": "2026-08-20T15:02:56.703387",
+      "price_history": [
+        {
+          "price": 28.54,
+          "date": "2026-08-20T15:02:56.703387"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FCSSQ57K",
-      "title": "Ar Condicionado Split Hi Wall Convencional Tcl 22000 Btus Quente e Frio A2 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Convencional-22000-Quente/dp/B0FCSSQ57K",
-      "current_price": 2848.99,
-      "original_price": 4369.0,
-      "discount": 34.8,
-      "difference": 1520.01,
+      "asin": "B0GQZFF9VC",
+      "title": "Frigobar Brastemp Retrô 76 Litros Classic White - BRA08MB (110, Volts)",
+      "link": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GQZFF9VC",
+      "current_price": 1649.98,
+      "original_price": 2129.0,
+      "discount": 22.5,
+      "difference": 479.02,
       "criteria": [
-        "R$ 1520.01 desc."
+        "R$ 479.02 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/515wJXZSUKL._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5145MQyMlBL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787230512.713842,
-      "discovery_ts": 1787230512.713842,
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1787238176.703393,
       "is_new": true
     },
     {
-      "asin": "B0GL3B4FZ8",
-      "title": "Brastemp Geladeira BRE66AK Frost Free Inverse 500L 70,5 x 74 x 194,3 cm Inox com Inteligência Artificial Xpert Inverter 2 Portas",
-      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRE66AK-Litros-Brastemp/dp/B0GL3B4FZ8",
-      "current_price": 4199.0,
-      "original_price": 5144.0,
-      "discount": 18.4,
-      "difference": 945.0,
+      "asin": "B088C4QZV2",
+      "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
+      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
+      "current_price": 28.54,
+      "original_price": 99.0,
+      "discount": 71.2,
+      "difference": 70.46,
       "criteria": [
-        "R$ 945.0 desc."
+        "71.2% OFF"
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787235688.39712,
-      "discovery_ts": 1787230512.713835,
-      "is_new": true
-    },
-    {
-      "asin": "B076QCW9T6",
-      "title": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 220V",
-      "link": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QCW9T6",
-      "current_price": 689.0,
-      "original_price": 1359.9,
-      "discount": 49.3,
-      "difference": 670.9,
-      "criteria": [
-        "49.3% OFF",
-        "R$ 670.9 desc."
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
-      "category": "[PRESSURE_WASHER]",
-      "last_seen": 1787235688.39712,
-      "discovery_ts": 1787230512.713835,
-      "is_new": true
-    },
-    {
-      "asin": "B0GYQ3L2FT",
-      "title": "Smart TV TCL 65 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 65A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65A400M/dp/B0GYQ3L2FT",
-      "current_price": 4698.99,
-      "original_price": 5034.05,
-      "discount": 6.7,
-      "difference": 335.06,
-      "criteria": [
-        "R$ 335.06 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787235688.39712,
-      "discovery_ts": 1787230512.713835,
-      "is_new": true
-    },
-    {
-      "asin": "B0CKKDCFHS",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0CKKDCFHS",
-      "current_price": 89.9,
-      "original_price": 165.0,
-      "discount": 45.5,
-      "difference": 75.1,
-      "criteria": [
-        "45.5% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787230512.713842,
-      "discovery_ts": 1787230512.713842,
+      "badge": "71% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIGHT_BULB]",
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1787238176.703393,
       "is_new": true
     },
     {
@@ -21677,7 +21640,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1787233255.44136,
       "is_new": true
     },
@@ -21696,7 +21659,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21720,6 +21683,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJV247C",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
@@ -21738,21 +21719,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
+      "asin": "B0FCSSQ57K",
+      "title": "Ar Condicionado Split Hi Wall Convencional Tcl 22000 Btus Quente e Frio A2 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Convencional-22000-Quente/dp/B0FCSSQ57K",
+      "current_price": 2848.99,
+      "original_price": 4369.0,
+      "discount": 34.8,
+      "difference": 1520.01,
       "criteria": [
-        "R$ 1750.0 desc."
+        "R$ 1520.01 desc."
       ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787224030.778876,
-      "discovery_ts": 1786415879.781815,
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515wJXZSUKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
       "is_new": false
     },
     {
@@ -21774,24 +21755,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B61WJRY5",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787235688.39712,
-      "discovery_ts": 1785515180.635022,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -21805,8 +21768,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787227119.691095,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0B61WJRY5",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -21825,6 +21806,24 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1787220021.564492,
       "discovery_ts": 1785460545.090896,
+      "is_new": false
+    },
+    {
+      "asin": "B0GL3B4FZ8",
+      "title": "Brastemp Geladeira BRE66AK Frost Free Inverse 500L 70,5 x 74 x 194,3 cm Inox com Inteligência Artificial Xpert Inverter 2 Portas",
+      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRE66AK-Litros-Brastemp/dp/B0GL3B4FZ8",
+      "current_price": 4199.0,
+      "original_price": 5144.0,
+      "discount": 18.4,
+      "difference": 945.0,
+      "criteria": [
+        "R$ 945.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787235688.39712,
+      "discovery_ts": 1787230512.713835,
       "is_new": false
     },
     {
@@ -21877,8 +21876,27 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B076QCW9T6",
+      "title": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 220V",
+      "link": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QCW9T6",
+      "current_price": 689.0,
+      "original_price": 1359.9,
+      "discount": 49.3,
+      "difference": 670.9,
+      "criteria": [
+        "49.3% OFF",
+        "R$ 670.9 desc."
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRESSURE_WASHER]",
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1787230512.713835,
       "is_new": false
     },
     {
@@ -21895,7 +21913,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1787215913.528506,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -21918,39 +21936,39 @@
       "is_new": false
     },
     {
-      "asin": "B0H4RLZX5V",
-      "title": "NEWPET Caixa De Areia Autolimpante Com Tampa Aberta, Caixa De Areia Automática Com Sensores De Segurança, Proteção Anti-Esmagamento E Degrau De Fácil Acesso Para Gatos Idosos",
-      "link": "https://www.amazon.com.br/NEWPET-Autolimpante-Autom%C3%A1tica-Seguran%C3%A7a-Anti-Esmagamento/dp/B0H4RLZX5V",
-      "current_price": 854.02,
-      "original_price": 1299.0,
-      "discount": 34.3,
-      "difference": 444.98,
+      "asin": "B0FPBPDWZQ",
+      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
+      "current_price": 3198.9,
+      "original_price": 3535.9,
+      "discount": 9.5,
+      "difference": 337.0,
       "criteria": [
-        "R$ 444.98 desc."
+        "R$ 337.0 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-nviMYCXL._AC_UL210_SR210,210_.jpg",
-      "category": "[LITTER_BOX]",
-      "last_seen": 1787215913.528506,
-      "discovery_ts": 1787045519.33669,
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787238176.703393,
+      "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
-      "asin": "B0BBMRF9ZX",
-      "title": "Bolsa de Transporte Rolling Massive Mouth® XL",
-      "link": "https://www.amazon.com.br/Bolsa-Transporte-Rolling-Massive-Mouth%C2%AE/dp/B0BBMRF9ZX",
-      "current_price": 1314.89,
-      "original_price": 1695.2,
-      "discount": 22.4,
-      "difference": 380.31,
+      "asin": "B0GYQ3L2FT",
+      "title": "Smart TV TCL 65 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 65A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65A400M/dp/B0GYQ3L2FT",
+      "current_price": 4698.99,
+      "original_price": 5034.05,
+      "discount": 6.7,
+      "difference": 335.06,
       "criteria": [
-        "R$ 380.31 desc."
+        "R$ 335.06 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UHc8hyIDL._AC_UL210_SR210,210_.jpg",
-      "category": "[SUITCASE]",
-      "last_seen": 1787215913.528506,
-      "discovery_ts": 1787039397.988103,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787235688.39712,
+      "discovery_ts": 1787230512.713835,
       "is_new": false
     },
     {
@@ -22093,7 +22111,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22152,6 +22170,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CKKDCFHS",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0CKKDCFHS",
+      "current_price": 89.9,
+      "original_price": 165.0,
+      "discount": 45.5,
+      "difference": 75.1,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787230512.713842,
+      "discovery_ts": 1787230512.713842,
+      "is_new": false
+    },
+    {
       "asin": "B0BFSRY7R8",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRY7R8",
@@ -22206,24 +22242,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFSNZHSF",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSNZHSF",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787215913.528506,
-      "discovery_ts": 1787000690.318426,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -22237,7 +22255,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -22255,7 +22273,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787233255.441367,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22273,7 +22291,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22309,7 +22327,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787230512.713842,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22345,7 +22363,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787235688.39712,
+      "last_seen": 1787238176.703393,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22365,24 +22383,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1787233255.441367,
       "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B007KWR1N0",
-      "title": "Pentel Lapiseira Técnica Graphgear 500 0.9mm SM/PG529-N",
-      "link": "https://www.amazon.com.br/Lapiseira-Graphgear-PG529-cinza-unid/dp/B007KWR1N0",
-      "current_price": 27.44,
-      "original_price": 46.65,
-      "discount": 41.2,
-      "difference": 19.21,
-      "criteria": [
-        "41.2% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5197KHMqOmL._AC_UL210_SR210,210_.jpg",
-      "category": "[WRITING_INSTRUMENT]",
-      "last_seen": 1787215913.528506,
-      "discovery_ts": 1787128152.678584,
       "is_new": false
     }
   ]
