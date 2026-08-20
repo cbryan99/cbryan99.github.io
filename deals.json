@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 19:48:02",
+  "last_check": "20/08/2026 20:11:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21657,6 +21657,24 @@
           "date": "2026-08-20T19:11:38.380616"
         }
       ]
+    },
+    "B0DWV5Z7LC": {
+      "discovery_date": "2026-08-20T20:11:38.854804",
+      "price_history": [
+        {
+          "price": 2399.91,
+          "date": "2026-08-20T20:11:38.854804"
+        }
+      ]
+    },
+    "B0D9P9V38B": {
+      "discovery_date": "2026-08-20T20:11:38.854804",
+      "price_history": [
+        {
+          "price": 5198.99,
+          "date": "2026-08-20T20:11:38.854804"
+        }
+      ]
     }
   },
   "data": [
@@ -21679,6 +21697,24 @@
       "is_new": true
     },
     {
+      "asin": "B0D9P9V38B",
+      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0D9P9V38B",
+      "current_price": 5198.99,
+      "original_price": 6099.0,
+      "discount": 14.8,
+      "difference": 900.01,
+      "criteria": [
+        "R$ 900.01 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787256698.854812,
+      "discovery_ts": 1787256698.854812,
+      "is_new": true
+    },
+    {
       "asin": "B0DZJR4G1T",
       "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
       "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
@@ -21692,26 +21728,26 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1787253098.380616,
       "is_new": true
     },
     {
-      "asin": "B0G52YJHL9",
-      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
-      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
-      "current_price": 2699.65,
-      "original_price": 3249.9,
-      "discount": 16.9,
-      "difference": 550.25,
+      "asin": "B0DWV5Z7LC",
+      "title": "Smart TV 58\" Philco LED 4K Google TV HDR10 P58KGA",
+      "link": "https://www.amazon.com.br/Smart-Philco-Google-HDR10-P58KGA/dp/B0DWV5Z7LC",
+      "current_price": 2399.91,
+      "original_price": 2999.9,
+      "discount": 20.0,
+      "difference": 599.99,
       "criteria": [
-        "R$ 550.25 desc."
+        "R$ 599.99 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
-      "discovery_ts": 1787248478.841992,
+      "last_seen": 1787256698.854812,
+      "discovery_ts": 1787256698.854812,
       "is_new": true
     },
     {
@@ -21766,7 +21802,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21802,7 +21838,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787250604.402288,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21821,7 +21857,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -21839,7 +21875,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -21912,7 +21948,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -21930,7 +21966,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22056,7 +22092,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787242417.848819,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22113,6 +22149,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787240724.266105,
       "discovery_ts": 1786806056.850538,
+      "is_new": false
+    },
+    {
+      "asin": "B0G52YJHL9",
+      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
+      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
+      "current_price": 2699.65,
+      "original_price": 3249.9,
+      "discount": 16.9,
+      "difference": 550.25,
+      "criteria": [
+        "R$ 550.25 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787250604.402288,
+      "discovery_ts": 1787248478.841992,
       "is_new": false
     },
     {
@@ -22219,7 +22273,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22327,7 +22381,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22345,7 +22399,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787253098.380623,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22381,7 +22435,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787242417.848819,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -22435,7 +22489,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22453,7 +22507,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22489,7 +22543,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22507,7 +22561,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787256698.854812,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
