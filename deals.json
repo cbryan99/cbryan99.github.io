@@ -1,5 +1,5 @@
 {
-  "last_check": "20/08/2026 04:01:17",
+  "last_check": "20/08/2026 04:48:39",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21430,9 +21430,45 @@
           "date": "2026-08-20T04:01:13.977524"
         }
       ]
+    },
+    "B0DCBV1KTM": {
+      "discovery_date": "2026-08-20T04:48:39.346091",
+      "price_history": [
+        {
+          "price": 6323.17,
+          "date": "2026-08-20T04:48:39.346091"
+        }
+      ]
+    },
+    "B0CBL5TSKJ": {
+      "discovery_date": "2026-08-20T04:48:39.346091",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-08-20T04:48:39.346091"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DCBV1KTM",
+      "title": "Conjunto Sofá Duquesa Chesterfield 3 Lugares + 2 Poltronas Café",
+      "link": "https://www.amazon.com.br/Conjunto-Duquesa-Chesterfield-Lugares-Poltronas/dp/B0DCBV1KTM",
+      "current_price": 6323.17,
+      "original_price": 7367.8,
+      "discount": 14.2,
+      "difference": 1044.63,
+      "criteria": [
+        "R$ 1044.63 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71CvmXGtBjL._AC_UL210_SR210,210_.jpg",
+      "category": "[SOFA]",
+      "last_seen": 1787201319.346099,
+      "discovery_ts": 1787201319.346099,
+      "is_new": true
+    },
     {
       "asin": "B0DSCJ1C9S",
       "title": "Samsonite Mala de Viagem Fiero 3.0",
@@ -21452,6 +21488,24 @@
       "is_new": true
     },
     {
+      "asin": "B0CBL5TSKJ",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Green/dp/B0CBL5TSKJ",
+      "current_price": 89.9,
+      "original_price": 165.0,
+      "discount": 45.5,
+      "difference": 75.1,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41eSOxcXg6L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787201319.346099,
+      "discovery_ts": 1787201319.346099,
+      "is_new": true
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -21466,7 +21520,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21526,6 +21580,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787201319.346099,
+      "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -21544,24 +21616,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJV247C",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
-      "current_price": 6949.0,
-      "original_price": 8699.0,
-      "discount": 20.1,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787180973.796348,
-      "discovery_ts": 1786425512.309444,
-      "is_new": false
-    },
-    {
       "asin": "B0FTZSMH28",
       "title": "Notebook ASUS Vivobook S14 IA PC, Core Ultra 7, 16 GB, 512 GB, Linux, 14'' Nivel IPS 60Hz, Matte Gray - S3407CA-LY121",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ultra-Linux/dp/B0FTZSMH28",
@@ -21575,7 +21629,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786603677.200311,
       "is_new": false
     },
@@ -21647,7 +21701,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -21683,7 +21737,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -21737,7 +21791,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -21755,7 +21809,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61EJXP1YreL._AC_UL210_SR210,210_.jpg",
       "category": "[ANIMAL_WATER_DISPENSER]",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -21832,6 +21886,24 @@
       "is_new": false
     },
     {
+      "asin": "B0D9YTZ8CR",
+      "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
+      "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
+      "current_price": 95.0,
+      "original_price": 159.99,
+      "discount": 40.6,
+      "difference": 64.99,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787201319.346099,
+      "discovery_ts": 1786545939.667506,
+      "is_new": false
+    },
+    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -21845,7 +21917,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -21863,7 +21935,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -21899,7 +21971,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -21935,7 +22007,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -21953,7 +22025,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787198473.977532,
+      "last_seen": 1787201319.346099,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
