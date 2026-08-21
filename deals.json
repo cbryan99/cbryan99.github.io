@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 02:25:01",
+  "last_check": "21/08/2026 03:28:55",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1504,6 +1504,10 @@
         {
           "price": 5699.0,
           "date": "2026-07-28T03:10:31.358935"
+        },
+        {
+          "price": 5599.0,
+          "date": "2026-08-21T03:28:47.326266"
         }
       ]
     },
@@ -21773,44 +21777,61 @@
           "date": "2026-08-21T02:24:49.188437"
         }
       ]
+    },
+    "B0GYQ2PLW3": {
+      "discovery_date": "2026-08-21T03:28:47.326266",
+      "price_history": [
+        {
+          "price": 3499.0,
+          "date": "2026-08-21T03:28:47.326266"
+        }
+      ]
+    },
+    "B07MTPJ7RZ": {
+      "discovery_date": "2026-08-21T03:28:47.326266",
+      "price_history": [
+        {
+          "price": 140.68,
+          "date": "2026-08-21T03:28:47.326266"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DSY663DK",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
-      "current_price": 6798.6,
-      "original_price": 11999.0,
-      "discount": 43.3,
-      "difference": 5200.4,
+      "asin": "B0GYQ2PLW3",
+      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
+      "current_price": 3499.0,
+      "original_price": 4299.0,
+      "discount": 18.6,
+      "difference": 800.0,
       "criteria": [
-        "43.3% OFF",
-        "R$ 5200.4 desc."
+        "R$ 800.0 desc."
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1787273955.560495,
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1787282927.326272,
       "is_new": true
     },
     {
-      "asin": "B0F85LVW2W",
-      "title": "Notebook ASUS Vivobook 15 X1504VA Intel Core i5 1334U 8Gb Ram 256GB SSD Linux KeepOS Intel Iris Xe Tela 15,6\" LED FHD Silver - NJ1739",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1504VA-KeepOS/dp/B0F85LVW2W",
-      "current_price": 3249.0,
-      "original_price": 3699.0,
-      "discount": 12.2,
-      "difference": 450.0,
+      "asin": "B07MTPJ7RZ",
+      "title": "Granado Colônia, Vintage, Verbena, 300ml",
+      "link": "https://www.amazon.com.br/Verbena-Granado-Col%C3%B4nia-Unissex-300ml/dp/B07MTPJ7RZ",
+      "current_price": 140.68,
+      "original_price": 245.0,
+      "discount": 42.6,
+      "difference": 104.32,
       "criteria": [
-        "R$ 450.0 desc."
+        "42.6% OFF"
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71j3eTv3K7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
-      "discovery_ts": 1787273955.560503,
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ht5b3NiiL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1787282927.326272,
       "is_new": true
     },
     {
@@ -21830,6 +21851,25 @@
       "last_seen": 1787279089.188444,
       "discovery_ts": 1787279089.188444,
       "is_new": true
+    },
+    {
+      "asin": "B0DSY663DK",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
+      "current_price": 6798.6,
+      "original_price": 11999.0,
+      "discount": 43.3,
+      "difference": 5200.4,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 5200.4 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1787273955.560495,
+      "is_new": false
     },
     {
       "asin": "B0DSXZZH49",
@@ -21920,7 +21960,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -21962,6 +22002,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1784830133.087011,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFVKKWT",
       "title": "Apple iPhone 16 (256 GB) – Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
@@ -21998,6 +22056,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJV247C",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
@@ -22013,24 +22089,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787279089.188444,
       "discovery_ts": 1786425512.309444,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
-      "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
@@ -22108,24 +22166,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0B61WJRY5",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
@@ -22139,8 +22179,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -22283,7 +22341,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22342,25 +22400,6 @@
       "is_new": false
     },
     {
-      "asin": "B076QCW9T6",
-      "title": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 220V",
-      "link": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QCW9T6",
-      "current_price": 689.0,
-      "original_price": 1359.9,
-      "discount": 49.3,
-      "difference": 670.9,
-      "criteria": [
-        "49.3% OFF",
-        "R$ 670.9 desc."
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
-      "category": "[PRESSURE_WASHER]",
-      "last_seen": 1787260379.236168,
-      "discovery_ts": 1787230512.713835,
-      "is_new": false
-    },
-    {
       "asin": "B0C7H3P3C8",
       "title": "Forno à Gás de Embutir Stelar 46 litros Topázio Preto 127v",
       "link": "https://www.amazon.com.br/Forno-Embutir-Stelar-Top%C3%A1zio-Litros/dp/B0C7H3P3C8",
@@ -22374,7 +22413,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1787260379.236168,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -22466,6 +22505,24 @@
       "category": "[STROLLER]",
       "last_seen": 1787279089.188444,
       "discovery_ts": 1787246584.057702,
+      "is_new": false
+    },
+    {
+      "asin": "B0F85LVW2W",
+      "title": "Notebook ASUS Vivobook 15 X1504VA Intel Core i5 1334U 8Gb Ram 256GB SSD Linux KeepOS Intel Iris Xe Tela 15,6\" LED FHD Silver - NJ1739",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-X1504VA-KeepOS/dp/B0F85LVW2W",
+      "current_price": 3249.0,
+      "original_price": 3699.0,
+      "discount": 12.2,
+      "difference": 450.0,
+      "criteria": [
+        "R$ 450.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71j3eTv3K7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787273955.560503,
+      "discovery_ts": 1787273955.560503,
       "is_new": false
     },
     {
@@ -22631,6 +22688,24 @@
       "is_new": false
     },
     {
+      "asin": "6584004406",
+      "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
+      "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
+      "current_price": 164.9,
+      "original_price": 309.9,
+      "discount": 46.8,
+      "difference": 145.0,
+      "criteria": [
+        "46.8% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1786359737.45714,
+      "is_new": false
+    },
+    {
       "asin": "B094X2N4HV",
       "title": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
       "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
@@ -22644,7 +22719,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22685,6 +22760,24 @@
       "is_new": false
     },
     {
+      "asin": "B088C4QZV2",
+      "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
+      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
+      "current_price": 28.54,
+      "original_price": 99.0,
+      "discount": 71.2,
+      "difference": 70.46,
+      "criteria": [
+        "71.2% OFF"
+      ],
+      "badge": "71% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIGHT_BULB]",
+      "last_seen": 1787282927.326272,
+      "discovery_ts": 1787238176.703387,
+      "is_new": false
+    },
+    {
       "asin": "B0BFT97SDN",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
@@ -22703,24 +22796,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFSRV5KM",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRV5KM",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787258928.489872,
-      "discovery_ts": 1787068104.940879,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -22734,7 +22809,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787260379.236168,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -22752,7 +22827,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22770,7 +22845,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22806,7 +22881,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22824,7 +22899,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22842,7 +22917,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787270127.527975,
+      "last_seen": 1787282927.326272,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
