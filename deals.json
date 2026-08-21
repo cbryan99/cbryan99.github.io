@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 21:56:01",
+  "last_check": "21/08/2026 22:19:14",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22083,9 +22083,45 @@
           "date": "2026-08-21T21:35:18.224583"
         }
       ]
+    },
+    "B0F3JX3HLQ": {
+      "discovery_date": "2026-08-21T22:19:05.234627",
+      "price_history": [
+        {
+          "price": 69.9,
+          "date": "2026-08-21T22:19:05.234627"
+        }
+      ]
+    },
+    "B0F1W5TLN4": {
+      "discovery_date": "2026-08-21T22:19:05.234627",
+      "price_history": [
+        {
+          "price": 4845.35,
+          "date": "2026-08-21T22:19:05.234627"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0F1W5TLN4",
+      "title": "Dyson V12 Detect Slim Aspirador de Pó Sem Fio - Bivolt",
+      "link": "https://www.amazon.com.br/Dyson-V12-Detect-Slim-Aspirador/dp/B0F1W5TLN4",
+      "current_price": 4845.35,
+      "original_price": 7422.67,
+      "discount": 34.7,
+      "difference": 2577.32,
+      "criteria": [
+        "R$ 2577.32 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ftU72EThL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787350745.234634,
+      "discovery_ts": 1787350745.234634,
+      "is_new": true
+    },
     {
       "asin": "B0FY41RGG9",
       "title": "Notebook Gamer Acer Nitro V15 ANV15-52-790M Intel® Core™ i7-13620H 13ªG 16GB RAM 512GB SSD RTX4060 15.6”",
@@ -22141,6 +22177,24 @@
       "is_new": true
     },
     {
+      "asin": "B0F3JX3HLQ",
+      "title": "Rádio Automotivo Bluetooth Mp3 Player USB SD Roadstar - RS2605BR ES",
+      "link": "https://www.amazon.com.br/R%C3%A1dio-Automotivo-Bluetooth-Player-Roadstar/dp/B0F3JX3HLQ",
+      "current_price": 69.9,
+      "original_price": 160.0,
+      "discount": 56.3,
+      "difference": 90.1,
+      "criteria": [
+        "56.3% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JnXOeXKCL._AC_UL210_SR210,210_.jpg",
+      "category": "[AV_RECEIVER]",
+      "last_seen": 1787350745.234634,
+      "discovery_ts": 1787350745.234634,
+      "is_new": true
+    },
+    {
       "asin": "B0DSY663DK",
       "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
@@ -22155,7 +22209,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787328761.809209,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787273955.560495,
       "is_new": false
     },
@@ -22193,7 +22247,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22211,7 +22265,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22267,7 +22321,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/510VxPfAmnL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787328761.809209,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787262344.029138,
       "is_new": false
     },
@@ -22290,6 +22344,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787350745.234634,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJV247C",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
@@ -22308,40 +22380,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
+      "asin": "B0GX2MN152",
+      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
+      "current_price": 5599.0,
+      "original_price": 6999.0,
+      "discount": 20.0,
+      "difference": 1400.0,
       "criteria": [
-        "R$ 1750.0 desc."
+        "R$ 1400.0 desc."
       ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787340816.45543,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0DB8XJK3P",
-      "title": "Travel System Maxi-Cosi, Eva³, Essential Black Champagne",
-      "link": "https://www.amazon.com.br/Maxi-Cosi-Travel-System-Essential-Champagne/dp/B0DB8XJK3P",
-      "current_price": 1897.76,
-      "original_price": 3499.0,
-      "discount": 45.8,
-      "difference": 1601.24,
-      "criteria": [
-        "45.8% OFF",
-        "R$ 1601.24 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-CK8AyT1L._AC_UL210_SR210,210_.jpg",
-      "category": "[STROLLER]",
-      "last_seen": 1787328761.809209,
-      "discovery_ts": 1787317576.894529,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787350745.234634,
+      "discovery_ts": 1784929622.888228,
       "is_new": false
     },
     {
@@ -22363,24 +22416,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BKFSZT8G",
-      "title": "Maxi-Cosi, Travel System Anna³ Trio, Essential Black",
-      "link": "https://www.amazon.com.br/Travel-System-Anna%C2%B3-Maxi-Cosi-Essential/dp/B0BKFSZT8G",
-      "current_price": 2685.43,
-      "original_price": 3999.0,
-      "discount": 32.8,
-      "difference": 1313.57,
-      "criteria": [
-        "R$ 1313.57 desc."
-      ],
-      "badge": "32% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510jFtGaQgL._AC_UL210_SR210,210_.jpg",
-      "category": "[STROLLER]",
-      "last_seen": 1787328761.809209,
-      "discovery_ts": 1787320494.456651,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -22394,7 +22429,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22430,7 +22465,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -22521,7 +22556,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61aBgNvGk0L._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787339196.615228,
       "is_new": false
     },
@@ -22647,7 +22682,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oUE+WfXVL._AC_UL210_SR210,210_.jpg",
       "category": "[KITCHEN]",
-      "last_seen": 1787328761.809209,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1786867327.290433,
       "is_new": false
     },
@@ -22719,7 +22754,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787250604.402282,
       "is_new": false
     },
@@ -22737,7 +22772,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61u1kzupvDL._AC_UL210_SR210,210_.jpg",
       "category": "[STROLLER]",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787246584.057702,
       "is_new": false
     },
@@ -22773,7 +22808,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787331207.823651,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -22845,7 +22880,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22917,7 +22952,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -23007,7 +23042,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787348118.224591,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23115,7 +23150,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787348118.224591,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -23133,7 +23168,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23151,7 +23186,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787350745.234634,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
