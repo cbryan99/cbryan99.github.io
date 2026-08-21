@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 20:18:52",
+  "last_check": "21/08/2026 20:44:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -17934,6 +17934,10 @@
         {
           "price": 1683.0,
           "date": "2026-08-11T17:37:41.404163"
+        },
+        {
+          "price": 1648.98,
+          "date": "2026-08-21T20:44:10.767070"
         }
       ]
     },
@@ -22048,6 +22052,24 @@
           "date": "2026-08-21T19:52:34.532525"
         }
       ]
+    },
+    "B0GX2Q8MKK": {
+      "discovery_date": "2026-08-21T20:44:10.767070",
+      "price_history": [
+        {
+          "price": 2059.99,
+          "date": "2026-08-21T20:44:10.767070"
+        }
+      ]
+    },
+    "B08JH3VW11": {
+      "discovery_date": "2026-08-21T20:44:10.767070",
+      "price_history": [
+        {
+          "price": 2397.98,
+          "date": "2026-08-21T20:44:10.767070"
+        }
+      ]
     }
   },
   "data": [
@@ -22066,7 +22088,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61aBgNvGk0L._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1787339196.615228,
       "is_new": true
     },
@@ -22089,6 +22111,24 @@
       "is_new": true
     },
     {
+      "asin": "B08JH3VW11",
+      "title": "GUINCHO HIDRÁULICO DE MOBILIDADE D5000-180KG",
+      "link": "https://www.amazon.com.br/Dellamed-05718-GUINCHO-HIDR%C3%81ULICO-D5000-180KG/dp/B08JH3VW11",
+      "current_price": 2397.98,
+      "original_price": 2999.0,
+      "discount": 20.0,
+      "difference": 601.02,
+      "criteria": [
+        "R$ 601.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51BqlNKkxZL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEALTH_PERSONAL_CARE]",
+      "last_seen": 1787345050.767078,
+      "discovery_ts": 1787345050.767078,
+      "is_new": true
+    },
+    {
       "asin": "B0DKG5JQXJ",
       "title": "Lava-louças Brastemp 15 Serviços com Smart Sensor - BLF61AE 110v",
       "link": "https://www.amazon.com.br/Lava-lou%C3%A7as-Brastemp-Servi%C3%A7os-Smart-Sensor/dp/B0DKG5JQXJ",
@@ -22102,8 +22142,26 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1787341954.532525,
+      "is_new": true
+    },
+    {
+      "asin": "B0GX2Q8MKK",
+      "title": "Máquina de Lavar Brastemp 16Kg Branca com Ciclo Tira Manchas Advanced e Smart Sensor - BWF16AB 110v",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Brastemp-Branca-Manchas-Advanced/dp/B0GX2Q8MKK",
+      "current_price": 2059.99,
+      "original_price": 2449.0,
+      "discount": 15.9,
+      "difference": 389.01,
+      "criteria": [
+        "R$ 389.01 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61g8vJrNc7L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1787345050.767078,
+      "discovery_ts": 1787345050.767078,
       "is_new": true
     },
     {
@@ -22159,7 +22217,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22177,7 +22235,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22360,7 +22418,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22450,7 +22508,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31a7DPEIfgL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -22470,24 +22528,6 @@
       "category": "[VENT_HOOD]",
       "last_seen": 1787324657.861216,
       "discovery_ts": 1786704121.505645,
-      "is_new": false
-    },
-    {
-      "asin": "B0D9P9V38B",
-      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0D9P9V38B",
-      "current_price": 5198.99,
-      "original_price": 6099.0,
-      "discount": 14.8,
-      "difference": 900.01,
-      "criteria": [
-        "R$ 900.01 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787322508.44702,
-      "discovery_ts": 1787256698.854804,
       "is_new": false
     },
     {
@@ -22671,6 +22711,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GR18BSVR",
+      "title": "Frigobar Brastemp Retrô 76 Litros Classic Black - BRA08ME (110, Volts)",
+      "link": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GR18BSVR",
+      "current_price": 1648.98,
+      "original_price": 2129.0,
+      "discount": 22.5,
+      "difference": 480.02,
+      "criteria": [
+        "R$ 480.02 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aB+FU2oFL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787345050.767078,
+      "discovery_ts": 1786469861.404163,
+      "is_new": false
+    },
+    {
       "asin": "B0FFTMN54M",
       "title": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Grey Night",
       "link": "https://www.amazon.com.br/Ber%C3%A7o-Port%C3%A1til-Safety-1st-Falcon/dp/B0FFTMN54M",
@@ -22721,7 +22779,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787340816.45543,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -22739,7 +22797,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22847,7 +22905,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22906,6 +22964,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DGTKZ2S1",
+      "title": "Bebedouro para Gatos, 3L Fonte Gato Inox Comedouros, Bebedouros e Acessorios para Gatos, Silenciosa, Bivolt",
+      "link": "https://www.amazon.com.br/Bebedouro-Comedouros-Bebedouros-Acessorios-Silenciosa/dp/B0DGTKZ2S1",
+      "current_price": 100.34,
+      "original_price": 178.0,
+      "discount": 43.6,
+      "difference": 77.66,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61EJXP1YreL._AC_UL210_SR210,210_.jpg",
+      "category": "[ANIMAL_WATER_DISPENSER]",
+      "last_seen": 1787345050.767078,
+      "discovery_ts": 1786359737.45714,
+      "is_new": false
+    },
+    {
       "asin": "B088C4QZV2",
       "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
       "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
@@ -22919,8 +22995,26 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787331207.823651,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1787238176.703387,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFT7XG6C",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787345050.767078,
+      "discovery_ts": 1787140640.09174,
       "is_new": false
     },
     {
@@ -22991,7 +23085,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23009,7 +23103,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787340816.45543,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23081,7 +23175,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787336857.819885,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23099,7 +23193,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787345050.767078,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
