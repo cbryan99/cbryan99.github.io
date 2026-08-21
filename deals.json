@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 00:59:20",
+  "last_check": "21/08/2026 02:25:01",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -845,6 +845,10 @@
         {
           "price": "4067.0",
           "date": "2026-07-21T01:03:25.500833"
+        },
+        {
+          "price": 4033.99,
+          "date": "2026-08-21T02:24:49.188437"
         }
       ]
     },
@@ -21760,6 +21764,15 @@
           "date": "2026-08-21T00:59:15.560495"
         }
       ]
+    },
+    "B0BFSYDMMJ": {
+      "discovery_date": "2026-08-21T02:24:49.188437",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-08-21T02:24:49.188437"
+        }
+      ]
     }
   },
   "data": [
@@ -21778,26 +21791,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
-      "discovery_ts": 1787273955.560503,
-      "is_new": true
-    },
-    {
-      "asin": "B0F5X4NPK2",
-      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
-      "current_price": 4699.0,
-      "original_price": 5299.99,
-      "discount": 11.3,
-      "difference": 600.99,
-      "criteria": [
-        "R$ 600.99 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
-      "discovery_ts": 1787268944.843758,
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1787273955.560495,
       "is_new": true
     },
     {
@@ -21819,21 +21814,21 @@
       "is_new": true
     },
     {
-      "asin": "B0GJTP5WB8",
-      "title": "Geladeira CRM50MK 412 Litros Frost Free Duplex Consul",
-      "link": "https://www.amazon.com.br/Geladeira-CRM50MK-Litros-Duplex-Consul/dp/B0GJTP5WB8",
-      "current_price": 2829.9,
-      "original_price": 3199.0,
-      "discount": 11.5,
-      "difference": 369.1,
+      "asin": "B0BFSYDMMJ",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Mescla/dp/B0BFSYDMMJ",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
       "criteria": [
-        "R$ 369.1 desc."
+        "43.5% OFF"
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4183+l5-MVL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787270127.527975,
-      "discovery_ts": 1787268944.843758,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51p6HHzap5L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1787279089.188444,
       "is_new": true
     },
     {
@@ -21870,7 +21865,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -21906,7 +21901,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -21943,7 +21938,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41UGaIt6TnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787270127.527975,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22003,6 +21998,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22018,24 +22031,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787273955.560503,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJV247C",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
-      "current_price": 6949.0,
-      "original_price": 8699.0,
-      "discount": 20.1,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787266858.267811,
-      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -22095,6 +22090,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GTS8LCSB",
+      "title": "Apple iPhone 17e de 512 GB — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-512-GB/dp/B0GTS8LCSB",
+      "current_price": 5899.0,
+      "original_price": 7299.0,
+      "discount": 19.2,
+      "difference": 1400.0,
+      "criteria": [
+        "R$ 1400.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aApj0ACOL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1786735674.156937,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -22108,7 +22121,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22126,7 +22139,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22198,7 +22211,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/419jwVCZRzL._AC_UL210_SR210,210_.jpg",
       "category": "[VENT_HOOD]",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1786704121.505645,
       "is_new": false
     },
@@ -22270,7 +22283,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22366,6 +22379,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F5X4NPK2",
+      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
+      "current_price": 4699.0,
+      "original_price": 5299.99,
+      "discount": 11.3,
+      "difference": 600.99,
+      "criteria": [
+        "R$ 600.99 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1787268944.843758,
+      "is_new": false
+    },
+    {
       "asin": "B0FVMFSWGV",
       "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMFSWGV",
@@ -22415,7 +22446,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787255276.980308,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787250604.402282,
       "is_new": false
     },
@@ -22433,7 +22464,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61u1kzupvDL._AC_UL210_SR210,210_.jpg",
       "category": "[STROLLER]",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787246584.057702,
       "is_new": false
     },
@@ -22453,6 +22484,42 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787266858.267811,
       "discovery_ts": 1787265568.987579,
+      "is_new": false
+    },
+    {
+      "asin": "B0CD1JTBSC",
+      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
+      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
+      "current_price": 4033.99,
+      "original_price": 4439.0,
+      "discount": 9.1,
+      "difference": 405.01,
+      "criteria": [
+        "R$ 405.01 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIRTUAL_REALITY_HEADSET]",
+      "last_seen": 1787279089.188444,
+      "discovery_ts": 1784595805.500833,
+      "is_new": false
+    },
+    {
+      "asin": "B0GJTP5WB8",
+      "title": "Geladeira CRM50MK 412 Litros Frost Free Duplex Consul",
+      "link": "https://www.amazon.com.br/Geladeira-CRM50MK-Litros-Duplex-Consul/dp/B0GJTP5WB8",
+      "current_price": 2829.9,
+      "original_price": 3199.0,
+      "discount": 11.5,
+      "difference": 369.1,
+      "criteria": [
+        "R$ 369.1 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4183+l5-MVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787270127.527975,
+      "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
@@ -22528,24 +22595,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GXGT3FS6",
-      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
-      "current_price": 2799.0,
-      "original_price": 3099.0,
-      "discount": 9.7,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787255276.980308,
-      "discovery_ts": 1786681804.577201,
-      "is_new": false
-    },
-    {
       "asin": "B0CZBM7728",
       "title": "ELG, SHCI603, Câmera interna 1080P Full HD Inteligente Wi-Fi com Botão SOS, Áudio Bidirecional, Visão Noturna e Detecção de Movimentos, Branco",
       "link": "https://www.amazon.com.br/interna-Inteligente-Bidirecional-Detec%C3%A7%C3%A3o-Movimentos/dp/B0CZBM7728",
@@ -22559,7 +22608,7 @@
       "badge": "69% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787253098.380623,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1785655214.729552,
       "is_new": false
     },
@@ -22577,7 +22626,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787253098.380623,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22595,7 +22644,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22613,7 +22662,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22633,24 +22682,6 @@
       "category": "[PET_PEST_CONTROL]",
       "last_seen": 1787268944.843767,
       "discovery_ts": 1787224030.778876,
-      "is_new": false
-    },
-    {
-      "asin": "B088C4QZV2",
-      "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
-      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
-      "current_price": 28.54,
-      "original_price": 99.0,
-      "discount": 71.2,
-      "difference": 70.46,
-      "criteria": [
-        "71.2% OFF"
-      ],
-      "badge": "71% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
-      "category": "[LIGHT_BULB]",
-      "last_seen": 1787256698.854812,
-      "discovery_ts": 1787238176.703387,
       "is_new": false
     },
     {
@@ -22721,7 +22752,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22739,7 +22770,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787270127.527975,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22757,7 +22788,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787253098.380623,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -22793,7 +22824,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787273955.560503,
+      "last_seen": 1787279089.188444,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
