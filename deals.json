@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 08:18:29",
+  "last_check": "21/08/2026 09:02:19",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21875,27 +21875,36 @@
           "date": "2026-08-21T07:37:38.251791"
         }
       ]
+    },
+    "B0CPSLRXB7": {
+      "discovery_date": "2026-08-21T09:02:03.276492",
+      "price_history": [
+        {
+          "price": 128.34,
+          "date": "2026-08-21T09:02:03.276492"
+        }
+      ]
+    },
+    "B08JHW7D76": {
+      "discovery_date": "2026-08-21T09:02:03.276492",
+      "price_history": [
+        {
+          "price": 23.73,
+          "date": "2026-08-21T09:02:03.276492"
+        }
+      ]
+    },
+    "B074LQXGM7": {
+      "discovery_date": "2026-08-21T09:02:03.276492",
+      "price_history": [
+        {
+          "price": 26.72,
+          "date": "2026-08-21T09:02:03.276492"
+        }
+      ]
     }
   },
   "data": [
-    {
-      "asin": "B0DJFS4Y1K",
-      "title": "Apple iPhone 16 (256 GB) – Ultramarino",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Ultramarino/dp/B0DJFS4Y1K",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787295248.171979,
-      "discovery_ts": 1787295248.171979,
-      "is_new": true
-    },
     {
       "asin": "B0FD41XC3P",
       "title": "GameSir G7 Pro Controle Gamer Tri-Mode para Xbox, PC e Android Sem Fio 2.4G/Bluetooth e Com Fio Joystick Hall Effect + TMR 1000Hz Polling Rate Botões Macro Giroscópio Vibração 4 Motores Anti-Drift Controle Profissional - Branco",
@@ -21933,24 +21942,6 @@
       "is_new": true
     },
     {
-      "asin": "B0GT8471PJ",
-      "title": "Camisa Unisex Umbro UWN Le Football",
-      "link": "https://www.amazon.com.br/Camisa-Unisex-Umbro-Football-Azul/dp/B0GT8471PJ",
-      "current_price": 169.99,
-      "original_price": 349.99,
-      "discount": 51.4,
-      "difference": 180.0,
-      "criteria": [
-        "51.4% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61KmPGC78OL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787295248.171979,
-      "discovery_ts": 1787295248.171979,
-      "is_new": true
-    },
-    {
       "asin": "B0921BLCG4",
       "title": "ElectroluxAspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA STK15 220V Cinza Urban Grey",
       "link": "https://www.amazon.com.br/Aspirador-Vertical-com-fio-STK15/dp/B0921BLCG4",
@@ -21964,8 +21955,26 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787297858.251791,
+      "is_new": true
+    },
+    {
+      "asin": "B0CPSLRXB7",
+      "title": "Soprador de ar e aspirador de pó portáteis 2 em 1 Espanador de ar comprimido 6000mAh Espanador sem fio para limpeza de teclado de computador 55000rpm",
+      "link": "https://www.amazon.com.br/aspirador-port%C3%A1teis-Espanador-comprimido-computador/dp/B0CPSLRXB7",
+      "current_price": 128.34,
+      "original_price": 229.0,
+      "discount": 44.0,
+      "difference": 100.66,
+      "criteria": [
+        "44.0% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61M8FbfIHKL._AC_UL210_SR210,210_.jpg",
+      "category": "[CANNED_AIR]",
+      "last_seen": 1787302923.276499,
+      "discovery_ts": 1787302923.276499,
       "is_new": true
     },
     {
@@ -21982,8 +21991,8 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787297858.251798,
-      "discovery_ts": 1787297858.251798,
+      "last_seen": 1787302923.276499,
+      "discovery_ts": 1787297858.251791,
       "is_new": true
     },
     {
@@ -22000,8 +22009,44 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51omKxWOC3L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787297858.251791,
+      "is_new": true
+    },
+    {
+      "asin": "B074LQXGM7",
+      "title": "Meu Cacho Minha Vida Condicionador 500g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Lola-Cosmetics-378-Condicionador/dp/B074LQXGM7",
+      "current_price": 26.72,
+      "original_price": 49.9,
+      "discount": 46.5,
+      "difference": 23.18,
+      "criteria": [
+        "46.5% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787302923.276499,
+      "discovery_ts": 1787302923.276499,
+      "is_new": true
+    },
+    {
+      "asin": "B08JHW7D76",
+      "title": "Downy Amaciante Concentrado Perfume Collection Místico 1,35L",
+      "link": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Collection-M%C3%ADstico/dp/B08JHW7D76",
+      "current_price": 23.73,
+      "original_price": 40.05,
+      "discount": 40.7,
+      "difference": 16.32,
+      "criteria": [
+        "40.7% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-aa8Ior-L._AC_UL210_SR210,210_.jpg",
+      "category": "[FABRIC_SOFTENER]",
+      "last_seen": 1787302923.276499,
+      "discovery_ts": 1787302923.276499,
       "is_new": true
     },
     {
@@ -22062,24 +22107,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DGM1PJMK",
-      "title": "Apple iPhone 16 (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
-      "current_price": 5110.0,
-      "original_price": 7799.0,
-      "discount": 34.5,
-      "difference": 2689.0,
-      "criteria": [
-        "R$ 2689.0 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
       "asin": "B0CM3YVHMX",
       "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
       "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
@@ -22133,6 +22160,24 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787285438.779129,
       "discovery_ts": 1787262344.029138,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFS4Y1K",
+      "title": "Apple iPhone 16 (256 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Ultramarino/dp/B0DJFS4Y1K",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787295248.171979,
       "is_new": false
     },
     {
@@ -22257,7 +22302,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/419jwVCZRzL._AC_UL210_SR210,210_.jpg",
       "category": "[VENT_HOOD]",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786704121.505645,
       "is_new": false
     },
@@ -22347,7 +22392,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787295248.171979,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22425,24 +22470,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F5X4NPK2",
-      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
-      "current_price": 4699.0,
-      "original_price": 5299.99,
-      "discount": 11.3,
-      "difference": 600.99,
-      "criteria": [
-        "R$ 600.99 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
       "asin": "B0FVMFSWGV",
       "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMFSWGV",
@@ -22474,7 +22501,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787297858.251798,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22497,60 +22524,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DB8VCNJZ",
-      "title": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black Champagne",
-      "link": "https://www.amazon.com.br/Maxi-Cosi-Carrinho-Essential-Black-Champagne/dp/B0DB8VCNJZ",
-      "current_price": 1816.43,
-      "original_price": 2299.0,
-      "discount": 21.0,
-      "difference": 482.57,
-      "criteria": [
-        "R$ 482.57 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61u1kzupvDL._AC_UL210_SR210,210_.jpg",
-      "category": "[STROLLER]",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1787246584.057702,
-      "is_new": false
-    },
-    {
-      "asin": "B0CD1JTBSC",
-      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
-      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
-      "current_price": 4033.99,
-      "original_price": 4439.0,
-      "discount": 9.1,
-      "difference": 405.01,
-      "criteria": [
-        "R$ 405.01 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1784595805.500833,
-      "is_new": false
-    },
-    {
-      "asin": "B0CZBM7728",
-      "title": "ELG, SHCI603, Câmera interna 1080P Full HD Inteligente Wi-Fi com Botão SOS, Áudio Bidirecional, Visão Noturna e Detecção de Movimentos, Branco",
-      "link": "https://www.amazon.com.br/interna-Inteligente-Bidirecional-Detec%C3%A7%C3%A3o-Movimentos/dp/B0CZBM7728",
-      "current_price": 67.66,
-      "original_price": 290.0,
-      "discount": 76.7,
-      "difference": 222.34,
-      "criteria": [
-        "76.7% OFF"
-      ],
-      "badge": "69% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61exKmRRnDL._AC_UL210_SR210,210_.jpg",
-      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787279089.188444,
-      "discovery_ts": 1785655214.729552,
-      "is_new": false
-    },
-    {
       "asin": "B077FWP5M4",
       "title": "ELG, PWC-X4U/3M, PowerCube com Extensor USB, Filtro de Linha, Multiplicador 4 Tomadas Bivolt com 2 Portas USB 2.4A, Disjuntor Integrado de 10A, Cabo 3m, Cinza",
       "link": "https://www.amazon.com.br/Multiplicador-Tomadas-Elg-PWC-X4U-3M/dp/B077FWP5M4",
@@ -22564,7 +22537,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22582,8 +22555,26 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ycX-Yb0PL._AC_UL210_SR210,210_.jpg",
       "category": "[PET_PEST_CONTROL]",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1784451384.878312,
+      "is_new": false
+    },
+    {
+      "asin": "B0GT8471PJ",
+      "title": "Camisa Unisex Umbro UWN Le Football",
+      "link": "https://www.amazon.com.br/Camisa-Unisex-Umbro-Football-Azul/dp/B0GT8471PJ",
+      "current_price": 169.99,
+      "original_price": 349.99,
+      "discount": 51.4,
+      "difference": 180.0,
+      "criteria": [
+        "51.4% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61KmPGC78OL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787295248.171979,
       "is_new": false
     },
     {
@@ -22600,7 +22591,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22618,7 +22609,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -22672,7 +22663,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22744,7 +22735,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -22834,7 +22825,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787282927.326272,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -22852,7 +22843,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22870,7 +22861,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22888,7 +22879,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787279089.188444,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -22906,7 +22897,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22924,7 +22915,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22942,7 +22933,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787302923.276499,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
