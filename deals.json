@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 11:12:52",
+  "last_check": "21/08/2026 11:44:52",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21915,6 +21915,15 @@
           "date": "2026-08-21T10:50:03.082830"
         }
       ]
+    },
+    "B074LWHJ2H": {
+      "discovery_date": "2026-08-21T11:44:46.597548",
+      "price_history": [
+        {
+          "price": 63.84,
+          "date": "2026-08-21T11:44:46.597548"
+        }
+      ]
     }
   },
   "data": [
@@ -21934,6 +21943,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787309403.082837,
       "discovery_ts": 1787309403.082837,
+      "is_new": true
+    },
+    {
+      "asin": "B074LWHJ2H",
+      "title": "Hair Vintage Girl Creme Alisante 850g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Creme-Alisante-Vintage-Lola-Cosmetics/dp/B074LWHJ2H",
+      "current_price": 63.84,
+      "original_price": 149.9,
+      "discount": 57.4,
+      "difference": 86.06,
+      "criteria": [
+        "57.4% OFF"
+      ],
+      "badge": "57% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "last_seen": 1787312686.597555,
+      "discovery_ts": 1787312686.597555,
       "is_new": true
     },
     {
@@ -21989,7 +22016,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22007,7 +22034,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22104,24 +22131,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787290137.812685,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
       "asin": "B0GTS8LCSB",
       "title": "Apple iPhone 17e de 512 GB — Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-17e-512-GB/dp/B0GTS8LCSB",
@@ -22189,7 +22198,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22248,6 +22257,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.9,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.1,
+      "criteria": [
+        "R$ 775.1 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787312686.597555,
+      "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
       "asin": "B0FPBR8V26",
       "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
@@ -22261,7 +22288,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787302923.276499,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22281,24 +22308,6 @@
       "category": "[INFANT_TODDLER_CAR_SEAT]",
       "last_seen": 1787297858.251798,
       "discovery_ts": 1787265568.987579,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZK1HM41",
-      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Azul (A16)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZK1HM41",
-      "current_price": 3799.0,
-      "original_price": 4499.0,
-      "discount": 15.6,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/511vXoVIcJL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787290137.812685,
-      "discovery_ts": 1787288175.564272,
       "is_new": false
     },
     {
@@ -22352,7 +22361,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787290137.812685,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -22406,7 +22415,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -22568,7 +22577,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787309403.082837,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1787297858.251791,
       "is_new": false
     },
@@ -22640,7 +22649,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22753,6 +22762,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BFT7XG6C",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787312686.597555,
+      "discovery_ts": 1787140640.09174,
+      "is_new": false
+    },
+    {
       "asin": "B0BFSNZHSF",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSNZHSF",
@@ -22786,24 +22813,6 @@
       "category": "[SHIRT]",
       "last_seen": 1787309403.082837,
       "discovery_ts": 1787279089.188437,
-      "is_new": false
-    },
-    {
-      "asin": "B0BFT7XG6C",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787305743.751515,
-      "discovery_ts": 1787140640.09174,
       "is_new": false
     },
     {
@@ -22856,7 +22865,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22874,7 +22883,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22928,7 +22937,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787309403.082837,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22946,7 +22955,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22964,7 +22973,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23000,7 +23009,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-aa8Ior-L._AC_UL210_SR210,210_.jpg",
       "category": "[FABRIC_SOFTENER]",
-      "last_seen": 1787310766.504409,
+      "last_seen": 1787312686.597555,
       "discovery_ts": 1787302923.276492,
       "is_new": false
     }
