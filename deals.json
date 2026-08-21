@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 22:19:14",
+  "last_check": "21/08/2026 22:45:15",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22101,9 +22101,46 @@
           "date": "2026-08-21T22:19:05.234627"
         }
       ]
+    },
+    "B0F6NSQ2VS": {
+      "discovery_date": "2026-08-21T22:45:15.632751",
+      "price_history": [
+        {
+          "price": 3399.0,
+          "date": "2026-08-21T22:45:15.632751"
+        }
+      ]
+    },
+    "B0DSY6G3QB": {
+      "discovery_date": "2026-08-21T22:45:15.632751",
+      "price_history": [
+        {
+          "price": 4499.0,
+          "date": "2026-08-21T22:45:15.632751"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DSY6G3QB",
+      "title": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSY6G3QB",
+      "current_price": 4499.0,
+      "original_price": 7999.0,
+      "discount": 43.8,
+      "difference": 3500.0,
+      "criteria": [
+        "43.8% OFF",
+        "R$ 3500.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787352315.632758,
+      "discovery_ts": 1787352315.632758,
+      "is_new": true
+    },
     {
       "asin": "B0F1W5TLN4",
       "title": "Dyson V12 Detect Slim Aspirador de Pó Sem Fio - Bivolt",
@@ -22118,8 +22155,27 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ftU72EThL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787350745.234634,
-      "discovery_ts": 1787350745.234634,
+      "last_seen": 1787352315.632758,
+      "discovery_ts": 1787350745.234627,
+      "is_new": true
+    },
+    {
+      "asin": "B0F6NSQ2VS",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ 5G, Azul, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-128GB-Inclusas/dp/B0F6NSQ2VS",
+      "current_price": 3399.0,
+      "original_price": 5799.0,
+      "discount": 41.4,
+      "difference": 2400.0,
+      "criteria": [
+        "41.4% OFF",
+        "R$ 2400.0 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1787352315.632758,
+      "discovery_ts": 1787352315.632758,
       "is_new": true
     },
     {
@@ -22138,42 +22194,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787349354.196753,
       "discovery_ts": 1787348118.224583,
-      "is_new": true
-    },
-    {
-      "asin": "B08JH3VW11",
-      "title": "GUINCHO HIDRÁULICO DE MOBILIDADE D5000-180KG",
-      "link": "https://www.amazon.com.br/Dellamed-05718-GUINCHO-HIDR%C3%81ULICO-D5000-180KG/dp/B08JH3VW11",
-      "current_price": 2397.98,
-      "original_price": 2999.0,
-      "discount": 20.0,
-      "difference": 601.02,
-      "criteria": [
-        "R$ 601.02 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51BqlNKkxZL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEALTH_PERSONAL_CARE]",
-      "last_seen": 1787346197.618347,
-      "discovery_ts": 1787345050.76707,
-      "is_new": true
-    },
-    {
-      "asin": "B0GX2Q8MKK",
-      "title": "Máquina de Lavar Brastemp 16Kg Branca com Ciclo Tira Manchas Advanced e Smart Sensor - BWF16AB 110v",
-      "link": "https://www.amazon.com.br/M%C3%A1quina-Brastemp-Branca-Manchas-Advanced/dp/B0GX2Q8MKK",
-      "current_price": 2059.0,
-      "original_price": 2449.0,
-      "discount": 15.9,
-      "difference": 390.0,
-      "criteria": [
-        "R$ 390.0 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61g8vJrNc7L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1787346197.618347,
-      "discovery_ts": 1787345050.76707,
       "is_new": true
     },
     {
@@ -22247,7 +22267,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22357,7 +22377,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22393,7 +22413,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1784929622.888228,
       "is_new": false
     },
@@ -22429,7 +22449,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22465,7 +22485,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -22556,7 +22576,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61aBgNvGk0L._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1787339196.615228,
       "is_new": false
     },
@@ -22574,7 +22594,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1786504373.611184,
       "is_new": false
     },
@@ -22684,6 +22704,42 @@
       "category": "[KITCHEN]",
       "last_seen": 1787350745.234634,
       "discovery_ts": 1786867327.290433,
+      "is_new": false
+    },
+    {
+      "asin": "B08JH3VW11",
+      "title": "GUINCHO HIDRÁULICO DE MOBILIDADE D5000-180KG",
+      "link": "https://www.amazon.com.br/Dellamed-05718-GUINCHO-HIDR%C3%81ULICO-D5000-180KG/dp/B08JH3VW11",
+      "current_price": 2397.98,
+      "original_price": 2999.0,
+      "discount": 20.0,
+      "difference": 601.02,
+      "criteria": [
+        "R$ 601.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51BqlNKkxZL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEALTH_PERSONAL_CARE]",
+      "last_seen": 1787346197.618347,
+      "discovery_ts": 1787345050.76707,
+      "is_new": false
+    },
+    {
+      "asin": "B0F5X4NPK2",
+      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
+      "current_price": 4699.0,
+      "original_price": 5299.99,
+      "discount": 11.3,
+      "difference": 600.99,
+      "criteria": [
+        "R$ 600.99 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787352315.632758,
+      "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
@@ -22831,6 +22887,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GX2Q8MKK",
+      "title": "Máquina de Lavar Brastemp 16Kg Branca com Ciclo Tira Manchas Advanced e Smart Sensor - BWF16AB 110v",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Brastemp-Branca-Manchas-Advanced/dp/B0GX2Q8MKK",
+      "current_price": 2059.0,
+      "original_price": 2449.0,
+      "discount": 15.9,
+      "difference": 390.0,
+      "criteria": [
+        "R$ 390.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61g8vJrNc7L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1787346197.618347,
+      "discovery_ts": 1787345050.76707,
+      "is_new": false
+    },
+    {
       "asin": "B0FPBPDWZQ",
       "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
@@ -22844,7 +22918,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -22952,7 +23026,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22988,7 +23062,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23186,7 +23260,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787350745.234634,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23258,7 +23332,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787349354.196753,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23312,7 +23386,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81VHwPBjTAL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1787348118.224591,
+      "last_seen": 1787352315.632758,
       "discovery_ts": 1787331207.823643,
       "is_new": false
     }
