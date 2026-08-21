@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 13:06:25",
+  "last_check": "21/08/2026 13:55:02",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1600,6 +1600,10 @@
         {
           "price": 5699.0,
           "date": "2026-07-28T03:04:08.029087"
+        },
+        {
+          "price": 5599.0,
+          "date": "2026-08-21T13:54:54.456651"
         }
       ]
     },
@@ -21942,6 +21946,15 @@
           "date": "2026-08-21T13:06:16.894529"
         }
       ]
+    },
+    "B0BKFSZT8G": {
+      "discovery_date": "2026-08-21T13:54:54.456651",
+      "price_history": [
+        {
+          "price": 2685.43,
+          "date": "2026-08-21T13:54:54.456651"
+        }
+      ]
     }
   },
   "data": [
@@ -21960,8 +21973,26 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51-CK8AyT1L._AC_UL210_SR210,210_.jpg",
       "category": "[STROLLER]",
-      "last_seen": 1787317576.894536,
-      "discovery_ts": 1787317576.894536,
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1787317576.894529,
+      "is_new": true
+    },
+    {
+      "asin": "B0BKFSZT8G",
+      "title": "Maxi-Cosi, Travel System Anna³ Trio, Essential Black",
+      "link": "https://www.amazon.com.br/Travel-System-Anna%C2%B3-Maxi-Cosi-Essential/dp/B0BKFSZT8G",
+      "current_price": 2685.43,
+      "original_price": 3999.0,
+      "discount": 32.8,
+      "difference": 1313.57,
+      "criteria": [
+        "R$ 1313.57 desc."
+      ],
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510jFtGaQgL._AC_UL210_SR210,210_.jpg",
+      "category": "[STROLLER]",
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1787320494.456658,
       "is_new": true
     },
     {
@@ -21978,26 +22009,8 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31DRIQYOVIL._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1787317576.894536,
-      "discovery_ts": 1787317576.894536,
-      "is_new": true
-    },
-    {
-      "asin": "B074LWHJ2H",
-      "title": "Hair Vintage Girl Creme Alisante 850g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Creme-Alisante-Vintage-Lola-Cosmetics/dp/B074LWHJ2H",
-      "current_price": 63.84,
-      "original_price": 149.9,
-      "discount": 57.4,
-      "difference": 86.06,
-      "criteria": [
-        "57.4% OFF"
-      ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787313845.290963,
-      "discovery_ts": 1787312686.597548,
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1787317576.894529,
       "is_new": true
     },
     {
@@ -22071,8 +22084,26 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQWVWM4H",
+      "title": "Apple iPhone 17 de 512 GB — Azul-névoa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-Azul-n%C3%A9voa/dp/B0GQWVWM4H",
+      "current_price": 7099.0,
+      "original_price": 9499.0,
+      "discount": 25.3,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XSH21Uw5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1787309403.08283,
       "is_new": false
     },
     {
@@ -22094,24 +22125,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GQWVWM4H",
-      "title": "Apple iPhone 17 de 512 GB — Azul-névoa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-Azul-n%C3%A9voa/dp/B0GQWVWM4H",
-      "current_price": 7099.0,
-      "original_price": 9499.0,
-      "discount": 25.3,
-      "difference": 2400.0,
-      "criteria": [
-        "R$ 2400.0 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XSH21Uw5L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787309403.082837,
-      "discovery_ts": 1787309403.082837,
-      "is_new": false
-    },
-    {
       "asin": "B0F6NQY99G",
       "title": "Samsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
       "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NQY99G",
@@ -22128,6 +22141,24 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787307276.995382,
       "discovery_ts": 1787262344.029138,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1784846418.539129,
       "is_new": false
     },
     {
@@ -22180,7 +22211,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22198,7 +22229,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -22234,7 +22265,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22254,6 +22285,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787309403.082837,
       "discovery_ts": 1787075558.812068,
+      "is_new": false
+    },
+    {
+      "asin": "B0GYQ2PLW3",
+      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
+      "current_price": 3499.0,
+      "original_price": 4299.0,
+      "discount": 18.6,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787320494.456658,
+      "discovery_ts": 1787282927.326266,
       "is_new": false
     },
     {
@@ -22324,7 +22373,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787297858.251798,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22396,7 +22445,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787300309.395321,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1787250604.402282,
       "is_new": false
     },
@@ -22434,42 +22483,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787310766.504409,
       "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0FD41XC3P",
-      "title": "GameSir G7 Pro Controle Gamer Tri-Mode para Xbox, PC e Android Sem Fio 2.4G/Bluetooth e Com Fio Joystick Hall Effect + TMR 1000Hz Polling Rate Botões Macro Giroscópio Vibração 4 Motores Anti-Drift Controle Profissional - Branco",
-      "link": "https://www.amazon.com.br/GameSir-Pro-Controller-Windows-Gamepad/dp/B0FD41XC3P",
-      "current_price": 579.99,
-      "original_price": 899.0,
-      "discount": 35.5,
-      "difference": 319.01,
-      "criteria": [
-        "R$ 319.01 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/719XHbmvmBL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1787297858.251798,
-      "discovery_ts": 1787297858.251798,
-      "is_new": false
-    },
-    {
-      "asin": "B0FNWCYLZN",
-      "title": "soundcore P31i da Anker, Fone de Ouvido Bluetooth 6.1 Sem Fio, TWS IP55 | 50H, Som de Alta Resolução, Cancelamento de Ruído Adaptativo em Tempo Real, Áudio Espacial, Carregamento Rápido, com Tradução",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Adaptativo-Reprodu%C3%A7%C3%A3o-Carregamento/dp/B0FNWCYLZN",
-      "current_price": 299.0,
-      "original_price": 499.0,
-      "discount": 40.1,
-      "difference": 200.0,
-      "criteria": [
-        "40.1% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51nHT2kQ1bL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787297858.251798,
-      "discovery_ts": 1787297858.251798,
       "is_new": false
     },
     {
@@ -22576,7 +22589,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22612,7 +22625,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787313845.290963,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22653,21 +22666,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DGTKZ2S1",
-      "title": "Bebedouro para Gatos, 3L Fonte Gato Inox Comedouros, Bebedouros e Acessorios para Gatos, Silenciosa, Bivolt",
-      "link": "https://www.amazon.com.br/Bebedouro-Comedouros-Bebedouros-Acessorios-Silenciosa/dp/B0DGTKZ2S1",
-      "current_price": 100.34,
-      "original_price": 178.0,
-      "discount": 43.6,
-      "difference": 77.66,
+      "asin": "B074LWHJ2H",
+      "title": "Hair Vintage Girl Creme Alisante 850g , Lola Cosmetics",
+      "link": "https://www.amazon.com.br/Creme-Alisante-Vintage-Lola-Cosmetics/dp/B074LWHJ2H",
+      "current_price": 63.84,
+      "original_price": 149.9,
+      "discount": 57.4,
+      "difference": 86.06,
       "criteria": [
-        "43.6% OFF"
+        "57.4% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61EJXP1YreL._AC_UL210_SR210,210_.jpg",
-      "category": "[ANIMAL_WATER_DISPENSER]",
-      "last_seen": 1787297858.251798,
-      "discovery_ts": 1786359737.45714,
+      "badge": "57% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "last_seen": 1787313845.290963,
+      "discovery_ts": 1787312686.597548,
       "is_new": false
     },
     {
@@ -22792,7 +22805,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787302923.276499,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -22810,7 +22823,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22828,7 +22841,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22882,7 +22895,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22900,7 +22913,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22918,7 +22931,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787317576.894536,
+      "last_seen": 1787320494.456658,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
