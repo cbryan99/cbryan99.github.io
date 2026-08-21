@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 05:59:19",
+  "last_check": "21/08/2026 06:54:08",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -18379,6 +18379,10 @@
         {
           "price": 685.0,
           "date": "2026-08-12T03:12:53.611184"
+        },
+        {
+          "price": 661.19,
+          "date": "2026-08-21T06:54:08.171972"
         }
       ]
     },
@@ -21804,9 +21808,45 @@
           "date": "2026-08-21T04:56:15.564272"
         }
       ]
+    },
+    "B0DJFS4Y1K": {
+      "discovery_date": "2026-08-21T06:54:08.171972",
+      "price_history": [
+        {
+          "price": 5599.0,
+          "date": "2026-08-21T06:54:08.171972"
+        }
+      ]
+    },
+    "B0GT8471PJ": {
+      "discovery_date": "2026-08-21T06:54:08.171972",
+      "price_history": [
+        {
+          "price": 169.99,
+          "date": "2026-08-21T06:54:08.171972"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DJFS4Y1K",
+      "title": "Apple iPhone 16 (256 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Ultramarino/dp/B0DJFS4Y1K",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787295248.171979,
+      "is_new": true
+    },
     {
       "asin": "B0DZK1HM41",
       "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Azul (A16)",
@@ -21823,6 +21863,24 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787290137.812685,
       "discovery_ts": 1787288175.564272,
+      "is_new": true
+    },
+    {
+      "asin": "B0GT8471PJ",
+      "title": "Camisa Unisex Umbro UWN Le Football",
+      "link": "https://www.amazon.com.br/Camisa-Unisex-Umbro-Football-Azul/dp/B0GT8471PJ",
+      "current_price": 169.99,
+      "original_price": 349.99,
+      "discount": 51.4,
+      "difference": 180.0,
+      "criteria": [
+        "51.4% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61KmPGC78OL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787295248.171979,
       "is_new": true
     },
     {
@@ -22042,7 +22100,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787290137.812685,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22096,7 +22154,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22168,7 +22226,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -22188,6 +22246,25 @@
       "category": "[INFANT_TODDLER_CAR_SEAT]",
       "last_seen": 1787273955.560503,
       "discovery_ts": 1787265568.987579,
+      "is_new": false
+    },
+    {
+      "asin": "B076QF6ZW9",
+      "title": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 127V",
+      "link": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QF6ZW9",
+      "current_price": 661.19,
+      "original_price": 1359.9,
+      "discount": 51.4,
+      "difference": 698.71,
+      "criteria": [
+        "51.4% OFF",
+        "R$ 698.71 desc."
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wUSWGGreL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRESSURE_WASHER]",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1786504373.611184,
       "is_new": false
     },
     {
@@ -22389,6 +22466,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CRTPF7CZ",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
       "asin": "6584004406",
       "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
       "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
@@ -22420,8 +22515,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
+      "asin": "B07KYFQRXD",
+      "title": "MONDIAL Aparador de Pelos Super Groom 11, Preto/Prata, Bivolt - BG-05",
+      "link": "https://www.amazon.com.br/MONDIAL-Aparador-Pelos-Super-Bivolt/dp/B07KYFQRXD",
+      "current_price": 105.0,
+      "original_price": 219.9,
+      "discount": 52.3,
+      "difference": 114.9,
+      "criteria": [
+        "52.3% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/711eicqp4WL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_TRIMMER]",
+      "last_seen": 1787295248.171979,
+      "discovery_ts": 1787225854.905687,
       "is_new": false
     },
     {
@@ -22438,7 +22551,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22492,7 +22605,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -22510,7 +22623,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -22600,7 +22713,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787288175.564278,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22618,7 +22731,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22654,7 +22767,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22672,7 +22785,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787291944.534793,
+      "last_seen": 1787295248.171979,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
