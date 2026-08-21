@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 10:14:42",
+  "last_check": "21/08/2026 10:50:03",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21906,9 +21906,36 @@
           "date": "2026-08-21T09:02:03.276492"
         }
       ]
+    },
+    "B0GQWVWM4H": {
+      "discovery_date": "2026-08-21T10:50:03.082830",
+      "price_history": [
+        {
+          "price": 7099.0,
+          "date": "2026-08-21T10:50:03.082830"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GQWVWM4H",
+      "title": "Apple iPhone 17 de 512 GB — Azul-névoa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-Azul-n%C3%A9voa/dp/B0GQWVWM4H",
+      "current_price": 7099.0,
+      "original_price": 9499.0,
+      "discount": 25.3,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XSH21Uw5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787309403.082837,
+      "discovery_ts": 1787309403.082837,
+      "is_new": true
+    },
     {
       "asin": "B0CPSLRXB7",
       "title": "Soprador de ar e aspirador de pó portáteis 2 em 1 Espanador de ar comprimido 6000mAh Espanador sem fio para limpeza de teclado de computador 55000rpm",
@@ -21959,7 +21986,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-aa8Ior-L._AC_UL210_SR210,210_.jpg",
       "category": "[FABRIC_SOFTENER]",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1787302923.276492,
       "is_new": true
     },
@@ -22095,6 +22122,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFVKKWT",
+      "title": "Apple iPhone 16 (256 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787309403.082837,
+      "discovery_ts": 1786366711.615938,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFS4Y1K",
       "title": "Apple iPhone 16 (256 GB) – Ultramarino",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Ultramarino/dp/B0DJFS4Y1K",
@@ -22218,6 +22263,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787297858.251798,
       "discovery_ts": 1787256698.854804,
+      "is_new": false
+    },
+    {
+      "asin": "B0H37DL2F1",
+      "title": "Notebook Dell 15 I DC15-i71355U-U90 15.6\" Full HD 13ª Gen Intel Core i7 16GB 512GB SSD Ubuntu Linux Preto Carbono",
+      "link": "https://www.amazon.com.br/Notebook-Dell-DC15-i71355U-U90-Ubuntu-Carbono/dp/B0H37DL2F1",
+      "current_price": 5199.0,
+      "original_price": 6099.0,
+      "discount": 14.8,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5152rTpvy5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787309403.082837,
+      "discovery_ts": 1787075558.812068,
       "is_new": false
     },
     {
@@ -22505,7 +22568,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ycX-Yb0PL._AC_UL210_SR210,210_.jpg",
       "category": "[PET_PEST_CONTROL]",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1784451384.878312,
       "is_new": false
     },
@@ -22577,7 +22640,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1787297858.251791,
       "is_new": false
     },
@@ -22649,7 +22712,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22739,7 +22802,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787302923.276499,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -22757,7 +22820,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51p6HHzap5L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1787279089.188437,
       "is_new": false
     },
@@ -22847,7 +22910,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22865,7 +22928,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -22919,7 +22982,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787305743.751515,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -22937,7 +23000,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -22955,7 +23018,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787307276.995382,
+      "last_seen": 1787309403.082837,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     }
