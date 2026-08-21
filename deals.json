@@ -1,5 +1,5 @@
 {
-  "last_check": "21/08/2026 21:03:17",
+  "last_check": "21/08/2026 21:35:32",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22074,26 +22074,34 @@
           "date": "2026-08-21T20:44:10.767070"
         }
       ]
+    },
+    "B0FY41RGG9": {
+      "discovery_date": "2026-08-21T21:35:18.224583",
+      "price_history": [
+        {
+          "price": 7299.0,
+          "date": "2026-08-21T21:35:18.224583"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CJ9NVNW6",
-      "title": "Monitor Gamer AOC Destiny 24,5 Polegadas 25G3ZM",
-      "link": "https://www.amazon.com.br/Monitor-AOC-DESTINY-FreeSync-25G3ZM/dp/B0CJ9NVNW6",
-      "current_price": 979.0,
-      "original_price": 1799.0,
-      "discount": 45.6,
-      "difference": 820.0,
+      "asin": "B0FY41RGG9",
+      "title": "Notebook Gamer Acer Nitro V15 ANV15-52-790M Intel® Core™ i7-13620H 13ªG 16GB RAM 512GB SSD RTX4060 15.6”",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-790M-i7-13620H-RTX4060/dp/B0FY41RGG9",
+      "current_price": 7299.0,
+      "original_price": 8299.0,
+      "discount": 12.0,
+      "difference": 1000.0,
       "criteria": [
-        "45.6% OFF",
-        "R$ 820.0 desc."
+        "R$ 1000.0 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61aBgNvGk0L._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1787346197.618347,
-      "discovery_ts": 1787339196.615228,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1787348118.224591,
       "is_new": true
     },
     {
@@ -22313,7 +22321,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1784846418.539129,
       "is_new": false
     },
@@ -22331,7 +22339,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787341954.532531,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1786425512.309444,
       "is_new": false
     },
@@ -22391,6 +22399,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F2GNQSKS",
+      "title": "Dyson Supersonic™ Secador de Cabelo 127v",
+      "link": "https://www.amazon.com.br/Dyson-SupersonicTM-Secador-Cabelo-127v/dp/B0F2GNQSKS",
+      "current_price": 3608.24,
+      "original_price": 4999.0,
+      "discount": 27.8,
+      "difference": 1390.76,
+      "criteria": [
+        "R$ 1390.76 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6145gmqOHyL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1786693192.44366,
+      "is_new": false
+    },
+    {
       "asin": "B0BKFSZT8G",
       "title": "Maxi-Cosi, Travel System Anna³ Trio, Essential Black",
       "link": "https://www.amazon.com.br/Travel-System-Anna%C2%B3-Maxi-Cosi-Essential/dp/B0BKFSZT8G",
@@ -22422,7 +22448,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22476,7 +22502,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -22530,8 +22556,45 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/419jwVCZRzL._AC_UL210_SR210,210_.jpg",
       "category": "[VENT_HOOD]",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1786704121.505645,
+      "is_new": false
+    },
+    {
+      "asin": "B0D9P9V38B",
+      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0D9P9V38B",
+      "current_price": 5198.99,
+      "original_price": 6099.0,
+      "discount": 14.8,
+      "difference": 900.01,
+      "criteria": [
+        "R$ 900.01 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1787256698.854804,
+      "is_new": false
+    },
+    {
+      "asin": "B0CJ9NVNW6",
+      "title": "Monitor Gamer AOC Destiny 24,5 Polegadas 25G3ZM",
+      "link": "https://www.amazon.com.br/Monitor-AOC-DESTINY-FreeSync-25G3ZM/dp/B0CJ9NVNW6",
+      "current_price": 979.0,
+      "original_price": 1799.0,
+      "discount": 45.6,
+      "difference": 820.0,
+      "criteria": [
+        "45.6% OFF",
+        "R$ 820.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61aBgNvGk0L._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1787339196.615228,
       "is_new": false
     },
     {
@@ -22674,7 +22737,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22783,7 +22846,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -22803,24 +22866,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787346197.618347,
       "discovery_ts": 1786421114.339604,
-      "is_new": false
-    },
-    {
-      "asin": "B0G2MYYB75",
-      "title": "Lava e Seca Panasonic Intuitive+ 13kg/8kg Max Wash Função Vapor+ Antialérgico NA-S26MK1LBZ 127V",
-      "link": "https://www.amazon.com.br/Panasonic-Intuitive-Fun%C3%A7%C3%A3o-Antial%C3%A9rgico-NA-S26MK1LBZ/dp/B0G2MYYB75",
-      "current_price": 3799.0,
-      "original_price": 4099.0,
-      "discount": 7.3,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-XrFPSy1L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787324657.861216,
-      "discovery_ts": 1787322508.447011,
       "is_new": false
     },
     {
@@ -22855,7 +22900,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22909,7 +22954,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -22999,8 +23044,26 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787238176.703387,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFSYQHCX",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSYQHCX",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1787002543.355604,
       "is_new": false
     },
     {
@@ -23076,6 +23139,24 @@
       "is_new": false
     },
     {
+      "asin": "B0D9YTZ8CR",
+      "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
+      "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
+      "current_price": 95.0,
+      "original_price": 159.99,
+      "discount": 40.6,
+      "difference": 64.99,
+      "criteria": [
+        "40.6% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1787348118.224591,
+      "discovery_ts": 1786545939.667506,
+      "is_new": false
+    },
+    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -23089,7 +23170,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23107,7 +23188,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23125,7 +23206,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -23143,7 +23224,7 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51omKxWOC3L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787297858.251791,
       "is_new": false
     },
@@ -23179,7 +23260,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23197,7 +23278,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787346197.618347,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23215,7 +23296,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787324657.861216,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787302923.276499,
       "is_new": false
     },
@@ -23233,7 +23314,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81VHwPBjTAL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1787343525.667608,
+      "last_seen": 1787348118.224591,
       "discovery_ts": 1787331207.823643,
       "is_new": false
     }
