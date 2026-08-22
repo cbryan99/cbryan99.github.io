@@ -1,5 +1,5 @@
 {
-  "last_check": "22/08/2026 10:55:19",
+  "last_check": "22/08/2026 11:16:00",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22231,9 +22231,36 @@
           "date": "2026-08-22T10:55:19.106977"
         }
       ]
+    },
+    "B0DJFRHR1G": {
+      "discovery_date": "2026-08-22T11:15:55.257924",
+      "price_history": [
+        {
+          "price": 5599.0,
+          "date": "2026-08-22T11:15:55.257924"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0DJFRHR1G",
+      "title": "Apple iPhone 16 (256 GB) – Verde-acinzentado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Verde-acinzentado/dp/B0DJFRHR1G",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787397355.257932,
+      "discovery_ts": 1787397355.257932,
+      "is_new": true
+    },
     {
       "asin": "B0DRVDDHNF",
       "title": "BEMMY Luminária de Teto, Lustre Redondo, Quarto, Cozinha, Sala de Estar, Decoração, Luz de Teto Regulável, Lustre de iluminação tricolor 85-265V (Branco)",
@@ -22655,60 +22682,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H7FJWXH3",
-      "title": "Electrolux Lava-Louças de Piso Preta LP14E 59,8x60x84,5 cm 14 Serviços com Higienização 70°C, Lava e Seca 50, Meia Carga e Controles Digitais",
-      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7as-Servi%C3%A7os-Higieniza%C3%A7%C3%A3o-Controles/dp/B0H7FJWXH3",
-      "current_price": 3499.0,
-      "original_price": 3998.95,
-      "discount": 12.5,
-      "difference": 499.95,
-      "criteria": [
-        "R$ 499.95 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41yE4Z334DL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1787374755.167325,
-      "discovery_ts": 1787356506.08484,
-      "is_new": false
-    },
-    {
-      "asin": "B09ZB8M5KP",
-      "title": "Bosch Trena laser GLM 150-27 C alcance 150m com Bluetooth",
-      "link": "https://www.amazon.com.br/Trena-Bosch-150-27-alcance-Bluetooth/dp/B09ZB8M5KP",
-      "current_price": 2018.88,
-      "original_price": 2465.51,
-      "discount": 18.1,
-      "difference": 446.63,
-      "criteria": [
-        "R$ 446.63 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xr63fwu3L._AC_UL210_SR210,210_.jpg",
-      "category": "[RANGEFINDER]",
-      "last_seen": 1787374755.167325,
-      "discovery_ts": 1787372807.982586,
-      "is_new": false
-    },
-    {
-      "asin": "B0CD1JTBSC",
-      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
-      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
-      "current_price": 4033.99,
-      "original_price": 4439.0,
-      "discount": 9.1,
-      "difference": 405.01,
-      "criteria": [
-        "R$ 405.01 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787374755.167325,
-      "discovery_ts": 1784595805.500833,
-      "is_new": false
-    },
-    {
       "asin": "B0H5D7HXP4",
       "title": "Kit 2 Cadeiras de Jantar Madeira Maciça Estofada em Linho Bege Claro Encosto Rattan - November",
       "link": "https://www.amazon.com.br/Cadeiras-Jantar-Madeira-Estofada-Encosto/dp/B0H5D7HXP4",
@@ -22740,7 +22713,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787380765.990993,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -22776,7 +22749,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787392864.92642,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -22794,7 +22767,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22866,7 +22839,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/711eicqp4WL._AC_UL210_SR210,210_.jpg",
       "category": "[HAIR_TRIMMER]",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -22992,7 +22965,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41eSOxcXg6L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787388598.058153,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787201319.346091,
       "is_new": false
     },
@@ -23100,7 +23073,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61rcwreK7WL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1786545939.667506,
       "is_new": false
     },
@@ -23118,7 +23091,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23136,7 +23109,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23190,7 +23163,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23208,7 +23181,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23226,7 +23199,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23244,7 +23217,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23280,7 +23253,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81VHwPBjTAL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1787396119.106982,
+      "last_seen": 1787397355.257932,
       "discovery_ts": 1787331207.823643,
       "is_new": false
     }
