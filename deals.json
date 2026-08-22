@@ -1,5 +1,5 @@
 {
-  "last_check": "22/08/2026 08:11:42",
+  "last_check": "22/08/2026 08:50:11",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22209,25 +22209,34 @@
           "date": "2026-08-22T06:39:25.990987"
         }
       ]
+    },
+    "B07XLB4QC8": {
+      "discovery_date": "2026-08-22T08:49:58.058147",
+      "price_history": [
+        {
+          "price": 37.99,
+          "date": "2026-08-22T08:49:58.058147"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0765LSCFY",
-      "title": "Suporte de TV Articulado de Parede, Função Avanço e Recuo, Giro Horizontal de Até 90°, VESA 100x100 a 400x400mm, 26\" a 75\", Preto, A02V4N, ELG",
-      "link": "https://www.amazon.com.br/Suporte-Articulado-Parede-Elg-A02V4N/dp/B0765LSCFY",
-      "current_price": 115.0,
-      "original_price": 209.9,
-      "discount": 45.2,
-      "difference": 94.9,
+      "asin": "B07XLB4QC8",
+      "title": "Chiclete Trident Tutti-frutti Sem Açúcar - Caixa com 21 unid. de 8g",
+      "link": "https://www.amazon.com.br/Chiclete-Tutti-Frutti-Trident-Unidades/dp/B07XLB4QC8",
+      "current_price": 37.99,
+      "original_price": 64.89,
+      "discount": 41.5,
+      "difference": 26.9,
       "criteria": [
-        "45.2% OFF"
+        "41.5% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Tk+CNmLnL._AC_UL210_SR210,210_.jpg",
-      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787383077.03742,
-      "discovery_ts": 1787380765.990987,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHEWING_GUM]",
+      "last_seen": 1787388598.058153,
+      "discovery_ts": 1787388598.058153,
       "is_new": true
     },
     {
@@ -22358,7 +22367,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1784846418.539129,
       "is_new": false
     },
@@ -22399,39 +22408,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
       "criteria": [
-        "R$ 1750.0 desc."
+        "R$ 1253.9 desc."
       ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GX2MN152",
-      "title": "Geladeira Intuitive+ Panasonic BB71 Frost Free Inverter 511L Black Glass - NR-BB71GV7BB 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Intuitive-Panasonic-Frost-Inverter/dp/B0GX2MN152",
-      "current_price": 5599.0,
-      "original_price": 6999.0,
-      "discount": 20.0,
-      "difference": 1400.0,
-      "criteria": [
-        "R$ 1400.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31mSXVla6cL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1784929622.888228,
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787388598.058153,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
@@ -22453,24 +22444,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787372807.982594,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
       "asin": "B0F9LH6V3F",
       "title": "Ar condicionado janela Hisense 12000 btus frio aw-12cr2rwgu00 220v",
       "link": "https://www.amazon.com.br/condicionado-janela-Hisense-12000-aw-12cr2rwgu00/dp/B0F9LH6V3F",
@@ -22486,6 +22459,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787370836.172802,
       "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
+      "asin": "B0B625GC45",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787388598.058153,
+      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -22561,42 +22552,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.9,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.1,
-      "criteria": [
-        "R$ 775.1 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBR8V26",
-      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
-      "current_price": 2189.0,
-      "original_price": 2899.0,
-      "discount": 24.5,
-      "difference": 710.0,
-      "criteria": [
-        "R$ 710.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
       "asin": "B0D47Z9ZNW",
       "title": "Cadeirinha Maxi-Cosi, Spinel 360° Plus, 0 a 36kg, Isofix, Haste Frontal, Painel Eletrônico, Authentic Black",
       "link": "https://www.amazon.com.br/Maxi-Cosi-Cadeirinha-Spinel-Authentic-Graphite/dp/B0D47Z9ZNW",
@@ -22610,7 +22565,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787364780.990356,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22831,24 +22786,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F19CK9PK",
-      "title": "Ar-Condicionado Janela Eletrônico Wi-Fi 10.000 btus Frio 127V AW-10CWBRVGU02 Hisense",
-      "link": "https://www.amazon.com.br/Condicionado-Janela-Eletr%C3%B4nico-Hisense-AW-10CWBRVGU02/dp/B0F19CK9PK",
-      "current_price": 1699.0,
-      "original_price": 2099.0,
-      "discount": 19.1,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91R4evTaGpL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1786783777.017112,
-      "is_new": false
-    },
-    {
       "asin": "B0GXX6YHK6",
       "title": "Geladeira/Refrigerador Electrolux Frost Free Duplex 400L IF44S",
       "link": "https://www.amazon.com.br/Geladeira-Refrigerador-Electrolux-Duplex-IF44S/dp/B0GXX6YHK6",
@@ -23011,24 +22948,6 @@
       "is_new": false
     },
     {
-      "asin": "B094X2N4HV",
-      "title": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
-      "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
-      "current_price": 178.99,
-      "original_price": 319.0,
-      "discount": 43.9,
-      "difference": 140.01,
-      "criteria": [
-        "43.9% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787364780.990356,
-      "discovery_ts": 1787218050.770928,
-      "is_new": false
-    },
-    {
       "asin": "B0C7CQT9ZS",
       "title": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
       "link": "https://www.amazon.com.br/soundcore-Bluetooth-Reprodu%C3%A7%C3%A3o-Resist%C3%AAncia-Personaliza%C3%A7%C3%A3o/dp/B0C7CQT9ZS",
@@ -23042,7 +22961,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+qzpA7y+L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1784617564.938218,
       "is_new": false
     },
@@ -23060,8 +22979,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1786950745.975533,
+      "is_new": false
+    },
+    {
+      "asin": "B0765LSCFY",
+      "title": "Suporte de TV Articulado de Parede, Função Avanço e Recuo, Giro Horizontal de Até 90°, VESA 100x100 a 400x400mm, 26\" a 75\", Preto, A02V4N, ELG",
+      "link": "https://www.amazon.com.br/Suporte-Articulado-Parede-Elg-A02V4N/dp/B0765LSCFY",
+      "current_price": 115.0,
+      "original_price": 209.9,
+      "discount": 45.2,
+      "difference": 94.9,
+      "criteria": [
+        "45.2% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Tk+CNmLnL._AC_UL210_SR210,210_.jpg",
+      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
+      "last_seen": 1787383077.03742,
+      "discovery_ts": 1787380765.990987,
       "is_new": false
     },
     {
@@ -23078,7 +23015,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51RbgrRZATL._AC_UL210_SR210,210_.jpg",
       "category": "[PET_PEST_CONTROL]",
-      "last_seen": 1787383077.03742,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1787224030.778869,
       "is_new": false
     },
@@ -23114,7 +23051,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61EJXP1YreL._AC_UL210_SR210,210_.jpg",
       "category": "[ANIMAL_WATER_DISPENSER]",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -23132,7 +23069,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41eSOxcXg6L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787384928.438023,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1787201319.346091,
       "is_new": false
     },
@@ -23150,7 +23087,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23222,7 +23159,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23240,7 +23177,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23312,7 +23249,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23330,7 +23267,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787386302.885974,
+      "last_seen": 1787388598.058153,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
