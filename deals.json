@@ -1,5 +1,5 @@
 {
-  "last_check": "22/08/2026 23:01:04",
+  "last_check": "22/08/2026 23:31:04",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22294,9 +22294,45 @@
           "date": "2026-08-22T22:41:00.904146"
         }
       ]
+    },
+    "B0DN3JFV7Z": {
+      "discovery_date": "2026-08-22T23:31:04.356645",
+      "price_history": [
+        {
+          "price": 2999.0,
+          "date": "2026-08-22T23:31:04.356645"
+        }
+      ]
+    },
+    "B0FYRDJ4GJ": {
+      "discovery_date": "2026-08-22T23:31:04.356645",
+      "price_history": [
+        {
+          "price": 2899.0,
+          "date": "2026-08-22T23:31:04.356645"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FYRDJ4GJ",
+      "title": "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-Vision/dp/B0FYRDJ4GJ",
+      "current_price": 2899.0,
+      "original_price": 4499.0,
+      "discount": 35.6,
+      "difference": 1600.0,
+      "criteria": [
+        "R$ 1600.0 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61bvl9Rf3-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787441464.356652,
+      "discovery_ts": 1787441464.356652,
+      "is_new": true
+    },
     {
       "asin": "B0D1RDGTRG",
       "title": "LG Geladeira Frost Free 462L Inverse 2 Portas Preta Wi-Fi ThinQ Compressor Smart Inverter",
@@ -22311,8 +22347,26 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41n1AYsZ98L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1787438460.904146,
+      "is_new": true
+    },
+    {
+      "asin": "B0DN3JFV7Z",
+      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
+      "current_price": 2999.0,
+      "original_price": 3399.0,
+      "discount": 11.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787441464.356652,
+      "discovery_ts": 1787441464.356652,
       "is_new": true
     },
     {
@@ -22484,6 +22538,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787441464.356652,
+      "discovery_ts": 1784830133.087011,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFVKKWT",
       "title": "Apple iPhone 16 (256 GB) – Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
@@ -22515,7 +22587,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22551,7 +22623,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22605,7 +22677,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -22701,6 +22773,24 @@
       "is_new": false
     },
     {
+      "asin": "B0G22R3QLT",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
+      "current_price": 3899.0,
+      "original_price": 4699.0,
+      "discount": 17.0,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787441464.356652,
+      "discovery_ts": 1786504373.611184,
+      "is_new": false
+    },
+    {
       "asin": "B0GYQ2PLW3",
       "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
@@ -22716,24 +22806,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787435622.59513,
       "discovery_ts": 1787282927.326266,
-      "is_new": false
-    },
-    {
-      "asin": "B0G22R3QLT",
-      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
-      "current_price": 3899.0,
-      "original_price": 4699.0,
-      "discount": 17.0,
-      "difference": 800.0,
-      "criteria": [
-        "R$ 800.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787422815.86335,
-      "discovery_ts": 1786504373.611184,
       "is_new": false
     },
     {
@@ -22768,7 +22840,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787435622.59513,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22804,7 +22876,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -22858,7 +22930,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -22917,6 +22989,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F7K1YRY4",
+      "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
+      "current_price": 7449.0,
+      "original_price": 7999.0,
+      "discount": 6.9,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787441464.356652,
+      "discovery_ts": 1787250604.402282,
+      "is_new": false
+    },
+    {
       "asin": "B0H634F4BP",
       "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
       "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
@@ -22932,24 +23022,6 @@
       "category": "[FREEZER]",
       "last_seen": 1787439660.548758,
       "discovery_ts": 1787368158.987282,
-      "is_new": false
-    },
-    {
-      "asin": "B0F7K1YRY4",
-      "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
-      "current_price": 7449.0,
-      "original_price": 7999.0,
-      "discount": 6.9,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787435622.59513,
-      "discovery_ts": 1787250604.402282,
       "is_new": false
     },
     {
@@ -23020,7 +23092,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -23092,7 +23164,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23110,7 +23182,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -23308,7 +23380,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23380,7 +23452,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787439660.548758,
+      "last_seen": 1787441464.356652,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
