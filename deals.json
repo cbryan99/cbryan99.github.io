@@ -1,5 +1,5 @@
 {
-  "last_check": "22/08/2026 22:15:27",
+  "last_check": "22/08/2026 22:41:11",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22285,9 +22285,36 @@
           "date": "2026-08-22T20:49:18.184311"
         }
       ]
+    },
+    "B0D1RDGTRG": {
+      "discovery_date": "2026-08-22T22:41:00.904146",
+      "price_history": [
+        {
+          "price": 3999.0,
+          "date": "2026-08-22T22:41:00.904146"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0D1RDGTRG",
+      "title": "LG Geladeira Frost Free 462L Inverse 2 Portas Preta Wi-Fi ThinQ Compressor Smart Inverter",
+      "link": "https://www.amazon.com.br/Refrigerador-Geladeira-LG-GC-B569NQL2-Inverter/dp/B0D1RDGTRG",
+      "current_price": 3999.0,
+      "original_price": 4699.0,
+      "discount": 14.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41n1AYsZ98L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787438460.904156,
+      "discovery_ts": 1787438460.904156,
+      "is_new": true
+    },
     {
       "asin": "B0924BJ3QM",
       "title": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 38 min base recarregamento luz frontal LED pedal limpeza facil da escova rotativa aspira capacidade 420Ml ERG25N Bivolt Azul",
@@ -22475,6 +22502,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFVKKWT",
+      "title": "Apple iPhone 16 (256 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787438460.904156,
+      "discovery_ts": 1786366711.615938,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22488,7 +22533,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22524,7 +22569,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22565,24 +22610,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3499.0,
-      "original_price": 4618.9,
-      "discount": 24.2,
-      "difference": 1119.9,
-      "criteria": [
-        "R$ 1119.9 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787436923.32378,
-      "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ15NC13",
       "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
@@ -22596,8 +22623,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1785269176.438674,
+      "is_new": false
+    },
+    {
+      "asin": "B0B625GC45",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787438460.904156,
+      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -22632,7 +22677,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/419jwVCZRzL._AC_UL210_SR210,210_.jpg",
       "category": "[VENT_HOOD]",
-      "last_seen": 1787415391.107511,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1786704121.505645,
       "is_new": false
     },
@@ -22777,7 +22822,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787434348.382709,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -22831,7 +22876,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -22867,7 +22912,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787415391.107511,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22890,6 +22935,24 @@
       "is_new": false
     },
     {
+      "asin": "B0H634F4BP",
+      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
+      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
+      "current_price": 2599.0,
+      "original_price": 3149.0,
+      "discount": 17.5,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
+      "category": "[FREEZER]",
+      "last_seen": 1787438460.904156,
+      "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
       "asin": "B0F7K1YRY4",
       "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
@@ -22905,24 +22968,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787435622.59513,
       "discovery_ts": 1787250604.402282,
-      "is_new": false
-    },
-    {
-      "asin": "B0H634F4BP",
-      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
-      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
-      "current_price": 2599.0,
-      "original_price": 3149.0,
-      "discount": 17.5,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
-      "category": "[FREEZER]",
-      "last_seen": 1787428739.950053,
-      "discovery_ts": 1787368158.987282,
       "is_new": false
     },
     {
@@ -22975,7 +23020,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -23047,7 +23092,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23065,7 +23110,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -23173,7 +23218,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51RbgrRZATL._AC_UL210_SR210,210_.jpg",
       "category": "[PET_PEST_CONTROL]",
-      "last_seen": 1787415391.107511,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787224030.778869,
       "is_new": false
     },
@@ -23209,26 +23254,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787435622.59513,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787140640.09174,
-      "is_new": false
-    },
-    {
-      "asin": "B0BFSYQHCX",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSYQHCX",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787415391.107511,
-      "discovery_ts": 1787002543.355604,
       "is_new": false
     },
     {
@@ -23263,7 +23290,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787430459.958669,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23281,7 +23308,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23299,7 +23326,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787415391.107511,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -23353,7 +23380,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23389,7 +23416,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787434348.382709,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23407,7 +23434,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787415391.107511,
+      "last_seen": 1787438460.904156,
       "discovery_ts": 1787302923.276499,
       "is_new": false
     }
