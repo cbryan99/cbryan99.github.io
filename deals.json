@@ -1,5 +1,5 @@
 {
-  "last_check": "23/08/2026 02:23:59",
+  "last_check": "23/08/2026 03:28:31",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22330,25 +22330,34 @@
           "date": "2026-08-23T00:58:13.146282"
         }
       ]
+    },
+    "B0FJZR1RBP": {
+      "discovery_date": "2026-08-23T03:28:19.767289",
+      "price_history": [
+        {
+          "price": 1899.0,
+          "date": "2026-08-23T03:28:19.767289"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FH7FZR1F",
-      "title": "Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 30 ml",
-      "link": "https://www.amazon.com.br/Weleda-Babycreme-Cal%C3%AAndula-Prote%C3%A7%C3%A3o-Assaduras/dp/B0FH7FZR1F",
-      "current_price": 17.62,
-      "original_price": 39.9,
-      "discount": 55.8,
-      "difference": 22.28,
+      "asin": "B0FJZR1RBP",
+      "title": "Lava-Louças Electrolux 8 Serviços Branca com Programa Lava e Seca 50min 220v LB08E",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LB08E/dp/B0FJZR1RBP",
+      "current_price": 1899.0,
+      "original_price": 2399.0,
+      "discount": 20.8,
+      "difference": 500.0,
       "criteria": [
-        "55.8% OFF"
+        "R$ 500.0 desc."
       ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787446693.146289,
-      "discovery_ts": 1787446693.146289,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41R+fa1V8LL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1787455699.767298,
+      "discovery_ts": 1787455699.767298,
       "is_new": true
     },
     {
@@ -22422,7 +22431,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787436923.32378,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22441,7 +22450,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -22461,24 +22470,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787435622.59513,
       "discovery_ts": 1787309403.08283,
-      "is_new": false
-    },
-    {
-      "asin": "B0GQW5WSNJ",
-      "title": "Apple iPhone 17 de 512 GB — Lavanda",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-GB/dp/B0GQW5WSNJ",
-      "current_price": 7099.0,
-      "original_price": 9499.0,
-      "discount": 25.3,
-      "difference": 2400.0,
-      "criteria": [
-        "R$ 2400.0 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41UGaIt6TnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787430459.958669,
-      "discovery_ts": 1787265568.987579,
       "is_new": false
     },
     {
@@ -22520,6 +22511,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787455699.767298,
+      "discovery_ts": 1784830133.087011,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFVKKWT",
       "title": "Apple iPhone 16 (256 GB) – Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
@@ -22538,24 +22547,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787441464.356652,
-      "discovery_ts": 1784830133.087011,
-      "is_new": false
-    },
-    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22569,26 +22560,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787446693.146289,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJV247C",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
-      "current_price": 6949.0,
-      "original_price": 8699.0,
-      "discount": 20.1,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787432765.588034,
-      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -22623,7 +22596,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22641,7 +22614,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22700,24 +22673,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FY41RGG9",
-      "title": "Notebook Gamer Acer Nitro V15 ANV15-52-790M Intel® Core™ i7-13620H 13ªG 16GB RAM 512GB SSD RTX4060 15.6”",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-790M-i7-13620H-RTX4060/dp/B0FY41RGG9",
-      "current_price": 7299.0,
-      "original_price": 8299.0,
-      "discount": 12.0,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787432765.588034,
-      "discovery_ts": 1787348118.224583,
-      "is_new": false
-    },
-    {
       "asin": "B09LHW62H7",
       "title": "Coifa de Ilha Oster Inox Touch Control, 90cm, 110v, OCFA590",
       "link": "https://www.amazon.com.br/Coifa-Ilha-Oster-Touch-Control/dp/B09LHW62H7",
@@ -22749,7 +22704,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41XNkZmr2nL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787446693.146289,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22767,7 +22722,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1787446693.146289,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -22840,7 +22795,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787435622.59513,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787253098.380616,
       "is_new": false
     },
@@ -22858,7 +22813,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22881,24 +22836,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FVPZ3GVC",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 220V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVPZ3GVC",
-      "current_price": 2499.0,
-      "original_price": 3199.0,
-      "discount": 21.9,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787432765.588034,
-      "discovery_ts": 1787411687.576549,
-      "is_new": false
-    },
-    {
       "asin": "B0H5CV388H",
       "title": "Electrolux Ar-condicionado Electrolux MaxComfort Full Inverter Frio 18.000 BTUs (NI18F/NE18F) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI18F-NE18F/dp/B0H5CV388H",
@@ -22912,7 +22849,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787441464.356652,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23002,26 +22939,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787256698.854804,
-      "is_new": false
-    },
-    {
-      "asin": "B0G52YJHL9",
-      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
-      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
-      "current_price": 2699.65,
-      "original_price": 3249.9,
-      "discount": 16.9,
-      "difference": 550.25,
-      "criteria": [
-        "R$ 550.25 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787430459.958669,
-      "discovery_ts": 1787248478.841992,
       "is_new": false
     },
     {
@@ -23074,26 +22993,26 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gj54fMqYL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787431758.184311,
       "is_new": false
     },
     {
-      "asin": "B0DB8VCNJZ",
-      "title": "Carrinho de Bebê Maxi-Cosi, Eva³, Essential Black Champagne",
-      "link": "https://www.amazon.com.br/Maxi-Cosi-Carrinho-Essential-Black-Champagne/dp/B0DB8VCNJZ",
-      "current_price": 1816.43,
-      "original_price": 2299.0,
-      "discount": 21.0,
-      "difference": 482.57,
+      "asin": "B0GR18BSVR",
+      "title": "Frigobar Brastemp Retrô 76 Litros Classic Black - BRA08ME (110, Volts)",
+      "link": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GR18BSVR",
+      "current_price": 1648.98,
+      "original_price": 2129.0,
+      "discount": 22.5,
+      "difference": 480.02,
       "criteria": [
-        "R$ 482.57 desc."
+        "R$ 480.02 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61u1kzupvDL._AC_UL210_SR210,210_.jpg",
-      "category": "[STROLLER]",
-      "last_seen": 1787432765.588034,
-      "discovery_ts": 1787246584.057702,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aB+FU2oFL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787455699.767298,
+      "discovery_ts": 1786469861.404163,
       "is_new": false
     },
     {
@@ -23218,7 +23137,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23236,8 +23155,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1786421114.339604,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXGT3FS6",
+      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
+      "current_price": 2799.0,
+      "original_price": 3099.0,
+      "discount": 9.7,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787455699.767298,
+      "discovery_ts": 1786681804.577201,
       "is_new": false
     },
     {
@@ -23416,7 +23353,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23488,7 +23425,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787451830.199603,
+      "last_seen": 1787455699.767298,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23526,6 +23463,24 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1787438460.904156,
       "discovery_ts": 1787302923.276499,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH7FZR1F",
+      "title": "Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 30 ml",
+      "link": "https://www.amazon.com.br/Weleda-Babycreme-Cal%C3%AAndula-Prote%C3%A7%C3%A3o-Assaduras/dp/B0FH7FZR1F",
+      "current_price": 17.62,
+      "original_price": 39.9,
+      "discount": 55.8,
+      "difference": 22.28,
+      "criteria": [
+        "55.8% OFF"
+      ],
+      "badge": "55% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_PROTECTANT]",
+      "last_seen": 1787455699.767298,
+      "discovery_ts": 1787446693.146282,
       "is_new": false
     }
   ]
