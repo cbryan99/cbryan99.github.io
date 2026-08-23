@@ -1,5 +1,5 @@
 {
-  "last_check": "23/08/2026 11:53:09",
+  "last_check": "23/08/2026 12:27:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22384,6 +22384,15 @@
           "date": "2026-08-23T11:31:13.840693"
         }
       ]
+    },
+    "B0DSCDJNJT": {
+      "discovery_date": "2026-08-23T12:27:32.786870",
+      "price_history": [
+        {
+          "price": 709.9,
+          "date": "2026-08-23T12:27:32.786870"
+        }
+      ]
     }
   },
   "data": [
@@ -22403,6 +22412,25 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787484673.840701,
       "discovery_ts": 1787481864.067885,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSCDJNJT",
+      "title": "Samsonite Mala de Viagem Quartz Azul Média",
+      "link": "https://www.amazon.com.br/Samsonite-Viagem-Quartz-M%C3%A9dia-Expans%C3%ADvel/dp/B0DSCDJNJT",
+      "current_price": 709.9,
+      "original_price": 1200.0,
+      "discount": 40.8,
+      "difference": 490.1,
+      "criteria": [
+        "40.8% OFF",
+        "R$ 490.1 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51IDFbCU6YL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUITCASE]",
+      "last_seen": 1787488052.786877,
+      "discovery_ts": 1787488052.786877,
       "is_new": true
     },
     {
@@ -22475,7 +22503,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22626,24 +22654,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2399.0,
-      "original_price": 3299.0,
-      "discount": 27.3,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1787464410.2614,
-      "discovery_ts": 1787355246.696526,
-      "is_new": false
-    },
-    {
       "asin": "B0GYQ2PLW3",
       "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
@@ -22675,7 +22685,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22729,7 +22739,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -22783,7 +22793,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iAtf1PpNL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787480239.108718,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1787256698.854804,
       "is_new": false
     },
@@ -22837,7 +22847,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787484673.840701,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -22873,7 +22883,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787466640.858729,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -22911,6 +22921,24 @@
       "category": "🎮 Games & Lazer",
       "last_seen": 1787478661.701382,
       "discovery_ts": 1787297858.251791,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXGT3FS6",
+      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
+      "current_price": 2799.0,
+      "original_price": 3099.0,
+      "discount": 9.7,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787488052.786877,
+      "discovery_ts": 1786681804.577201,
       "is_new": false
     },
     {
@@ -22968,6 +22996,24 @@
       "is_new": false
     },
     {
+      "asin": "B0C7CQT9ZS",
+      "title": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
+      "link": "https://www.amazon.com.br/soundcore-Bluetooth-Reprodu%C3%A7%C3%A3o-Resist%C3%AAncia-Personaliza%C3%A7%C3%A3o/dp/B0C7CQT9ZS",
+      "current_price": 148.99,
+      "original_price": 259.0,
+      "discount": 42.5,
+      "difference": 110.01,
+      "criteria": [
+        "42.5% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+qzpA7y+L._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787488052.786877,
+      "discovery_ts": 1784617564.938218,
+      "is_new": false
+    },
+    {
       "asin": "B07HR1MZQP",
       "title": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
       "link": "https://www.amazon.com.br/Umidificador-Fisher-Ultrass%C3%B4nico-HC115-Bivolt/dp/B07HR1MZQP",
@@ -22981,7 +23027,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23107,7 +23153,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23143,7 +23189,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23233,7 +23279,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23287,7 +23333,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787485989.755831,
+      "last_seen": 1787488052.786877,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
