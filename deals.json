@@ -1,5 +1,5 @@
 {
-  "last_check": "23/08/2026 23:31:59",
+  "last_check": "23/08/2026 23:53:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22419,9 +22419,36 @@
           "date": "2026-08-23T17:43:04.128826"
         }
       ]
+    },
+    "B0F6NLFZCW": {
+      "discovery_date": "2026-08-23T23:53:09.226013",
+      "price_history": [
+        {
+          "price": 3249.0,
+          "date": "2026-08-23T23:53:09.226013"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0F6NLFZCW",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NLFZCW",
+      "current_price": 3249.0,
+      "original_price": 5299.0,
+      "discount": 38.7,
+      "difference": 2050.0,
+      "criteria": [
+        "R$ 2050.0 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-ey8KOkL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1787529189.226021,
+      "discovery_ts": 1787529189.226021,
+      "is_new": true
+    },
     {
       "asin": "B0DSXZZH49",
       "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
@@ -22456,7 +22483,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22474,7 +22501,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ftU72EThL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787350745.234627,
       "is_new": false
     },
@@ -22493,7 +22520,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787523295.590056,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -22568,7 +22595,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/510VxPfAmnL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787506984.128834,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787262344.029138,
       "is_new": false
     },
@@ -22622,7 +22649,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22663,24 +22690,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B61WJRY5",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787527910.244208,
-      "discovery_ts": 1785515180.635022,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -22694,8 +22703,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0B61WJRY5",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
+      "current_price": 3585.0,
+      "original_price": 4838.9,
+      "discount": 25.9,
+      "difference": 1253.9,
+      "criteria": [
+        "R$ 1253.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787529189.226021,
+      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -22766,7 +22793,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787348118.224583,
       "is_new": false
     },
@@ -22802,7 +22829,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787282927.326266,
       "is_new": false
     },
@@ -22856,7 +22883,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787253098.380616,
       "is_new": false
     },
@@ -22928,7 +22955,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23018,8 +23045,26 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1784595805.500833,
+      "is_new": false
+    },
+    {
+      "asin": "B0DN3JFV7Z",
+      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
+      "current_price": 2999.0,
+      "original_price": 3399.0,
+      "discount": 11.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787529189.226021,
+      "discovery_ts": 1787441464.356645,
       "is_new": false
     },
     {
@@ -23038,24 +23083,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787526040.2026,
       "discovery_ts": 1786783777.017112,
-      "is_new": false
-    },
-    {
-      "asin": "B0DN3JFV7Z",
-      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
-      "current_price": 2999.0,
-      "original_price": 3399.0,
-      "discount": 11.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787518859.925043,
-      "discovery_ts": 1787441464.356645,
       "is_new": false
     },
     {
@@ -23144,7 +23171,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23162,7 +23189,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -23180,7 +23207,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787523295.590056,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -23252,7 +23279,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51QIvg3FDEL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787506984.128834,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787484673.840701,
       "is_new": false
     },
@@ -23324,7 +23351,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23414,7 +23441,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23468,7 +23495,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787522002.926371,
+      "last_seen": 1787529189.226021,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
