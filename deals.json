@@ -1,5 +1,5 @@
 {
-  "last_check": "23/08/2026 11:01:40",
+  "last_check": "23/08/2026 11:31:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22366,6 +22366,24 @@
           "date": "2026-08-23T10:44:24.067885"
         }
       ]
+    },
+    "B0GVSWWL1S": {
+      "discovery_date": "2026-08-23T11:31:13.840693",
+      "price_history": [
+        {
+          "price": 149.0,
+          "date": "2026-08-23T11:31:13.840693"
+        }
+      ]
+    },
+    "B09WJD17ZS": {
+      "discovery_date": "2026-08-23T11:31:13.840693",
+      "price_history": [
+        {
+          "price": 157.75,
+          "date": "2026-08-23T11:31:13.840693"
+        }
+      ]
     }
   },
   "data": [
@@ -22383,8 +22401,44 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jFuKtTOQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1787481864.067885,
+      "is_new": true
+    },
+    {
+      "asin": "B09WJD17ZS",
+      "title": "Suporte Articulado de Mesa com Pistão a Gás para Monitores de 17' a 35' Branco - F80W ELG",
+      "link": "https://www.amazon.com.br/Suporte-Articulado-Pist%C3%A3o-Monitores-Branco/dp/B09WJD17ZS",
+      "current_price": 157.75,
+      "original_price": 299.9,
+      "discount": 47.4,
+      "difference": 142.15,
+      "criteria": [
+        "47.4% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51QIvg3FDEL._AC_UL210_SR210,210_.jpg",
+      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
+      "last_seen": 1787484673.840701,
+      "discovery_ts": 1787484673.840701,
+      "is_new": true
+    },
+    {
+      "asin": "B0GVSWWL1S",
+      "title": "MONDIAL, Churrasqueira Elétrica, Preto, 2000W, 110V - CH-08-BI",
+      "link": "https://www.amazon.com.br/MONDIAL-Churrasqueira-El%C3%A9trica-Preto-2000W/dp/B0GVSWWL1S",
+      "current_price": 149.0,
+      "original_price": 256.9,
+      "discount": 42.0,
+      "difference": 107.9,
+      "criteria": [
+        "42.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/819mrG6yclL._AC_UL210_SR210,210_.jpg",
+      "category": "[BARBECUE_GRILL]",
+      "last_seen": 1787484673.840701,
+      "discovery_ts": 1787484673.840701,
       "is_new": true
     },
     {
@@ -22421,7 +22475,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22477,7 +22531,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/510VxPfAmnL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787462602.37402,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1787262344.029138,
       "is_new": false
     },
@@ -22497,6 +22551,24 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1787477046.255804,
       "discovery_ts": 1785515180.635022,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787484673.840701,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -22590,24 +22662,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DZJR4G1T",
-      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
-      "current_price": 3747.0,
-      "original_price": 4499.0,
-      "discount": 16.7,
-      "difference": 752.0,
-      "criteria": [
-        "R$ 752.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787462602.37402,
-      "discovery_ts": 1787253098.380616,
-      "is_new": false
-    },
-    {
       "asin": "B0D47Z9ZNW",
       "title": "Cadeirinha Maxi-Cosi, Spinel 360° Plus, 0 a 36kg, Isofix, Haste Frontal, Painel Eletrônico, Authentic Black",
       "link": "https://www.amazon.com.br/Maxi-Cosi-Cadeirinha-Spinel-Authentic-Graphite/dp/B0D47Z9ZNW",
@@ -22621,7 +22675,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22783,7 +22837,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -22803,24 +22857,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787471432.451365,
       "discovery_ts": 1786783777.017112,
-      "is_new": false
-    },
-    {
-      "asin": "B0DN3JFV7Z",
-      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
-      "current_price": 2999.0,
-      "original_price": 3399.0,
-      "discount": 11.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787462602.37402,
-      "discovery_ts": 1787441464.356645,
       "is_new": false
     },
     {
@@ -22981,7 +23017,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51RbgrRZATL._AC_UL210_SR210,210_.jpg",
       "category": "[PET_PEST_CONTROL]",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1787224030.778869,
       "is_new": false
     },
@@ -23040,24 +23076,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFSRV5KM",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRV5KM",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787462602.37402,
-      "discovery_ts": 1787068104.940879,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YTZ8CR",
       "title": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
       "link": "https://www.amazon.com.br/Truss-Novo-Reconstrutor-Capilar-Obrigat%C3%B3rio/dp/B0D9YTZ8CR",
@@ -23089,7 +23107,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23125,7 +23143,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23215,7 +23233,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787482888.78841,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23233,7 +23251,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787480239.108718,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23269,7 +23287,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787462602.37402,
+      "last_seen": 1787484673.840701,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
