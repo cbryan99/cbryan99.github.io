@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 12:36:55",
+  "last_check": "24/08/2026 13:33:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -19044,6 +19044,10 @@
         {
           "price": 141.33,
           "date": "2026-08-17T14:35:16.566281"
+        },
+        {
+          "price": 119.9,
+          "date": "2026-08-24T13:33:56.396467"
         }
       ]
     },
@@ -22526,6 +22530,15 @@
           "date": "2026-08-24T12:36:55.430138"
         }
       ]
+    },
+    "B0C2RS4ZG6": {
+      "discovery_date": "2026-08-24T13:33:56.396467",
+      "price_history": [
+        {
+          "price": 469.0,
+          "date": "2026-08-24T13:33:56.396467"
+        }
+      ]
     }
   },
   "data": [
@@ -22545,6 +22558,25 @@
       "category": "[BICYCLE]",
       "last_seen": 1787575015.430146,
       "discovery_ts": 1787575015.430146,
+      "is_new": true
+    },
+    {
+      "asin": "B0C2RS4ZG6",
+      "title": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Preta, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6",
+      "current_price": 469.0,
+      "original_price": 899.0,
+      "discount": 47.8,
+      "difference": 430.0,
+      "criteria": [
+        "47.8% OFF",
+        "R$ 430.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_3]",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1787578436.396475,
       "is_new": true
     },
     {
@@ -22581,8 +22613,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787575015.430146,
-      "discovery_ts": 1787575015.430146,
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1787575015.430138,
       "is_new": true
     },
     {
@@ -22599,8 +22631,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787575015.430146,
-      "discovery_ts": 1787575015.430146,
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1787575015.430138,
       "is_new": true
     },
     {
@@ -22618,8 +22650,26 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGM1PJMK",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
+      "current_price": 5110.0,
+      "original_price": 7799.0,
+      "discount": 34.5,
+      "difference": 2689.0,
+      "criteria": [
+        "R$ 2689.0 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1786530504.605256,
       "is_new": false
     },
     {
@@ -22672,7 +22722,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22713,6 +22763,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.9,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.1,
+      "criteria": [
+        "R$ 775.1 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
       "asin": "B0D47Z9ZNW",
       "title": "Cadeirinha Maxi-Cosi, Spinel 360° Plus, 0 a 36kg, Isofix, Haste Frontal, Painel Eletrônico, Authentic Black",
       "link": "https://www.amazon.com.br/Maxi-Cosi-Cadeirinha-Spinel-Authentic-Graphite/dp/B0D47Z9ZNW",
@@ -22728,6 +22796,24 @@
       "category": "[INFANT_TODDLER_CAR_SEAT]",
       "last_seen": 1787566167.698537,
       "discovery_ts": 1787265568.987579,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPZ3GVC",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 220V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVPZ3GVC",
+      "current_price": 2499.0,
+      "original_price": 3199.0,
+      "discount": 21.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1787411687.576549,
       "is_new": false
     },
     {
@@ -22822,24 +22908,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DN3JFV7Z",
-      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
-      "current_price": 2999.0,
-      "original_price": 3399.0,
-      "discount": 11.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787553823.989984,
-      "discovery_ts": 1787441464.356645,
-      "is_new": false
-    },
-    {
       "asin": "B0H5D7HXP4",
       "title": "Kit 2 Cadeiras de Jantar Madeira Maciça Estofada em Linho Bege Claro Encosto Rattan - November",
       "link": "https://www.amazon.com.br/Cadeiras-Jantar-Madeira-Estofada-Encosto/dp/B0H5D7HXP4",
@@ -22873,6 +22941,24 @@
       "category": "[HOME]",
       "last_seen": 1787560156.916574,
       "discovery_ts": 1787317576.894529,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBPDWZQ",
+      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
+      "current_price": 3198.9,
+      "original_price": 3535.9,
+      "discount": 9.5,
+      "difference": 337.0,
+      "criteria": [
+        "R$ 337.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
@@ -23002,6 +23088,24 @@
       "is_new": false
     },
     {
+      "asin": "B0051LRFB0",
+      "title": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+      "link": "https://www.amazon.com.br/Run-Bacardi-Anos-750Ml-Sabor/dp/B0051LRFB0",
+      "current_price": 119.9,
+      "original_price": 243.9,
+      "discount": 50.8,
+      "difference": 124.0,
+      "criteria": [
+        "50.8% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TOSd1e4qL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1786542030.20045,
+      "is_new": false
+    },
+    {
       "asin": "B0C7CQT9ZS",
       "title": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
       "link": "https://www.amazon.com.br/soundcore-Bluetooth-Reprodu%C3%A7%C3%A3o-Resist%C3%AAncia-Personaliza%C3%A7%C3%A3o/dp/B0C7CQT9ZS",
@@ -23033,7 +23137,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23105,7 +23209,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1786944590.050834,
       "is_new": false
     },
@@ -23125,6 +23229,24 @@
       "category": "[SHIRT]",
       "last_seen": 1787560156.916574,
       "discovery_ts": 1787230512.713835,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFSYQHCX",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BFSYQHCX",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787578436.396475,
+      "discovery_ts": 1787002543.355604,
       "is_new": false
     },
     {
@@ -23177,7 +23299,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23195,7 +23317,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23249,7 +23371,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23285,7 +23407,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23303,7 +23425,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23357,7 +23479,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     },
@@ -23375,7 +23497,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787575015.430146,
+      "last_seen": 1787578436.396475,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
