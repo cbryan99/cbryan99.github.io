@@ -1,5 +1,5 @@
 {
-  "last_check": "23/08/2026 23:53:12",
+  "last_check": "24/08/2026 00:56:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22428,6 +22428,15 @@
           "date": "2026-08-23T23:53:09.226013"
         }
       ]
+    },
+    "B0D9KTJ3M7": {
+      "discovery_date": "2026-08-24T00:56:13.270402",
+      "price_history": [
+        {
+          "price": 3248.05,
+          "date": "2026-08-24T00:56:13.270402"
+        }
+      ]
     }
   },
   "data": [
@@ -22447,6 +22456,24 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787529189.226021,
       "discovery_ts": 1787529189.226021,
+      "is_new": true
+    },
+    {
+      "asin": "B0D9KTJ3M7",
+      "title": "Bebê Conforto Maxi-Cosi, Pebble, com Base Familyfix, Giro 360° Isofix, Essential Black",
+      "link": "https://www.amazon.com.br/Maxi-Cosi-Conforto-Pebble-Essential-Black/dp/B0D9KTJ3M7",
+      "current_price": 3248.05,
+      "original_price": 3799.0,
+      "discount": 14.5,
+      "difference": 550.95,
+      "criteria": [
+        "R$ 550.95 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oYElTJChL._AC_UL210_SR210,210_.jpg",
+      "category": "[INFANT_TODDLER_CAR_SEAT]",
+      "last_seen": 1787532973.27041,
+      "discovery_ts": 1787532973.27041,
       "is_new": true
     },
     {
@@ -22483,7 +22510,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22520,8 +22547,26 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1784673560.96846,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQWVWM4H",
+      "title": "Apple iPhone 17 de 512 GB — Azul-névoa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-Azul-n%C3%A9voa/dp/B0GQWVWM4H",
+      "current_price": 7099.0,
+      "original_price": 9499.0,
+      "discount": 25.3,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41XSH21Uw5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787532973.27041,
+      "discovery_ts": 1787309403.08283,
       "is_new": false
     },
     {
@@ -22557,7 +22602,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41JxSDO5I0L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787507922.832459,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787506984.128826,
       "is_new": false
     },
@@ -22636,6 +22681,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787532973.27041,
+      "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22651,24 +22714,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787529189.226021,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0DW4DFTWD",
-      "title": "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Black Inox Look (IM7B) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Inverter-Efficient-AutoSense/dp/B0DW4DFTWD",
-      "current_price": 5299.0,
-      "original_price": 6927.6,
-      "discount": 23.5,
-      "difference": 1628.6,
-      "criteria": [
-        "R$ 1628.6 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41jFuKtTOQL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787510065.029962,
-      "discovery_ts": 1787481864.067885,
       "is_new": false
     },
     {
@@ -22703,7 +22748,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22721,7 +22766,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22762,24 +22807,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3499.0,
-      "original_price": 4618.9,
-      "discount": 24.2,
-      "difference": 1119.9,
-      "criteria": [
-        "R$ 1119.9 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787507922.832459,
-      "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
       "asin": "B0FY41RGG9",
       "title": "Notebook Gamer Acer Nitro V15 ANV15-52-790M Intel® Core™ i7-13620H 13ªG 16GB RAM 512GB SSD RTX4060 15.6”",
       "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-790M-i7-13620H-RTX4060/dp/B0FY41RGG9",
@@ -22793,7 +22820,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787348118.224583,
       "is_new": false
     },
@@ -22816,6 +22843,24 @@
       "is_new": false
     },
     {
+      "asin": "B0G22R3QLT",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
+      "current_price": 3899.0,
+      "original_price": 4699.0,
+      "discount": 17.0,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787532973.27041,
+      "discovery_ts": 1786504373.611184,
+      "is_new": false
+    },
+    {
       "asin": "B0GYQ2PLW3",
       "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
@@ -22834,24 +22879,6 @@
       "is_new": false
     },
     {
-      "asin": "B0G22R3QLT",
-      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
-      "current_price": 3899.0,
-      "original_price": 4699.0,
-      "discount": 17.0,
-      "difference": 800.0,
-      "criteria": [
-        "R$ 800.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787520695.45789,
-      "discovery_ts": 1786504373.611184,
-      "is_new": false
-    },
-    {
       "asin": "B0FPBQQ4TN",
       "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
@@ -22865,7 +22892,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22883,7 +22910,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787253098.380616,
       "is_new": false
     },
@@ -22955,7 +22982,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23045,7 +23072,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -23063,7 +23090,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787441464.356645,
       "is_new": false
     },
@@ -23171,7 +23198,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23189,7 +23216,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1786421114.339604,
       "is_new": false
     },
@@ -23207,7 +23234,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -23227,24 +23254,6 @@
       "category": "[STATIONARY_BICYCLE]",
       "last_seen": 1787514681.000711,
       "discovery_ts": 1787417003.464584,
-      "is_new": false
-    },
-    {
-      "asin": "B0GXGT3FS6",
-      "title": "Ar Condicionado Split Inverter Philco PAC18QG Espelhado 18000 BTUs Quente e Frio 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Philco-PAC18QG-Espelhado/dp/B0GXGT3FS6",
-      "current_price": 2799.0,
-      "original_price": 3099.0,
-      "discount": 9.7,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k0QXiybVL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787507922.832459,
-      "discovery_ts": 1786681804.577201,
       "is_new": false
     },
     {
@@ -23297,7 +23306,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787522002.926371,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23441,7 +23450,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23495,7 +23504,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787532973.27041,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
