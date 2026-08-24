@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 05:51:47",
+  "last_check": "24/08/2026 06:43:49",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22455,25 +22455,34 @@
           "date": "2026-08-24T04:25:15.027776"
         }
       ]
+    },
+    "B07V7H5VHK": {
+      "discovery_date": "2026-08-24T06:43:43.989977",
+      "price_history": [
+        {
+          "price": 26.9,
+          "date": "2026-08-24T06:43:43.989977"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B09YXJGYRD",
-      "title": "Forno de Embutir Elétrico Electrolux 80L Experience com FoodSensor (OE8EF) 220V",
-      "link": "https://www.amazon.com.br/Embutir-El%C3%A9trico-Electrolux-Experience-FoodSensor/dp/B09YXJGYRD",
-      "current_price": 2229.0,
-      "original_price": 3199.0,
-      "discount": 30.3,
-      "difference": 970.0,
+      "asin": "B07V7H5VHK",
+      "title": "Scott Duramax Pano Reutilizável em Rolo, Branco, 174 Folhas (3 Unidades de 58 Folhas)",
+      "link": "https://www.amazon.com.br/PanoRolo-Multiuso-Unidades-Scott-Duramax/dp/B07V7H5VHK",
+      "current_price": 26.9,
+      "original_price": 45.99,
+      "discount": 41.5,
+      "difference": 19.09,
       "criteria": [
-        "R$ 970.0 desc."
+        "41.5% OFF"
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Xc3-IpHjL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1787545515.027783,
-      "discovery_ts": 1787545515.027783,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
+      "category": "[PAPER_TOWEL]",
+      "last_seen": 1787553823.989984,
+      "discovery_ts": 1787553823.989984,
       "is_new": true
     },
     {
@@ -22491,26 +22500,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0F1W5TLN4",
-      "title": "Dyson V12 Detect Slim Aspirador de Pó Sem Fio - Bivolt",
-      "link": "https://www.amazon.com.br/Dyson-V12-Detect-Slim-Aspirador/dp/B0F1W5TLN4",
-      "current_price": 4845.35,
-      "original_price": 7422.67,
-      "discount": 34.7,
-      "difference": 2577.32,
-      "criteria": [
-        "R$ 2577.32 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ftU72EThL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787529189.226021,
-      "discovery_ts": 1787350745.234627,
       "is_new": false
     },
     {
@@ -22586,43 +22577,6 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787538061.55304,
       "discovery_ts": 1787352315.632751,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NQY99G",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NQY99G",
-      "current_price": 3399.0,
-      "original_price": 5799.0,
-      "discount": 41.4,
-      "difference": 2400.0,
-      "criteria": [
-        "41.4% OFF",
-        "R$ 2400.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510VxPfAmnL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787529189.226021,
-      "discovery_ts": 1787262344.029138,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NLFZCW",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NLFZCW",
-      "current_price": 3249.0,
-      "original_price": 5299.0,
-      "discount": 38.7,
-      "difference": 2050.0,
-      "criteria": [
-        "R$ 2050.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-ey8KOkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787529189.226021,
-      "discovery_ts": 1787529189.226021,
       "is_new": false
     },
     {
@@ -22729,7 +22683,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -22767,6 +22721,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787538061.55304,
       "discovery_ts": 1787348118.224583,
+      "is_new": false
+    },
+    {
+      "asin": "B09YXJGYRD",
+      "title": "Forno de Embutir Elétrico Electrolux 80L Experience com FoodSensor (OE8EF) 220V",
+      "link": "https://www.amazon.com.br/Embutir-El%C3%A9trico-Electrolux-Experience-FoodSensor/dp/B09YXJGYRD",
+      "current_price": 2229.0,
+      "original_price": 3199.0,
+      "discount": 30.3,
+      "difference": 970.0,
+      "criteria": [
+        "R$ 970.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Xc3-IpHjL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKING_OVEN]",
+      "last_seen": 1787545515.027783,
+      "discovery_ts": 1787545515.027783,
       "is_new": false
     },
     {
@@ -23053,7 +23025,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787441464.356645,
       "is_new": false
     },
@@ -23125,7 +23097,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23161,7 +23133,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -23197,7 +23169,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -23215,7 +23187,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51QIvg3FDEL._AC_UL210_SR210,210_.jpg",
       "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787484673.840693,
       "is_new": false
     },
@@ -23233,7 +23205,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23269,7 +23241,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787140640.09174,
       "is_new": false
     },
@@ -23287,7 +23259,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23305,7 +23277,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23377,7 +23349,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787548193.189484,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23395,7 +23367,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787548193.189484,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23431,7 +23403,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787550698.348103,
+      "last_seen": 1787553823.989984,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
