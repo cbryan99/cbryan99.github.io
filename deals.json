@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 02:21:19",
+  "last_check": "24/08/2026 03:30:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22437,25 +22437,34 @@
           "date": "2026-08-24T00:56:13.270402"
         }
       ]
+    },
+    "B0C6KZCY6Z": {
+      "discovery_date": "2026-08-24T03:30:18.312863",
+      "price_history": [
+        {
+          "price": 1698.0,
+          "date": "2026-08-24T03:30:18.312863"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0D9KTJ3M7",
-      "title": "Bebê Conforto Maxi-Cosi, Pebble, com Base Familyfix, Giro 360° Isofix, Essential Black",
-      "link": "https://www.amazon.com.br/Maxi-Cosi-Conforto-Pebble-Essential-Black/dp/B0D9KTJ3M7",
-      "current_price": 3248.05,
-      "original_price": 3799.0,
-      "discount": 14.5,
-      "difference": 550.95,
+      "asin": "B0C6KZCY6Z",
+      "title": "Cadeirinha Único Evo i-Size com Isofix e Top Tether 40–150cm Preto Chicco – 6087030950000",
+      "link": "https://www.amazon.com.br/Cadeirinha-i-Size-Isofix-40-150cm-Chicco/dp/B0C6KZCY6Z",
+      "current_price": 1698.0,
+      "original_price": 2699.0,
+      "discount": 37.1,
+      "difference": 1001.0,
       "criteria": [
-        "R$ 550.95 desc."
+        "R$ 1001.0 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oYElTJChL._AC_UL210_SR210,210_.jpg",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vCqNAY53L._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787532973.27041,
-      "discovery_ts": 1787532973.27041,
+      "last_seen": 1787542218.31287,
+      "discovery_ts": 1787542218.31287,
       "is_new": true
     },
     {
@@ -22492,7 +22501,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22645,24 +22654,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787518859.925043,
-      "discovery_ts": 1784830133.087011,
-      "is_new": false
-    },
-    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22676,7 +22667,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22712,7 +22703,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -22730,7 +22721,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22822,6 +22813,24 @@
       "category": "[VENT_HOOD]",
       "last_seen": 1787527910.244208,
       "discovery_ts": 1786704121.505645,
+      "is_new": false
+    },
+    {
+      "asin": "B07S3S3L6T",
+      "title": "Maxi-Cosi Cadeira de Refeição Minla, Essential Graphite",
+      "link": "https://www.amazon.com.br/Cadeira-Refei%C3%A7%C3%A3o-Minla-Maxi-Cosi-Essential/dp/B07S3S3L6T",
+      "current_price": 1339.89,
+      "original_price": 2199.0,
+      "discount": 39.1,
+      "difference": 859.11,
+      "criteria": [
+        "R$ 859.11 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51kh0rs2sPL._AC_UL210_SR210,210_.jpg",
+      "category": "[BABY_SEAT]",
+      "last_seen": 1787542218.31287,
+      "discovery_ts": 1787409191.050906,
       "is_new": false
     },
     {
@@ -22928,7 +22937,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51lZa7T0BAL._AC_UL210_SR210,210_.jpg",
       "category": "[INFANT_TODDLER_CAR_SEAT]",
-      "last_seen": 1787517696.919965,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1787265568.987579,
       "is_new": false
     },
@@ -22964,7 +22973,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23005,6 +23014,24 @@
       "is_new": false
     },
     {
+      "asin": "B0D9KTJ3M7",
+      "title": "Bebê Conforto Maxi-Cosi, Pebble, com Base Familyfix, Giro 360° Isofix, Essential Black",
+      "link": "https://www.amazon.com.br/Maxi-Cosi-Conforto-Pebble-Essential-Black/dp/B0D9KTJ3M7",
+      "current_price": 3248.05,
+      "original_price": 3799.0,
+      "discount": 14.5,
+      "difference": 550.95,
+      "criteria": [
+        "R$ 550.95 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oYElTJChL._AC_UL210_SR210,210_.jpg",
+      "category": "[INFANT_TODDLER_CAR_SEAT]",
+      "last_seen": 1787532973.27041,
+      "discovery_ts": 1787532973.27041,
+      "is_new": false
+    },
+    {
       "asin": "B0F7K1YRY4",
       "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
@@ -23038,6 +23065,42 @@
       "category": "[FREEZER]",
       "last_seen": 1787538061.55304,
       "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
+      "asin": "B0H7FJWXH3",
+      "title": "Electrolux Lava-Louças de Piso Preta LP14E 59,8x60x84,5 cm 14 Serviços com Higienização 70°C, Lava e Seca 50, Meia Carga e Controles Digitais",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7as-Servi%C3%A7os-Higieniza%C3%A7%C3%A3o-Controles/dp/B0H7FJWXH3",
+      "current_price": 3499.0,
+      "original_price": 3998.95,
+      "discount": 12.5,
+      "difference": 499.95,
+      "criteria": [
+        "R$ 499.95 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yE4Z334DL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1787542218.31287,
+      "discovery_ts": 1787356506.08484,
+      "is_new": false
+    },
+    {
+      "asin": "B0924BJ3QM",
+      "title": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 38 min base recarregamento luz frontal LED pedal limpeza facil da escova rotativa aspira capacidade 420Ml ERG25N Bivolt Azul",
+      "link": "https://www.amazon.com.br/Electrolux-ERG25N-Aspirador-vertical-sem/dp/B0924BJ3QM",
+      "current_price": 799.9,
+      "original_price": 1299.0,
+      "discount": 38.4,
+      "difference": 499.1,
+      "criteria": [
+        "R$ 499.1 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Gj54fMqYL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787542218.31287,
+      "discovery_ts": 1787431758.184311,
       "is_new": false
     },
     {
@@ -23077,6 +23140,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DN3JFV7Z",
+      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
+      "current_price": 2999.0,
+      "original_price": 3399.0,
+      "discount": 11.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787542218.31287,
+      "discovery_ts": 1787441464.356645,
+      "is_new": false
+    },
+    {
       "asin": "B0F19CK9PK",
       "title": "Ar-Condicionado Janela Eletrônico Wi-Fi 10.000 btus Frio 127V AW-10CWBRVGU02 Hisense",
       "link": "https://www.amazon.com.br/Condicionado-Janela-Eletr%C3%B4nico-Hisense-AW-10CWBRVGU02/dp/B0F19CK9PK",
@@ -23092,24 +23173,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787538061.55304,
       "discovery_ts": 1786783777.017112,
-      "is_new": false
-    },
-    {
-      "asin": "B0DN3JFV7Z",
-      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
-      "current_price": 2999.0,
-      "original_price": 3399.0,
-      "discount": 11.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787532973.27041,
-      "discovery_ts": 1787441464.356645,
       "is_new": false
     },
     {
@@ -23162,7 +23225,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23180,7 +23243,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23216,7 +23279,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786793784.851285,
       "is_new": false
     },
@@ -23270,7 +23333,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23324,7 +23387,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787529189.226021,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23342,7 +23405,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23396,7 +23459,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787527910.244208,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23414,7 +23477,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787532973.27041,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23432,7 +23495,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23468,7 +23531,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787532973.27041,
+      "last_seen": 1787542218.31287,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
