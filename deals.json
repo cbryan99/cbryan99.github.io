@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 11:52:17",
+  "last_check": "24/08/2026 12:36:55",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -692,6 +692,10 @@
         {
           "price": "899.0",
           "date": "2026-07-20T14:53:08.206797"
+        },
+        {
+          "price": 879.0,
+          "date": "2026-08-24T12:36:55.430138"
         }
       ]
     },
@@ -21107,6 +21111,10 @@
         {
           "price": 36.19,
           "date": "2026-08-17T05:29:50.050834"
+        },
+        {
+          "price": 35.99,
+          "date": "2026-08-24T12:36:55.430138"
         }
       ]
     },
@@ -22482,9 +22490,119 @@
           "date": "2026-08-24T08:29:16.916567"
         }
       ]
+    },
+    "B09B8VGCR8": {
+      "discovery_date": "2026-08-24T12:36:55.430138",
+      "price_history": [
+        {
+          "price": 329.0,
+          "date": "2026-08-24T12:36:55.430138"
+        }
+      ]
+    },
+    "B0GPN3XW9T": {
+      "discovery_date": "2026-08-24T12:36:55.430138",
+      "price_history": [
+        {
+          "price": 6174.98,
+          "date": "2026-08-24T12:36:55.430138"
+        }
+      ]
+    },
+    "B0DVK166SV": {
+      "discovery_date": "2026-08-24T12:36:55.430138",
+      "price_history": [
+        {
+          "price": 269.0,
+          "date": "2026-08-24T12:36:55.430138"
+        }
+      ]
+    },
+    "B0C2S3VVLW": {
+      "discovery_date": "2026-08-24T12:36:55.430138",
+      "price_history": [
+        {
+          "price": 469.0,
+          "date": "2026-08-24T12:36:55.430138"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GPN3XW9T",
+      "title": "Bicicleta Elétrica HDJ G60 Aro 20 - Motor 1000W, Bateria 48V 15Ah 32Mph, Até 50km Autonomia, Suspensão Dupla, Freio Hidráulico, 7 Velocidades - Mobilidade Urbana para Adultos",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-HDJ-G60-Aro/dp/B0GPN3XW9T",
+      "current_price": 6174.98,
+      "original_price": 6999.99,
+      "discount": 11.8,
+      "difference": 825.01,
+      "criteria": [
+        "R$ 825.01 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vGR09GeeL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1787575015.430146,
+      "is_new": true
+    },
+    {
+      "asin": "B0C2S3VVLW",
+      "title": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Branca, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-branca/dp/B0C2S3VVLW",
+      "current_price": 469.0,
+      "original_price": 899.0,
+      "discount": 47.8,
+      "difference": 430.0,
+      "criteria": [
+        "47.8% OFF",
+        "R$ 430.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71anQJA7UcL._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_3]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1787575015.430146,
+      "is_new": true
+    },
+    {
+      "asin": "B09B8VGCR8",
+      "title": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/Echo-Dot-5%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B09B8VGCR8",
+      "current_price": 329.0,
+      "original_price": 649.0,
+      "discount": 49.3,
+      "difference": 320.0,
+      "criteria": [
+        "49.3% OFF",
+        "R$ 320.0 desc."
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_3]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1787575015.430146,
+      "is_new": true
+    },
+    {
+      "asin": "B0DVK166SV",
+      "title": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV",
+      "current_price": 269.0,
+      "original_price": 479.0,
+      "discount": 43.8,
+      "difference": 210.0,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_4]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1787575015.430146,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -22518,8 +22636,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787566167.698537,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1784846418.539129,
+      "is_new": false
+    },
+    {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
@@ -22613,6 +22749,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GNCJSWF5",
+      "title": "MONDIAL, Cafeteira Espresso Automática Dolce Latte 20 bar, Preto/Inox 1250W, 110V - CCL-01",
+      "link": "https://www.amazon.com.br/MONDIAL-Cafeteira-Espresso-Autom%C3%A1tica-Dolce/dp/B0GNCJSWF5",
+      "current_price": 879.0,
+      "original_price": 1546.9,
+      "discount": 43.2,
+      "difference": 667.9,
+      "criteria": [
+        "43.2% OFF",
+        "R$ 667.9 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1784559188.206797,
+      "is_new": false
+    },
+    {
       "asin": "B0FVMFSWGV",
       "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMFSWGV",
@@ -22649,6 +22804,24 @@
       "is_new": false
     },
     {
+      "asin": "B0G52YJHL9",
+      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
+      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
+      "current_price": 2699.65,
+      "original_price": 3249.9,
+      "discount": 16.9,
+      "difference": 550.25,
+      "criteria": [
+        "R$ 550.25 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1787248478.841992,
+      "is_new": false
+    },
+    {
       "asin": "B0DN3JFV7Z",
       "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
       "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
@@ -22664,6 +22837,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1787553823.989984,
       "discovery_ts": 1787441464.356645,
+      "is_new": false
+    },
+    {
+      "asin": "B0H5D7HXP4",
+      "title": "Kit 2 Cadeiras de Jantar Madeira Maciça Estofada em Linho Bege Claro Encosto Rattan - November",
+      "link": "https://www.amazon.com.br/Cadeiras-Jantar-Madeira-Estofada-Encosto/dp/B0H5D7HXP4",
+      "current_price": 900.47,
+      "original_price": 1259.9,
+      "discount": 28.5,
+      "difference": 359.43,
+      "criteria": [
+        "R$ 359.43 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FzbiWEB8L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1784763860.102483,
       "is_new": false
     },
     {
@@ -22842,7 +23033,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -22898,6 +23089,24 @@
       "category": "[NUTRITIONAL_SUPPLEMENT]",
       "last_seen": 1787563493.624404,
       "discovery_ts": 1787560156.916567,
+      "is_new": false
+    },
+    {
+      "asin": "B0B59X7JQB",
+      "title": "Lâmpada Inteligente Alta Potência 20W Elgin Color RGB Wifi Compatível com Alexa e Google Home",
+      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B0B59X7JQB",
+      "current_price": 35.99,
+      "original_price": 111.9,
+      "discount": 67.8,
+      "difference": 75.91,
+      "criteria": [
+        "67.8% OFF"
+      ],
+      "badge": "67% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIGHT_BULB]",
+      "last_seen": 1787575015.430146,
+      "discovery_ts": 1786944590.050834,
       "is_new": false
     },
     {
@@ -22968,7 +23177,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -22986,7 +23195,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23040,7 +23249,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23076,7 +23285,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23094,7 +23303,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23148,7 +23357,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     },
@@ -23166,7 +23375,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787572328.73492,
+      "last_seen": 1787575015.430146,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
