@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 07:45:15",
+  "last_check": "24/08/2026 08:29:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22464,9 +22464,63 @@
           "date": "2026-08-24T06:43:43.989977"
         }
       ]
+    },
+    "850111961X": {
+      "discovery_date": "2026-08-24T08:29:16.916567",
+      "price_history": [
+        {
+          "price": 105.8,
+          "date": "2026-08-24T08:29:16.916567"
+        }
+      ]
+    },
+    "B09VJKQCSB": {
+      "discovery_date": "2026-08-24T08:29:16.916567",
+      "price_history": [
+        {
+          "price": 84.45,
+          "date": "2026-08-24T08:29:16.916567"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "850111961X",
+      "title": "Box As peças infernais - Edição de colecionador",
+      "link": "https://www.amazon.com.br/Box-As-Pecas-Infernais-Volumes/dp/850111961X",
+      "current_price": 105.8,
+      "original_price": 199.9,
+      "discount": 47.1,
+      "difference": 94.1,
+      "criteria": [
+        "47.1% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/814tzs4N-dL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787560156.916574,
+      "discovery_ts": 1787560156.916574,
+      "is_new": true
+    },
+    {
+      "asin": "B09VJKQCSB",
+      "title": "Égide Pre-Workout (300g), Açai com Guaraná, Max Titanium",
+      "link": "https://www.amazon.com.br/Egide-Pre-Workout-300g-A%C3%A7a%C3%AD-Guaran%C3%A1/dp/B09VJKQCSB",
+      "current_price": 84.45,
+      "original_price": 165.8,
+      "discount": 49.1,
+      "difference": 81.35,
+      "criteria": [
+        "49.1% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bTz9TpSxL._AC_UL210_SR210,210_.jpg",
+      "category": "[NUTRITIONAL_SUPPLEMENT]",
+      "last_seen": 1787560156.916574,
+      "discovery_ts": 1787560156.916574,
+      "is_new": true
+    },
     {
       "asin": "B07V7H5VHK",
       "title": "Scott Duramax Pano Reutilizável em Rolo, Branco, 174 Folhas (3 Unidades de 58 Folhas)",
@@ -22500,46 +22554,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0CM3YVHMX",
-      "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
-      "current_price": 3398.99,
-      "original_price": 5799.0,
-      "discount": 41.4,
-      "difference": 2400.01,
-      "criteria": [
-        "41.4% OFF",
-        "R$ 2400.01 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1784673560.96846,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NSQ2VS",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ 5G, Azul, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-128GB-Inclusas/dp/B0F6NSQ2VS",
-      "current_price": 3399.0,
-      "original_price": 5799.0,
-      "discount": 41.4,
-      "difference": 2400.0,
-      "criteria": [
-        "41.4% OFF",
-        "R$ 2400.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787352315.632751,
       "is_new": false
     },
     {
@@ -22628,7 +22644,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -22648,24 +22664,6 @@
       "category": "[INFANT_TODDLER_CAR_SEAT]",
       "last_seen": 1787550698.348103,
       "discovery_ts": 1787542218.312863,
-      "is_new": false
-    },
-    {
-      "asin": "B0FY41RGG9",
-      "title": "Notebook Gamer Acer Nitro V15 ANV15-52-790M Intel® Core™ i7-13620H 13ªG 16GB RAM 512GB SSD RTX4060 15.6”",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-790M-i7-13620H-RTX4060/dp/B0FY41RGG9",
-      "current_price": 7299.0,
-      "original_price": 8299.0,
-      "discount": 12.0,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787348118.224583,
       "is_new": false
     },
     {
@@ -22702,42 +22700,6 @@
       "category": "[BABY_SEAT]",
       "last_seen": 1787550698.348103,
       "discovery_ts": 1787409191.050906,
-      "is_new": false
-    },
-    {
-      "asin": "B0GYQ2PLW3",
-      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
-      "current_price": 3499.0,
-      "original_price": 4299.0,
-      "discount": 18.6,
-      "difference": 800.0,
-      "criteria": [
-        "R$ 800.0 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787282927.326266,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZJR4G1T",
-      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
-      "current_price": 3747.0,
-      "original_price": 4499.0,
-      "discount": 16.7,
-      "difference": 752.0,
-      "criteria": [
-        "R$ 752.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787253098.380616,
       "is_new": false
     },
     {
@@ -22790,7 +22752,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -22810,42 +22772,6 @@
       "category": "[INFANT_TODDLER_CAR_SEAT]",
       "last_seen": 1787557503.08885,
       "discovery_ts": 1787532973.27041,
-      "is_new": false
-    },
-    {
-      "asin": "B0F7K1YRY4",
-      "title": "Smart TV TCL 75 Polegadas QLED Mini LED 4K C7K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 75C7K",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-75C7K/dp/B0F7K1YRY4",
-      "current_price": 7449.0,
-      "original_price": 7999.0,
-      "discount": 6.9,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787250604.402282,
-      "is_new": false
-    },
-    {
-      "asin": "B0H634F4BP",
-      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
-      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
-      "current_price": 2599.0,
-      "original_price": 3149.0,
-      "discount": 17.5,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
-      "category": "[FREEZER]",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787368158.987282,
       "is_new": false
     },
     {
@@ -22885,24 +22811,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GQZFF9VC",
-      "title": "Frigobar Brastemp Retrô 76 Litros Classic White - BRA08MB (110, Volts)",
-      "link": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GQZFF9VC",
-      "current_price": 1649.98,
-      "original_price": 2129.0,
-      "discount": 22.5,
-      "difference": 479.02,
-      "criteria": [
-        "R$ 479.02 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5145MQyMlBL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1787238176.703387,
-      "is_new": false
-    },
-    {
       "asin": "B0DN3JFV7Z",
       "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
       "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
@@ -22921,38 +22829,20 @@
       "is_new": false
     },
     {
-      "asin": "B0F19CK9PK",
-      "title": "Ar-Condicionado Janela Eletrônico Wi-Fi 10.000 btus Frio 127V AW-10CWBRVGU02 Hisense",
-      "link": "https://www.amazon.com.br/Condicionado-Janela-Eletr%C3%B4nico-Hisense-AW-10CWBRVGU02/dp/B0F19CK9PK",
-      "current_price": 1699.0,
-      "original_price": 2099.0,
-      "discount": 19.1,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91R4evTaGpL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1786783777.017112,
-      "is_new": false
-    },
-    {
       "asin": "B0GXX6YHK6",
       "title": "Geladeira/Refrigerador Electrolux Frost Free Duplex 400L IF44S",
       "link": "https://www.amazon.com.br/Geladeira-Refrigerador-Electrolux-Duplex-IF44S/dp/B0GXX6YHK6",
-      "current_price": 2949.03,
+      "current_price": 2949.0,
       "original_price": 3299.0,
       "discount": 10.6,
-      "difference": 349.97,
+      "difference": 350.0,
       "criteria": [
-        "R$ 349.97 desc."
+        "R$ 350.0 desc."
       ],
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31DRIQYOVIL._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787317576.894529,
       "is_new": false
     },
@@ -22988,26 +22878,8 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787360032.017709,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCW79ZM3",
-      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" Touch Screen - Luna Grey - Intel Core i5-13420H, 8GB RAM, 512GB SSD, Windows 11",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i5-13420H-Screen/dp/B0FCW79ZM3",
-      "current_price": 4079.0,
-      "original_price": 4399.0,
-      "discount": 7.3,
-      "difference": 320.0,
-      "criteria": [
-        "R$ 320.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787538061.55304,
-      "discovery_ts": 1786421114.339604,
       "is_new": false
     },
     {
@@ -23042,7 +22914,7 @@
       "badge": "67% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gpxbp82PL._AC_UL210_SR210,210_.jpg",
       "category": "[POWER_STRIP]",
-      "last_seen": 1787538061.55304,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787225854.905687,
       "is_new": false
     },
@@ -23060,7 +22932,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
@@ -23083,6 +22955,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CSH6N7S8",
+      "title": "Transformers Studio Series Deluxe Transformers: One 112 Optimus Prime | Transformers One Studio Series Boneco Deluxe Class Level de 12 cm - Optimus Prime #112",
+      "link": "https://www.amazon.com.br/Transformers-Studio-Deluxe-Optimus-Prime/dp/B0CSH6N7S8",
+      "current_price": 99.99,
+      "original_price": 228.2,
+      "discount": 56.2,
+      "difference": 128.21,
+      "criteria": [
+        "56.2% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717OrgKFr5L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_FIGURE]",
+      "last_seen": 1787560156.916574,
+      "discovery_ts": 1787466640.858723,
+      "is_new": false
+    },
+    {
       "asin": "B07HR1MZQP",
       "title": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
       "link": "https://www.amazon.com.br/Umidificador-Fisher-Ultrass%C3%B4nico-HC115-Bivolt/dp/B07HR1MZQP",
@@ -23096,7 +22986,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23132,7 +23022,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51h-2ohHm2L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -23168,7 +23058,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23186,7 +23076,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23240,7 +23130,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23276,7 +23166,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23294,7 +23184,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23330,7 +23220,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787557503.08885,
+      "last_seen": 1787560156.916574,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     }
