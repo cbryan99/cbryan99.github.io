@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 21:12:49",
+  "last_check": "24/08/2026 21:45:54",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -54,6 +54,10 @@
         {
           "price": 4399.0,
           "date": "2026-08-12T15:41:21.284135"
+        },
+        {
+          "price": 3998.0,
+          "date": "2026-08-24T21:45:54.095795"
         }
       ]
     },
@@ -861,6 +865,10 @@
         {
           "price": 4033.99,
           "date": "2026-08-21T02:24:49.188437"
+        },
+        {
+          "price": 4033.98,
+          "date": "2026-08-24T21:45:54.095795"
         }
       ]
     },
@@ -22631,7 +22639,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787604236.364808,
       "is_new": true
     },
@@ -22686,7 +22694,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22727,6 +22735,42 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787607954.095802,
+      "discovery_ts": 1784846418.539129,
+      "is_new": false
+    },
+    {
+      "asin": "B0D4NRBBMR",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
+      "current_price": 3998.0,
+      "original_price": 5799.0,
+      "discount": 31.1,
+      "difference": 1801.0,
+      "criteria": [
+        "R$ 1801.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787607954.095802,
+      "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -22740,7 +22784,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22830,7 +22874,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22975,7 +23019,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787591160.275243,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787248478.841992,
       "is_new": false
     },
@@ -22993,7 +23037,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23012,7 +23056,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61nAl8V34zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787588960.362823,
       "is_new": false
     },
@@ -23030,7 +23074,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1787601618.32281,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787341954.532525,
       "is_new": false
     },
@@ -23067,8 +23111,26 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787578436.396467,
+      "is_new": false
+    },
+    {
+      "asin": "B0CD1JTBSC",
+      "title": "Meta Quest 3 512GB Branco - Tela 4K, Cameras Coloridas, Console Portátil - Android, Compatível com Computador Pessoal",
+      "link": "https://www.amazon.com.br/Meta-Quest-512GB-Branco-Compat%C3%ADvel/dp/B0CD1JTBSC",
+      "current_price": 4033.98,
+      "original_price": 4439.0,
+      "discount": 9.1,
+      "difference": 405.02,
+      "criteria": [
+        "R$ 405.02 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIRTUAL_REALITY_HEADSET]",
+      "last_seen": 1787607954.095802,
+      "discovery_ts": 1784595805.500833,
       "is_new": false
     },
     {
@@ -23103,7 +23165,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23122,7 +23184,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23158,7 +23220,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23284,7 +23346,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23410,7 +23472,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23482,7 +23544,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23554,7 +23616,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     },
@@ -23572,7 +23634,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787605966.041532,
+      "last_seen": 1787607954.095802,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
