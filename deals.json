@@ -1,5 +1,5 @@
 {
-  "last_check": "24/08/2026 16:29:22",
+  "last_check": "24/08/2026 17:06:04",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -282,6 +282,10 @@
         {
           "price": "69.08",
           "date": "2026-07-19T03:58:02.515947"
+        },
+        {
+          "price": 66.9,
+          "date": "2026-08-24T17:06:00.275236"
         }
       ]
     },
@@ -21119,6 +21123,10 @@
         {
           "price": 35.99,
           "date": "2026-08-24T12:36:55.430138"
+        },
+        {
+          "price": 31.99,
+          "date": "2026-08-24T17:06:00.275236"
         }
       ]
     },
@@ -22566,6 +22574,15 @@
           "date": "2026-08-24T16:29:20.362823"
         }
       ]
+    },
+    "B0CL5C76CL": {
+      "discovery_date": "2026-08-24T17:06:00.275236",
+      "price_history": [
+        {
+          "price": 132.04,
+          "date": "2026-08-24T17:06:00.275236"
+        }
+      ]
     }
   },
   "data": [
@@ -22586,6 +22603,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787588960.362829,
       "discovery_ts": 1787588960.362829,
+      "is_new": true
+    },
+    {
+      "asin": "B0CL5C76CL",
+      "title": "Ventilador Britânia BVT491 Tecnologia Maxx Force 174W 127V",
+      "link": "https://www.amazon.com.br/Ventilador-Brit%C3%A2nia-BVT491-Tecnologia-Force/dp/B0CL5C76CL",
+      "current_price": 132.04,
+      "original_price": 278.28,
+      "discount": 52.6,
+      "difference": 146.24,
+      "criteria": [
+        "52.6% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71a2qO50VQL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1787591160.275243,
+      "discovery_ts": 1787591160.275243,
       "is_new": true
     },
     {
@@ -22621,7 +22656,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22639,7 +22674,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787586790.640631,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -22711,7 +22746,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1785515180.635022,
       "is_new": false
     },
@@ -22729,8 +22764,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3499.0,
+      "original_price": 4618.9,
+      "discount": 24.2,
+      "difference": 1119.9,
+      "criteria": [
+        "R$ 1119.9 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1787591160.275243,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -22749,24 +22802,6 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1787581321.546815,
       "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3499.0,
-      "original_price": 4618.9,
-      "discount": 24.2,
-      "difference": 1119.9,
-      "criteria": [
-        "R$ 1119.9 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787581321.546815,
-      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -22819,7 +22854,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787581321.546815,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -22892,7 +22927,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51D04KXWjcL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1784559188.206797,
       "is_new": false
     },
@@ -22946,7 +22981,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787586790.640631,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787248478.841992,
       "is_new": false
     },
@@ -22964,7 +22999,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -22983,7 +23018,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23057,8 +23092,26 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3899.0,
+      "original_price": 4199.0,
+      "discount": 7.1,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787591160.275243,
+      "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
@@ -23075,7 +23128,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23183,7 +23236,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787568688.283552,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787312686.597548,
       "is_new": false
     },
@@ -23209,17 +23262,17 @@
       "asin": "B0B59X7JQB",
       "title": "Lâmpada Inteligente Alta Potência 20W Elgin Color RGB Wifi Compatível com Alexa e Google Home",
       "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B0B59X7JQB",
-      "current_price": 35.99,
+      "current_price": 31.99,
       "original_price": 111.9,
-      "discount": 67.8,
-      "difference": 75.91,
+      "discount": 71.4,
+      "difference": 79.91,
       "criteria": [
-        "67.8% OFF"
+        "71.4% OFF"
       ],
-      "badge": "67% off",
+      "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1786944590.050834,
       "is_new": false
     },
@@ -23260,21 +23313,21 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT7XG6C",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
+      "asin": "B07FPW95CM",
+      "title": "Jameson - Whiskey Irlandês, 750 ml",
+      "link": "https://www.amazon.com.br/Jameson-Whisky-750ml/dp/B07FPW95CM",
+      "current_price": 66.9,
+      "original_price": 130.0,
+      "discount": 48.5,
+      "difference": 63.1,
       "criteria": [
-        "43.5% OFF"
+        "48.5% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787568688.283552,
-      "discovery_ts": 1787140640.09174,
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VDQk5QdbL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1787591160.275243,
+      "discovery_ts": 1784433482.515947,
       "is_new": false
     },
     {
@@ -23309,7 +23362,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787584122.560347,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23399,7 +23452,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23471,7 +23524,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BZ7m8LGoL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_PROTECTANT]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787446693.146282,
       "is_new": false
     },
@@ -23489,7 +23542,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787588960.362829,
+      "last_seen": 1787591160.275243,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
