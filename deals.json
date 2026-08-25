@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 05:34:12",
+  "last_check": "25/08/2026 06:01:47",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22702,9 +22702,36 @@
           "date": "2026-08-25T03:33:49.885903"
         }
       ]
+    },
+    "8501014869": {
+      "discovery_date": "2026-08-25T06:01:45.992612",
+      "price_history": [
+        {
+          "price": 28.99,
+          "date": "2026-08-25T06:01:45.992612"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "8501014869",
+      "title": "O estrangeiro",
+      "link": "https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869",
+      "current_price": 28.99,
+      "original_price": 69.9,
+      "discount": 58.5,
+      "difference": 40.91,
+      "criteria": [
+        "58.5% OFF"
+      ],
+      "badge": "58% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Sb5HdDL3L._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787637705.992621,
+      "discovery_ts": 1787637705.992621,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -22720,7 +22747,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22792,7 +22819,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -22883,7 +22910,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787253098.380616,
       "is_new": false
     },
@@ -22996,6 +23023,24 @@
       "is_new": false
     },
     {
+      "asin": "B0H634F4BP",
+      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
+      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
+      "current_price": 2599.0,
+      "original_price": 3149.0,
+      "discount": 17.5,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
+      "category": "[FREEZER]",
+      "last_seen": 1787637705.992621,
+      "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
       "asin": "B0FC63K6ZQ",
       "title": "AD5X Impressora 3D Multicolorida CoreXY 600mm/s, 127V e 220V Comutável, Nivelamento Automático 1-Clique, Extrusora Direta 300°C, Volume Construção 220x220x220mm",
       "link": "https://www.amazon.com.br/Impressora-Multicolorida-Nivelamento-Autom%C3%A1tico-220x220x220mm/dp/B0FC63K6ZQ",
@@ -23014,24 +23059,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H634F4BP",
-      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
-      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
-      "current_price": 2599.0,
-      "original_price": 3149.0,
-      "discount": 17.5,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
-      "category": "[FREEZER]",
-      "last_seen": 1787628829.88591,
-      "discovery_ts": 1787368158.987282,
-      "is_new": false
-    },
-    {
       "asin": "B0DYC2GV1Z",
       "title": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Grafite, com Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/Novo-Echo-Show-11-Preto/dp/B0DYC2GV1Z",
@@ -23045,7 +23072,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23063,7 +23090,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23081,7 +23108,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23100,7 +23127,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23154,7 +23181,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23173,7 +23200,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23245,7 +23272,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23281,7 +23308,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787633912.868887,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -23317,7 +23344,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23389,8 +23416,26 @@
       "badge": "75% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787628829.88591,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787238176.703387,
+      "is_new": false
+    },
+    {
+      "asin": "B0BFSRV5KM",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRV5KM",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51pxlu-RfUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787637705.992621,
+      "discovery_ts": 1787068104.940879,
       "is_new": false
     },
     {
@@ -23443,7 +23488,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23461,7 +23506,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23497,7 +23542,7 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51omKxWOC3L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787615236.715159,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787297858.251791,
       "is_new": false
     },
@@ -23515,7 +23560,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1787616108.092034,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1787605966.041524,
       "is_new": false
     },
@@ -23551,7 +23596,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23569,7 +23614,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787622481.389988,
+      "last_seen": 1787637705.992621,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
