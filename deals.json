@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 12:41:54",
+  "last_check": "25/08/2026 13:36:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22800,43 +22800,61 @@
           "date": "2026-08-25T11:29:58.888474"
         }
       ]
+    },
+    "B0FQJ2KJ9X": {
+      "discovery_date": "2026-08-25T13:36:14.374533",
+      "price_history": [
+        {
+          "price": 9999.0,
+          "date": "2026-08-25T13:36:14.374533"
+        }
+      ]
+    },
+    "8595202354": {
+      "discovery_date": "2026-08-25T13:36:14.374533",
+      "price_history": [
+        {
+          "price": 37.08,
+          "date": "2026-08-25T13:36:14.374533"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0G1LFK4LY",
-      "title": "Apple iPhone 13 Pro (128 GB) - Azul Sierra (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-128-Recondicionado/dp/B0G1LFK4LY",
-      "current_price": 2971.67,
-      "original_price": 3285.99,
-      "discount": 9.6,
-      "difference": 314.32,
+      "asin": "B0FQJ2KJ9X",
+      "title": "Apple iPhone 17 Pro Max (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X",
+      "current_price": 9999.0,
+      "original_price": 12499.0,
+      "discount": 20.0,
+      "difference": 2500.0,
       "criteria": [
-        "R$ 314.32 desc."
+        "R$ 2500.0 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41yGCey9asL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787657398.888482,
-      "discovery_ts": 1787657398.888482,
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787664974.374541,
       "is_new": true
     },
     {
-      "asin": "B0CTMZXW4Q",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Indigo/dp/B0CTMZXW4Q",
-      "current_price": 89.9,
-      "original_price": 165.0,
-      "discount": 45.5,
-      "difference": 75.1,
+      "asin": "8595202354",
+      "title": "Box - Clássicos Infantojuvenis (Volume 1)",
+      "link": "https://www.amazon.com.br/Box-Cl%C3%A1ssicos-Infantojuvenis-P%C3%A9-Letra/dp/8595202354",
+      "current_price": 37.08,
+      "original_price": 99.99,
+      "discount": 62.9,
+      "difference": 62.91,
       "criteria": [
-        "45.5% OFF"
+        "62.9% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51k-sSFJMnL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787655500.809309,
-      "discovery_ts": 1787655500.809309,
+      "badge": "62% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YqcVixBBL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787664974.374541,
       "is_new": true
     },
     {
@@ -22854,7 +22872,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22967,24 +22985,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DZJR4G1T",
-      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
-      "current_price": 3747.0,
-      "original_price": 4499.0,
-      "discount": 16.7,
-      "difference": 752.0,
-      "criteria": [
-        "R$ 752.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787641444.604679,
-      "discovery_ts": 1787253098.380616,
-      "is_new": false
-    },
-    {
       "asin": "B0FVMFSWGV",
       "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMFSWGV",
@@ -23016,7 +23016,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23034,7 +23034,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23058,24 +23058,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H2NM1DSK",
-      "title": "Ar Condicionado Split Midea Hi Wall Inverter AI Ecomaster 12.000 BTU/h Frio Monofásico Branco 38EFVCA12M8/42EFVCA12M8 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Midea-Monof%C3%A1sico-38EFVCA12M8-42EFVCA12M8/dp/B0H2NM1DSK",
-      "current_price": 2221.11,
-      "original_price": 2694.57,
-      "discount": 17.6,
-      "difference": 473.46,
-      "criteria": [
-        "R$ 473.46 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787641444.604679,
-      "discovery_ts": 1787628829.885903,
-      "is_new": false
-    },
-    {
       "asin": "B0C2RS4ZG6",
       "title": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Preta, com Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6",
@@ -23090,7 +23072,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23126,7 +23108,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23163,8 +23145,44 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0G1LFK4LY",
+      "title": "Apple iPhone 13 Pro (128 GB) - Azul Sierra (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-128-Recondicionado/dp/B0G1LFK4LY",
+      "current_price": 2971.67,
+      "original_price": 3285.99,
+      "discount": 9.6,
+      "difference": 314.32,
+      "criteria": [
+        "R$ 314.32 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yGCey9asL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787657398.888482,
+      "discovery_ts": 1787657398.888482,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3899.0,
+      "original_price": 4199.0,
+      "discount": 7.1,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
@@ -23186,42 +23204,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FVPLDKKG",
-      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
-      "current_price": 3899.0,
-      "original_price": 4199.0,
-      "discount": 7.1,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787661708.740447,
-      "discovery_ts": 1786793784.851285,
-      "is_new": false
-    },
-    {
-      "asin": "B0DTVLLSD9",
-      "title": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
-      "link": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Fryer-Facilita-Elgin/dp/B0DTVLLSD9",
-      "current_price": 160.55,
-      "original_price": 412.2,
-      "discount": 61.1,
-      "difference": 251.65,
-      "criteria": [
-        "61.1% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41vdvIk7YvL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787651682.928126,
-      "discovery_ts": 1787628829.88591,
-      "is_new": false
-    },
-    {
       "asin": "B0051LRFB0",
       "title": "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
       "link": "https://www.amazon.com.br/Run-Bacardi-Anos-750Ml-Sabor/dp/B0051LRFB0",
@@ -23240,6 +23222,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DTVLLSD9",
+      "title": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
+      "link": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Fryer-Facilita-Elgin/dp/B0DTVLLSD9",
+      "current_price": 169.0,
+      "original_price": 412.2,
+      "discount": 59.0,
+      "difference": 243.2,
+      "criteria": [
+        "59.0% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41vdvIk7YvL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787628829.885903,
+      "is_new": false
+    },
+    {
       "asin": "B0DVK166SV",
       "title": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV",
@@ -23253,7 +23253,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23291,24 +23291,6 @@
       "category": "[HEADPHONES]",
       "last_seen": 1787649461.502222,
       "discovery_ts": 1787646898.116861,
-      "is_new": false
-    },
-    {
-      "asin": "6584004406",
-      "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
-      "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
-      "current_price": 164.9,
-      "original_price": 309.9,
-      "discount": 46.8,
-      "difference": 145.0,
-      "criteria": [
-        "46.8% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787641444.604679,
-      "discovery_ts": 1786359737.45714,
       "is_new": false
     },
     {
@@ -23433,7 +23415,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23510,6 +23492,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CTMZXW4Q",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Indigo/dp/B0CTMZXW4Q",
+      "current_price": 89.9,
+      "original_price": 165.0,
+      "discount": 45.5,
+      "difference": 75.1,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51k-sSFJMnL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787655500.809309,
+      "discovery_ts": 1787655500.809309,
+      "is_new": false
+    },
+    {
       "asin": "B088C4QZV2",
       "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
       "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
@@ -23523,7 +23523,7 @@
       "badge": "75% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23613,7 +23613,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23631,7 +23631,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23703,7 +23703,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787605966.041524,
       "is_new": false
     },
@@ -23726,24 +23726,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FMFXH7RT",
-      "title": "Faber-Castell Lápis De Cor Supersoft com 24 Cores - Ecolápis super mácio com cores mais vivas, excelente cobertura",
-      "link": "https://www.amazon.com.br/L%C3%A1pis-Faber-Castell-Ecol%C3%A1pis-Supersoft-210724/dp/B0FMFXH7RT",
-      "current_price": 39.22,
-      "original_price": 75.17,
-      "discount": 47.8,
-      "difference": 35.95,
-      "criteria": [
-        "47.8% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ZzxtsCXmL._AC_UL210_SR210,210_.jpg",
-      "category": "[WRITING_INSTRUMENT]",
-      "last_seen": 1787641444.604679,
-      "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
       "asin": "B0DKVJ1HWB",
       "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
       "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
@@ -23759,6 +23741,24 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1787661708.740447,
       "discovery_ts": 1784417123.48503,
+      "is_new": false
+    },
+    {
+      "asin": "B07XLB4QC8",
+      "title": "Chiclete Trident Tutti-frutti Sem Açúcar - Caixa com 21 unid. de 8g",
+      "link": "https://www.amazon.com.br/Chiclete-Tutti-Frutti-Trident-Unidades/dp/B07XLB4QC8",
+      "current_price": 37.99,
+      "original_price": 64.89,
+      "discount": 41.5,
+      "difference": 26.9,
+      "criteria": [
+        "41.5% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHEWING_GUM]",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787388598.058147,
       "is_new": false
     },
     {
@@ -23829,7 +23829,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787661708.740447,
+      "last_seen": 1787664974.374541,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
