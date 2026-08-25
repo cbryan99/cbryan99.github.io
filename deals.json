@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 06:01:47",
+  "last_check": "25/08/2026 07:04:10",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22711,9 +22711,36 @@
           "date": "2026-08-25T06:01:45.992612"
         }
       ]
+    },
+    "B0BTQR3WGX": {
+      "discovery_date": "2026-08-25T07:04:04.604672",
+      "price_history": [
+        {
+          "price": 154.75,
+          "date": "2026-08-25T07:04:04.604672"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0BTQR3WGX",
+      "title": "Ventilador de Coluna Mallory Éolo 126W, Silencioso, Hélice de 6 pás, Grade Especial em Sistema TS, Máxima Vazão e Mínimo Ruído – PR-GF- 127V",
+      "link": "https://www.amazon.com.br/Ventilador-Mallory-Coluna-Eolo-Preto/dp/B0BTQR3WGX",
+      "current_price": 154.75,
+      "original_price": 299.99,
+      "discount": 48.4,
+      "difference": 145.24,
+      "criteria": [
+        "48.4% OFF"
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/712VRsSxtEL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1787641444.604679,
+      "discovery_ts": 1787641444.604679,
+      "is_new": true
+    },
     {
       "asin": "8501014869",
       "title": "O estrangeiro",
@@ -22747,26 +22774,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGM1PJMK",
-      "title": "Apple iPhone 16 (128 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
-      "current_price": 5110.0,
-      "original_price": 7799.0,
-      "discount": 34.5,
-      "difference": 2689.0,
-      "criteria": [
-        "R$ 2689.0 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787616108.092034,
-      "discovery_ts": 1786530504.605256,
       "is_new": false
     },
     {
@@ -22785,24 +22794,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787622481.389988,
       "discovery_ts": 1786366711.615938,
-      "is_new": false
-    },
-    {
-      "asin": "B0D4NRBBMR",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
-      "current_price": 3998.0,
-      "original_price": 5799.0,
-      "discount": 31.1,
-      "difference": 1801.0,
-      "criteria": [
-        "R$ 1801.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787616108.092034,
-      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
@@ -22910,7 +22901,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787253098.380616,
       "is_new": false
     },
@@ -23072,7 +23063,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23108,7 +23099,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23127,7 +23118,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23181,7 +23172,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23200,26 +23191,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787575015.430138,
-      "is_new": false
-    },
-    {
-      "asin": "B0C7XPTW5K",
-      "title": "Echo Show 15 (Geração mais recente) | Smart display Full HD de 15,6” com Alexa, experiência Fire TV e controle remoto por voz, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/novo-echo-show-15-com-alexa/dp/B0C7XPTW5K",
-      "current_price": 2699.0,
-      "original_price": 2999.0,
-      "discount": 10.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
-      "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787616108.092034,
-      "discovery_ts": 1787614063.44794,
       "is_new": false
     },
     {
@@ -23272,7 +23245,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23308,7 +23281,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1786359737.45714,
       "is_new": false
     },
@@ -23344,7 +23317,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23362,7 +23335,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787633912.868887,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1787604236.364808,
       "is_new": false
     },
@@ -23421,6 +23394,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BFT7XG6C",
+      "title": "Tech T-shirt Gola U Masculino",
+      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
+      "current_price": 89.9,
+      "original_price": 159.0,
+      "discount": 43.5,
+      "difference": 69.1,
+      "criteria": [
+        "43.5% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787641444.604679,
+      "discovery_ts": 1787140640.09174,
+      "is_new": false
+    },
+    {
       "asin": "B0BFSRV5KM",
       "title": "Tech T-shirt Gola U Masculino",
       "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BFSRV5KM",
@@ -23457,24 +23448,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT7XG6C",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-Masculina-Insider-Tech-T-Shirt/dp/B0BFT7XG6C",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787633912.868887,
-      "discovery_ts": 1787140640.09174,
-      "is_new": false
-    },
-    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -23488,7 +23461,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23506,7 +23479,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23583,6 +23556,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FMFXH7RT",
+      "title": "Faber-Castell Lápis De Cor Supersoft com 24 Cores - Ecolápis super mácio com cores mais vivas, excelente cobertura",
+      "link": "https://www.amazon.com.br/L%C3%A1pis-Faber-Castell-Ecol%C3%A1pis-Supersoft-210724/dp/B0FMFXH7RT",
+      "current_price": 39.22,
+      "original_price": 75.17,
+      "discount": 47.8,
+      "difference": 35.95,
+      "criteria": [
+        "47.8% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ZzxtsCXmL._AC_UL210_SR210,210_.jpg",
+      "category": "[WRITING_INSTRUMENT]",
+      "last_seen": 1787641444.604679,
+      "discovery_ts": 1785349892.292556,
+      "is_new": false
+    },
+    {
       "asin": "B0DKVJ1HWB",
       "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
       "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
@@ -23596,7 +23587,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23614,7 +23605,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787641444.604679,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
