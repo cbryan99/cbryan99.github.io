@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 20:10:15",
+  "last_check": "25/08/2026 20:48:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22916,28 +22916,18 @@
           "date": "2026-08-25T20:10:15.476423"
         }
       ]
+    },
+    "B0DJCGSFPG": {
+      "discovery_date": "2026-08-25T20:48:36.683721",
+      "price_history": [
+        {
+          "price": 4348.98,
+          "date": "2026-08-25T20:48:36.683721"
+        }
+      ]
     }
   },
   "data": [
-    {
-      "asin": "B0FTKJJKNT",
-      "title": "Apple iPhone 14 (128 GB) – Estelar (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-14-128-Recondicionado/dp/B0FTKJJKNT",
-      "current_price": 2588.98,
-      "original_price": 5199.0,
-      "discount": 50.2,
-      "difference": 2610.02,
-      "criteria": [
-        "50.2% OFF",
-        "R$ 2610.02 desc."
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/618Bb+QzCmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787682682.190008,
-      "discovery_ts": 1787682682.190008,
-      "is_new": true
-    },
     {
       "asin": "B0GL78BKT7",
       "title": "Depilador a Laser IPL Ulike ME, Resfriamento em Safira, ANVISA, Bivolt | 4 Modos, Até 21 J, Disparo Automático 3x/s, Ice Cooling, Depilação Rápida e Indolor em Casa, Corporal e Facial, Unissex",
@@ -22975,6 +22965,24 @@
       "is_new": true
     },
     {
+      "asin": "B0DJCGSFPG",
+      "title": "Ar-Condicionado Split HW Philco PAC30FI 30.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Cassete-Philco-3000-PAC30FI/dp/B0DJCGSFPG",
+      "current_price": 4348.98,
+      "original_price": 4659.0,
+      "discount": 6.7,
+      "difference": 310.02,
+      "criteria": [
+        "R$ 310.02 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VNYd+sPNL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787690916.683729,
+      "discovery_ts": 1787690916.683729,
+      "is_new": true
+    },
+    {
       "asin": "B096658ZWP",
       "title": "Placa de Vídeo ASUS TUF Gaming - GeForce RTX 3060, 12GB GDDR6, RGB, LHR, Ray Tracing, DLSS",
       "link": "https://www.amazon.com.br/Placa-V%C3%ADdeo-ASUS-TUF-Gaming/dp/B096658ZWP",
@@ -23006,8 +23014,8 @@
       "badge": "64% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zUiesJMjL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_FIXTURE]",
-      "last_seen": 1787688615.47643,
-      "discovery_ts": 1787688615.47643,
+      "last_seen": 1787690916.683729,
+      "discovery_ts": 1787688615.476423,
       "is_new": true
     },
     {
@@ -23025,7 +23033,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23048,6 +23056,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FTKJJKNT",
+      "title": "Apple iPhone 14 (128 GB) – Estelar (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-14-128-Recondicionado/dp/B0FTKJJKNT",
+      "current_price": 2588.98,
+      "original_price": 5199.0,
+      "discount": 50.2,
+      "difference": 2610.02,
+      "criteria": [
+        "50.2% OFF",
+        "R$ 2610.02 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618Bb+QzCmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787682682.190008,
+      "discovery_ts": 1787682682.190008,
+      "is_new": false
+    },
+    {
       "asin": "B0FQJ2KJ9X",
       "title": "Apple iPhone 17 Pro Max (256 GB) - Azul intenso",
       "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X",
@@ -23061,7 +23088,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787664974.374533,
       "is_new": false
     },
@@ -23079,7 +23106,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23098,7 +23125,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23116,7 +23143,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -23224,7 +23251,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -23262,24 +23289,6 @@
       "category": "[TABLET_COMPUTER]",
       "last_seen": 1787680479.053244,
       "discovery_ts": 1787288175.564272,
-      "is_new": false
-    },
-    {
-      "asin": "B0FVPZ3GVC",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 220V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVPZ3GVC",
-      "current_price": 2499.0,
-      "original_price": 3199.0,
-      "discount": 21.9,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787667894.549172,
-      "discovery_ts": 1787411687.576549,
       "is_new": false
     },
     {
@@ -23332,7 +23341,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23350,7 +23359,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23368,7 +23377,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23405,7 +23414,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23460,26 +23469,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787575015.430138,
-      "is_new": false
-    },
-    {
-      "asin": "B0C7XPTW5K",
-      "title": "Echo Show 15 (Geração mais recente) | Smart display Full HD de 15,6” com Alexa, experiência Fire TV e controle remoto por voz, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/novo-echo-show-15-com-alexa/dp/B0C7XPTW5K",
-      "current_price": 2699.0,
-      "original_price": 2999.0,
-      "discount": 10.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
-      "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787688615.47643,
-      "discovery_ts": 1787614063.44794,
       "is_new": false
     },
     {
@@ -23496,8 +23487,26 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91getIbVvnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787360032.017709,
+      "is_new": false
+    },
+    {
+      "asin": "B0C7XPTW5K",
+      "title": "Echo Show 15 (Geração mais recente) | Smart display Full HD de 15,6” com Alexa, experiência Fire TV e controle remoto por voz, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/novo-echo-show-15-com-alexa/dp/B0C7XPTW5K",
+      "current_price": 2699.0,
+      "original_price": 2999.0,
+      "discount": 10.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_3]",
+      "last_seen": 1787690916.683729,
+      "discovery_ts": 1787614063.44794,
       "is_new": false
     },
     {
@@ -23604,7 +23613,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23640,7 +23649,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23699,24 +23708,6 @@
       "is_new": false
     },
     {
-      "asin": "B088C4QZV2",
-      "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
-      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
-      "current_price": 23.99,
-      "original_price": 99.0,
-      "discount": 75.8,
-      "difference": 75.01,
-      "criteria": [
-        "75.8% OFF"
-      ],
-      "badge": "75% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
-      "category": "[LIGHT_BULB]",
-      "last_seen": 1787667894.549172,
-      "discovery_ts": 1787238176.703387,
-      "is_new": false
-    },
-    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -23766,7 +23757,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618sxUJc8gL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1787667894.549172,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787233255.44136,
       "is_new": false
     },
@@ -23820,7 +23811,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23838,7 +23829,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23856,7 +23847,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23910,7 +23901,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787667894.549172,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787302923.276499,
       "is_new": false
     },
@@ -23928,7 +23919,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787688615.47643,
+      "last_seen": 1787690916.683729,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
