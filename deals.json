@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 07:53:51",
+  "last_check": "25/08/2026 08:34:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22724,9 +22724,45 @@
           "date": "2026-08-25T07:53:42.558715"
         }
       ]
+    },
+    "B0CRTF579W": {
+      "discovery_date": "2026-08-25T08:34:58.116861",
+      "price_history": [
+        {
+          "price": 196.6,
+          "date": "2026-08-25T08:34:58.116861"
+        }
+      ]
+    },
+    "B0FCG6BCT9": {
+      "discovery_date": "2026-08-25T08:34:58.116861",
+      "price_history": [
+        {
+          "price": 129.9,
+          "date": "2026-08-25T08:34:58.116861"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CRTF579W",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTF579W",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uiC171AyL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787646898.116869,
+      "discovery_ts": 1787646898.116869,
+      "is_new": true
+    },
     {
       "asin": "B0BTQR3WGX",
       "title": "Ventilador de Coluna Mallory Éolo 126W, Silencioso, Hélice de 6 pás, Grade Especial em Sistema TS, Máxima Vazão e Mínimo Ruído – PR-GF- 127V",
@@ -22746,21 +22782,21 @@
       "is_new": true
     },
     {
-      "asin": "8501014869",
-      "title": "O estrangeiro",
-      "link": "https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869",
-      "current_price": 28.99,
-      "original_price": 69.9,
-      "discount": 58.5,
-      "difference": 40.91,
+      "asin": "B0FCG6BCT9",
+      "title": "Camisa de Time Coimbra Corinthians Retrô Listrado",
+      "link": "https://www.amazon.com.br/Camisa-Corinthians-Listrada-Democracia-Masculina/dp/B0FCG6BCT9",
+      "current_price": 129.9,
+      "original_price": 219.99,
+      "discount": 41.0,
+      "difference": 90.09,
       "criteria": [
-        "58.5% OFF"
+        "41.0% OFF"
       ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91Sb5HdDL3L._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787644422.558723,
-      "discovery_ts": 1787637705.992612,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sBxU0pNWL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1787646898.116869,
+      "discovery_ts": 1787646898.116869,
       "is_new": true
     },
     {
@@ -22780,6 +22816,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787644422.558723,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787646898.116869,
+      "discovery_ts": 1784830133.087011,
       "is_new": false
     },
     {
@@ -23086,7 +23140,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23159,7 +23213,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23213,7 +23267,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23303,7 +23357,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23357,7 +23411,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787636043.988328,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1786944590.050834,
       "is_new": false
     },
@@ -23393,7 +23447,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787140640.09174,
       "is_new": false
     },
@@ -23447,7 +23501,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23465,7 +23519,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23485,6 +23539,24 @@
       "category": "[SKIN_CLEANING_AGENT]",
       "last_seen": 1787644422.558723,
       "discovery_ts": 1787233255.44136,
+      "is_new": false
+    },
+    {
+      "asin": "8501014869",
+      "title": "O estrangeiro",
+      "link": "https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869",
+      "current_price": 28.99,
+      "original_price": 69.9,
+      "discount": 58.5,
+      "difference": 40.91,
+      "criteria": [
+        "58.5% OFF"
+      ],
+      "badge": "58% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Sb5HdDL3L._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787644422.558723,
+      "discovery_ts": 1787637705.992612,
       "is_new": false
     },
     {
@@ -23519,7 +23591,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1787637705.992621,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787605966.041524,
       "is_new": false
     },
@@ -23537,7 +23609,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23573,7 +23645,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23591,7 +23663,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23645,7 +23717,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787644422.558723,
+      "last_seen": 1787646898.116869,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
