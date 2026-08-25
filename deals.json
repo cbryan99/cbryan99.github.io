@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 09:17:49",
+  "last_check": "25/08/2026 09:54:48",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22760,9 +22760,45 @@
           "date": "2026-08-25T09:17:41.502215"
         }
       ]
+    },
+    "B0D27X5GQH": {
+      "discovery_date": "2026-08-25T09:54:42.928117",
+      "price_history": [
+        {
+          "price": 3698.99,
+          "date": "2026-08-25T09:54:42.928117"
+        }
+      ]
+    },
+    "B08N9P9M5L": {
+      "discovery_date": "2026-08-25T09:54:42.928117",
+      "price_history": [
+        {
+          "price": 66.48,
+          "date": "2026-08-25T09:54:42.928117"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0D27X5GQH",
+      "title": "Electrolux Geladeira Frost Free Inverter 480L IT70B com AutoSense Duplex Black Inox Look 2 Portas",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-SmartBivolt-IT70B/dp/B0D27X5GQH",
+      "current_price": 3698.99,
+      "original_price": 4083.87,
+      "discount": 9.4,
+      "difference": 384.88,
+      "criteria": [
+        "R$ 384.88 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41nuusFJD-L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787651682.928126,
+      "discovery_ts": 1787651682.928126,
+      "is_new": true
+    },
     {
       "asin": "B0FTMXW3BS",
       "title": "Apple iPhone 14 (128 GB) – Roxo (Seminovo)",
@@ -22797,6 +22833,24 @@
       "category": "[HEADPHONES]",
       "last_seen": 1787649461.502222,
       "discovery_ts": 1787646898.116861,
+      "is_new": true
+    },
+    {
+      "asin": "B08N9P9M5L",
+      "title": "Coleção Anne de Green Gables com 8 livros mais Diário de aventuras",
+      "link": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Anne-Green-Gables-Montgomery/dp/B08N9P9M5L",
+      "current_price": 66.48,
+      "original_price": 179.9,
+      "discount": 63.0,
+      "difference": 113.42,
+      "criteria": [
+        "63.0% OFF"
+      ],
+      "badge": "63% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71sTkbq6KoL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787651682.928126,
+      "discovery_ts": 1787651682.928126,
       "is_new": true
     },
     {
@@ -23012,7 +23066,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787628829.88591,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -23066,7 +23120,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23121,7 +23175,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23141,24 +23195,6 @@
       "category": "[VIRTUAL_REALITY_HEADSET]",
       "last_seen": 1787633912.868887,
       "discovery_ts": 1784595805.500833,
-      "is_new": false
-    },
-    {
-      "asin": "B0DN3JFV7Z",
-      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
-      "current_price": 2999.0,
-      "original_price": 3399.0,
-      "discount": 11.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787628829.88591,
-      "discovery_ts": 1787441464.356645,
       "is_new": false
     },
     {
@@ -23194,8 +23230,26 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0DTVLLSD9",
+      "title": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
+      "link": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Fryer-Facilita-Elgin/dp/B0DTVLLSD9",
+      "current_price": 160.55,
+      "original_price": 412.2,
+      "discount": 61.1,
+      "difference": 251.65,
+      "criteria": [
+        "61.1% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41vdvIk7YvL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787651682.928126,
+      "discovery_ts": 1787628829.88591,
       "is_new": false
     },
     {
@@ -23217,24 +23271,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DTVLLSD9",
-      "title": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
-      "link": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Fryer-Facilita-Elgin/dp/B0DTVLLSD9",
-      "current_price": 169.0,
-      "original_price": 412.2,
-      "discount": 59.0,
-      "difference": 243.2,
-      "criteria": [
-        "59.0% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41vdvIk7YvL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787628829.88591,
-      "discovery_ts": 1787628829.88591,
-      "is_new": false
-    },
-    {
       "asin": "B0DVK166SV",
       "title": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV",
@@ -23248,7 +23284,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23356,7 +23392,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23374,7 +23410,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787604236.364808,
       "is_new": false
     },
@@ -23536,7 +23572,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23626,7 +23662,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23662,7 +23698,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23680,7 +23716,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23734,7 +23770,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787649461.502222,
+      "last_seen": 1787651682.928126,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
