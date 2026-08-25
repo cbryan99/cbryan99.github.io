@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 19:47:38",
+  "last_check": "25/08/2026 20:10:15",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22898,6 +22898,24 @@
           "date": "2026-08-25T19:14:46.853991"
         }
       ]
+    },
+    "B08TQ9JXLZ": {
+      "discovery_date": "2026-08-25T20:10:15.476423",
+      "price_history": [
+        {
+          "price": 69.99,
+          "date": "2026-08-25T20:10:15.476423"
+        }
+      ]
+    },
+    "B096658ZWP": {
+      "discovery_date": "2026-08-25T20:10:15.476423",
+      "price_history": [
+        {
+          "price": 2599.0,
+          "date": "2026-08-25T20:10:15.476423"
+        }
+      ]
     }
   },
   "data": [
@@ -22957,6 +22975,42 @@
       "is_new": true
     },
     {
+      "asin": "B096658ZWP",
+      "title": "Placa de Vídeo ASUS TUF Gaming - GeForce RTX 3060, 12GB GDDR6, RGB, LHR, Ray Tracing, DLSS",
+      "link": "https://www.amazon.com.br/Placa-V%C3%ADdeo-ASUS-TUF-Gaming/dp/B096658ZWP",
+      "current_price": 2599.0,
+      "original_price": 2899.0,
+      "discount": 10.3,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hoPufXoDL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_CARD]",
+      "last_seen": 1787688615.47643,
+      "discovery_ts": 1787688615.47643,
+      "is_new": true
+    },
+    {
+      "asin": "B08TQ9JXLZ",
+      "title": "Luminária Inteligente LED 18W 3000-6500K Elgin Wi-Fi Quadrada de Sobrepor compatível com Alexa e Google Home",
+      "link": "https://www.amazon.com.br/Lumin%C3%A1ria-Inteligente-Elgin-3000-6500K-compat%C3%ADvel/dp/B08TQ9JXLZ",
+      "current_price": 69.99,
+      "original_price": 199.0,
+      "discount": 64.8,
+      "difference": 129.01,
+      "criteria": [
+        "64.8% OFF"
+      ],
+      "badge": "64% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zUiesJMjL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIGHT_FIXTURE]",
+      "last_seen": 1787688615.47643,
+      "discovery_ts": 1787688615.47643,
+      "is_new": true
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -22971,7 +23025,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23007,7 +23061,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787685286.853998,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787664974.374533,
       "is_new": false
     },
@@ -23025,7 +23079,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23044,7 +23098,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787685286.853998,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23062,7 +23116,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -23170,7 +23224,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -23278,7 +23332,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23296,7 +23350,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23314,7 +23368,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23351,7 +23405,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23406,7 +23460,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23424,7 +23478,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787614063.44794,
       "is_new": false
     },
@@ -23550,7 +23604,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23676,7 +23730,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23694,7 +23748,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23766,7 +23820,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23784,7 +23838,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23802,7 +23856,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23874,7 +23928,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787687256.599388,
+      "last_seen": 1787688615.47643,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
