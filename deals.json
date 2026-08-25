@@ -1,5 +1,5 @@
 {
-  "last_check": "25/08/2026 15:13:16",
+  "last_check": "25/08/2026 16:03:18",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22831,27 +22831,27 @@
           "date": "2026-08-25T15:13:11.167873"
         }
       ]
+    },
+    "B077HZ5BZS": {
+      "discovery_date": "2026-08-25T16:03:02.518303",
+      "price_history": [
+        {
+          "price": 163.07,
+          "date": "2026-08-25T16:03:02.518303"
+        }
+      ]
+    },
+    "B0DNLPFF8V": {
+      "discovery_date": "2026-08-25T16:03:02.518303",
+      "price_history": [
+        {
+          "price": 999.0,
+          "date": "2026-08-25T16:03:02.518303"
+        }
+      ]
     }
   },
   "data": [
-    {
-      "asin": "B0FQJ2KJ9X",
-      "title": "Apple iPhone 17 Pro Max (256 GB) - Azul intenso",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X",
-      "current_price": 9999.0,
-      "original_price": 12499.0,
-      "discount": 20.0,
-      "difference": 2500.0,
-      "criteria": [
-        "R$ 2500.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787664974.374541,
-      "discovery_ts": 1787664974.374541,
-      "is_new": true
-    },
     {
       "asin": "B0B4SZRPM3",
       "title": "Lava e Seca Samsung WD11A com Ecobubble WD11A4453BX Inox Look 11/7kg 127V",
@@ -22871,21 +22871,39 @@
       "is_new": true
     },
     {
-      "asin": "8595202354",
-      "title": "Box - Clássicos Infantojuvenis (Volume 1)",
-      "link": "https://www.amazon.com.br/Box-Cl%C3%A1ssicos-Infantojuvenis-P%C3%A9-Letra/dp/8595202354",
-      "current_price": 37.08,
-      "original_price": 99.99,
-      "discount": 62.9,
-      "difference": 62.91,
+      "asin": "B0DNLPFF8V",
+      "title": "Tablet, HUAWEI MatePad SE 11, 6+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria de 7700 mAh 22,5W，Câmera Traseira 8 MP，Câmera Frontal 5 MP，Cinza Nebula",
+      "link": "https://www.amazon.com.br/HUAWEI-MatePad-SE-11-Visual%EF%BC%8CSuperbateria/dp/B0DNLPFF8V",
+      "current_price": 999.0,
+      "original_price": 1299.0,
+      "discount": 23.1,
+      "difference": 300.0,
       "criteria": [
-        "62.9% OFF"
+        "R$ 300.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QFi-3M6uL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1787673782.518309,
+      "discovery_ts": 1787673782.518309,
+      "is_new": true
+    },
+    {
+      "asin": "B077HZ5BZS",
+      "title": "WOLFF Faqueiro de Aço Inox Pisa 30 Peças - Mesa Posta - Itens Para Casa - Utensílios de Cozinha - Enxoval - Casamento - Decoração",
+      "link": "https://www.amazon.com.br/WOLFF-Faqueiro-Inox-Pisa-Pe%C3%A7as/dp/B077HZ5BZS",
+      "current_price": 163.07,
+      "original_price": 430.9,
+      "discount": 62.2,
+      "difference": 267.83,
+      "criteria": [
+        "62.2% OFF"
       ],
       "badge": "62% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71YqcVixBBL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787664974.374541,
-      "discovery_ts": 1787664974.374541,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51EUyU3NH8L._AC_UL210_SR210,210_.jpg",
+      "category": "[FLATWARE]",
+      "last_seen": 1787673782.518309,
+      "discovery_ts": 1787673782.518309,
       "is_new": true
     },
     {
@@ -22903,7 +22921,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -22923,6 +22941,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787670791.167882,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQJ2KJ9X",
+      "title": "Apple iPhone 17 Pro Max (256 GB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X",
+      "current_price": 9999.0,
+      "original_price": 12499.0,
+      "discount": 20.0,
+      "difference": 2500.0,
+      "criteria": [
+        "R$ 2500.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787664974.374541,
       "is_new": false
     },
     {
@@ -22975,7 +23011,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23012,7 +23048,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23032,6 +23068,24 @@
       "category": "[FREEZER]",
       "last_seen": 1787661708.740447,
       "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2189.0,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.0,
+      "criteria": [
+        "R$ 710.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787673782.518309,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -23066,7 +23120,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787651682.928126,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -23084,7 +23138,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787248478.841992,
       "is_new": false
     },
@@ -23102,7 +23156,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23120,7 +23174,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787664974.374541,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23176,7 +23230,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23194,7 +23248,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/715Y5bLr3RL._AC_UL210_SR210,210_.jpg",
       "category": "[VIRTUAL_REALITY_HEADSET]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -23235,24 +23289,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FTMXW3BS",
-      "title": "Apple iPhone 14 (128 GB) – Roxo (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-14-128-Recondicionado/dp/B0FTMXW3BS",
-      "current_price": 2588.98,
-      "original_price": 2913.99,
-      "discount": 11.2,
-      "difference": 325.01,
-      "criteria": [
-        "R$ 325.01 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/619f09kK7tL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1787649461.502222,
-      "is_new": false
-    },
-    {
       "asin": "B09B8VGCR8",
       "title": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/Echo-Dot-5%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B09B8VGCR8",
@@ -23267,7 +23303,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23303,7 +23339,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787614063.44794,
       "is_new": false
     },
@@ -23375,7 +23411,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23395,42 +23431,6 @@
       "category": "[HEADPHONES]",
       "last_seen": 1787658983.550095,
       "discovery_ts": 1785500357.771,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTF579W",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTF579W",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51uiC171AyL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1787646898.116861,
-      "is_new": false
-    },
-    {
-      "asin": "B09WJD17ZS",
-      "title": "Suporte Articulado de Mesa com Pistão a Gás para Monitores de 17' a 35' Branco - F80W ELG",
-      "link": "https://www.amazon.com.br/Suporte-Articulado-Pist%C3%A3o-Monitores-Branco/dp/B09WJD17ZS",
-      "current_price": 157.75,
-      "original_price": 299.9,
-      "discount": 47.4,
-      "difference": 142.15,
-      "criteria": [
-        "47.4% OFF"
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51QIvg3FDEL._AC_UL210_SR210,210_.jpg",
-      "category": "[FLAT_SCREEN_DISPLAY_MOUNT]",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1787484673.840693,
       "is_new": false
     },
     {
@@ -23470,24 +23470,6 @@
       "is_new": false
     },
     {
-      "asin": "8520925804",
-      "title": "Grandes obras de Dostoiévski: \"Crime e castigo\" e \"Os irmãos Karamazov\"",
-      "link": "https://www.amazon.com.br/Crime-Castigo-Irm%C3%A3os-Karamazov-Dostoi%C3%A9vski/dp/8520925804",
-      "current_price": 129.73,
-      "original_price": 239.9,
-      "discount": 45.9,
-      "difference": 110.17,
-      "criteria": [
-        "45.9% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71zZkmfjcyL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1787649461.502222,
-      "is_new": false
-    },
-    {
       "asin": "B0C7CQT9ZS",
       "title": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
       "link": "https://www.amazon.com.br/soundcore-Bluetooth-Reprodu%C3%A7%C3%A3o-Resist%C3%AAncia-Personaliza%C3%A7%C3%A3o/dp/B0C7CQT9ZS",
@@ -23521,24 +23503,6 @@
       "category": "[HUMIDIFIER]",
       "last_seen": 1787670791.167882,
       "discovery_ts": 1786950745.975533,
-      "is_new": false
-    },
-    {
-      "asin": "B0B5FHVL3R",
-      "title": "Lâmpada Inteligente Super Potência 30W Elgin Color RGB Wifi Compatível com Alexa e Google Home",
-      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B0B5FHVL3R",
-      "current_price": 39.99,
-      "original_price": 139.9,
-      "discount": 71.4,
-      "difference": 99.91,
-      "criteria": [
-        "71.4% OFF"
-      ],
-      "badge": "71% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
-      "category": "[LIGHT_BULB]",
-      "last_seen": 1787651682.928126,
-      "discovery_ts": 1787604236.364808,
       "is_new": false
     },
     {
@@ -23591,7 +23555,7 @@
       "badge": "71% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61XJY8yEABL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1786944590.050834,
       "is_new": false
     },
@@ -23668,24 +23632,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BFT97SDN",
-      "title": "Tech T-shirt Gola U Masculino",
-      "link": "https://www.amazon.com.br/Camiseta-B%C3%A1sica-Tech-T-shirt-Preta/dp/B0BFT97SDN",
-      "current_price": 89.9,
-      "original_price": 159.0,
-      "discount": 43.5,
-      "difference": 69.1,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ML3MBfGGL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1785319165.213328,
-      "is_new": false
-    },
-    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -23699,8 +23645,26 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1784799532.826355,
+      "is_new": false
+    },
+    {
+      "asin": "8595202354",
+      "title": "Box - Clássicos Infantojuvenis (Volume 1)",
+      "link": "https://www.amazon.com.br/Box-Cl%C3%A1ssicos-Infantojuvenis-P%C3%A9-Letra/dp/8595202354",
+      "current_price": 37.08,
+      "original_price": 99.99,
+      "discount": 62.9,
+      "difference": 62.91,
+      "criteria": [
+        "62.9% OFF"
+      ],
+      "badge": "62% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YqcVixBBL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787664974.374541,
+      "discovery_ts": 1787664974.374541,
       "is_new": false
     },
     {
@@ -23717,7 +23681,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23737,24 +23701,6 @@
       "category": "[SKIN_CLEANING_AGENT]",
       "last_seen": 1787667894.549172,
       "discovery_ts": 1787233255.44136,
-      "is_new": false
-    },
-    {
-      "asin": "8501014869",
-      "title": "O estrangeiro",
-      "link": "https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869",
-      "current_price": 28.99,
-      "original_price": 69.9,
-      "discount": 58.5,
-      "difference": 40.91,
-      "criteria": [
-        "58.5% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91Sb5HdDL3L._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787649461.502222,
-      "discovery_ts": 1787637705.992612,
       "is_new": false
     },
     {
@@ -23825,7 +23771,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23843,7 +23789,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23915,7 +23861,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787670791.167882,
+      "last_seen": 1787673782.518309,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
