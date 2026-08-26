@@ -1,5 +1,5 @@
 {
-  "last_check": "26/08/2026 12:39:53",
+  "last_check": "26/08/2026 13:39:36",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2232,6 +2232,10 @@
         {
           "price": "6999.0",
           "date": "2026-07-27T01:15:07.559922"
+        },
+        {
+          "price": 6799.0,
+          "date": "2026-08-26T13:39:27.195777"
         }
       ]
     },
@@ -22955,9 +22959,36 @@
           "date": "2026-08-26T05:45:37.937255"
         }
       ]
+    },
+    "B0CDNH81Y5": {
+      "discovery_date": "2026-08-26T13:39:27.195777",
+      "price_history": [
+        {
+          "price": 58.55,
+          "date": "2026-08-26T13:39:27.195777"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CDNH81Y5",
+      "title": "Colchão Inflável Solteiro Multiuso Até 100kgs O2Flow",
+      "link": "https://www.amazon.com.br/Colch%C3%A3o-Infl%C3%A1vel-Solteiro-Multiuso-O2Flow/dp/B0CDNH81Y5",
+      "current_price": 58.55,
+      "original_price": 109.9,
+      "discount": 46.7,
+      "difference": 51.35,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TWed7D8ZL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_MATTRESS]",
+      "last_seen": 1787751567.195783,
+      "discovery_ts": 1787751567.195783,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -22973,7 +23004,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23014,6 +23045,24 @@
       "is_new": false
     },
     {
+      "asin": "B08J9GJXMV",
+      "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience Só Frio 42zqb30c5/38tfcb30515mc 220v",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Carrier-Xperience-42zqb30c5-38tfcb30515mc/dp/B08J9GJXMV",
+      "current_price": 4919.0,
+      "original_price": 6796.48,
+      "discount": 27.6,
+      "difference": 1877.48,
+      "criteria": [
+        "R$ 1877.48 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gOeZ+14xL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787751567.195783,
+      "discovery_ts": 1786459242.546747,
+      "is_new": false
+    },
+    {
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
@@ -23027,7 +23076,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23045,7 +23094,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -23068,21 +23117,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.9,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.1,
+      "asin": "B0GYPR54HK",
+      "title": "Notebook ASUS TUF Gaming F16, Intel Core 5, RTX4050, 16 GB, 512 GB, KeepOS, Tela 16\" LCD LED, Mecha Gray - 5FX607VU-RL385",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX4050-KeepOS/dp/B0GYPR54HK",
+      "current_price": 6799.0,
+      "original_price": 7999.0,
+      "discount": 15.0,
+      "difference": 1200.0,
       "criteria": [
-        "R$ 775.1 desc."
+        "R$ 1200.0 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787728401.831159,
-      "discovery_ts": 1784464310.552537,
+      "last_seen": 1787751567.195783,
+      "discovery_ts": 1785114907.559922,
       "is_new": false
     },
     {
@@ -23099,7 +23148,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -23135,14 +23184,14 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787728401.831159,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
     {
-      "asin": "B0DYCH6J41",
-      "title": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Branca, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/Novo-Echo-Show-11-Branco/dp/B0DYCH6J41",
+      "asin": "B0DYC2GV1Z",
+      "title": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Grafite, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/Novo-Echo-Show-11-Preto/dp/B0DYC2GV1Z",
       "current_price": 1469.0,
       "original_price": 1999.0,
       "discount": 26.5,
@@ -23151,10 +23200,10 @@
         "R$ 530.0 desc."
       ],
       "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61gBzsdFVgL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787728401.831159,
-      "discovery_ts": 1787611127.610401,
+      "last_seen": 1787751567.195783,
+      "discovery_ts": 1787581321.546809,
       "is_new": false
     },
     {
@@ -23171,8 +23220,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787625964.61514,
+      "is_new": false
+    },
+    {
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3299.0,
+      "original_price": 3799.0,
+      "discount": 13.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787751567.195783,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -23207,7 +23274,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787745272.295644,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23226,7 +23293,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23264,7 +23331,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23300,7 +23367,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23320,24 +23387,6 @@
       "category": "[HEADPHONES]",
       "last_seen": 1787745272.295644,
       "discovery_ts": 1785500357.771,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTPF7CZ",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787728401.831159,
-      "discovery_ts": 1787218050.770928,
       "is_new": false
     },
     {
@@ -23498,7 +23547,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787728401.831159,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787312686.597548,
       "is_new": false
     },
@@ -23516,7 +23565,7 @@
       "badge": "75% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23552,7 +23601,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23678,7 +23727,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23750,7 +23799,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787751567.195783,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
