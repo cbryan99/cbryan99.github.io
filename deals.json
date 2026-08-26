@@ -1,5 +1,5 @@
 {
-  "last_check": "26/08/2026 18:28:40",
+  "last_check": "26/08/2026 20:34:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21705,6 +21705,10 @@
         {
           "price": 23.99,
           "date": "2026-08-24T22:59:46.611228"
+        },
+        {
+          "price": 32.1,
+          "date": "2026-08-26T20:34:46.326590"
         }
       ]
     },
@@ -22986,9 +22990,36 @@
           "date": "2026-08-26T15:57:56.510221"
         }
       ]
+    },
+    "B0H1XDKYY1": {
+      "discovery_date": "2026-08-26T20:34:46.326590",
+      "price_history": [
+        {
+          "price": 1948.99,
+          "date": "2026-08-26T20:34:46.326590"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0H1XDKYY1",
+      "title": "Consul Máquina de Lavar com Abertura Superior Chumbo Classificação Energética A 63 cm x 70 cm x 98 cm 16 kg Modo Eco CWN16A9 com 12 Programas de Lavagem",
+      "link": "https://www.amazon.com.br/Consul-Abertura-Classifica%C3%A7%C3%A3o-Energ%C3%A9tica-Programas/dp/B0H1XDKYY1",
+      "current_price": 1948.99,
+      "original_price": 2448.0,
+      "discount": 20.4,
+      "difference": 499.01,
+      "criteria": [
+        "R$ 499.01 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MI4gtWMgL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1787776486.326598,
+      "discovery_ts": 1787776486.326598,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -23004,7 +23035,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23022,26 +23053,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787747977.445394,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787754293.975838,
-      "discovery_ts": 1784830133.087011,
       "is_new": false
     },
     {
@@ -23076,7 +23089,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23094,7 +23107,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1787759876.510221,
       "is_new": false
     },
@@ -23112,7 +23125,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -23150,24 +23163,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787762926.899676,
       "discovery_ts": 1786603677.200311,
-      "is_new": false
-    },
-    {
-      "asin": "B0GYPR54HK",
-      "title": "Notebook ASUS TUF Gaming F16, Intel Core 5, RTX4050, 16 GB, 512 GB, KeepOS, Tela 16\" LCD LED, Mecha Gray - 5FX607VU-RL385",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Gaming-RTX4050-KeepOS/dp/B0GYPR54HK",
-      "current_price": 6799.0,
-      "original_price": 7999.0,
-      "discount": 15.0,
-      "difference": 1200.0,
-      "criteria": [
-        "R$ 1200.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787751567.195783,
-      "discovery_ts": 1785114907.559922,
       "is_new": false
     },
     {
@@ -23238,7 +23233,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787754293.975838,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -23256,7 +23251,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -23274,7 +23269,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787751567.195783,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786806056.850538,
       "is_new": false
     },
@@ -23310,7 +23305,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -23346,7 +23341,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23479,24 +23474,6 @@
       "is_new": false
     },
     {
-      "asin": "B08N9P9M5L",
-      "title": "Coleção Anne de Green Gables com 8 livros mais Diário de aventuras",
-      "link": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Anne-Green-Gables-Montgomery/dp/B08N9P9M5L",
-      "current_price": 66.48,
-      "original_price": 179.9,
-      "discount": 63.0,
-      "difference": 113.42,
-      "criteria": [
-        "63.0% OFF"
-      ],
-      "badge": "63% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71sTkbq6KoL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787754293.975838,
-      "discovery_ts": 1787651682.928117,
-      "is_new": false
-    },
-    {
       "asin": "B07HR1MZQP",
       "title": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
       "link": "https://www.amazon.com.br/Umidificador-Fisher-Ultrass%C3%B4nico-HC115-Bivolt/dp/B07HR1MZQP",
@@ -23510,7 +23487,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23533,38 +23510,20 @@
       "is_new": false
     },
     {
-      "asin": "B074LWHJ2H",
-      "title": "Hair Vintage Girl Creme Alisante 850g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Creme-Alisante-Vintage-Lola-Cosmetics/dp/B074LWHJ2H",
-      "current_price": 63.84,
-      "original_price": 149.9,
-      "discount": 57.4,
-      "difference": 86.06,
-      "criteria": [
-        "57.4% OFF"
-      ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/619Y5opifoL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787751567.195783,
-      "discovery_ts": 1787312686.597548,
-      "is_new": false
-    },
-    {
       "asin": "B088C4QZV2",
       "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
       "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
-      "current_price": 23.99,
+      "current_price": 32.1,
       "original_price": 99.0,
-      "discount": 75.8,
-      "difference": 75.01,
+      "discount": 67.6,
+      "difference": 66.9,
       "criteria": [
-        "75.8% OFF"
+        "67.6% OFF"
       ],
-      "badge": "75% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23602,24 +23561,6 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1787768908.719928,
       "discovery_ts": 1784433482.515947,
-      "is_new": false
-    },
-    {
-      "asin": "B0CDNH81Y5",
-      "title": "Colchão Inflável Solteiro Multiuso Até 100kgs O2Flow",
-      "link": "https://www.amazon.com.br/Colch%C3%A3o-Infl%C3%A1vel-Solteiro-Multiuso-O2Flow/dp/B0CDNH81Y5",
-      "current_price": 58.55,
-      "original_price": 109.9,
-      "discount": 46.7,
-      "difference": 51.35,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TWed7D8ZL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_MATTRESS]",
-      "last_seen": 1787751567.195783,
-      "discovery_ts": 1787751567.195783,
       "is_new": false
     },
     {
@@ -23726,7 +23667,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23798,7 +23739,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787776486.326598,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
