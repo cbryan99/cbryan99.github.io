@@ -1,5 +1,5 @@
 {
-  "last_check": "26/08/2026 05:03:46",
+  "last_check": "26/08/2026 05:45:39",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22942,9 +22942,36 @@
           "date": "2026-08-25T22:39:23.338254"
         }
       ]
+    },
+    "B0GL1T1HTZ": {
+      "discovery_date": "2026-08-26T05:45:37.937255",
+      "price_history": [
+        {
+          "price": 3098.99,
+          "date": "2026-08-26T05:45:37.937255"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GL1T1HTZ",
+      "title": "Mini PC BOSGAME E2 Neo Ryzen 5 3500U 16GB 512GB SSD Para Escritório | Ideal Para Escritório, Empresas E Home Office, Suporta Até 3 Monitores 4K E Windows 11 Pro",
+      "link": "https://www.amazon.com.br/BOSGAME-E2-Ryzen-3500U-Escrit%C3%B3rio/dp/B0GL1T1HTZ",
+      "current_price": 3098.99,
+      "original_price": 3699.0,
+      "discount": 16.2,
+      "difference": 600.01,
+      "criteria": [
+        "R$ 600.01 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hKF84n02L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787723137.937262,
+      "discovery_ts": 1787723137.937262,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -23001,6 +23028,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1787723137.937262,
+      "discovery_ts": 1784846418.539129,
+      "is_new": false
+    },
+    {
       "asin": "B08J9GJXMV",
       "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience Só Frio 42zqb30c5/38tfcb30515mc 220v",
       "link": "https://www.amazon.com.br/Ar-condicionado-Carrier-Xperience-42zqb30c5-38tfcb30515mc/dp/B08J9GJXMV",
@@ -23032,7 +23077,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23086,7 +23131,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787341954.532525,
       "is_new": false
     },
@@ -23104,7 +23149,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1787715123.366622,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -23142,24 +23187,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787702099.989595,
       "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZJR4G1T",
-      "title": "Apple 2025 iPad (Wi-Fi, 128 GB) - Rosa (A16)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-Wi-Fi-128/dp/B0DZJR4G1T",
-      "current_price": 3747.0,
-      "original_price": 4499.0,
-      "discount": 16.7,
-      "difference": 752.0,
-      "criteria": [
-        "R$ 752.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516QhxaEapL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787700827.020289,
-      "discovery_ts": 1787253098.380616,
       "is_new": false
     },
     {
@@ -23248,7 +23275,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23266,7 +23293,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23284,7 +23311,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787628829.885903,
       "is_new": false
     },
@@ -23303,7 +23330,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23358,7 +23385,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23381,6 +23408,24 @@
       "is_new": false
     },
     {
+      "asin": "B0C7XPTW5K",
+      "title": "Echo Show 15 (Geração mais recente) | Smart display Full HD de 15,6” com Alexa, experiência Fire TV e controle remoto por voz, com Acesso Antecipado à Alexa+",
+      "link": "https://www.amazon.com.br/novo-echo-show-15-com-alexa/dp/B0C7XPTW5K",
+      "current_price": 2699.0,
+      "original_price": 2999.0,
+      "discount": 10.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
+      "category": "[DIGITAL_DEVICE_3]",
+      "last_seen": 1787723137.937262,
+      "discovery_ts": 1787614063.44794,
+      "is_new": false
+    },
+    {
       "asin": "B0GWW2J4F3",
       "title": "Notebook Dell 15 DC15-I51334U-M70 15.6\" Full HD 13ª Gen Intel Core i5 16GB 512GB SSD Win 11 Preto Carbono",
       "link": "https://www.amazon.com.br/Notebook-Dell-DC15-I51334U-M70-Intel-Carbono/dp/B0GWW2J4F3",
@@ -23396,24 +23441,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787720617.935123,
       "discovery_ts": 1786982691.468981,
-      "is_new": false
-    },
-    {
-      "asin": "B0C7XPTW5K",
-      "title": "Echo Show 15 (Geração mais recente) | Smart display Full HD de 15,6” com Alexa, experiência Fire TV e controle remoto por voz, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/novo-echo-show-15-com-alexa/dp/B0C7XPTW5K",
-      "current_price": 2699.0,
-      "original_price": 2999.0,
-      "discount": 10.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/510kKaOeNmL._AC_UL210_SR210,210_.jpg",
-      "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787718020.462465,
-      "discovery_ts": 1787614063.44794,
       "is_new": false
     },
     {
@@ -23484,8 +23511,44 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0CRTPF7CZ",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787723137.937262,
+      "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
+      "asin": "6584004406",
+      "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
+      "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
+      "current_price": 164.9,
+      "original_price": 309.9,
+      "discount": 46.8,
+      "difference": 145.0,
+      "criteria": [
+        "46.8% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787723137.937262,
+      "discovery_ts": 1786359737.45714,
       "is_new": false
     },
     {
@@ -23574,7 +23637,7 @@
       "badge": "75% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
       "category": "[LIGHT_BULB]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787238176.703387,
       "is_new": false
     },
@@ -23592,7 +23655,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23610,7 +23673,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -23682,7 +23745,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23700,7 +23763,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23718,7 +23781,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787720617.935123,
+      "last_seen": 1787723137.937262,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
