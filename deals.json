@@ -1,5 +1,5 @@
 {
-  "last_check": "27/08/2026 00:03:09",
+  "last_check": "27/08/2026 09:34:29",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2474,6 +2474,10 @@
         {
           "price": 8998.98,
           "date": "2026-08-16T15:39:37.720485"
+        },
+        {
+          "price": 8998.97,
+          "date": "2026-08-27T09:33:42.097431"
         }
       ]
     },
@@ -23012,25 +23016,61 @@
           "date": "2026-08-27T00:02:52.241381"
         }
       ]
+    },
+    "B0FQK2QS2R": {
+      "discovery_date": "2026-08-27T09:33:42.097431",
+      "price_history": [
+        {
+          "price": 89.71,
+          "date": "2026-08-27T09:33:42.097431"
+        }
+      ]
+    },
+    "8535930043": {
+      "discovery_date": "2026-08-27T09:33:42.097431",
+      "price_history": [
+        {
+          "price": 183.03,
+          "date": "2026-08-27T09:33:42.097431"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CYVJHL3N",
-      "title": "Notebook ASUS Vivobook Go 15, Intel Core i3 N305, 4GB, 128GB SSD, W11 Home, Tela 15.6\" FHD Cool Silver - E1504GA-NJ440W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Silver/dp/B0CYVJHL3N",
-      "current_price": 2799.0,
-      "original_price": 3499.0,
-      "discount": 20.0,
-      "difference": 700.0,
+      "asin": "8535930043",
+      "title": "Guerra e paz",
+      "link": "https://www.amazon.com.br/Guerra-paz-Liev-Tolst%C3%B3i/dp/8535930043",
+      "current_price": 183.03,
+      "original_price": 309.9,
+      "discount": 40.9,
+      "difference": 126.87,
       "criteria": [
-        "R$ 700.0 desc."
+        "40.9% OFF"
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iESqOEpeL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787788972.241388,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81PwbZ0c6-L._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1787823222.097439,
+      "is_new": true
+    },
+    {
+      "asin": "B0FQK2QS2R",
+      "title": "Castanha-do-Pará Orgânica 1kg Inteira – Fonte de Proteína Vegetal e Selênio – Vegana, Kosher, Sem Glúten, Sem Conservantes – Floresta em Pé",
+      "link": "https://www.amazon.com.br/Castanha-do-Par%C3%A1-Org%C3%A2nica-1kg-Inteira-Conservantes/dp/B0FQK2QS2R",
+      "current_price": 89.71,
+      "original_price": 149.9,
+      "discount": 40.2,
+      "difference": 60.19,
+      "criteria": [
+        "40.2% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719pMXUIwrL._AC_UL210_SR210,210_.jpg",
+      "category": "[NUT_AND_SEED]",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1787823222.097439,
       "is_new": true
     },
     {
@@ -23048,8 +23088,26 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0FXM57JL9",
+      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": 8998.97,
+      "original_price": 12999.0,
+      "discount": 30.8,
+      "difference": 4000.03,
+      "criteria": [
+        "R$ 4000.03 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1785169875.641153,
       "is_new": false
     },
     {
@@ -23066,7 +23124,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787776486.326598,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -23074,54 +23132,18 @@
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
-      "current_price": 3979.0,
+      "current_price": 3654.14,
       "original_price": 5799.0,
-      "discount": 31.4,
-      "difference": 1820.0,
+      "discount": 37.0,
+      "difference": 2144.86,
       "criteria": [
-        "R$ 1820.0 desc."
+        "R$ 2144.86 desc."
       ],
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
-      "asin": "B0CYW2N6TX",
-      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
-      "current_price": 2999.0,
-      "original_price": 4299.0,
-      "discount": 30.2,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787759876.510221,
-      "is_new": false
-    },
-    {
-      "asin": "B0B61WJRY5",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5",
-      "current_price": 3585.0,
-      "original_price": 4838.9,
-      "discount": 25.9,
-      "difference": 1253.9,
-      "criteria": [
-        "R$ 1253.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1785515180.635022,
       "is_new": false
     },
     {
@@ -23138,134 +23160,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2399.0,
-      "original_price": 3299.0,
-      "discount": 27.3,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1787768908.719928,
-      "discovery_ts": 1787355246.696526,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.9,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.1,
-      "criteria": [
-        "R$ 775.1 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBR8V26",
-      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
-      "current_price": 2189.0,
-      "original_price": 2899.0,
-      "discount": 24.5,
-      "difference": 710.0,
-      "criteria": [
-        "R$ 710.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787776486.326598,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
-      "asin": "B0F5X4NPK2",
-      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
-      "current_price": 4699.0,
-      "original_price": 5299.99,
-      "discount": 11.3,
-      "difference": 600.99,
-      "criteria": [
-        "R$ 600.99 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0FVMFSWGV",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 220V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Duplex-Branca-TF38/dp/B0FVMFSWGV",
-      "current_price": 2299.0,
-      "original_price": 2899.0,
-      "discount": 20.7,
-      "difference": 600.0,
-      "criteria": [
-        "R$ 600.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787776486.326598,
-      "discovery_ts": 1786806056.850538,
-      "is_new": false
-    },
-    {
-      "asin": "B0G52YJHL9",
-      "title": "Computador All in One 23.8\" Full HD Intel Core i7-6600U, SSD M.2 512GB, 16GB RAM, Wi-Fi Dual Band, Saídas HDMI/VGA, Alto-Falantes e Webcam Integrados com Teclado e Mouse",
-      "link": "https://www.amazon.com.br/Computador-i7-6600U-Alto-Falantes-Integrados-Teclado/dp/B0G52YJHL9",
-      "current_price": 2699.65,
-      "original_price": 3249.9,
-      "discount": 16.9,
-      "difference": 550.25,
-      "criteria": [
-        "R$ 550.25 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61iP-GBR1OL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787248478.841992,
-      "is_new": false
-    },
-    {
-      "asin": "B0DYC2GV1Z",
-      "title": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Grafite, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/Novo-Echo-Show-11-Preto/dp/B0DYC2GV1Z",
-      "current_price": 1469.0,
-      "original_price": 1999.0,
-      "discount": 26.5,
-      "difference": 530.0,
-      "criteria": [
-        "R$ 530.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
-      "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787768908.719928,
-      "discovery_ts": 1787581321.546809,
       "is_new": false
     },
     {
@@ -23282,63 +23178,8 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
-      "asin": "B0H1XDKYY1",
-      "title": "Consul Máquina de Lavar com Abertura Superior Chumbo Classificação Energética A 63 cm x 70 cm x 98 cm 16 kg Modo Eco CWN16A9 com 12 Programas de Lavagem",
-      "link": "https://www.amazon.com.br/Consul-Abertura-Classifica%C3%A7%C3%A3o-Energ%C3%A9tica-Programas/dp/B0H1XDKYY1",
-      "current_price": 1948.99,
-      "original_price": 2448.0,
-      "discount": 20.4,
-      "difference": 499.01,
-      "criteria": [
-        "R$ 499.01 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MI4gtWMgL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1787776486.326598,
-      "discovery_ts": 1787776486.326598,
-      "is_new": false
-    },
-    {
-      "asin": "B0H2NM1DSK",
-      "title": "Ar Condicionado Split Midea Hi Wall Inverter AI Ecomaster 12.000 BTU/h Frio Monofásico Branco 38EFVCA12M8/42EFVCA12M8 127V",
-      "link": "https://www.amazon.com.br/Condicionado-Midea-Monof%C3%A1sico-38EFVCA12M8-42EFVCA12M8/dp/B0H2NM1DSK",
-      "current_price": 2221.11,
-      "original_price": 2694.57,
-      "discount": 17.6,
-      "difference": 473.46,
-      "criteria": [
-        "R$ 473.46 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cD95qKv4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787628829.885903,
-      "is_new": false
-    },
-    {
-      "asin": "B0C2S3VVLW",
-      "title": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Branca, com Acesso Antecipado à Alexa+",
-      "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-branca/dp/B0C2S3VVLW",
-      "current_price": 469.0,
-      "original_price": 899.0,
-      "discount": 47.8,
-      "difference": 430.0,
-      "criteria": [
-        "47.8% OFF",
-        "R$ 430.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71anQJA7UcL._AC_UL210_SR210,210_.jpg",
-      "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787575015.430138,
       "is_new": false
     },
     {
@@ -23356,26 +23197,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787578436.396467,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQGMGVCT",
-      "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
-      "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
-      "current_price": 2299.0,
-      "original_price": 2699.0,
-      "discount": 14.8,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787625964.61514,
       "is_new": false
     },
     {
@@ -23393,26 +23216,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787575015.430138,
-      "is_new": false
-    },
-    {
-      "asin": "B0DNLPFF8V",
-      "title": "Tablet, HUAWEI MatePad SE 11, 6+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria de 7700 mAh 22,5W，Câmera Traseira 8 MP，Câmera Frontal 5 MP，Cinza Nebula",
-      "link": "https://www.amazon.com.br/HUAWEI-MatePad-SE-11-Visual%EF%BC%8CSuperbateria/dp/B0DNLPFF8V",
-      "current_price": 999.0,
-      "original_price": 1299.0,
-      "discount": 23.1,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61QFi-3M6uL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787673782.518303,
       "is_new": false
     },
     {
@@ -23429,26 +23234,44 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
     {
-      "asin": "6584004406",
-      "title": "Vade Mecum Saraiva Tradicional - 41ª Edição 2026",
-      "link": "https://www.amazon.com.br/Vade-Mecum-Saraiva-Tradicional-Edi%C3%A7%C3%A3o/dp/6584004406",
-      "current_price": 164.9,
-      "original_price": 309.9,
-      "discount": 46.8,
-      "difference": 145.0,
+      "asin": "B0CRTPF7CZ",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTPF7CZ",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
       "criteria": [
-        "46.8% OFF"
+        "46.7% OFF"
       ],
       "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81HmyZ8mCzL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1787768908.719928,
-      "discovery_ts": 1786359737.45714,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MgcnjJKRL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
+      "asin": "B0C7CQT9ZS",
+      "title": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
+      "link": "https://www.amazon.com.br/soundcore-Bluetooth-Reprodu%C3%A7%C3%A3o-Resist%C3%AAncia-Personaliza%C3%A7%C3%A3o/dp/B0C7CQT9ZS",
+      "current_price": 148.99,
+      "original_price": 259.0,
+      "discount": 42.5,
+      "difference": 110.01,
+      "criteria": [
+        "42.5% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+qzpA7y+L._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1784617564.938218,
       "is_new": false
     },
     {
@@ -23465,7 +23288,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
       "category": "[HUMIDIFIER]",
-      "last_seen": 1787776486.326598,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786950745.975533,
       "is_new": false
     },
@@ -23483,26 +23306,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51sBxU0pNWL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787646898.116869,
       "is_new": false
     },
     {
-      "asin": "B088C4QZV2",
-      "title": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
-      "link": "https://www.amazon.com.br/L%C3%A2mpada-Inteligente-Elgin-compat%C3%ADvel-Google/dp/B088C4QZV2",
-      "current_price": 32.1,
-      "original_price": 99.0,
-      "discount": 67.6,
-      "difference": 66.9,
+      "asin": "B079VQTRM7",
+      "title": "Bio Oil Bio",
+      "link": "https://www.amazon.com.br/%C3%93leo-para-cuidado-pele-Rosa/dp/B079VQTRM7",
+      "current_price": 0.37,
+      "original_price": 85.99,
+      "discount": 99.6,
+      "difference": 85.62,
       "criteria": [
-        "67.6% OFF"
+        "99.6% OFF"
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61i1yPAlVLL._AC_UL210_SR210,210_.jpg",
-      "category": "[LIGHT_BULB]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787238176.703387,
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_MOISTURIZER]",
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1787605966.041524,
       "is_new": false
     },
     {
@@ -23519,7 +23342,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -23537,26 +23360,8 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1784433482.515947,
-      "is_new": false
-    },
-    {
-      "asin": "B079VQTRM7",
-      "title": "Bio Oil Bio",
-      "link": "https://www.amazon.com.br/%C3%93leo-para-cuidado-pele-Rosa/dp/B079VQTRM7",
-      "current_price": 46.7,
-      "original_price": 85.99,
-      "discount": 45.7,
-      "difference": 39.29,
-      "criteria": [
-        "45.7% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787605966.041524,
       "is_new": false
     },
     {
@@ -23573,7 +23378,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23591,7 +23396,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23609,7 +23414,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TKKJhGyHL._AC_UL210_SR210,210_.jpg",
       "category": "[CHEWING_GUM]",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787388598.058147,
       "is_new": false
     },
@@ -23627,7 +23432,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23645,7 +23450,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZLn-foLSL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787768908.719928,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -23663,8 +23468,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1787788972.241388,
-      "discovery_ts": 1787302923.276499,
+      "last_seen": 1787823222.097439,
+      "discovery_ts": 1787302923.276492,
       "is_new": false
     },
     {
@@ -23681,7 +23486,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nk9kkfYbL._AC_UL210_SR210,210_.jpg",
       "category": "[PAPER_TOWEL]",
-      "last_seen": 1787788972.241388,
+      "last_seen": 1787823222.097439,
       "discovery_ts": 1787553823.989977,
       "is_new": false
     }
