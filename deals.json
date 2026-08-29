@@ -1,5 +1,5 @@
 {
-  "last_check": "29/08/2026 07:26:55",
+  "last_check": "29/08/2026 13:17:40",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21932,6 +21932,10 @@
         {
           "price": 3499.0,
           "date": "2026-08-21T03:28:47.326266"
+        },
+        {
+          "price": 3399.0,
+          "date": "2026-08-29T13:17:40.160875"
         }
       ]
     },
@@ -23199,44 +23203,54 @@
           "date": "2026-08-29T07:26:17.926092"
         }
       ]
+    },
+    "B0FZLCK7GR": {
+      "discovery_date": "2026-08-29T13:17:40.160875",
+      "price_history": [
+        {
+          "price": 7676.36,
+          "date": "2026-08-29T13:17:40.160875"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B082Y9F21N",
-      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
-      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
-      "current_price": 3699.0,
-      "original_price": 4780.0,
-      "discount": 22.6,
-      "difference": 1081.0,
+      "asin": "B0FZLCK7GR",
+      "title": "JBL, Caixa de Som, Soundbar, Bar 1300XMK2, 11.1.4 Canais, Com Alto-Falantes Removíveis, MultiBeam, Dolby Atmos e DTS:X - 785 W RMS",
+      "link": "https://www.amazon.com.br/JBL-Soundbar-1300X-Canais-Subwoofer/dp/B0FZLCK7GR",
+      "current_price": 7676.36,
+      "original_price": 9999.0,
+      "discount": 23.2,
+      "difference": 2322.64,
       "criteria": [
-        "R$ 1081.0 desc."
+        "R$ 2322.64 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
-      "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1787988377.926098,
-      "discovery_ts": 1787988377.926098,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gNvnfdLNL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1788009460.160881,
       "is_new": true
     },
     {
-      "asin": "B08HSFWBZR",
-      "title": "AUSTRALIAN GOLD PROTETOR SOLAR CORPORAL GEL CREME FPS70 200G",
-      "link": "https://www.amazon.com.br/AUSTRALIAN-PROTETOR-SOLAR-CORPORAL-CREME/dp/B08HSFWBZR",
-      "current_price": 41.87,
-      "original_price": 89.99,
-      "discount": 53.5,
-      "difference": 48.12,
+      "asin": "B0DJFS7GXV",
+      "title": "Apple iPhone 16 (512 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
+      "current_price": 5799.0,
+      "original_price": 10099.0,
+      "discount": 42.6,
+      "difference": 4300.0,
       "criteria": [
-        "53.5% OFF"
+        "42.6% OFF",
+        "R$ 4300.0 desc."
       ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/519WH+X+L4L._AC_UL210_SR210,210_.jpg",
-      "category": "[SUNSCREEN]",
-      "last_seen": 1787988377.926098,
-      "discovery_ts": 1787988377.926098,
-      "is_new": true
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1786559638.816864,
+      "is_new": false
     },
     {
       "asin": "B0FXM57JL9",
@@ -23252,7 +23266,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -23288,7 +23302,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787664974.374533,
       "is_new": false
     },
@@ -23324,7 +23338,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23342,7 +23356,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23360,8 +23374,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787759876.510221,
+      "is_new": false
+    },
+    {
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 3699.0,
+      "original_price": 4780.0,
+      "discount": 22.6,
+      "difference": 1081.0,
+      "criteria": [
+        "R$ 1081.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1787988377.926098,
+      "discovery_ts": 1787988377.926098,
       "is_new": false
     },
     {
@@ -23378,8 +23410,44 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QBYcwQ6qL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787250604.402282,
+      "is_new": false
+    },
+    {
+      "asin": "B0GYQ2PLW3",
+      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
+      "current_price": 3399.0,
+      "original_price": 4299.0,
+      "discount": 20.9,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1787282927.326266,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFH5PJS",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
+      "current_price": 2399.0,
+      "original_price": 3299.0,
+      "discount": 27.3,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1787355246.696526,
       "is_new": false
     },
     {
@@ -23398,6 +23466,42 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1787988377.926098,
       "discovery_ts": 1785349892.292556,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.9,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.1,
+      "criteria": [
+        "R$ 775.1 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
+      "asin": "B0H5CV388H",
+      "title": "Electrolux Ar-condicionado Electrolux MaxComfort Full Inverter Frio 18.000 BTUs (NI18F/NE18F) 220V",
+      "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI18F-NE18F/dp/B0H5CV388H",
+      "current_price": 2427.0,
+      "original_price": 3129.0,
+      "discount": 22.4,
+      "difference": 702.0,
+      "criteria": [
+        "R$ 702.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1787360032.017709,
       "is_new": false
     },
     {
@@ -23473,6 +23577,24 @@
       "is_new": false
     },
     {
+      "asin": "B0H1282J24",
+      "title": "JBL, Caixa de Som, PartyBox Encore Essential 2, Show de Luzes, Bluetooth, Portátil, Resistente a Respingos, Bateria de até 15h, Som JBL Pro Sound, AI Sound Boost, 100 W RMS",
+      "link": "https://www.amazon.com.br/JBL-Essential-Bluetooth-Resistente-Respingos/dp/B0H1282J24",
+      "current_price": 1299.6,
+      "original_price": 1899.0,
+      "discount": 31.6,
+      "difference": 599.4,
+      "criteria": [
+        "R$ 599.4 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6157Cv5UEZL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788009460.160881,
+      "discovery_ts": 1787000690.318426,
+      "is_new": false
+    },
+    {
       "asin": "B0FS2CVM1T",
       "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
@@ -23486,7 +23608,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -23504,7 +23626,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787230512.713835,
       "is_new": false
     },
@@ -23522,7 +23644,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81yyXps2lKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -23540,7 +23662,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1786395411.117679,
       "is_new": false
     },
@@ -23559,7 +23681,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23595,7 +23717,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41beXfmtZoL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787964023.332942,
       "is_new": false
     },
@@ -23614,7 +23736,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23632,7 +23754,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1787988377.926098,
+      "last_seen": 1788009460.160881,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23688,6 +23810,24 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1787988377.926098,
       "discovery_ts": 1784433482.515947,
+      "is_new": false
+    },
+    {
+      "asin": "B08HSFWBZR",
+      "title": "AUSTRALIAN GOLD PROTETOR SOLAR CORPORAL GEL CREME FPS70 200G",
+      "link": "https://www.amazon.com.br/AUSTRALIAN-PROTETOR-SOLAR-CORPORAL-CREME/dp/B08HSFWBZR",
+      "current_price": 41.87,
+      "original_price": 89.99,
+      "discount": 53.5,
+      "difference": 48.12,
+      "criteria": [
+        "53.5% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519WH+X+L4L._AC_UL210_SR210,210_.jpg",
+      "category": "[SUNSCREEN]",
+      "last_seen": 1787988377.926098,
+      "discovery_ts": 1787988377.926098,
       "is_new": false
     },
     {
