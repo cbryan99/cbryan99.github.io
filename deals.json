@@ -1,5 +1,5 @@
 {
-  "last_check": "30/08/2026 00:13:39",
+  "last_check": "30/08/2026 05:28:46",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1614,6 +1614,10 @@
         {
           "price": "15749.0",
           "date": "2026-07-23T21:46:05.256528"
+        },
+        {
+          "price": 15599.0,
+          "date": "2026-08-30T05:28:33.945521"
         }
       ]
     },
@@ -21979,6 +21983,10 @@
         {
           "price": 5599.0,
           "date": "2026-08-21T06:54:08.171972"
+        },
+        {
+          "price": 5199.0,
+          "date": "2026-08-30T05:28:33.945521"
         }
       ]
     },
@@ -23264,25 +23272,34 @@
           "date": "2026-08-30T00:13:09.516726"
         }
       ]
+    },
+    "B0FTL2KRTW": {
+      "discovery_date": "2026-08-30T05:28:33.945521",
+      "price_history": [
+        {
+          "price": 3269.99,
+          "date": "2026-08-30T05:28:33.945521"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B09B8MGCTT",
-      "title": "Lava Louças Electrolux 10 Serviços Inox com Função Higienizar Compras (LL10X) - 220V",
-      "link": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B8MGCTT",
-      "current_price": 3299.0,
-      "original_price": 3999.0,
-      "discount": 17.5,
-      "difference": 700.0,
+      "asin": "B0FTL2KRTW",
+      "title": "Apple iPhone 15 (128 GB) — Azul (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-Recondicionado/dp/B0FTL2KRTW",
+      "current_price": 3269.99,
+      "original_price": 4776.67,
+      "discount": 31.5,
+      "difference": 1506.68,
       "criteria": [
-        "R$ 700.0 desc."
+        "R$ 1506.68 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/412XOE8WIvL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1788048789.516732,
-      "discovery_ts": 1788048789.516732,
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1788067713.945528,
       "is_new": true
     },
     {
@@ -23323,6 +23340,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FQHFV3WB",
+      "title": "Apple iPhone 17 Pro Max (2 TB) - Azul intenso",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQHFV3WB",
+      "current_price": 15599.0,
+      "original_price": 18499.0,
+      "discount": 15.7,
+      "difference": 2900.0,
+      "criteria": [
+        "R$ 2900.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KOxRsuiiL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1784843165.256528,
+      "is_new": false
+    },
+    {
       "asin": "B0DGM1PJMK",
       "title": "Apple iPhone 16 (128 GB) – Branco",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DGM1PJMK",
@@ -23359,9 +23394,9 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFVKKWT",
-      "title": "Apple iPhone 16 (256 GB) – Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
+      "asin": "B0DJFS4Y1K",
+      "title": "Apple iPhone 16 (256 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Ultramarino/dp/B0DJFS4Y1K",
       "current_price": 5199.0,
       "original_price": 7599.0,
       "discount": 31.6,
@@ -23370,28 +23405,29 @@
         "R$ 2400.0 desc."
       ],
       "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788032791.892913,
-      "discovery_ts": 1786366711.615938,
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1787295248.171972,
       "is_new": false
     },
     {
-      "asin": "B0GQWVWM4H",
-      "title": "Apple iPhone 17 de 512 GB — Azul-névoa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-512-Azul-n%C3%A9voa/dp/B0GQWVWM4H",
-      "current_price": 7099.0,
-      "original_price": 9499.0,
-      "discount": 25.3,
-      "difference": 2400.0,
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
       "criteria": [
-        "R$ 2400.0 desc."
+        "40.0% OFF",
+        "R$ 2200.01 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XSH21Uw5L._AC_UL210_SR210,210_.jpg",
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788032791.892913,
-      "discovery_ts": 1787309403.08283,
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -23414,58 +23450,22 @@
       "is_new": false
     },
     {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
+      "asin": "B0GM1LC365",
+      "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1LC365",
+      "current_price": 2699.1,
+      "original_price": 4519.35,
+      "discount": 40.3,
+      "difference": 1820.25,
       "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
+        "40.3% OFF",
+        "R$ 1820.25 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788040844.906994,
-      "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0F2TPQVRX",
-      "title": "Dyson Airwrap™ Multiestilizador de cabelo - Kit Completo 127v",
-      "link": "https://www.amazon.com.br/Dyson-AirwrapTM-Multiestilizador-cabelo-Completo/dp/B0F2TPQVRX",
-      "current_price": 5154.63,
-      "original_price": 6999.0,
-      "discount": 26.4,
-      "difference": 1844.37,
-      "criteria": [
-        "R$ 1844.37 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6159qOn6gqL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788032791.892913,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0GXF8NXKX",
-      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
-      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
-      "current_price": 13157.0,
-      "original_price": 14999.0,
-      "discount": 12.3,
-      "difference": 1842.0,
-      "criteria": [
-        "R$ 1842.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788032791.892913,
-      "discovery_ts": 1787860684.198484,
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1788040844.906994,
       "is_new": false
     },
     {
@@ -23482,26 +23482,8 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
-      "asin": "B0GM1LC365",
-      "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1LC365",
-      "current_price": 2999.0,
-      "original_price": 4519.35,
-      "discount": 33.6,
-      "difference": 1520.35,
-      "criteria": [
-        "R$ 1520.35 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788040844.906994,
-      "discovery_ts": 1788040844.906994,
       "is_new": false
     },
     {
@@ -23519,7 +23501,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23537,7 +23519,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23555,8 +23537,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787759876.510221,
+      "is_new": false
+    },
+    {
+      "asin": "B0FTZSMH28",
+      "title": "Notebook ASUS Vivobook S14 IA PC, Core Ultra 7, 16 GB, 512 GB, Linux, 14'' Nivel IPS 60Hz, Matte Gray - S3407CA-LY121",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ultra-Linux/dp/B0FTZSMH28",
+      "current_price": 5799.0,
+      "original_price": 6999.0,
+      "discount": 17.1,
+      "difference": 1200.0,
+      "criteria": [
+        "R$ 1200.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1786603677.200311,
       "is_new": false
     },
     {
@@ -23573,7 +23573,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788040844.906994,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787934841.41155,
       "is_new": false
     },
@@ -23609,26 +23609,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
     {
-      "asin": "B0GYQ2PLW3",
-      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55A400M/dp/B0GYQ2PLW3",
-      "current_price": 3399.0,
-      "original_price": 4299.0,
-      "discount": 20.9,
-      "difference": 900.0,
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.9,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.1,
       "criteria": [
-        "R$ 900.0 desc."
+        "R$ 775.1 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788040844.906994,
-      "discovery_ts": 1787282927.326266,
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -23664,26 +23664,8 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61y6TCvCq8L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787934841.41155,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBR8V26",
-      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
-      "current_price": 2189.0,
-      "original_price": 2899.0,
-      "discount": 24.5,
-      "difference": 710.0,
-      "criteria": [
-        "R$ 710.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788032791.892913,
-      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -23700,8 +23682,44 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787360032.017709,
+      "is_new": false
+    },
+    {
+      "asin": "B0CYVJHL3N",
+      "title": "Notebook ASUS Vivobook Go 15, Intel Core i3 N305, 4GB, 128GB SSD, W11 Home, Tela 15.6\" FHD Cool Silver - E1504GA-NJ440W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Silver/dp/B0CYVJHL3N",
+      "current_price": 2799.0,
+      "original_price": 3499.0,
+      "discount": 20.0,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iESqOEpeL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1787788972.241381,
+      "is_new": false
+    },
+    {
+      "asin": "B09B8MGCTT",
+      "title": "Lava Louças Electrolux 10 Serviços Inox com Função Higienizar Compras (LL10X) - 220V",
+      "link": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B8MGCTT",
+      "current_price": 3299.0,
+      "original_price": 3999.0,
+      "discount": 17.5,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412XOE8WIvL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1788048789.516732,
+      "discovery_ts": 1788048789.516732,
       "is_new": false
     },
     {
@@ -23718,7 +23736,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -23772,7 +23790,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HAcKycmFL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787581321.546809,
       "is_new": false
     },
@@ -23790,8 +23808,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0GYQ3L2FT",
+      "title": "Smart TV TCL 65 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 65A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65A400M/dp/B0GYQ3L2FT",
+      "current_price": 4299.0,
+      "original_price": 4799.0,
+      "discount": 10.4,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788067713.945528,
+      "discovery_ts": 1787230512.713835,
       "is_new": false
     },
     {
@@ -23826,7 +23862,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81yyXps2lKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1785338184.839718,
       "is_new": false
     },
@@ -23844,7 +23880,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788040844.906994,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1786395411.117679,
       "is_new": false
     },
@@ -23863,7 +23899,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23899,7 +23935,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41beXfmtZoL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787964023.332942,
       "is_new": false
     },
@@ -23936,7 +23972,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23954,7 +23990,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91getIbVvnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788032791.892913,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23972,7 +24008,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788048789.516732,
+      "last_seen": 1788067713.945528,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
