@@ -1,5 +1,5 @@
 {
-  "last_check": "31/08/2026 01:38:37",
+  "last_check": "31/08/2026 07:37:35",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20867,6 +20867,10 @@
         {
           "price": 3321.98,
           "date": "2026-08-14T10:42:01.505645"
+        },
+        {
+          "price": 3271.97,
+          "date": "2026-08-31T07:37:15.986265"
         }
       ]
     },
@@ -23312,25 +23316,169 @@
           "date": "2026-08-30T23:40:20.695808"
         }
       ]
+    },
+    "B0CFPL6CFY": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 759.0,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
+    },
+    "B0CX8MT2M2": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 1119.0,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
+    },
+    "B0CFPHTMDX": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 959.0,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
+    },
+    "B0CX8Y3CMG": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 1399.0,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
+    },
+    "B0FQFJ1T12": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 3999.0,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
+    },
+    "B0GKPXSZR6": {
+      "discovery_date": "2026-08-31T07:37:15.986265",
+      "price_history": [
+        {
+          "price": 978.99,
+          "date": "2026-08-31T07:37:15.986265"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1667.0,
-      "original_price": 1999.0,
-      "discount": 16.6,
-      "difference": 332.0,
+      "asin": "B0FQFJ1T12",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio preto brilhante de 42 mm com Bracelete desportiva preta - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-brilhante-Bracelete-desportiva/dp/B0FQFJ1T12",
+      "current_price": 3999.0,
+      "original_price": 5499.0,
+      "discount": 27.3,
+      "difference": 1500.0,
       "criteria": [
-        "R$ 332.0 desc."
+        "R$ 1500.0 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1788133220.695817,
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o4a4XxXOL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
+      "is_new": true
+    },
+    {
+      "asin": "B0GKPXSZR6",
+      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Azul Claro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPXSZR6",
+      "current_price": 978.99,
+      "original_price": 1499.0,
+      "discount": 34.7,
+      "difference": 520.01,
+      "criteria": [
+        "R$ 520.01 desc."
+      ],
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61yHsp69vCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
+      "is_new": true
+    },
+    {
+      "asin": "B0CFPL6CFY",
+      "title": "Kindle Paperwhite 16 GB (Geração mais recente) - O Kindle mais rápido já lançado, com nova tela antirreflexo de 7” e bateria que dura semanas - Cor Preta",
+      "link": "https://www.amazon.com.br/kindle-paperwhite/dp/B0CFPL6CFY",
+      "current_price": 759.0,
+      "original_price": 1149.0,
+      "discount": 33.9,
+      "difference": 390.0,
+      "criteria": [
+        "R$ 390.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/712JlBgtkJL._AC_UL210_SR210,210_.jpg",
+      "category": "[AMAZON_BOOK_READER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
+      "is_new": true
+    },
+    {
+      "asin": "B0CFPHTMDX",
+      "title": "Kindle Paperwhite Signature Edition 32 GB (Geração mais recente) - O Kindle mais rápido já lançado, com luz frontal autoadaptável, carregamento sem fio e bateria que dura semanas - Cor Preta Metálica",
+      "link": "https://www.amazon.com.br/kindle-paperwhite-signature-edition/dp/B0CFPHTMDX",
+      "current_price": 959.0,
+      "original_price": 1349.0,
+      "discount": 28.9,
+      "difference": 390.0,
+      "criteria": [
+        "R$ 390.0 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
+      "category": "[AMAZON_BOOK_READER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
+      "is_new": true
+    },
+    {
+      "asin": "B0CX8MT2M2",
+      "title": "Apresentamos o Kindle Colorsoft (16 GB) - Com tela colorida e temperatura de luz ajustável - Cor Preta",
+      "link": "https://www.amazon.com.br/Kindle-Colorsoft-16GB/dp/B0CX8MT2M2",
+      "current_price": 1119.0,
+      "original_price": 1499.0,
+      "discount": 25.4,
+      "difference": 380.0,
+      "criteria": [
+        "R$ 380.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
+      "category": "[AMAZON_BOOK_READER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
+      "is_new": true
+    },
+    {
+      "asin": "B0CX8Y3CMG",
+      "title": "Apresentamos o Kindle Colorsoft Signature Edition (32 GB) - Com tela colorida, luz frontal autoadaptável, carregamento sem fio e bateria que dura semanas - Cor Preta Metálica",
+      "link": "https://www.amazon.com.br/Kindle-Colorsoft-Signature-Edition-32-GB/dp/B0CX8Y3CMG",
+      "current_price": 1399.0,
+      "original_price": 1749.0,
+      "discount": 20.0,
+      "difference": 350.0,
+      "criteria": [
+        "R$ 350.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
+      "category": "[AMAZON_BOOK_READER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1788161835.986272,
       "is_new": true
     },
     {
@@ -23370,6 +23518,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FTKJJKNT",
+      "title": "Apple iPhone 14 (128 GB) – Estelar (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-14-128-Recondicionado/dp/B0FTKJJKNT",
+      "current_price": 2588.98,
+      "original_price": 5199.0,
+      "discount": 50.2,
+      "difference": 2610.02,
+      "criteria": [
+        "50.2% OFF",
+        "R$ 2610.02 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618Bb+QzCmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787682682.19,
+      "is_new": false
+    },
+    {
       "asin": "B0FQJ2KJ9X",
       "title": "Apple iPhone 17 Pro Max (256 GB) - Azul intenso",
       "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X",
@@ -23385,6 +23552,25 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1788140296.521874,
       "discovery_ts": 1787664974.374533,
+      "is_new": false
+    },
+    {
+      "asin": "B0BNQXK2SD",
+      "title": "Bosch Detector e scanner de parede D-TECT 200 C",
+      "link": "https://www.amazon.com.br/Detector-scanner-parede-Bosch-200/dp/B0BNQXK2SD",
+      "current_price": 3315.5,
+      "original_price": 5777.9,
+      "discount": 42.6,
+      "difference": 2462.4,
+      "criteria": [
+        "42.6% OFF",
+        "R$ 2462.4 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xClFukUoL._AC_UL210_SR210,210_.jpg",
+      "category": "[METAL_DETECTOR]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787934841.41155,
       "is_new": false
     },
     {
@@ -23425,43 +23611,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0GXF8NXKX",
-      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
-      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
-      "current_price": 13157.0,
-      "original_price": 14999.0,
-      "discount": 12.3,
-      "difference": 1842.0,
-      "criteria": [
-        "R$ 1842.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1787860684.198484,
-      "is_new": false
-    },
-    {
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
@@ -23475,7 +23624,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23483,18 +23632,37 @@
       "asin": "B0GM1LC365",
       "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1LC365",
-      "current_price": 2999.0,
+      "current_price": 2699.1,
       "original_price": 4495.56,
-      "discount": 33.3,
-      "difference": 1496.56,
+      "discount": 40.0,
+      "difference": 1796.46,
       "criteria": [
-        "R$ 1496.56 desc."
+        "40.0% OFF",
+        "R$ 1796.46 desc."
       ],
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788125037.614558,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1788040844.906987,
+      "is_new": false
+    },
+    {
+      "asin": "B0FTKPP8LZ",
+      "title": "Apple iPhone 15 (128 GB) — Preto (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-Recondicionado/dp/B0FTKPP8LZ",
+      "current_price": 3271.97,
+      "original_price": 4776.67,
+      "discount": 31.5,
+      "difference": 1504.7,
+      "criteria": [
+        "R$ 1504.7 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1786704121.505645,
       "is_new": false
     },
     {
@@ -23511,7 +23679,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OaHpwFsuL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1788101877.488425,
       "is_new": false
     },
@@ -23530,7 +23698,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23566,7 +23734,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787759876.510221,
       "is_new": false
     },
@@ -23589,6 +23757,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FQFH5PJS",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
+      "current_price": 2399.0,
+      "original_price": 3299.0,
+      "discount": 27.3,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787355246.696526,
+      "is_new": false
+    },
+    {
       "asin": "B0FY3TV864",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-53R6 Intel Core i5 13º Geração 16BG RAM 512GB SSD 15,6\" Full HD Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Acer-AG15-71P-53R6-Gera%C3%A7%C3%A3o-Windows/dp/B0FY3TV864",
@@ -23607,21 +23793,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.9,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.1,
+      "asin": "B0GPN3XW9T",
+      "title": "Bicicleta Elétrica HDJ G60 Aro 20 - Motor 1000W, Bateria 48V 15Ah 32Mph, Até 50km Autonomia, Suspensão Dupla, Freio Hidráulico, 7 Velocidades - Mobilidade Urbana para Adultos",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-HDJ-G60-Aro/dp/B0GPN3XW9T",
+      "current_price": 6174.98,
+      "original_price": 6999.99,
+      "discount": 11.8,
+      "difference": 825.01,
       "criteria": [
-        "R$ 775.1 desc."
+        "R$ 825.01 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788125037.614558,
-      "discovery_ts": 1784464310.552537,
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vGR09GeeL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787575015.430138,
       "is_new": false
     },
     {
@@ -23661,25 +23847,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FPYS7W21",
-      "title": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPYS7W21",
-      "current_price": 889.0,
-      "original_price": 1599.0,
-      "discount": 44.4,
-      "difference": 710.0,
-      "criteria": [
-        "44.4% OFF",
-        "R$ 710.0 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61y6TCvCq8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1787934841.41155,
-      "is_new": false
-    },
-    {
       "asin": "B0H5CV388H",
       "title": "Electrolux Ar-condicionado Electrolux MaxComfort Full Inverter Frio 18.000 BTUs (NI18F/NE18F) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI18F-NE18F/dp/B0H5CV388H",
@@ -23693,7 +23860,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788133220.695817,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23716,24 +23883,6 @@
       "is_new": false
     },
     {
-      "asin": "B09B8MGCTT",
-      "title": "Lava Louças Electrolux 10 Serviços Inox com Função Higienizar Compras (LL10X) - 220V",
-      "link": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Higienizar-Compras/dp/B09B8MGCTT",
-      "current_price": 3299.0,
-      "original_price": 3999.0,
-      "discount": 17.5,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/412XOE8WIvL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1788048789.516726,
-      "is_new": false
-    },
-    {
       "asin": "B0F5X4NPK2",
       "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
       "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
@@ -23749,6 +23898,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1788140296.521874,
       "discovery_ts": 1787268944.843758,
+      "is_new": false
+    },
+    {
+      "asin": "B0H6N4P465",
+      "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2026 | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8000H-2026/dp/B0H6N4P465",
+      "current_price": 4599.0,
+      "original_price": 5199.0,
+      "discount": 11.5,
+      "difference": 600.0,
+      "criteria": [
+        "R$ 600.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61H0840KVGL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787889921.982239,
       "is_new": false
     },
     {
@@ -23770,21 +23937,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GKPYJBTK",
-      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Roxo",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPYJBTK",
-      "current_price": 985.48,
-      "original_price": 1499.0,
-      "discount": 34.3,
-      "difference": 513.52,
+      "asin": "B0FQGMGVCT",
+      "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
+      "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
+      "current_price": 2199.0,
+      "original_price": 2699.0,
+      "discount": 18.5,
+      "difference": 500.0,
       "criteria": [
-        "R$ 513.52 desc."
+        "R$ 500.0 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61qB6i9FOYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788125037.614558,
-      "discovery_ts": 1788125037.614558,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1788161835.986272,
+      "discovery_ts": 1787625964.61514,
       "is_new": false
     },
     {
@@ -23806,78 +23973,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FS2CVM1T",
-      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
-      "current_price": 3299.0,
-      "original_price": 3799.0,
-      "discount": 13.2,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788125037.614558,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQGMGVCT",
-      "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
-      "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
-      "current_price": 2199.0,
-      "original_price": 2699.0,
-      "discount": 18.5,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1788125037.614558,
-      "discovery_ts": 1787625964.61514,
-      "is_new": false
-    },
-    {
-      "asin": "B0DX2M9CGP",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP",
-      "current_price": 3176.66,
-      "original_price": 3623.75,
-      "discount": 12.3,
-      "difference": 447.09,
-      "criteria": [
-        "R$ 447.09 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788133220.695817,
-      "discovery_ts": 1784572052.68313,
-      "is_new": false
-    },
-    {
-      "asin": "B0DX2M1RCD",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (127V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M1RCD",
-      "current_price": 3176.66,
-      "original_price": 3623.75,
-      "discount": 12.3,
-      "difference": 447.09,
-      "criteria": [
-        "R$ 447.09 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788125037.614558,
-      "discovery_ts": 1786395411.117679,
-      "is_new": false
-    },
-    {
       "asin": "B0C2RS4ZG6",
       "title": "Echo Spot com Alexa (Geração mais recente) | Despertador inteligente com som vibrante | Cor Preta, com Acesso Antecipado à Alexa+",
       "link": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6",
@@ -23892,7 +23987,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Qtzczw2fL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787578436.396467,
       "is_new": false
     },
@@ -23910,7 +24005,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787441464.356645,
       "is_new": false
     },
@@ -23928,7 +24023,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41beXfmtZoL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787964023.332942,
       "is_new": false
     },
@@ -23946,7 +24041,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -23965,7 +24060,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71xoR4A6q-L._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_3]",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -23983,7 +24078,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788140296.521874,
+      "last_seen": 1788161835.986272,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
