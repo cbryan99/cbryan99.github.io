@@ -1,5 +1,5 @@
 {
-  "last_check": "31/08/2026 20:56:09",
+  "last_check": "01/09/2026 00:21:47",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23396,9 +23396,117 @@
           "date": "2026-08-31T15:24:49.613867"
         }
       ]
+    },
+    "B0GQWF5JD1": {
+      "discovery_date": "2026-09-01T00:21:17.894487",
+      "price_history": [
+        {
+          "price": 5887.78,
+          "date": "2026-09-01T00:21:17.894487"
+        }
+      ]
+    },
+    "B0DXR6MKR8": {
+      "discovery_date": "2026-09-01T00:21:17.894487",
+      "price_history": [
+        {
+          "price": 3887.78,
+          "date": "2026-09-01T00:21:17.894487"
+        }
+      ]
+    },
+    "B0FCJ1JZWG": {
+      "discovery_date": "2026-09-01T00:21:17.894487",
+      "price_history": [
+        {
+          "price": 29.0,
+          "date": "2026-09-01T00:21:17.894487"
+        }
+      ]
+    },
+    "B0CLSZ29GC": {
+      "discovery_date": "2026-09-01T00:21:17.894487",
+      "price_history": [
+        {
+          "price": 3699.0,
+          "date": "2026-09-01T00:21:17.894487"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0GQWF5JD1",
+      "title": "Apple iPhone 17 de 256 GB — Azul-névoa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-Azul-n%C3%A9voa/dp/B0GQWF5JD1",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
+      "criteria": [
+        "R$ 2111.22 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1788222077.894496,
+      "is_new": true
+    },
+    {
+      "asin": "B0DXR6MKR8",
+      "title": "iPhone 16e Apple 128GB, Câmera 48MP, Tela Super Retina XDR 6,1\", Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR6MKR8",
+      "current_price": 3887.78,
+      "original_price": 5799.0,
+      "discount": 33.0,
+      "difference": 1911.22,
+      "criteria": [
+        "R$ 1911.22 desc."
+      ],
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1788222077.894496,
+      "is_new": true
+    },
+    {
+      "asin": "B0CLSZ29GC",
+      "title": "Ar-condicionado Split Inverter 22000 Btus Springer Midea Airvolution Connect High Wall Só Frio 42afvci22s5/38tvci22s5 220v",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Springer-Midea-Airvolution-42afvci22s5/dp/B0CLSZ29GC",
+      "current_price": 3699.0,
+      "original_price": 4212.76,
+      "discount": 12.2,
+      "difference": 513.76,
+      "criteria": [
+        "R$ 513.76 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Chd9onSiL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1788222077.894496,
+      "is_new": true
+    },
+    {
+      "asin": "B0FCJ1JZWG",
+      "title": "BONI NATURAL - Creme Dental com óleos naturais de Menta e Melaleuca Vegano e Natural, Sem Flúor, Sem Triclosan, 90g, 3 unidades Leve Mais Pague Menos",
+      "link": "https://www.amazon.com.br/naturais-Melaleuca-Natural-Triclosan-unidades/dp/B0FCJ1JZWG",
+      "current_price": 29.0,
+      "original_price": 48.6,
+      "discount": 40.3,
+      "difference": 19.6,
+      "criteria": [
+        "40.3% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6108qlBKLHL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTH_CLEANING_AGENT]",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1788222077.894496,
+      "is_new": true
+    },
     {
       "asin": "B0FXM57JL9",
       "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
@@ -23431,8 +23539,26 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFVKKWT",
+      "title": "Apple iPhone 16 (256 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
+      "current_price": 5199.0,
+      "original_price": 7599.0,
+      "discount": 31.6,
+      "difference": 2400.0,
+      "criteria": [
+        "R$ 2400.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1786366711.615938,
       "is_new": false
     },
     {
@@ -23454,6 +23580,25 @@
       "is_new": false
     },
     {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
       "asin": "B0F8KVQZQX",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
@@ -23469,61 +23614,6 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1788209769.56105,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B08J9GJXMV",
-      "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience Só Frio 42zqb30c5/38tfcb30515mc 220v",
-      "link": "https://www.amazon.com.br/Ar-condicionado-Carrier-Xperience-42zqb30c5-38tfcb30515mc/dp/B08J9GJXMV",
-      "current_price": 4919.0,
-      "original_price": 6796.48,
-      "discount": 27.6,
-      "difference": 1877.48,
-      "criteria": [
-        "R$ 1877.48 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gOeZ+14xL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1786459242.546747,
-      "is_new": false
-    },
-    {
-      "asin": "B0F2TPQVRX",
-      "title": "Dyson Airwrap™ Multiestilizador de cabelo - Kit Completo 127v",
-      "link": "https://www.amazon.com.br/Dyson-AirwrapTM-Multiestilizador-cabelo-Completo/dp/B0F2TPQVRX",
-      "current_price": 5154.63,
-      "original_price": 6999.0,
-      "discount": 26.4,
-      "difference": 1844.37,
-      "criteria": [
-        "R$ 1844.37 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6159qOn6gqL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -23564,43 +23654,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FTMWYRRF",
-      "title": "Apple iPhone 17 Pro (256 GB) - Azul intenso (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-256-Recondicionado/dp/B0FTMWYRRF",
-      "current_price": 8089.97,
-      "original_price": 9899.0,
-      "discount": 18.3,
-      "difference": 1809.03,
-      "criteria": [
-        "R$ 1809.03 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uMcSPiYAL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1788189889.613873,
-      "is_new": false
-    },
-    {
-      "asin": "B0GM1LC365",
-      "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1LC365",
-      "current_price": 2699.1,
-      "original_price": 4495.56,
-      "discount": 40.0,
-      "difference": 1796.46,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 1796.46 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1788040844.906987,
-      "is_new": false
-    },
-    {
       "asin": "B0GM1JJD66",
       "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Bronze Green",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1JJD66",
@@ -23619,6 +23672,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
+      "current_price": 2159.3,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.7,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.7 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -23632,7 +23704,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23651,8 +23723,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1788189889.613873,
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1788189889.613867,
       "is_new": false
     },
     {
@@ -23669,44 +23741,44 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787759876.510221,
       "is_new": false
     },
     {
-      "asin": "B0FTZSMH28",
-      "title": "Notebook ASUS Vivobook S14 IA PC, Core Ultra 7, 16 GB, 512 GB, Linux, 14'' Nivel IPS 60Hz, Matte Gray - S3407CA-LY121",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ultra-Linux/dp/B0FTZSMH28",
-      "current_price": 5799.0,
-      "original_price": 6999.0,
-      "discount": 17.1,
-      "difference": 1200.0,
+      "asin": "B0D4NSS9XV",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
+      "current_price": 3598.99,
+      "original_price": 4699.0,
+      "discount": 23.4,
+      "difference": 1100.01,
       "criteria": [
-        "R$ 1200.0 desc."
+        "R$ 1100.01 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1786603677.200311,
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
-      "asin": "B0GTRZFNJM",
-      "title": "Apple iPhone 17e de 256 GB — Rosa-pálido",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM",
-      "current_price": 4699.0,
-      "original_price": 5799.0,
-      "discount": 19.0,
-      "difference": 1100.0,
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 3699.0,
+      "original_price": 4780.0,
+      "discount": 22.6,
+      "difference": 1081.0,
       "criteria": [
-        "R$ 1100.0 desc."
+        "R$ 1081.0 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1787934841.41155,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1788222077.894496,
+      "discovery_ts": 1787988377.926092,
       "is_new": false
     },
     {
@@ -23723,7 +23795,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -23741,7 +23813,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -23777,7 +23849,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -23795,7 +23867,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -23813,7 +23885,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787360032.017709,
       "is_new": false
     },
@@ -23831,7 +23903,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iESqOEpeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787788972.241381,
       "is_new": false
     },
@@ -23849,7 +23921,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -23867,26 +23939,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61yHsp69vCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1788161835.986265,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKPYJBTK",
-      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Roxo",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPYJBTK",
-      "current_price": 985.48,
-      "original_price": 1499.0,
-      "discount": 34.3,
-      "difference": 513.52,
-      "criteria": [
-        "R$ 513.52 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61qB6i9FOYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1788125037.614551,
       "is_new": false
     },
     {
@@ -23921,7 +23975,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712JlBgtkJL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23939,7 +23993,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23957,7 +24011,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23975,7 +24029,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23993,7 +24047,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -24011,26 +24065,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787575015.430138,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1788189889.613873,
-      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -24047,7 +24083,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -24065,7 +24101,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     },
@@ -24083,7 +24119,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24101,7 +24137,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24119,7 +24155,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24137,7 +24173,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZLn-foLSL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -24155,7 +24191,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788189889.613873,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1787302923.276492,
       "is_new": false
     },
@@ -24173,7 +24209,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
       "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788209769.56105,
+      "last_seen": 1788222077.894496,
       "discovery_ts": 1784543605.650005,
       "is_new": false
     }
