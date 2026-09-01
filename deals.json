@@ -1,5 +1,5 @@
 {
-  "last_check": "01/09/2026 21:05:04",
+  "last_check": "01/09/2026 23:15:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2012,6 +2012,10 @@
         {
           "price": "6931.88",
           "date": "2026-07-25T14:42:36.520456"
+        },
+        {
+          "price": 6599.0,
+          "date": "2026-09-01T23:15:34.620043"
         }
       ]
     },
@@ -23458,25 +23462,34 @@
           "date": "2026-09-01T21:04:55.333687"
         }
       ]
+    },
+    "B0G1N9KDNH": {
+      "discovery_date": "2026-09-01T23:15:34.620043",
+      "price_history": [
+        {
+          "price": 189.02,
+          "date": "2026-09-01T23:15:34.620043"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0G1TNRJC8",
-      "title": "Granado, Perfume, Vintage, Citrus Brasilis, 75 ml",
-      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Citrus-Brasilis/dp/B0G1TNRJC8",
-      "current_price": 179.9,
+      "asin": "B0G1N9KDNH",
+      "title": "Granado, Perfume, Vintage, Apotecário, 75 ml",
+      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Apotec%C3%A1rio-75/dp/B0G1N9KDNH",
+      "current_price": 189.02,
       "original_price": 345.0,
-      "discount": 47.9,
-      "difference": 165.1,
+      "discount": 45.2,
+      "difference": 155.98,
       "criteria": [
-        "47.9% OFF"
+        "45.2% OFF"
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71cv3U8SDwL._AC_UL210_SR210,210_.jpg",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AyG8eWY-L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1788296695.333694,
+      "last_seen": 1788304534.62005,
+      "discovery_ts": 1788304534.62005,
       "is_new": true
     },
     {
@@ -23494,7 +23507,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23512,7 +23525,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -23587,8 +23600,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQWF5JD1",
+      "title": "Apple iPhone 17 de 256 GB — Azul-névoa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-Azul-n%C3%A9voa/dp/B0GQWF5JD1",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
+      "criteria": [
+        "R$ 2111.22 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788304534.62005,
+      "discovery_ts": 1788222077.894487,
       "is_new": false
     },
     {
@@ -23625,6 +23656,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1785253019.20744,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFSZ2ML",
+      "title": "Apple iPhone 16 (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788304534.62005,
+      "discovery_ts": 1784830133.087011,
       "is_new": false
     },
     {
@@ -23695,7 +23744,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23713,7 +23762,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OaHpwFsuL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1788101877.488425,
       "is_new": false
     },
@@ -23769,7 +23818,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23787,7 +23836,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23823,7 +23872,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -23841,7 +23890,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787341954.532525,
       "is_new": false
     },
@@ -23859,8 +23908,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1785349892.292556,
+      "is_new": false
+    },
+    {
+      "asin": "B0H2NGMNB8",
+      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
+      "current_price": 6599.0,
+      "original_price": 7399.99,
+      "discount": 10.8,
+      "difference": 800.99,
+      "criteria": [
+        "R$ 800.99 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1788304534.62005,
+      "discovery_ts": 1784990556.520456,
       "is_new": false
     },
     {
@@ -23895,7 +23962,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -23913,7 +23980,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61H0840KVGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787889921.982239,
       "is_new": false
     },
@@ -23931,7 +23998,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -23949,7 +24016,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23985,7 +24052,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24003,7 +24070,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24021,7 +24088,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788296695.333694,
+      "last_seen": 1788304534.62005,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -24044,6 +24111,24 @@
       "is_new": false
     },
     {
+      "asin": "B0G1TNRJC8",
+      "title": "Granado, Perfume, Vintage, Citrus Brasilis, 75 ml",
+      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Citrus-Brasilis/dp/B0G1TNRJC8",
+      "current_price": 179.9,
+      "original_price": 345.0,
+      "discount": 47.9,
+      "difference": 165.1,
+      "criteria": [
+        "47.9% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cv3U8SDwL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1788296695.333694,
+      "is_new": false
+    },
+    {
       "asin": "B0GHPGBPSR",
       "title": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
       "link": "https://www.amazon.com.br/Morte-S%C3%BAbita-Shampoo-Condicionador-Repara%C3%A7ao/dp/B0GHPGBPSR",
@@ -24059,24 +24144,6 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1784799532.826355,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPN7WWF8",
-      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
-      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
-      "current_price": 0.12,
-      "original_price": 38.45,
-      "discount": 99.7,
-      "difference": 38.33,
-      "criteria": [
-        "99.7% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1784543605.650005,
       "is_new": false
     },
     {
@@ -24113,6 +24180,24 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1786349565.683197,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPN7WWF8",
+      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
+      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
+      "current_price": 22.25,
+      "original_price": 38.45,
+      "discount": 42.1,
+      "difference": 16.2,
+      "criteria": [
+        "42.1% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTH_CLEANING_AGENT]",
+      "last_seen": 1788304534.62005,
+      "discovery_ts": 1784543605.650005,
       "is_new": false
     }
   ]
