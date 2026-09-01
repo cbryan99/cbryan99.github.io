@@ -1,5 +1,5 @@
 {
-  "last_check": "01/09/2026 18:12:39",
+  "last_check": "01/09/2026 21:05:04",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23449,9 +23449,36 @@
           "date": "2026-09-01T14:57:40.559242"
         }
       ]
+    },
+    "B0G1TNRJC8": {
+      "discovery_date": "2026-09-01T21:04:55.333687",
+      "price_history": [
+        {
+          "price": 179.9,
+          "date": "2026-09-01T21:04:55.333687"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0G1TNRJC8",
+      "title": "Granado, Perfume, Vintage, Citrus Brasilis, 75 ml",
+      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Citrus-Brasilis/dp/B0G1TNRJC8",
+      "current_price": 179.9,
+      "original_price": 345.0,
+      "discount": 47.9,
+      "difference": 165.1,
+      "criteria": [
+        "47.9% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cv3U8SDwL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1788296695.333694,
+      "is_new": true
+    },
     {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
@@ -23467,7 +23494,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23485,7 +23512,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1785169875.641153,
       "is_new": false
     },
@@ -23560,8 +23587,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQWP9K1G",
+      "title": "Apple iPhone 17 de 256 GB — Sálvia",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQWP9K1G",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
+      "criteria": [
+        "R$ 2111.22 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41k9Fkg0r7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1786349565.683197,
       "is_new": false
     },
     {
@@ -23583,21 +23628,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GQWF5JD1",
-      "title": "Apple iPhone 17 de 256 GB — Azul-névoa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-Azul-n%C3%A9voa/dp/B0GQWF5JD1",
-      "current_price": 5887.78,
-      "original_price": 7999.0,
-      "discount": 26.4,
-      "difference": 2111.22,
+      "asin": "B0DJFRHR1G",
+      "title": "Apple iPhone 16 (256 GB) – Verde-acinzentado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Verde-acinzentado/dp/B0DJFRHR1G",
+      "current_price": 5599.0,
+      "original_price": 7599.0,
+      "discount": 26.3,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 2111.22 desc."
+        "R$ 2000.0 desc."
       ],
       "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1788222077.894487,
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1787397355.257924,
       "is_new": false
     },
     {
@@ -23616,24 +23661,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1784846418.539129,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJFRHR1G",
-      "title": "Apple iPhone 16 (256 GB) – Verde-acinzentado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Verde-acinzentado/dp/B0DJFRHR1G",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1787397355.257924,
       "is_new": false
     },
     {
@@ -23668,7 +23695,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23724,7 +23751,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788274660.55925,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -23742,7 +23769,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23760,7 +23787,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23778,7 +23805,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788274660.55925,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787934841.41155,
       "is_new": false
     },
@@ -23796,7 +23823,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -23814,7 +23841,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
       "category": "[HOME]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787341954.532525,
       "is_new": false
     },
@@ -23832,26 +23859,8 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXMS9YFW",
-      "title": "Notebook Positivo Vision C15M Intel Celeron N4500 Linux 8GB RAM 256GB eMMC Tela 15\" Full HD IPS Antirreflexo – com Minitela - Cinza",
-      "link": "https://www.amazon.com.br/Notebook-Positivo-Vision-Celeron-Antirreflexo/dp/B0FXMS9YFW",
-      "current_price": 2648.99,
-      "original_price": 3500.0,
-      "discount": 24.3,
-      "difference": 851.01,
-      "criteria": [
-        "R$ 851.01 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/710MJY0HdFL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1788274660.55925,
       "is_new": false
     },
     {
@@ -23886,7 +23895,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -23904,26 +23913,8 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61H0840KVGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787889921.982239,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKPXSZR6",
-      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Azul Claro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPXSZR6",
-      "current_price": 978.99,
-      "original_price": 1499.0,
-      "discount": 34.7,
-      "difference": 520.01,
-      "criteria": [
-        "R$ 520.01 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61yHsp69vCL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1788161835.986265,
       "is_new": false
     },
     {
@@ -23940,26 +23931,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
     {
-      "asin": "B0DX2M1RCD",
-      "title": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (127V)",
-      "link": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M1RCD",
-      "current_price": 3176.66,
-      "original_price": 3623.75,
-      "discount": 12.3,
-      "difference": 447.09,
+      "asin": "B0CFPHTMDX",
+      "title": "Kindle Paperwhite Signature Edition 32 GB (Geração mais recente) - O Kindle mais rápido já lançado, com luz frontal autoadaptável, carregamento sem fio e bateria que dura semanas - Cor Preta Metálica",
+      "link": "https://www.amazon.com.br/kindle-paperwhite-signature-edition/dp/B0CFPHTMDX",
+      "current_price": 959.0,
+      "original_price": 1349.0,
+      "discount": 28.9,
+      "difference": 390.0,
       "criteria": [
-        "R$ 447.09 desc."
+        "R$ 390.0 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41-eSvkKV3L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1786395411.117679,
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
+      "category": "[AMAZON_BOOK_READER]",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1788161835.986265,
       "is_new": false
     },
     {
@@ -23981,24 +23972,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CFPHTMDX",
-      "title": "Kindle Paperwhite Signature Edition 32 GB (Geração mais recente) - O Kindle mais rápido já lançado, com luz frontal autoadaptável, carregamento sem fio e bateria que dura semanas - Cor Preta Metálica",
-      "link": "https://www.amazon.com.br/kindle-paperwhite-signature-edition/dp/B0CFPHTMDX",
-      "current_price": 959.0,
-      "original_price": 1349.0,
-      "discount": 28.9,
-      "difference": 390.0,
-      "criteria": [
-        "R$ 390.0 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
-      "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788286336.73101,
-      "discovery_ts": 1788161835.986265,
-      "is_new": false
-    },
-    {
       "asin": "B0CX8MT2M2",
       "title": "Apresentamos o Kindle Colorsoft (16 GB) - Com tela colorida e temperatura de luz ajustável - Cor Preta",
       "link": "https://www.amazon.com.br/Kindle-Colorsoft-16GB/dp/B0CX8MT2M2",
@@ -24012,7 +23985,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24030,7 +24003,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24048,8 +24021,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788286336.73101,
+      "last_seen": 1788296695.333694,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0CRTYZG5C",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -24068,6 +24059,24 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1784799532.826355,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPN7WWF8",
+      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
+      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
+      "current_price": 0.12,
+      "original_price": 38.45,
+      "discount": 99.7,
+      "difference": 38.33,
+      "criteria": [
+        "99.7% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTH_CLEANING_AGENT]",
+      "last_seen": 1788296695.333694,
+      "discovery_ts": 1784543605.650005,
       "is_new": false
     },
     {
@@ -24104,24 +24113,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1788286336.73101,
       "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPN7WWF8",
-      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
-      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
-      "current_price": 22.25,
-      "original_price": 38.45,
-      "discount": 42.1,
-      "difference": 16.2,
-      "criteria": [
-        "42.1% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788274660.55925,
-      "discovery_ts": 1784543605.650005,
       "is_new": false
     }
   ]
