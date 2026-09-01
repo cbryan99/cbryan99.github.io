@@ -1,5 +1,5 @@
 {
-  "last_check": "01/09/2026 05:24:31",
+  "last_check": "01/09/2026 10:18:26",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -62,6 +62,10 @@
         {
           "price": 3979.0,
           "date": "2026-08-25T14:24:54.549164"
+        },
+        {
+          "price": 3999.0,
+          "date": "2026-09-01T10:17:47.352025"
         }
       ]
     },
@@ -19990,6 +19994,10 @@
         {
           "price": 2638.99,
           "date": "2026-08-13T06:47:57.200311"
+        },
+        {
+          "price": 2588.98,
+          "date": "2026-09-01T10:17:47.352025"
         }
       ]
     },
@@ -23467,7 +23475,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -23491,24 +23499,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFVKKWT",
-      "title": "Apple iPhone 16 (256 GB) – Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
-      "current_price": 5199.0,
-      "original_price": 7599.0,
-      "discount": 31.6,
-      "difference": 2400.0,
-      "criteria": [
-        "R$ 2400.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1786366711.615938,
-      "is_new": false
-    },
-    {
       "asin": "B0F8KVQZQX",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
@@ -23523,7 +23513,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -23542,8 +23532,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQW2J4SK",
+      "title": "Apple iPhone 17 de 256 GB — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
+      "criteria": [
+        "R$ 2111.22 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1785253019.20744,
       "is_new": false
     },
     {
@@ -23578,7 +23586,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1787397355.257924,
       "is_new": false
     },
@@ -23596,7 +23604,7 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788222077.894487,
       "is_new": false
     },
@@ -23604,17 +23612,17 @@
       "asin": "B0D4NRBBMR",
       "title": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG3BR/dp/B0D4NRBBMR",
-      "current_price": 3979.0,
+      "current_price": 3999.0,
       "original_price": 5799.0,
-      "discount": 31.4,
-      "difference": 1820.0,
+      "discount": 31.0,
+      "difference": 1800.0,
       "criteria": [
-        "R$ 1820.0 desc."
+        "R$ 1800.0 desc."
       ],
-      "badge": "31% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -23632,7 +23640,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -23655,22 +23663,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": 2159.3,
-      "original_price": 3599.0,
-      "discount": 40.0,
-      "difference": 1439.7,
+      "asin": "B0GM1JJD66",
+      "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Bronze Green",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1JJD66",
+      "current_price": 2999.0,
+      "original_price": 4493.1,
+      "discount": 33.3,
+      "difference": 1494.1,
       "criteria": [
-        "40.0% OFF",
-        "R$ 1439.7 desc."
+        "R$ 1494.1 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1785128082.040921,
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OaHpwFsuL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1788101877.488425,
       "is_new": false
     },
     {
@@ -23687,7 +23694,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
@@ -23706,44 +23713,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788189889.613867,
-      "is_new": false
-    },
-    {
-      "asin": "B0CYW2N6TX",
-      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
-      "current_price": 2999.0,
-      "original_price": 4299.0,
-      "discount": 30.2,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1787759876.510221,
-      "is_new": false
-    },
-    {
-      "asin": "B0D4NSS9XV",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
-      "current_price": 3598.99,
-      "original_price": 4699.0,
-      "discount": 23.4,
-      "difference": 1100.01,
-      "criteria": [
-        "R$ 1100.01 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
@@ -23796,7 +23767,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -23820,39 +23791,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.9,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.1,
+      "asin": "B0G22R3QLT",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" - AMD Ryzen 7 7735HS, 8GB RAM, 256GB SSD, AMD Radeon Graphics, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-Slim-15-3/dp/B0G22R3QLT",
+      "current_price": 3899.0,
+      "original_price": 4699.0,
+      "discount": 17.0,
+      "difference": 800.0,
       "criteria": [
-        "R$ 775.1 desc."
+        "R$ 800.0 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dyWdKC3yL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBR8V26",
-      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
-      "current_price": 2189.0,
-      "original_price": 2899.0,
-      "discount": 24.5,
-      "difference": 710.0,
-      "criteria": [
-        "R$ 710.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1786491945.120891,
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1786504373.611184,
       "is_new": false
     },
     {
@@ -23869,26 +23822,8 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1787360032.017709,
-      "is_new": false
-    },
-    {
-      "asin": "B0CYVJHL3N",
-      "title": "Notebook ASUS Vivobook Go 15, Intel Core i3 N305, 4GB, 128GB SSD, W11 Home, Tela 15.6\" FHD Cool Silver - E1504GA-NJ440W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Silver/dp/B0CYVJHL3N",
-      "current_price": 2799.0,
-      "original_price": 3499.0,
-      "discount": 20.0,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iESqOEpeL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1787788972.241381,
       "is_new": false
     },
     {
@@ -23910,39 +23845,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GKPXSZR6",
-      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Azul Claro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPXSZR6",
-      "current_price": 978.99,
-      "original_price": 1499.0,
-      "discount": 34.7,
-      "difference": 520.01,
+      "asin": "B0H6N4P465",
+      "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2026 | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8000H-2026/dp/B0H6N4P465",
+      "current_price": 4599.0,
+      "original_price": 5199.0,
+      "discount": 11.5,
+      "difference": 600.0,
       "criteria": [
-        "R$ 520.01 desc."
+        "R$ 600.0 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61yHsp69vCL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61H0840KVGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1788161835.986265,
-      "is_new": false
-    },
-    {
-      "asin": "B0CLSZ29GC",
-      "title": "Ar-condicionado Split Inverter 22000 Btus Springer Midea Airvolution Connect High Wall Só Frio 42afvci22s5/38tvci22s5 220v",
-      "link": "https://www.amazon.com.br/Ar-condicionado-Springer-Midea-Airvolution-42afvci22s5/dp/B0CLSZ29GC",
-      "current_price": 3699.0,
-      "original_price": 4212.76,
-      "discount": 12.2,
-      "difference": 513.76,
-      "criteria": [
-        "R$ 513.76 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Chd9onSiL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1788222077.894496,
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1787889921.982239,
       "is_new": false
     },
     {
@@ -23977,7 +23894,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712JlBgtkJL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23995,7 +23912,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24013,8 +23930,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788161835.986265,
+      "is_new": false
+    },
+    {
+      "asin": "B0FTKCF3QJ",
+      "title": "Apple iPhone 14 (128 GB) – Meia-Noite (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-128-Meia-Noite-Recondicionado/dp/B0FTKCF3QJ",
+      "current_price": 2588.98,
+      "original_price": 2946.99,
+      "discount": 12.1,
+      "difference": 358.01,
+      "criteria": [
+        "R$ 358.01 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cwywLZR-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1786603677.200311,
       "is_new": false
     },
     {
@@ -24049,26 +23984,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1788161835.986265,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBPDWZQ",
-      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
-      "current_price": 3198.9,
-      "original_price": 3535.9,
-      "discount": 9.5,
-      "difference": 337.0,
-      "criteria": [
-        "R$ 337.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
@@ -24085,7 +24002,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
@@ -24103,8 +24020,26 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
+      "asin": "B07HR1MZQP",
+      "title": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
+      "link": "https://www.amazon.com.br/Umidificador-Fisher-Ultrass%C3%B4nico-HC115-Bivolt/dp/B07HR1MZQP",
+      "current_price": 160.0,
+      "original_price": 269.9,
+      "discount": 40.7,
+      "difference": 109.9,
+      "criteria": [
+        "40.7% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Gjg7-IkUL._AC_UL210_SR210,210_.jpg",
+      "category": "[HUMIDIFIER]",
+      "last_seen": 1788257867.352032,
+      "discovery_ts": 1786950745.975533,
       "is_new": false
     },
     {
@@ -24121,26 +24056,8 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1784799532.826355,
-      "is_new": false
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": 58.45,
-      "original_price": 119.9,
-      "discount": 51.3,
-      "difference": 61.45,
-      "criteria": [
-        "51.3% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1784433482.515947,
       "is_new": false
     },
     {
@@ -24157,43 +24074,7 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": 38.74,
-      "original_price": 69.9,
-      "discount": 44.6,
-      "difference": 31.16,
-      "criteria": [
-        "44.6% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
-      "asin": "B09GHN14FP",
-      "title": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/DANOS-VORAZES-REPARADOR-Lola-Cosmetics/dp/B09GHN14FP",
-      "current_price": 19.93,
-      "original_price": 44.9,
-      "discount": 55.6,
-      "difference": 24.97,
-      "criteria": [
-        "55.6% OFF"
-      ],
-      "badge": "55% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71AMqfOXdAL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24201,54 +24082,18 @@
       "asin": "B074LW78DJ",
       "title": "Lola From Rio - Morte Subita - Condicionador hidratante para todos os tipos de cabelos secos e danificados, vegano, sem crueldade, sem parabenos, sem sulfatos, 250 g",
       "link": "https://www.amazon.com.br/Lola-Cosmetics-950-Condicionador/dp/B074LW78DJ",
-      "current_price": 20.54,
+      "current_price": 20.53,
       "original_price": 44.9,
       "discount": 54.3,
-      "difference": 24.36,
+      "difference": 24.37,
       "criteria": [
         "54.3% OFF"
       ],
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZLn-foLSL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
-      "asin": "B074LQXGM7",
-      "title": "Meu Cacho Minha Vida Condicionador 500g , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Lola-Cosmetics-378-Condicionador/dp/B074LQXGM7",
-      "current_price": 26.72,
-      "original_price": 49.9,
-      "discount": 46.5,
-      "difference": 23.18,
-      "criteria": [
-        "46.5% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yaUGrtIOL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1787302923.276492,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCJ1JZWG",
-      "title": "BONI NATURAL - Creme Dental com óleos naturais de Menta e Melaleuca Vegano e Natural, Sem Flúor, Sem Triclosan, 90g, 3 unidades Leve Mais Pague Menos",
-      "link": "https://www.amazon.com.br/naturais-Melaleuca-Natural-Triclosan-unidades/dp/B0FCJ1JZWG",
-      "current_price": 29.0,
-      "original_price": 48.6,
-      "discount": 40.3,
-      "difference": 19.6,
-      "criteria": [
-        "40.3% OFF"
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6108qlBKLHL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788222077.894496,
-      "discovery_ts": 1788222077.894496,
       "is_new": false
     },
     {
@@ -24265,7 +24110,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
       "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788240264.680075,
+      "last_seen": 1788257867.352032,
       "discovery_ts": 1784543605.650005,
       "is_new": false
     }
