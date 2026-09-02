@@ -1,5 +1,5 @@
 {
-  "last_check": "02/09/2026 01:03:43",
+  "last_check": "02/09/2026 05:44:10",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1196,6 +1196,10 @@
         {
           "price": "322.92",
           "date": "2026-07-22T01:05:53.861696"
+        },
+        {
+          "price": 322.9,
+          "date": "2026-09-02T05:43:47.078928"
         }
       ]
     },
@@ -23480,43 +23484,89 @@
           "date": "2026-09-02T01:03:21.720324"
         }
       ]
+    },
+    "B0FXM4S78T": {
+      "discovery_date": "2026-09-02T05:43:47.078928",
+      "price_history": [
+        {
+          "price": 5499.0,
+          "date": "2026-09-02T05:43:47.078928"
+        }
+      ]
+    },
+    "B0F99ZSRXH": {
+      "discovery_date": "2026-09-02T05:43:47.078928",
+      "price_history": [
+        {
+          "price": 256.31,
+          "date": "2026-09-02T05:43:47.078928"
+        }
+      ]
+    },
+    "B0G2XQ64K5": {
+      "discovery_date": "2026-09-02T05:43:47.078928",
+      "price_history": [
+        {
+          "price": 261.66,
+          "date": "2026-09-02T05:43:47.078928"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F3LZ6RHF",
-      "title": "Tablet Samsung Galaxy Tab S10 FE, Azul, 10.9\", Wifi, 128GB, 8GB RAM, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
-      "link": "https://www.amazon.com.br/Tablet-Samsung-Traseira-Frontal-Android/dp/B0F3LZ6RHF",
-      "current_price": 2998.99,
-      "original_price": 4199.0,
-      "discount": 28.6,
-      "difference": 1200.01,
+      "asin": "B0FXM4S78T",
+      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
+      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
+      "current_price": 5499.0,
+      "original_price": 7499.0,
+      "discount": 26.7,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 1200.01 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51H1y0M8q7L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788311001.720332,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ARCAiNjRL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1788327827.078935,
       "is_new": true
     },
     {
-      "asin": "B0G1N9KDNH",
-      "title": "Granado, Perfume, Vintage, Apotecário, 75 ml",
-      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Apotec%C3%A1rio-75/dp/B0G1N9KDNH",
-      "current_price": 189.02,
-      "original_price": 345.0,
-      "discount": 45.2,
-      "difference": 155.98,
+      "asin": "B0G2XQ64K5",
+      "title": "Cadeira de escritório ergonômica com estofado de mesh (Cabide)",
+      "link": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-ergon%C3%B4mica-estofado-Cabide/dp/B0G2XQ64K5",
+      "current_price": 261.66,
+      "original_price": 699.0,
+      "discount": 62.6,
+      "difference": 437.34,
       "criteria": [
-        "45.2% OFF"
+        "62.6% OFF",
+        "R$ 437.34 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71AyG8eWY-L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788304534.620043,
+      "badge": "62% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71uRmPebmPL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1788327827.078935,
+      "is_new": true
+    },
+    {
+      "asin": "B0F99ZSRXH",
+      "title": "Air Fryer Philco 6,5L Visor Glass 1700W PAF65 127V",
+      "link": "https://www.amazon.com.br/Fryer-Philco-Visor-Glass-PAF65/dp/B0F99ZSRXH",
+      "current_price": 256.31,
+      "original_price": 555.39,
+      "discount": 53.9,
+      "difference": 299.08,
+      "criteria": [
+        "53.9% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61O11E0CmgL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1788327827.078935,
       "is_new": true
     },
     {
@@ -23534,7 +23584,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -23613,6 +23663,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GQWK8Y7F",
+      "title": "Apple iPhone 17 de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQWK8Y7F",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
+      "criteria": [
+        "R$ 2111.22 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41i8XYawSOL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1786355443.364724,
+      "is_new": false
+    },
+    {
       "asin": "B0GQWF5JD1",
       "title": "Apple iPhone 17 de 256 GB — Azul-névoa",
       "link": "https://www.amazon.com.br/Apple-iPhone-17-256-Azul-n%C3%A9voa/dp/B0GQWF5JD1",
@@ -23631,24 +23699,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GQWP9K1G",
-      "title": "Apple iPhone 17 de 256 GB — Sálvia",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQWP9K1G",
-      "current_price": 5887.78,
-      "original_price": 7999.0,
-      "discount": 26.4,
-      "difference": 2111.22,
-      "criteria": [
-        "R$ 2111.22 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41k9Fkg0r7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
       "asin": "B0DJFSKVZ5",
       "title": "Apple iPhone 16 (256 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
@@ -23662,44 +23712,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1784846418.539129,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJFSZ2ML",
-      "title": "Apple iPhone 16 (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSZ2ML",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1784830133.087011,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJFRHR1G",
-      "title": "Apple iPhone 16 (256 GB) – Verde-acinzentado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Verde-acinzentado/dp/B0DJFRHR1G",
-      "current_price": 5599.0,
-      "original_price": 7599.0,
-      "discount": 26.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1787397355.257924,
       "is_new": false
     },
     {
@@ -23752,7 +23766,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OaHpwFsuL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788304534.62005,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1788101877.488425,
       "is_new": false
     },
@@ -23776,25 +23790,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": 2159.3,
-      "original_price": 3599.0,
-      "discount": 40.0,
-      "difference": 1439.7,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 1439.7 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -23808,62 +23803,26 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1784752600.373367,
       "is_new": false
     },
     {
-      "asin": "B0D4NSS9XV",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
-      "current_price": 3598.99,
-      "original_price": 4699.0,
-      "discount": 23.4,
-      "difference": 1100.01,
+      "asin": "B0F3LZ6RHF",
+      "title": "Tablet Samsung Galaxy Tab S10 FE, Azul, 10.9\", Wifi, 128GB, 8GB RAM, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
+      "link": "https://www.amazon.com.br/Tablet-Samsung-Traseira-Frontal-Android/dp/B0F3LZ6RHF",
+      "current_price": 2998.99,
+      "original_price": 4199.0,
+      "discount": 28.6,
+      "difference": 1200.01,
       "criteria": [
-        "R$ 1100.01 desc."
+        "R$ 1200.01 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
-      "asin": "B0GTRZFNJM",
-      "title": "Apple iPhone 17e de 256 GB — Rosa-pálido",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM",
-      "current_price": 4699.0,
-      "original_price": 5799.0,
-      "discount": 19.0,
-      "difference": 1100.0,
-      "criteria": [
-        "R$ 1100.0 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1787934841.41155,
-      "is_new": false
-    },
-    {
-      "asin": "B082Y9F21N",
-      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
-      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
-      "current_price": 3699.0,
-      "original_price": 4780.0,
-      "discount": 22.6,
-      "difference": 1081.0,
-      "criteria": [
-        "R$ 1081.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
-      "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1787988377.926092,
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51H1y0M8q7L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1788311001.720332,
+      "discovery_ts": 1788311001.720332,
       "is_new": false
     },
     {
@@ -23886,24 +23845,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DKG5JQXJ",
-      "title": "Lava-louças Brastemp 15 Serviços com Smart Sensor - BLF61AE 110v",
-      "link": "https://www.amazon.com.br/Lava-lou%C3%A7as-Brastemp-Servi%C3%A7os-Smart-Sensor/dp/B0DKG5JQXJ",
-      "current_price": 3548.99,
-      "original_price": 4555.1,
-      "discount": 22.1,
-      "difference": 1006.11,
-      "criteria": [
-        "R$ 1006.11 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41oh649Vd9L._AC_UL210_SR210,210_.jpg",
-      "category": "[HOME]",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1787341954.532525,
-      "is_new": false
-    },
-    {
       "asin": "B0FY3TV864",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-53R6 Intel Core i5 13º Geração 16BG RAM 512GB SSD 15,6\" Full HD Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Acer-AG15-71P-53R6-Gera%C3%A7%C3%A3o-Windows/dp/B0FY3TV864",
@@ -23917,26 +23858,8 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
-      "asin": "B0H2NGMNB8",
-      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
-      "current_price": 6599.0,
-      "original_price": 7399.99,
-      "discount": 10.8,
-      "difference": 800.99,
-      "criteria": [
-        "R$ 800.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1784990556.520456,
       "is_new": false
     },
     {
@@ -23953,26 +23876,8 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0H6N4P465",
-      "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2026 | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8000H-2026/dp/B0H6N4P465",
-      "current_price": 4599.0,
-      "original_price": 5199.0,
-      "discount": 11.5,
-      "difference": 600.0,
-      "criteria": [
-        "R$ 600.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61H0840KVGL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1787889921.982239,
       "is_new": false
     },
     {
@@ -24007,7 +23912,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -24025,7 +23930,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1787441464.356645,
       "is_new": false
     },
@@ -24043,7 +23948,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24061,8 +23966,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1788161835.986265,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3848.99,
+      "original_price": 4199.0,
+      "discount": 8.3,
+      "difference": 350.01,
+      "criteria": [
+        "R$ 350.01 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31K+KWPwGeL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
@@ -24079,8 +24002,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81a4IQ0UzxL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1788161835.986265,
+      "is_new": false
+    },
+    {
+      "asin": "B0GS3TTJ1P",
+      "title": "Fritadeira Air Fryer Family Oven Fry Elgin 12L 220V 1.900W 10 funções e Painel Digital",
+      "link": "https://www.amazon.com.br/Fritadeira-Family-Elgin-fun%C3%A7%C3%B5es-Digital/dp/B0GS3TTJ1P",
+      "current_price": 322.9,
+      "original_price": 619.0,
+      "discount": 47.8,
+      "difference": 296.1,
+      "criteria": [
+        "47.8% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cJOzPFdXL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1784682353.861696,
       "is_new": false
     },
     {
@@ -24097,44 +24038,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788327827.078935,
       "discovery_ts": 1787575015.430138,
       "is_new": false
     },
     {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
-      "asin": "B0G1TNRJC8",
-      "title": "Granado, Perfume, Vintage, Citrus Brasilis, 75 ml",
-      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Citrus-Brasilis/dp/B0G1TNRJC8",
-      "current_price": 179.9,
+      "asin": "B0G1N9KDNH",
+      "title": "Granado, Perfume, Vintage, Apotecário, 75 ml",
+      "link": "https://www.amazon.com.br/Granado-Perfume-Vintage-Apotec%C3%A1rio-75/dp/B0G1N9KDNH",
+      "current_price": 189.02,
       "original_price": 345.0,
-      "discount": 47.9,
-      "difference": 165.1,
+      "discount": 45.2,
+      "difference": 155.98,
       "criteria": [
-        "47.9% OFF"
+        "45.2% OFF"
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71cv3U8SDwL._AC_UL210_SR210,210_.jpg",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AyG8eWY-L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788296695.333694,
-      "discovery_ts": 1788296695.333694,
+      "last_seen": 1788311001.720332,
+      "discovery_ts": 1788304534.620043,
       "is_new": false
     },
     {
@@ -24153,6 +24076,24 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1788311001.720332,
       "discovery_ts": 1784799532.826355,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPN7WWF8",
+      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
+      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
+      "current_price": 0.12,
+      "original_price": 38.45,
+      "discount": 99.7,
+      "difference": 38.33,
+      "criteria": [
+        "99.7% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTH_CLEANING_AGENT]",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1784543605.650005,
       "is_new": false
     },
     {
@@ -24189,24 +24130,6 @@
       "category": "🧴 Beleza & Cuidado Pessoal",
       "last_seen": 1788311001.720332,
       "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPN7WWF8",
-      "title": "Colgate Total Original Mint Creme Dental com Flúor, 2x180g",
-      "link": "https://www.amazon.com.br/Dental-Colgate-Original-Preven%C3%A7%C3%A3o-unidades/dp/B0FPN7WWF8",
-      "current_price": 22.25,
-      "original_price": 38.45,
-      "discount": 42.1,
-      "difference": 16.2,
-      "criteria": [
-        "42.1% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61TQpQJzSuL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1788304534.62005,
-      "discovery_ts": 1784543605.650005,
       "is_new": false
     }
   ]
