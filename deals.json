@@ -1,5 +1,5 @@
 {
-  "last_check": "02/09/2026 05:44:10",
+  "last_check": "02/09/2026 09:57:05",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -591,6 +591,10 @@
         {
           "price": 235.98,
           "date": "2026-07-28T03:04:08.029087"
+        },
+        {
+          "price": 212.95,
+          "date": "2026-09-02T09:56:39.544451"
         }
       ]
     },
@@ -23511,62 +23515,61 @@
           "date": "2026-09-02T05:43:47.078928"
         }
       ]
+    },
+    "B0DHSVLM3K": {
+      "discovery_date": "2026-09-02T09:56:39.544451",
+      "price_history": [
+        {
+          "price": 1650.0,
+          "date": "2026-09-02T09:56:39.544451"
+        }
+      ]
+    },
+    "B0DN3RX4L8": {
+      "discovery_date": "2026-09-02T09:56:39.544451",
+      "price_history": [
+        {
+          "price": 2999.0,
+          "date": "2026-09-02T09:56:39.544451"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FXM4S78T",
-      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
-      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
-      "current_price": 5499.0,
-      "original_price": 7499.0,
-      "discount": 26.7,
-      "difference": 2000.0,
+      "asin": "B0DHSVLM3K",
+      "title": "Ninja, Sorveteira, Creami, 7 Programas Auto-iQ, Tecnologia Creamify, 220 v",
+      "link": "https://www.amazon.com.br/Ninja-Creami-Sorveteira-220v-Milkshakes/dp/B0DHSVLM3K",
+      "current_price": 1650.0,
+      "original_price": 2199.0,
+      "discount": 25.0,
+      "difference": 549.0,
       "criteria": [
-        "R$ 2000.0 desc."
+        "R$ 549.0 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ARCAiNjRL._AC_UL210_SR210,210_.jpg",
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518UKGQrA8L._AC_UL210_SR210,210_.jpg",
+      "category": "[ICE_CREAM_MAKER]",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1788342999.544459,
+      "is_new": true
+    },
+    {
+      "asin": "B0DN3RX4L8",
+      "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3RX4L8",
+      "current_price": 2999.0,
+      "original_price": 3399.0,
+      "discount": 11.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788327827.078935,
-      "discovery_ts": 1788327827.078935,
-      "is_new": true
-    },
-    {
-      "asin": "B0G2XQ64K5",
-      "title": "Cadeira de escritório ergonômica com estofado de mesh (Cabide)",
-      "link": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-ergon%C3%B4mica-estofado-Cabide/dp/B0G2XQ64K5",
-      "current_price": 261.66,
-      "original_price": 699.0,
-      "discount": 62.6,
-      "difference": 437.34,
-      "criteria": [
-        "62.6% OFF",
-        "R$ 437.34 desc."
-      ],
-      "badge": "62% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71uRmPebmPL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1788327827.078935,
-      "discovery_ts": 1788327827.078935,
-      "is_new": true
-    },
-    {
-      "asin": "B0F99ZSRXH",
-      "title": "Air Fryer Philco 6,5L Visor Glass 1700W PAF65 127V",
-      "link": "https://www.amazon.com.br/Fryer-Philco-Visor-Glass-PAF65/dp/B0F99ZSRXH",
-      "current_price": 256.31,
-      "original_price": 555.39,
-      "discount": 53.9,
-      "difference": 299.08,
-      "criteria": [
-        "53.9% OFF"
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61O11E0CmgL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1788327827.078935,
-      "discovery_ts": 1788327827.078935,
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1788342999.544459,
       "is_new": true
     },
     {
@@ -23584,26 +23587,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788327827.078935,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1786559638.816864,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXM57JL9",
-      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": 8998.97,
-      "original_price": 12999.0,
-      "discount": 30.8,
-      "difference": 4000.03,
-      "criteria": [
-        "R$ 4000.03 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71hGLosM04L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1785169875.641153,
       "is_new": false
     },
     {
@@ -23620,7 +23605,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -23639,27 +23624,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
+      "asin": "B0GQW2J4SK",
+      "title": "Apple iPhone 17 de 256 GB — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQW2J4SK",
+      "current_price": 5887.78,
+      "original_price": 7999.0,
+      "discount": 26.4,
+      "difference": 2111.22,
       "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
+        "R$ 2111.22 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1786338424.792042,
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1785253019.20744,
       "is_new": false
     },
     {
@@ -23681,21 +23665,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GQWF5JD1",
-      "title": "Apple iPhone 17 de 256 GB — Azul-névoa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-Azul-n%C3%A9voa/dp/B0GQWF5JD1",
-      "current_price": 5887.78,
-      "original_price": 7999.0,
-      "discount": 26.4,
-      "difference": 2111.22,
+      "asin": "B0FXM4S78T",
+      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
+      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
+      "current_price": 5499.0,
+      "original_price": 7499.0,
+      "discount": 26.7,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 2111.22 desc."
+        "R$ 2000.0 desc."
       ],
       "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788222077.894487,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ARCAiNjRL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
@@ -23717,39 +23701,21 @@
       "is_new": false
     },
     {
-      "asin": "B0CP69NT2N",
-      "title": "Apple iPhone 15 (128 GB) — Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP69NT2N",
-      "current_price": 4443.33,
-      "original_price": 5999.0,
-      "discount": 25.9,
-      "difference": 1555.67,
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 13157.0,
+      "original_price": 14999.0,
+      "discount": 12.3,
+      "difference": 1842.0,
       "criteria": [
-        "R$ 1555.67 desc."
+        "R$ 1842.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B0GM1LC365",
-      "title": "Smartphone Motorola Edge 70 5G - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GM1LC365",
-      "current_price": 2999.0,
-      "original_price": 4495.56,
-      "discount": 33.3,
-      "difference": 1496.56,
-      "criteria": [
-        "R$ 1496.56 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788040844.906987,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1787860684.198484,
       "is_new": false
     },
     {
@@ -23771,25 +23737,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GLSLLGZL",
-      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
-      "current_price": 1529.09,
-      "original_price": 2999.0,
-      "discount": 49.0,
-      "difference": 1469.91,
-      "criteria": [
-        "49.0% OFF",
-        "R$ 1469.91 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788189889.613867,
-      "is_new": false
-    },
-    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -23808,21 +23755,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F3LZ6RHF",
-      "title": "Tablet Samsung Galaxy Tab S10 FE, Azul, 10.9\", Wifi, 128GB, 8GB RAM, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
-      "link": "https://www.amazon.com.br/Tablet-Samsung-Traseira-Frontal-Android/dp/B0F3LZ6RHF",
-      "current_price": 2998.99,
-      "original_price": 4199.0,
-      "discount": 28.6,
-      "difference": 1200.01,
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 3699.0,
+      "original_price": 4780.0,
+      "discount": 22.6,
+      "difference": 1081.0,
       "criteria": [
-        "R$ 1200.01 desc."
+        "R$ 1081.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51H1y0M8q7L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788311001.720332,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1787988377.926092,
       "is_new": false
     },
     {
@@ -23840,7 +23787,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712JlBgtkJL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23881,24 +23828,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GKPXSZR6",
-      "title": "Smartphone Motorola Moto G17 4G - 256GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Azul Claro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKPXSZR6",
-      "current_price": 978.99,
-      "original_price": 1499.0,
-      "discount": 34.7,
-      "difference": 520.01,
-      "criteria": [
-        "R$ 520.01 desc."
-      ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61yHsp69vCL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1788161835.986265,
-      "is_new": false
-    },
-    {
       "asin": "B0FQGMGVCT",
       "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
       "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
@@ -23917,6 +23846,25 @@
       "is_new": false
     },
     {
+      "asin": "B0G2XQ64K5",
+      "title": "Cadeira de escritório ergonômica com estofado de mesh (Cabide)",
+      "link": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-ergon%C3%B4mica-estofado-Cabide/dp/B0G2XQ64K5",
+      "current_price": 261.66,
+      "original_price": 699.0,
+      "discount": 62.6,
+      "difference": 437.34,
+      "criteria": [
+        "62.6% OFF",
+        "R$ 437.34 desc."
+      ],
+      "badge": "62% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71uRmPebmPL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1788327827.078935,
+      "discovery_ts": 1788327827.078935,
+      "is_new": false
+    },
+    {
       "asin": "B0DN3JFV7Z",
       "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Inox Look (TF70S) 127V",
       "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DN3JFV7Z",
@@ -23930,7 +23878,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FhtTDaN0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1788327827.078935,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1787441464.356645,
       "is_new": false
     },
@@ -23948,7 +23896,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71PMhxKPb1L._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788327827.078935,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -23966,7 +23914,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/619f+kWt2PL._AC_UL210_SR210,210_.jpg",
       "category": "[AMAZON_BOOK_READER]",
-      "last_seen": 1788327827.078935,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1788161835.986265,
       "is_new": false
     },
@@ -24007,6 +23955,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F99ZSRXH",
+      "title": "Air Fryer Philco 6,5L Visor Glass 1700W PAF65 127V",
+      "link": "https://www.amazon.com.br/Fryer-Philco-Visor-Glass-PAF65/dp/B0F99ZSRXH",
+      "current_price": 256.31,
+      "original_price": 555.39,
+      "discount": 53.9,
+      "difference": 299.08,
+      "criteria": [
+        "53.9% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61O11E0CmgL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
       "asin": "B0GS3TTJ1P",
       "title": "Fritadeira Air Fryer Family Oven Fry Elgin 12L 220V 1.900W 10 funções e Painel Digital",
       "link": "https://www.amazon.com.br/Fritadeira-Family-Elgin-fun%C3%A7%C3%B5es-Digital/dp/B0GS3TTJ1P",
@@ -24038,8 +24004,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/614YeT6MRAL._AC_UL210_SR210,210_.jpg",
       "category": "[DIGITAL_DEVICE_4]",
-      "last_seen": 1788327827.078935,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0F7J2KKFW",
+      "title": "Oral-B Escova de Dente Elétrica iO2, 1 Cabo + 1 Refil + Carregador",
+      "link": "https://www.amazon.com.br/Escova-El%C3%A9trica-Oral-B-dentes-Regular/dp/B0F7J2KKFW",
+      "current_price": 212.95,
+      "original_price": 406.25,
+      "discount": 47.6,
+      "difference": 193.3,
+      "criteria": [
+        "47.6% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616OYgQLAVL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1788342999.544459,
+      "discovery_ts": 1784522841.687335,
       "is_new": false
     },
     {
@@ -24056,7 +24040,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AyG8eWY-L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1788304534.620043,
       "is_new": false
     },
@@ -24074,7 +24058,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ggER1mlqL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1784799532.826355,
       "is_new": false
     },
@@ -24110,26 +24094,8 @@
       "badge": "55% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61C0iM4H-iL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788311001.720332,
+      "last_seen": 1788342999.544459,
       "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B074LW78DJ",
-      "title": "Lola From Rio - Morte Subita - Condicionador hidratante para todos os tipos de cabelos secos e danificados, vegano, sem crueldade, sem parabenos, sem sulfatos, 250 g",
-      "link": "https://www.amazon.com.br/Lola-Cosmetics-950-Condicionador/dp/B074LW78DJ",
-      "current_price": 20.53,
-      "original_price": 44.9,
-      "discount": 54.3,
-      "difference": 24.37,
-      "criteria": [
-        "54.3% OFF"
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZLn-foLSL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1788311001.720332,
-      "discovery_ts": 1786349565.683197,
       "is_new": false
     }
   ]
