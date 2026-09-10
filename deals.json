@@ -1,5 +1,5 @@
 {
-  "last_check": "10/09/2026 17:16:56",
+  "last_check": "10/09/2026 19:46:31",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -19472,6 +19472,10 @@
         {
           "price": 2098.54,
           "date": "2026-08-12T17:39:03.919248"
+        },
+        {
+          "price": 2098.89,
+          "date": "2026-09-10T19:46:31.933998"
         }
       ]
     },
@@ -23826,61 +23830,143 @@
           "date": "2026-09-10T17:16:48.678055"
         }
       ]
+    },
+    "B0F4M66XWL": {
+      "discovery_date": "2026-09-10T19:46:31.933998",
+      "price_history": [
+        {
+          "price": 4299.0,
+          "date": "2026-09-10T19:46:31.933998"
+        }
+      ]
+    },
+    "B0F5X39JQ1": {
+      "discovery_date": "2026-09-10T19:46:31.933998",
+      "price_history": [
+        {
+          "price": 2399.0,
+          "date": "2026-09-10T19:46:31.933998"
+        }
+      ]
+    },
+    "B08DMTGNT6": {
+      "discovery_date": "2026-09-10T19:46:31.933998",
+      "price_history": [
+        {
+          "price": 2898.99,
+          "date": "2026-09-10T19:46:31.933998"
+        }
+      ]
+    },
+    "B0FLLK2HNZ": {
+      "discovery_date": "2026-09-10T19:46:31.933998",
+      "price_history": [
+        {
+          "price": 2548.95,
+          "date": "2026-09-10T19:46:31.933998"
+        }
+      ]
+    },
+    "B0DSY9G59S": {
+      "discovery_date": "2026-09-10T19:46:31.933998",
+      "price_history": [
+        {
+          "price": 3999.0,
+          "date": "2026-09-10T19:46:31.933998"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0G71HDJSM",
-      "title": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
-      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-%C3%81udio/dp/B0G71HDJSM",
-      "current_price": 1249.0,
-      "original_price": 1599.0,
-      "discount": 21.9,
-      "difference": 350.0,
+      "asin": "B0DSY9G59S",
+      "title": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul Marinho",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY9G59S",
+      "current_price": 3999.0,
+      "original_price": 7999.0,
+      "discount": 50.0,
+      "difference": 4000.0,
       "criteria": [
-        "R$ 350.0 desc."
+        "50.0% OFF",
+        "R$ 4000.0 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61WfwHHJFLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789069591.934006,
+      "is_new": true
+    },
+    {
+      "asin": "B0F4M66XWL",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 16 GB, 512 GB SSD W11 Home, 15.6'' FHD, Quiet Blue -X1504VA-NJ1745W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-X1504VA-NJ1745W/dp/B0F4M66XWL",
+      "current_price": 4299.0,
+      "original_price": 5499.0,
+      "discount": 21.8,
+      "difference": 1200.0,
+      "criteria": [
+        "R$ 1200.0 desc."
       ],
       "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
-      "discovery_ts": 1789060608.678062,
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789069591.934006,
       "is_new": true
     },
     {
-      "asin": "B0CB1QS325",
-      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
-      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
-      "current_price": 4699.0,
-      "original_price": 4999.0,
-      "discount": 6.0,
-      "difference": 300.0,
+      "asin": "B08DMTGNT6",
+      "title": "Hisense WD3S12 Lava e Seca Noir Frontal 12kg/8kg 59,5x61x84,5 cm com Vapor Wi-Fi 16 Programas 110V Digital 1400 RPM",
+      "link": "https://www.amazon.com.br/Hisense-Frontal-5x61x84-Programas-Digital/dp/B08DMTGNT6",
+      "current_price": 2898.99,
+      "original_price": 3699.0,
+      "discount": 21.6,
+      "difference": 800.01,
       "criteria": [
-        "R$ 300.0 desc."
+        "R$ 800.01 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
-      "discovery_ts": 1789060608.678062,
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789069591.934006,
       "is_new": true
     },
     {
-      "asin": "B08N1B3CHG",
-      "title": "MONDIAL Ventilador de mesa 30cm, 220V, Branco/Azul - V-30-6P",
-      "link": "https://www.amazon.com.br/Ventilador-mesa-30cm-Ultra-Branco/dp/B08N1B3CHG",
-      "current_price": 89.0,
-      "original_price": 154.0,
-      "discount": 42.2,
-      "difference": 65.0,
+      "asin": "B0FLLK2HNZ",
+      "title": "Hisense Smart TV UHD 4K HI-QLED 55\" Polegadas 55Q7QG | Google TV Modo Jogo Pro 144 Hz, AMD FreeSync Premium, Dolby Vision Atmos e Compatível com Alex",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-55Q7QG-FreeSync-Compat%C3%ADvel/dp/B0FLLK2HNZ",
+      "current_price": 2548.95,
+      "original_price": 3299.0,
+      "discount": 22.7,
+      "difference": 750.05,
       "criteria": [
-        "42.2% OFF"
+        "R$ 750.05 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81P0r5+MpdL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_FAN]",
-      "last_seen": 1789060608.678062,
-      "discovery_ts": 1789060608.678062,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815uNd9OX5L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789069591.934006,
+      "is_new": true
+    },
+    {
+      "asin": "B0F5X39JQ1",
+      "title": "Smart TV 4K 55\" LG UHD 55UA85 Processador α7 AI Ger8 4K Super Upscaling Google Cast Alexa Integrado Controle AI Smart Magic WebOS 25",
+      "link": "https://www.amazon.com.br/LG-Processador-Upscaling-Integrado-Controle/dp/B0F5X39JQ1",
+      "current_price": 2399.0,
+      "original_price": 2754.0,
+      "discount": 12.9,
+      "difference": 355.0,
+      "criteria": [
+        "R$ 355.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61RGkr3wqEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789069591.934006,
       "is_new": true
     },
     {
@@ -23899,6 +23985,25 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789048034.95683,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -23971,8 +24076,27 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41PQ69cY6ML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT65QTG",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Verde",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVT65QTG",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nJuNN5hPL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1786556343.919248,
       "is_new": false
     },
     {
@@ -23995,6 +24119,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CYW2N6TX",
+      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
+      "current_price": 2999.0,
+      "original_price": 4299.0,
+      "discount": 30.2,
+      "difference": 1300.0,
+      "criteria": [
+        "R$ 1300.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1787759876.510221,
+      "is_new": false
+    },
+    {
       "asin": "B0D4NSS9XV",
       "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
       "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
@@ -24008,7 +24150,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24026,7 +24168,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24044,7 +24186,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24063,7 +24205,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24081,7 +24223,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61m3QB2NHVL._AC_UL210_SR210,210_.jpg",
       "category": "[3D_PRINTER]",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24099,7 +24241,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24135,8 +24277,26 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0G71HDJSM",
+      "title": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-%C3%81udio/dp/B0G71HDJSM",
+      "current_price": 1249.0,
+      "original_price": 1599.0,
+      "discount": 21.9,
+      "difference": 350.0,
+      "criteria": [
+        "R$ 350.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789069591.934006,
+      "discovery_ts": 1789060608.678055,
       "is_new": false
     },
     {
@@ -24153,7 +24313,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24189,8 +24349,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789060608.678062,
       "is_new": false
     },
     {
@@ -24248,6 +24426,24 @@
       "is_new": false
     },
     {
+      "asin": "B08N1B3CHG",
+      "title": "MONDIAL Ventilador de mesa 30cm, 220V, Branco/Azul - V-30-6P",
+      "link": "https://www.amazon.com.br/Ventilador-mesa-30cm-Ultra-Branco/dp/B08N1B3CHG",
+      "current_price": 89.0,
+      "original_price": 154.0,
+      "discount": 42.2,
+      "difference": 65.0,
+      "criteria": [
+        "42.2% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81P0r5+MpdL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789060608.678062,
+      "is_new": false
+    },
+    {
       "asin": "B074LTNQBP",
       "title": "Morte Súbita Máscara Super Hidratante 450g , Lola Cosmetics",
       "link": "https://www.amazon.com.br/M%C3%A1scara-Hidratante-S%C3%BAbita-Lola-Cosmetics/dp/B074LTNQBP",
@@ -24261,7 +24457,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71vJXnkK-NL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24297,7 +24493,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41sfmT4opyL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24315,7 +24511,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61bsBAPQB7L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789060608.678062,
+      "last_seen": 1789069591.934006,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
