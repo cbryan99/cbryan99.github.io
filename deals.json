@@ -1,5 +1,5 @@
 {
-  "last_check": "10/09/2026 13:47:18",
+  "last_check": "10/09/2026 17:16:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -16998,6 +16998,10 @@
         {
           "price": 4079.0,
           "date": "2026-08-11T04:05:14.339604"
+        },
+        {
+          "price": 4049.0,
+          "date": "2026-09-10T17:16:48.678055"
         }
       ]
     },
@@ -23795,62 +23799,88 @@
           "date": "2026-09-10T13:47:14.956824"
         }
       ]
+    },
+    "B0G71HDJSM": {
+      "discovery_date": "2026-09-10T17:16:48.678055",
+      "price_history": [
+        {
+          "price": 1249.0,
+          "date": "2026-09-10T17:16:48.678055"
+        }
+      ]
+    },
+    "B0CB1QS325": {
+      "discovery_date": "2026-09-10T17:16:48.678055",
+      "price_history": [
+        {
+          "price": 4699.0,
+          "date": "2026-09-10T17:16:48.678055"
+        }
+      ]
+    },
+    "B08N1B3CHG": {
+      "discovery_date": "2026-09-10T17:16:48.678055",
+      "price_history": [
+        {
+          "price": 89.0,
+          "date": "2026-09-10T17:16:48.678055"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GLTJ4MYM",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
-      "current_price": 2499.0,
-      "original_price": 4499.0,
-      "discount": 44.5,
-      "difference": 2000.0,
+      "asin": "B0G71HDJSM",
+      "title": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-%C3%81udio/dp/B0G71HDJSM",
+      "current_price": 1249.0,
+      "original_price": 1599.0,
+      "discount": 21.9,
+      "difference": 350.0,
       "criteria": [
-        "44.5% OFF",
-        "R$ 2000.0 desc."
+        "R$ 350.0 desc."
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
-      "discovery_ts": 1789048034.95683,
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789060608.678062,
       "is_new": true
     },
     {
-      "asin": "B0F6CX2QK4",
-      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
-      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
-      "current_price": 3967.37,
-      "original_price": 5000.0,
-      "discount": 20.7,
-      "difference": 1032.63,
-      "criteria": [
-        "R$ 1032.63 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
-      "discovery_ts": 1789048034.95683,
-      "is_new": true
-    },
-    {
-      "asin": "B0GJTCF75W",
-      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
-      "current_price": 1199.0,
-      "original_price": 1499.0,
-      "discount": 20.0,
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
       "difference": 300.0,
       "criteria": [
         "R$ 300.0 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
-      "discovery_ts": 1789048034.95683,
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789060608.678062,
+      "is_new": true
+    },
+    {
+      "asin": "B08N1B3CHG",
+      "title": "MONDIAL Ventilador de mesa 30cm, 220V, Branco/Azul - V-30-6P",
+      "link": "https://www.amazon.com.br/Ventilador-mesa-30cm-Ultra-Branco/dp/B08N1B3CHG",
+      "current_price": 89.0,
+      "original_price": 154.0,
+      "discount": 42.2,
+      "difference": 65.0,
+      "criteria": [
+        "42.2% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81P0r5+MpdL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789060608.678062,
       "is_new": true
     },
     {
@@ -23872,21 +23902,41 @@
       "is_new": false
     },
     {
-      "asin": "B0FPRN2K78",
-      "title": "JBL, Barra de Som, BAR 1000 MK2, Soundbar, 7.1.4 Canais, Dolby Atmos - Preta",
-      "link": "https://www.amazon.com.br/JBL-Soundbar-7-1-4-Canais-Subwoofer/dp/B0FPRN2K78",
-      "current_price": 4779.0,
-      "original_price": 6799.0,
-      "discount": 29.7,
-      "difference": 2020.0,
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
       "criteria": [
-        "R$ 2020.0 desc."
+        "40.0% OFF",
+        "R$ 2200.01 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789016418.844032,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLTJ4MYM",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -23903,7 +23953,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789033030.838635,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -23921,27 +23971,8 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41PQ69cY6ML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSXJF6K",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
-      "current_price": 2098.89,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.11,
-      "criteria": [
-        "41.7% OFF",
-        "R$ 1500.11 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
       "is_new": false
     },
     {
@@ -23959,64 +23990,44 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515VjUyFG6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1786473102.157315,
       "is_new": false
     },
     {
-      "asin": "B0HG1GV2VW",
-      "title": "HUAWEI WATCH GT 7 Pro 46mm Smart Watch， Bateria de até 21 dias，Preto | Caixa em liga de titânio e bisel em cerâmica nano-tech, ECG, Monitoramento da Frequência Cardíaca, Golfe, Esqui, Ciclismo",
-      "link": "https://www.amazon.com.br/HUAWEI-WATCH-Watch%EF%BC%8C-Bateria-dias%EF%BC%8CPreto/dp/B0HG1GV2VW",
-      "current_price": 1764.0,
-      "original_price": 2699.0,
-      "discount": 34.6,
-      "difference": 935.0,
+      "asin": "B0D4NSS9XV",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
+      "current_price": 3598.99,
+      "original_price": 4699.0,
+      "discount": 23.4,
+      "difference": 1100.01,
       "criteria": [
-        "R$ 935.0 desc."
+        "R$ 1100.01 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71WbM6AfHaL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
-      "asin": "B0BLJTJ38M",
-      "title": "Barbie Casa de Bonecas Dos Sonhos para crianças a partir de 3 anos",
-      "link": "https://www.amazon.com.br/Barbie-Casa-Sonhos-crian%C3%A7as-partir/dp/B0BLJTJ38M",
-      "current_price": 1199.99,
-      "original_price": 2099.99,
-      "discount": 42.9,
-      "difference": 900.0,
+      "asin": "B0F6CX2QK4",
+      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
+      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
+      "current_price": 3967.37,
+      "original_price": 5000.0,
+      "discount": 20.7,
+      "difference": 1032.63,
       "criteria": [
-        "42.9% OFF",
-        "R$ 900.0 desc."
+        "R$ 1032.63 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81BO9d3vEoL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_FIGURE_PLAYSET]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0DYK887Q6",
-      "title": "Mouse Pad Duro Razer Firefly V2 - RZ0203020100",
-      "link": "https://www.amazon.com.br/Mouse-Pad-Duro-Razer-Firefly/dp/B0DYK887Q6",
-      "current_price": 519.82,
-      "original_price": 1389.0,
-      "discount": 62.6,
-      "difference": 869.18,
-      "criteria": [
-        "62.6% OFF",
-        "R$ 869.18 desc."
-      ],
-      "badge": "62% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41itY1rBqhL._AC_UL210_SR210,210_.jpg",
-      "category": "[MOUSE_PAD]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24033,26 +24044,8 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0GLPRX6KD",
-      "title": "Máquina de Lavar 14Kg Brastemp Branca com Smart Sensor e Design Compacto - BWF14AB - 110v",
-      "link": "https://www.amazon.com.br/M%C3%A1quina-Brastemp-Branca-Sensor-Compacto/dp/B0GLPRX6KD",
-      "current_price": 1848.99,
-      "original_price": 2499.0,
-      "discount": 26.0,
-      "difference": 650.01,
-      "criteria": [
-        "R$ 650.01 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41a6B7YaAPL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -24070,26 +24063,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B0GL9FF7Q5",
-      "title": "Ar Condicionado Split 12000 Btus Lg Dual Inverter Voice +ia Frio S3nq12ja31l.eb2gam1-220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-12000-Inverter-S3nq12ja31l-eb2gam1-220v/dp/B0GL9FF7Q5",
-      "current_price": 2098.9,
-      "original_price": 2699.0,
-      "discount": 22.2,
-      "difference": 600.1,
-      "criteria": [
-        "R$ 600.1 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51rHQQXNYsL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
       "is_new": false
     },
     {
@@ -24111,24 +24086,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H5FHF155",
-      "title": "LG Lava e Seca WD16GNTS6 Preto Frontal 16kg/10kg 65x78x95 cm AI DD TurboWash 360° Vapor Wi-Fi Eletrônico 110V",
-      "link": "https://www.amazon.com.br/LG-WD16GNTS6-65x78x95-TurboWash-Eletr%C3%B4nico/dp/B0H5FHF155",
-      "current_price": 5744.77,
-      "original_price": 6209.0,
-      "discount": 7.5,
-      "difference": 464.23,
-      "criteria": [
-        "R$ 464.23 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tC1TUOihL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
-      "is_new": false
-    },
-    {
       "asin": "B0GK2WV5WC",
       "title": "Ar Condicionado Inverter Elgin High Wall Eco Iii Wifi 12.000 Btus Quente/frio 220v",
       "link": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GK2WV5WC",
@@ -24142,26 +24099,8 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0H522H54K",
-      "title": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Quente/Frio 18.000 BTUs (NI18R/NE18R) 220V",
-      "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI18R-NE18R/dp/B0H522H54K",
-      "current_price": 2898.98,
-      "original_price": 3299.0,
-      "discount": 12.1,
-      "difference": 400.02,
-      "criteria": [
-        "R$ 400.02 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41SE763-KaL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
       "is_new": false
     },
     {
@@ -24178,7 +24117,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24196,7 +24135,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24214,44 +24153,44 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
     {
-      "asin": "B07CKDWL5R",
-      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
-      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
-      "current_price": 3562.99,
-      "original_price": 3883.89,
-      "discount": 8.3,
-      "difference": 320.9,
+      "asin": "B0FCW79ZM3",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" Touch Screen - Luna Grey - Intel Core i5-13420H, 8GB RAM, 512GB SSD, Windows 11",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-i5-13420H-Screen/dp/B0FCW79ZM3",
+      "current_price": 4049.0,
+      "original_price": 4399.0,
+      "discount": 8.0,
+      "difference": 350.0,
       "criteria": [
-        "R$ 320.9 desc."
+        "R$ 350.0 desc."
       ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61mS88agoEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1786421114.339604,
       "is_new": false
     },
     {
-      "asin": "B0DTVLLSD9",
-      "title": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
-      "link": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Fryer-Facilita-Elgin/dp/B0DTVLLSD9",
-      "current_price": 165.9,
-      "original_price": 412.2,
-      "discount": 59.8,
-      "difference": 246.3,
+      "asin": "B0GJTCF75W",
+      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
+      "current_price": 1199.0,
+      "original_price": 1499.0,
+      "discount": 20.0,
+      "difference": 300.0,
       "criteria": [
-        "59.8% OFF"
+        "R$ 300.0 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41vdvIk7YvL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1787628829.885903,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789060608.678062,
+      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24291,24 +24230,6 @@
       "is_new": false
     },
     {
-      "asin": "B0C2J8DQC1",
-      "title": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna | Barbeia e apara sem irritar a pele | Uso a Seco ou Molhado | Lâmina Dupla Face | 3 Pentes | QP2724/10",
-      "link": "https://www.amazon.com.br/Aparador-raspador-OneBlade-pentes-Bivolt/dp/B0C2J8DQC1",
-      "current_price": 138.97,
-      "original_price": 244.74,
-      "discount": 43.2,
-      "difference": 105.77,
-      "criteria": [
-        "43.2% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
       "asin": "B07Y1T5YZ2",
       "title": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
       "link": "https://www.amazon.com.br/Wella-%C3%93leo-de-brilho-100ml/dp/B07Y1T5YZ2",
@@ -24340,7 +24261,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71vJXnkK-NL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24376,26 +24297,8 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41sfmT4opyL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B074LV8Y2B",
-      "title": "Minha Lola Minha Vida Condicionador 500ml , Lola Cosmetics",
-      "link": "https://www.amazon.com.br/Lola-Cosmetics-384-Condicionador/dp/B074LV8Y2B",
-      "current_price": 28.41,
-      "original_price": 49.9,
-      "discount": 43.1,
-      "difference": 21.49,
-      "criteria": [
-        "43.1% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gcLvh66dL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789033030.838635,
-      "discovery_ts": 1789033030.838635,
       "is_new": false
     },
     {
@@ -24412,7 +24315,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61bsBAPQB7L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789048034.95683,
+      "last_seen": 1789060608.678062,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
