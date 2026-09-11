@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 06:34:25",
+  "last_check": "11/09/2026 11:45:57",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23930,6 +23930,10 @@
         {
           "price": 347.0,
           "date": "2026-09-11T01:29:59.113268"
+        },
+        {
+          "price": 395.9,
+          "date": "2026-09-11T11:45:50.878760"
         }
       ]
     },
@@ -23950,25 +23954,34 @@
           "date": "2026-09-11T06:34:07.438100"
         }
       ]
+    },
+    "B0FNSGP3T9": {
+      "discovery_date": "2026-09-11T11:45:50.878760",
+      "price_history": [
+        {
+          "price": 6299.0,
+          "date": "2026-09-11T11:45:50.878760"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FY3WHPDH",
-      "title": "Notebook Acer Nitro V15 ANV15-52-96AQ Intel® Core™ i9-13900H de 13° G 16GB 512GB SSD RTX4060 Windows 11 Home 15.6”",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-96AQ-i9-13900H-RTX4060/dp/B0FY3WHPDH",
-      "current_price": 7999.0,
-      "original_price": 8599.0,
-      "discount": 7.0,
-      "difference": 600.0,
+      "asin": "B0FNSGP3T9",
+      "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
+      "current_price": 6299.0,
+      "original_price": 8199.0,
+      "discount": 23.2,
+      "difference": 1900.0,
       "criteria": [
-        "R$ 600.0 desc."
+        "R$ 1900.0 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TFTrBp3ZL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789108447.438108,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789127150.878769,
       "is_new": true
     },
     {
@@ -23986,27 +23999,8 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1787352315.632751,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSY9G59S",
-      "title": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul Marinho",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY9G59S",
-      "current_price": 3999.0,
-      "original_price": 7999.0,
-      "discount": 50.0,
-      "difference": 4000.0,
-      "criteria": [
-        "50.0% OFF",
-        "R$ 4000.0 desc."
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61WfwHHJFLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789069591.933998,
       "is_new": false
     },
     {
@@ -24060,7 +24054,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -24084,61 +24078,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0G66TB5ZQ",
-      "title": "Geladeira Brastemp Frost Free Inverse 591 Litros Branca - BRE85MB 110V",
-      "link": "https://www.amazon.com.br/Geladeira-Brastemp-Inverse-Litros-Branca/dp/B0G66TB5ZQ",
-      "current_price": 3899.0,
-      "original_price": 5499.0,
-      "discount": 29.1,
-      "difference": 1600.0,
-      "criteria": [
-        "R$ 1600.0 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41PQ69cY6ML._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSXJF6K",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
-      "current_price": 2098.89,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.11,
-      "criteria": [
-        "41.7% OFF",
-        "R$ 1500.11 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789033030.838629,
-      "is_new": false
-    },
-    {
       "asin": "B0GVT89H5W",
       "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
@@ -24158,6 +24097,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GLSLLGZL",
+      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
+      "current_price": 1698.99,
+      "original_price": 2999.0,
+      "discount": 43.3,
+      "difference": 1300.01,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 1300.01 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1788189889.613867,
+      "is_new": false
+    },
+    {
       "asin": "B0CYW2N6TX",
       "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
       "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
@@ -24171,27 +24129,8 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1787759876.510221,
-      "is_new": false
-    },
-    {
-      "asin": "B0GLS8QF4B",
-      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
-      "current_price": 1791.0,
-      "original_price": 2999.0,
-      "discount": 40.3,
-      "difference": 1208.0,
-      "criteria": [
-        "40.3% OFF",
-        "R$ 1208.0 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789090199.113275,
       "is_new": false
     },
     {
@@ -24226,26 +24165,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
     {
-      "asin": "B0F6CX2QK4",
-      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
-      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
-      "current_price": 3967.37,
-      "original_price": 5000.0,
-      "discount": 20.7,
-      "difference": 1032.63,
+      "asin": "B0D4NSS9XV",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
+      "current_price": 3598.99,
+      "original_price": 4699.0,
+      "discount": 23.4,
+      "difference": 1100.01,
       "criteria": [
-        "R$ 1032.63 desc."
+        "R$ 1100.01 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789048034.956824,
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
@@ -24262,7 +24201,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24281,26 +24220,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
-      "asin": "B0CZ9JXF9L",
-      "title": "Impressora 3D Bambu Lab A1 Mini + AMS Lite (Combo) - A1MC, Bivolt",
-      "link": "https://www.amazon.com.br/Bambu-Lab-Impressora-Combo-Cores/dp/B0CZ9JXF9L",
-      "current_price": 3484.86,
-      "original_price": 3959.0,
-      "discount": 12.0,
-      "difference": 474.14,
+      "asin": "B0FY3WHPDH",
+      "title": "Notebook Acer Nitro V15 ANV15-52-96AQ Intel® Core™ i9-13900H de 13° G 16GB 512GB SSD RTX4060 Windows 11 Home 15.6”",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-52-96AQ-i9-13900H-RTX4060/dp/B0FY3WHPDH",
+      "current_price": 7999.0,
+      "original_price": 8599.0,
+      "discount": 7.0,
+      "difference": 600.0,
       "criteria": [
-        "R$ 474.14 desc."
+        "R$ 600.0 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61m3QB2NHVL._AC_UL210_SR210,210_.jpg",
-      "category": "[3D_PRINTER]",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1789016418.844032,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71TFTrBp3ZL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789108447.438108,
+      "discovery_ts": 1789108447.438108,
       "is_new": false
     },
     {
@@ -24322,25 +24261,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GHZ9WLHB",
-      "title": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
-      "link": "https://www.amazon.com.br/Secador-Cabelo-Brit%C3%A2nia-Motor-BSD15A/dp/B0GHZ9WLHB",
-      "current_price": 347.0,
-      "original_price": 769.0,
-      "discount": 54.9,
-      "difference": 422.0,
-      "criteria": [
-        "54.9% OFF",
-        "R$ 422.0 desc."
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789090199.113268,
-      "is_new": false
-    },
-    {
       "asin": "B0H51MB5J9",
       "title": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Quente/Frio 12.000 BTUs (NI12R/NE12R) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI12R-NE12R/dp/B0H51MB5J9",
@@ -24354,8 +24274,27 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0GHZ9WLHB",
+      "title": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
+      "link": "https://www.amazon.com.br/Secador-Cabelo-Brit%C3%A2nia-Motor-BSD15A/dp/B0GHZ9WLHB",
+      "current_price": 395.9,
+      "original_price": 769.0,
+      "discount": 48.5,
+      "difference": 373.1,
+      "criteria": [
+        "48.5% OFF",
+        "R$ 373.1 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789090199.113268,
       "is_new": false
     },
     {
@@ -24372,7 +24311,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24390,7 +24329,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61RGkr3wqEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24408,7 +24347,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789090199.113275,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1785547051.313967,
       "is_new": false
     },
@@ -24426,7 +24365,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24444,26 +24383,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
     {
-      "asin": "B0GJTCF75W",
-      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
-      "current_price": 1199.0,
-      "original_price": 1499.0,
-      "discount": 20.0,
-      "difference": 300.0,
+      "asin": "B07CKDWL5R",
+      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
+      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
+      "current_price": 3562.99,
+      "original_price": 3883.89,
+      "discount": 8.3,
+      "difference": 320.9,
       "criteria": [
-        "R$ 300.0 desc."
+        "R$ 320.9 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789048034.956824,
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKING_OVEN]",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789033030.838629,
       "is_new": false
     },
     {
@@ -24480,26 +24419,62 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789090199.113275,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
-      "asin": "B0GJTP5WB8",
-      "title": "Geladeira Frost Free 412 Litros Inox Consul com Compartimentos Removíveis - CRM50MK 220V",
-      "link": "https://www.amazon.com.br/Geladeira-CRM50MK-Litros-Duplex-Consul/dp/B0GJTP5WB8",
-      "current_price": 2899.0,
-      "original_price": 3199.0,
-      "discount": 9.4,
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
       "difference": 300.0,
       "criteria": [
         "R$ 300.0 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4183+l5-MVL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789090199.113275,
-      "discovery_ts": 1787268944.843758,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789060608.678055,
+      "is_new": false
+    },
+    {
+      "asin": "B0GJTCF75W",
+      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
+      "current_price": 1199.0,
+      "original_price": 1499.0,
+      "discount": 20.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B0CRTYZG5C",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
+      "current_price": 196.6,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.4,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -24552,7 +24527,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41sfmT4opyL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789127150.878769,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
