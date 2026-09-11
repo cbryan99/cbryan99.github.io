@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 15:14:50",
+  "last_check": "11/09/2026 18:36:44",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1101,6 +1101,10 @@
         {
           "price": 3398.99,
           "date": "2026-08-20T14:21:28.397112"
+        },
+        {
+          "price": 3499.0,
+          "date": "2026-09-11T18:36:38.211312"
         }
       ]
     },
@@ -23985,44 +23989,62 @@
           "date": "2026-09-11T15:14:40.685997"
         }
       ]
+    },
+    "B0GVSYZJ4W": {
+      "discovery_date": "2026-09-11T18:36:38.211312",
+      "price_history": [
+        {
+          "price": 2098.89,
+          "date": "2026-09-11T18:36:38.211312"
+        }
+      ]
+    },
+    "B07DP2S4PC": {
+      "discovery_date": "2026-09-11T18:36:38.211312",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-09-11T18:36:38.211312"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GSS9L6NF",
-      "title": "MONDIAL Secador Multifuncional 5 em 1, Rosa Claro, 1500W, 110V - SM-01-BLDC-CP",
-      "link": "https://www.amazon.com.br/MONDIAL-Secador-Multifuncional-Claro-1500W/dp/B0GSS9L6NF",
-      "current_price": 455.0,
-      "original_price": 782.9,
-      "discount": 41.9,
-      "difference": 327.9,
+      "asin": "B0GVSYZJ4W",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Lavanda",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSYZJ4W",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
       "criteria": [
-        "41.9% OFF",
-        "R$ 327.9 desc."
+        "41.7% OFF",
+        "R$ 1500.11 desc."
       ],
       "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71s68kMyZaL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789139680.686004,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789151798.21132,
       "is_new": true
     },
     {
-      "asin": "B0DGTMR754",
-      "title": "PDRN PINK COLLAGEN GEL MASK (4EA)",
-      "link": "https://www.amazon.com.br/PDRN-PINK-COLLAGEN-GEL-MASK/dp/B0DGTMR754",
-      "current_price": 110.0,
-      "original_price": 199.0,
-      "discount": 44.7,
-      "difference": 89.0,
+      "asin": "B07DP2S4PC",
+      "title": "Aparador de Pelos Super Groom 10, Mondial, Preto/Azul, 6W, Bivolt - BG-03",
+      "link": "https://www.amazon.com.br/Aparador-Bivolt-Mondial-BG-03-Pequeno/dp/B07DP2S4PC",
+      "current_price": 89.9,
+      "original_price": 189.9,
+      "discount": 52.7,
+      "difference": 100.0,
       "criteria": [
-        "44.7% OFF"
+        "52.7% OFF"
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61An0jiJFvL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_TREATMENT_MASK]",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789139680.686004,
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61H70XOtzkL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_TRIMMER]",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789151798.21132,
       "is_new": true
     },
     {
@@ -24040,7 +24062,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1787352315.632751,
       "is_new": false
     },
@@ -24082,6 +24104,42 @@
       "is_new": false
     },
     {
+      "asin": "B0FNSGP3T9",
+      "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
+      "current_price": 5759.1,
+      "original_price": 8199.0,
+      "discount": 29.8,
+      "difference": 2439.9,
+      "criteria": [
+        "R$ 2439.9 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789127150.878769,
+      "is_new": false
+    },
+    {
+      "asin": "B0CM3YVHMX",
+      "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
+      "current_price": 3499.0,
+      "original_price": 5799.0,
+      "discount": 39.7,
+      "difference": 2300.0,
+      "criteria": [
+        "R$ 2300.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1784673560.96846,
+      "is_new": false
+    },
+    {
       "asin": "B0F8KVQZQX",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
@@ -24096,26 +24154,46 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
-      "asin": "B0FNSGP3T9",
-      "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
-      "current_price": 6299.0,
-      "original_price": 8199.0,
-      "discount": 23.2,
-      "difference": 1900.0,
+      "asin": "B07CKDWL5R",
+      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
+      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
+      "current_price": 1722.78,
+      "original_price": 3883.89,
+      "discount": 55.6,
+      "difference": 2161.11,
       "criteria": [
-        "R$ 1900.0 desc."
+        "55.6% OFF",
+        "R$ 2161.11 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1789127150.878769,
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKING_OVEN]",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789033030.838629,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLSQF18R",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -24132,7 +24210,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -24174,25 +24252,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GLSLLGZL",
-      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
-      "current_price": 1698.99,
-      "original_price": 2999.0,
-      "discount": 43.3,
-      "difference": 1300.01,
-      "criteria": [
-        "43.3% OFF",
-        "R$ 1300.01 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1788189889.613867,
-      "is_new": false
-    },
-    {
       "asin": "B0CYW2N6TX",
       "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
       "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
@@ -24206,7 +24265,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1787759876.510221,
       "is_new": false
     },
@@ -24229,24 +24288,6 @@
       "is_new": false
     },
     {
-      "asin": "B0D4NSS9XV",
-      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
-      "current_price": 3598.99,
-      "original_price": 4699.0,
-      "discount": 23.4,
-      "difference": 1100.01,
-      "criteria": [
-        "R$ 1100.01 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
       "asin": "B0F5X4NPK2",
       "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
       "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
@@ -24260,8 +24301,26 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1787268944.843758,
+      "is_new": false
+    },
+    {
+      "asin": "B08DMTGNT6",
+      "title": "Hisense WD3S12 Lava e Seca Noir Frontal 12kg/8kg 59,5x61x84,5 cm com Vapor Wi-Fi 16 Programas 110V Digital 1400 RPM",
+      "link": "https://www.amazon.com.br/Hisense-Frontal-5x61x84-Programas-Digital/dp/B08DMTGNT6",
+      "current_price": 2898.99,
+      "original_price": 3699.0,
+      "discount": 21.6,
+      "difference": 800.01,
+      "criteria": [
+        "R$ 800.01 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789069591.933998,
       "is_new": false
     },
     {
@@ -24279,7 +24338,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24302,6 +24361,42 @@
       "is_new": false
     },
     {
+      "asin": "B0GL3FW4QL",
+      "title": "Geladeira Inteligente B= Smart Brastemp Frost Free Duplex 512 Litros Cor Inox - BRM62AK Bivolt",
+      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRM62AK-Litros-Brastemp/dp/B0GL3FW4QL",
+      "current_price": 3692.95,
+      "original_price": 4199.0,
+      "discount": 12.1,
+      "difference": 506.05,
+      "criteria": [
+        "R$ 506.05 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41oL3b3I9qL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1786477286.868824,
+      "is_new": false
+    },
+    {
+      "asin": "B0GK2WV5WC",
+      "title": "Ar Condicionado Inverter Elgin High Wall Eco Iii Wifi 12.000 Btus Quente/frio 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GK2WV5WC",
+      "current_price": 1958.99,
+      "original_price": 2399.0,
+      "discount": 18.3,
+      "difference": 440.01,
+      "criteria": [
+        "R$ 440.01 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
       "asin": "B0H51MB5J9",
       "title": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Quente/Frio 12.000 BTUs (NI12R/NE12R) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI12R-NE12R/dp/B0H51MB5J9",
@@ -24315,7 +24410,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24352,44 +24447,8 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0F5X39JQ1",
-      "title": "Smart TV 4K 55\" LG UHD 55UA85 Processador α7 AI Ger8 4K Super Upscaling Google Cast Alexa Integrado Controle AI Smart Magic WebOS 25",
-      "link": "https://www.amazon.com.br/LG-Processador-Upscaling-Integrado-Controle/dp/B0F5X39JQ1",
-      "current_price": 2399.0,
-      "original_price": 2754.0,
-      "discount": 12.9,
-      "difference": 355.0,
-      "criteria": [
-        "R$ 355.0 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61RGkr3wqEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1789069591.933998,
-      "is_new": false
-    },
-    {
-      "asin": "B0FH5NMXHK",
-      "title": "Monitor Gamer Alienware 25\", Full Hd, 320 Hz, Fast Ips, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
-      "current_price": 1648.98,
-      "original_price": 1999.0,
-      "discount": 17.5,
-      "difference": 350.02,
-      "criteria": [
-        "R$ 350.02 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1785547051.313967,
       "is_new": false
     },
     {
@@ -24406,7 +24465,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24424,26 +24483,27 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
     {
-      "asin": "B07CKDWL5R",
-      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
-      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
-      "current_price": 3562.99,
-      "original_price": 3883.89,
-      "discount": 8.3,
-      "difference": 320.9,
+      "asin": "B0GSS9L6NF",
+      "title": "MONDIAL Secador Multifuncional 5 em 1, Rosa Claro, 1500W, 110V - SM-01-BLDC-CP",
+      "link": "https://www.amazon.com.br/MONDIAL-Secador-Multifuncional-Claro-1500W/dp/B0GSS9L6NF",
+      "current_price": 455.0,
+      "original_price": 782.9,
+      "discount": 41.9,
+      "difference": 327.9,
       "criteria": [
-        "R$ 320.9 desc."
+        "41.9% OFF",
+        "R$ 327.9 desc."
       ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1789033030.838629,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71s68kMyZaL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789139680.685997,
       "is_new": false
     },
     {
@@ -24460,7 +24520,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24478,7 +24538,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24496,26 +24556,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789151798.21132,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.6,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.4,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -24534,6 +24576,24 @@
       "category": "[ELECTRIC_SHAVER]",
       "last_seen": 1789139680.686004,
       "discovery_ts": 1785559271.19715,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGTMR754",
+      "title": "PDRN PINK COLLAGEN GEL MASK (4EA)",
+      "link": "https://www.amazon.com.br/PDRN-PINK-COLLAGEN-GEL-MASK/dp/B0DGTMR754",
+      "current_price": 110.0,
+      "original_price": 199.0,
+      "discount": 44.7,
+      "difference": 89.0,
+      "criteria": [
+        "44.7% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61An0jiJFvL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_TREATMENT_MASK]",
+      "last_seen": 1789151798.21132,
+      "discovery_ts": 1789139680.685997,
       "is_new": false
     },
     {
