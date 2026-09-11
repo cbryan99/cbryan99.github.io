@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 18:36:44",
+  "last_check": "11/09/2026 21:15:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -10081,6 +10081,10 @@
         {
           "price": 377.99,
           "date": "2026-08-03T03:57:57.338894"
+        },
+        {
+          "price": 399.0,
+          "date": "2026-09-11T21:15:44.809909"
         }
       ]
     },
@@ -24007,44 +24011,88 @@
           "date": "2026-09-11T18:36:38.211312"
         }
       ]
+    },
+    "B0H34YS1ZZ": {
+      "discovery_date": "2026-09-11T21:15:44.809909",
+      "price_history": [
+        {
+          "price": 1998.99,
+          "date": "2026-09-11T21:15:44.809909"
+        }
+      ]
+    },
+    "B0D81JTSGX": {
+      "discovery_date": "2026-09-11T21:15:44.809909",
+      "price_history": [
+        {
+          "price": 1709.9,
+          "date": "2026-09-11T21:15:44.809909"
+        }
+      ]
+    },
+    "B07ZYZ83Q9": {
+      "discovery_date": "2026-09-11T21:15:44.809909",
+      "price_history": [
+        {
+          "price": 4298.99,
+          "date": "2026-09-11T21:15:44.809909"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GVSYZJ4W",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Lavanda",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSYZJ4W",
-      "current_price": 2098.89,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.11,
+      "asin": "B07ZYZ83Q9",
+      "title": "Geladeira Hisense Multidoor 460L Frost Free Inverter Inox 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Hisense-Multidoor-Frost-Inverter/dp/B07ZYZ83Q9",
+      "current_price": 4298.99,
+      "original_price": 6949.0,
+      "discount": 38.1,
+      "difference": 2650.01,
       "criteria": [
-        "41.7% OFF",
-        "R$ 1500.11 desc."
+        "R$ 2650.01 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789151798.21132,
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719M2-VGUJL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789161344.809918,
       "is_new": true
     },
     {
-      "asin": "B07DP2S4PC",
-      "title": "Aparador de Pelos Super Groom 10, Mondial, Preto/Azul, 6W, Bivolt - BG-03",
-      "link": "https://www.amazon.com.br/Aparador-Bivolt-Mondial-BG-03-Pequeno/dp/B07DP2S4PC",
-      "current_price": 89.9,
-      "original_price": 189.9,
-      "discount": 52.7,
-      "difference": 100.0,
+      "asin": "B0D81JTSGX",
+      "title": "Lavadora de Roupas 13kg Branca Midea Wave Agitator 127V",
+      "link": "https://www.amazon.com.br/Lavadora-Roupas-Branca-Midea-Agitator/dp/B0D81JTSGX",
+      "current_price": 1709.9,
+      "original_price": 2199.0,
+      "discount": 22.2,
+      "difference": 489.1,
       "criteria": [
-        "52.7% OFF"
+        "R$ 489.1 desc."
       ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61H70XOtzkL._AC_UL210_SR210,210_.jpg",
-      "category": "[HAIR_TRIMMER]",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789151798.21132,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WaSpk6xDL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789161344.809918,
+      "is_new": true
+    },
+    {
+      "asin": "B0H34YS1ZZ",
+      "title": "Samsung Combo Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-128GB/dp/B0H34YS1ZZ",
+      "current_price": 1998.99,
+      "original_price": 2399.0,
+      "discount": 16.7,
+      "difference": 400.01,
+      "criteria": [
+        "R$ 400.01 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Q6G0e5KhL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789161344.809918,
       "is_new": true
     },
     {
@@ -24080,27 +24128,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
-      "asin": "B0GMY41LM8",
-      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
-      "current_price": 3399.0,
-      "original_price": 5999.0,
-      "discount": 43.3,
-      "difference": 2600.0,
-      "criteria": [
-        "43.3% OFF",
-        "R$ 2600.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789083919.237103,
       "is_new": false
     },
     {
@@ -24135,7 +24164,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -24210,32 +24239,14 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
     {
-      "asin": "B0GP7B99RY",
-      "title": "Hisense Smart TV 100 Polegadas 100Q7QG QLED 4K UHD com HDR10+ Dolby Vision Game Mode 120Hz Alexa AirPlay Wi-Fi",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-100Q7QG-Vision-AirPlay/dp/B0GP7B99RY",
-      "current_price": 13389.0,
-      "original_price": 14999.0,
-      "discount": 10.7,
-      "difference": 1610.0,
-      "criteria": [
-        "R$ 1610.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51mR-VnEDSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1786885771.283717,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSXJF6K",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
+      "asin": "B0GVSYZJ4W",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Lavanda",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSYZJ4W",
       "current_price": 2098.89,
       "original_price": 3599.0,
       "discount": 41.7,
@@ -24245,10 +24256,10 @@
         "R$ 1500.11 desc."
       ],
       "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789033030.838629,
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789151798.211312,
       "is_new": false
     },
     {
@@ -24270,21 +24281,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F4M66XWL",
-      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 16 GB, 512 GB SSD W11 Home, 15.6'' FHD, Quiet Blue -X1504VA-NJ1745W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-X1504VA-NJ1745W/dp/B0F4M66XWL",
-      "current_price": 4299.0,
-      "original_price": 5499.0,
-      "discount": 21.8,
-      "difference": 1200.0,
+      "asin": "B0D4NSS9XV",
+      "title": "Samsung Galaxy Book4 Intel® Core™ i3-1315U, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6'' Full HD LED, 1.55kg*.",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Book4-NP750XGJ-KG5BR/dp/B0D4NSS9XV",
+      "current_price": 3598.99,
+      "original_price": 4699.0,
+      "discount": 23.4,
+      "difference": 1100.01,
       "criteria": [
-        "R$ 1200.0 desc."
+        "R$ 1100.01 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789069591.933998,
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1784417123.48503,
       "is_new": false
     },
     {
@@ -24301,8 +24312,27 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1787268944.843758,
+      "is_new": false
+    },
+    {
+      "asin": "B08R93TVRG",
+      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
+      "current_price": 399.0,
+      "original_price": 1199.9,
+      "discount": 66.7,
+      "difference": 800.9,
+      "criteria": [
+        "66.7% OFF",
+        "R$ 800.9 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -24319,7 +24349,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24338,7 +24368,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24356,7 +24386,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TFTrBp3ZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789108447.438108,
       "is_new": false
     },
@@ -24392,7 +24422,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24415,25 +24445,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GHZ9WLHB",
-      "title": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
-      "link": "https://www.amazon.com.br/Secador-Cabelo-Brit%C3%A2nia-Motor-BSD15A/dp/B0GHZ9WLHB",
-      "current_price": 395.9,
-      "original_price": 769.0,
-      "discount": 48.5,
-      "difference": 373.1,
-      "criteria": [
-        "48.5% OFF",
-        "R$ 373.1 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1789090199.113268,
-      "is_new": false
-    },
-    {
       "asin": "B0H4HKXMFH",
       "title": "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026",
       "link": "https://www.amazon.com.br/Smart-LG-OLED-polegadas-2026/dp/B0H4HKXMFH",
@@ -24447,7 +24458,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24465,7 +24476,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24483,7 +24494,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24520,26 +24531,8 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789077437.189865,
-      "is_new": false
-    },
-    {
-      "asin": "B0GJTCF75W",
-      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
-      "current_price": 1199.0,
-      "original_price": 1499.0,
-      "discount": 20.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24556,26 +24549,44 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
     {
-      "asin": "B0FN5DD149",
-      "title": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1 | Versatilidade para cuidar do visual completo | Rosto, cabelo e corpo |60 min sem fio | Lâminas autoafiáveis | MG3927/15",
-      "link": "https://www.amazon.com.br/PHILIPS-Multigroom-Aparador-Pelos-Bivolt/dp/B0FN5DD149",
-      "current_price": 138.96,
-      "original_price": 249.9,
-      "discount": 44.4,
-      "difference": 110.94,
+      "asin": "B0GJTCF75W",
+      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
+      "current_price": 1199.0,
+      "original_price": 1499.0,
+      "discount": 20.0,
+      "difference": 300.0,
       "criteria": [
-        "44.4% OFF"
+        "R$ 300.0 desc."
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71oDl7NmgaL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1785559271.19715,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B07DP2S4PC",
+      "title": "Aparador de Pelos Super Groom 10, Mondial, Preto/Azul, 6W, Bivolt - BG-03",
+      "link": "https://www.amazon.com.br/Aparador-Bivolt-Mondial-BG-03-Pequeno/dp/B07DP2S4PC",
+      "current_price": 89.9,
+      "original_price": 189.9,
+      "discount": 52.7,
+      "difference": 100.0,
+      "criteria": [
+        "52.7% OFF"
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61H70XOtzkL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_TRIMMER]",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789151798.211312,
       "is_new": false
     },
     {
@@ -24597,24 +24608,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DKVJ1HWB",
-      "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
-      "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": 34.83,
-      "original_price": 69.9,
-      "discount": 50.2,
-      "difference": 35.07,
-      "criteria": [
-        "50.2% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1789139680.686004,
-      "discovery_ts": 1784417123.48503,
-      "is_new": false
-    },
-    {
       "asin": "B07SBXMSGB",
       "title": "Argan Óleo Reparador 50ml , Lola Cosmetics",
       "link": "https://www.amazon.com.br/Argan-Oil-Novo-Lola-Cosmetics/dp/B07SBXMSGB",
@@ -24628,7 +24621,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41sfmT4opyL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789139680.686004,
+      "last_seen": 1789161344.809918,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
