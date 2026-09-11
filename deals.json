@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 11:45:57",
+  "last_check": "11/09/2026 15:14:50",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21253,6 +21253,10 @@
         {
           "price": 14186.0,
           "date": "2026-08-16T13:09:31.283717"
+        },
+        {
+          "price": 13389.0,
+          "date": "2026-09-11T15:14:40.685997"
         }
       ]
     },
@@ -23963,25 +23967,62 @@
           "date": "2026-09-11T11:45:50.878760"
         }
       ]
+    },
+    "B0GSS9L6NF": {
+      "discovery_date": "2026-09-11T15:14:40.685997",
+      "price_history": [
+        {
+          "price": 455.0,
+          "date": "2026-09-11T15:14:40.685997"
+        }
+      ]
+    },
+    "B0DGTMR754": {
+      "discovery_date": "2026-09-11T15:14:40.685997",
+      "price_history": [
+        {
+          "price": 110.0,
+          "date": "2026-09-11T15:14:40.685997"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FNSGP3T9",
-      "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
-      "current_price": 6299.0,
-      "original_price": 8199.0,
-      "discount": 23.2,
-      "difference": 1900.0,
+      "asin": "B0GSS9L6NF",
+      "title": "MONDIAL Secador Multifuncional 5 em 1, Rosa Claro, 1500W, 110V - SM-01-BLDC-CP",
+      "link": "https://www.amazon.com.br/MONDIAL-Secador-Multifuncional-Claro-1500W/dp/B0GSS9L6NF",
+      "current_price": 455.0,
+      "original_price": 782.9,
+      "discount": 41.9,
+      "difference": 327.9,
       "criteria": [
-        "R$ 1900.0 desc."
+        "41.9% OFF",
+        "R$ 327.9 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1789127150.878769,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71s68kMyZaL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1789139680.686004,
+      "is_new": true
+    },
+    {
+      "asin": "B0DGTMR754",
+      "title": "PDRN PINK COLLAGEN GEL MASK (4EA)",
+      "link": "https://www.amazon.com.br/PDRN-PINK-COLLAGEN-GEL-MASK/dp/B0DGTMR754",
+      "current_price": 110.0,
+      "original_price": 199.0,
+      "discount": 44.7,
+      "difference": 89.0,
+      "criteria": [
+        "44.7% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61An0jiJFvL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_TREATMENT_MASK]",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1789139680.686004,
       "is_new": true
     },
     {
@@ -23999,26 +24040,8 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1787352315.632751,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7990.0,
-      "original_price": 11499.0,
-      "discount": 30.5,
-      "difference": 3509.0,
-      "criteria": [
-        "R$ 3509.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -24035,8 +24058,27 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0GMY41LM8",
+      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
+      "current_price": 3399.0,
+      "original_price": 5999.0,
+      "discount": 43.3,
+      "difference": 2600.0,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 2600.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1789083919.237103,
       "is_new": false
     },
     {
@@ -24059,41 +24101,76 @@
       "is_new": false
     },
     {
-      "asin": "B0GLSQF18R",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
-      "current_price": 2499.0,
-      "original_price": 4499.0,
-      "discount": 44.5,
-      "difference": 2000.0,
+      "asin": "B0FNSGP3T9",
+      "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
+      "current_price": 6299.0,
+      "original_price": 8199.0,
+      "discount": 23.2,
+      "difference": 1900.0,
       "criteria": [
-        "44.5% OFF",
-        "R$ 2000.0 desc."
+        "R$ 1900.0 desc."
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789016418.844032,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789127150.878769,
+      "discovery_ts": 1789127150.878769,
       "is_new": false
     },
     {
-      "asin": "B0GVT89H5W",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
-      "current_price": 1887.77,
-      "original_price": 3299.0,
-      "discount": 42.8,
-      "difference": 1411.23,
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
       "criteria": [
-        "42.8% OFF",
-        "R$ 1411.23 desc."
+        "R$ 1750.0 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/515VjUyFG6L._AC_UL210_SR210,210_.jpg",
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1786473102.157315,
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
+      "asin": "B0GP7B99RY",
+      "title": "Hisense Smart TV 100 Polegadas 100Q7QG QLED 4K UHD com HDR10+ Dolby Vision Game Mode 120Hz Alexa AirPlay Wi-Fi",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-100Q7QG-Vision-AirPlay/dp/B0GP7B99RY",
+      "current_price": 13389.0,
+      "original_price": 14999.0,
+      "discount": 10.7,
+      "difference": 1610.0,
+      "criteria": [
+        "R$ 1610.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mR-VnEDSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1786885771.283717,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVSXJF6K",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1789033030.838629,
       "is_new": false
     },
     {
@@ -24129,26 +24206,8 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1787759876.510221,
-      "is_new": false
-    },
-    {
-      "asin": "B0F3M62DY3",
-      "title": "Tablet Samsung Galaxy Tab S10 FE, Prata, 128GB, 8GB RAM, Tela Imersiva de 10.9\" 90Hz, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
-      "link": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-Frontal-Android/dp/B0F3M62DY3",
-      "current_price": 2998.99,
-      "original_price": 4199.0,
-      "discount": 28.6,
-      "difference": 1200.01,
-      "criteria": [
-        "R$ 1200.01 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51dSqpuPKWL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -24165,7 +24224,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24201,7 +24260,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24238,26 +24297,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TFTrBp3ZL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789108447.438108,
-      "is_new": false
-    },
-    {
-      "asin": "B0GK2WV5WC",
-      "title": "Ar Condicionado Inverter Elgin High Wall Eco Iii Wifi 12.000 Btus Quente/frio 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GK2WV5WC",
-      "current_price": 1958.99,
-      "original_price": 2399.0,
-      "discount": 18.3,
-      "difference": 440.01,
-      "criteria": [
-        "R$ 440.01 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789108447.438108,
-      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -24274,7 +24315,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24293,7 +24334,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789090199.113268,
       "is_new": false
     },
@@ -24311,7 +24352,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24365,7 +24406,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24383,7 +24424,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24419,8 +24460,26 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789077437.189865,
+      "is_new": false
+    },
+    {
+      "asin": "B0GJTCF75W",
+      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
+      "current_price": 1199.0,
+      "original_price": 1499.0,
+      "discount": 20.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789139680.686004,
+      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24439,24 +24498,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789127150.878769,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B0GJTCF75W",
-      "title": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-P40CRA/dp/B0GJTCF75W",
-      "current_price": 1199.0,
-      "original_price": 1499.0,
-      "discount": 20.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789127150.878769,
-      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24491,7 +24532,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71oDl7NmgaL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -24499,17 +24540,17 @@
       "asin": "B0DKVJ1HWB",
       "title": "Lola Cosmetics Kit Cronograma Capilar Be(m) Dita Ghee - 3 Produtos",
       "link": "https://www.amazon.com.br/FEIRA-CRONOLOLA-Cronograma-Capilar-Produtos/dp/B0DKVJ1HWB",
-      "current_price": 38.7,
+      "current_price": 34.83,
       "original_price": 69.9,
-      "discount": 44.6,
-      "difference": 31.2,
+      "discount": 50.2,
+      "difference": 35.07,
       "criteria": [
-        "44.6% OFF"
+        "50.2% OFF"
       ],
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71K-GAoX50L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1789108447.438108,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24527,7 +24568,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41sfmT4opyL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789127150.878769,
+      "last_seen": 1789139680.686004,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
