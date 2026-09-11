@@ -1,5 +1,5 @@
 {
-  "last_check": "10/09/2026 23:45:28",
+  "last_check": "11/09/2026 01:29:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -7686,6 +7686,10 @@
         {
           "price": 1658.99,
           "date": "2026-08-01T01:17:31.313967"
+        },
+        {
+          "price": 1648.98,
+          "date": "2026-09-11T01:29:59.113268"
         }
       ]
     },
@@ -21984,6 +21988,10 @@
         {
           "price": 2829.9,
           "date": "2026-08-20T23:35:44.843758"
+        },
+        {
+          "price": 2899.0,
+          "date": "2026-09-11T01:29:59.113268"
         }
       ]
     },
@@ -23911,27 +23919,27 @@
           "date": "2026-09-10T23:45:19.237103"
         }
       ]
+    },
+    "B0GHZ9WLHB": {
+      "discovery_date": "2026-09-11T01:29:59.113268",
+      "price_history": [
+        {
+          "price": 347.0,
+          "date": "2026-09-11T01:29:59.113268"
+        }
+      ]
+    },
+    "B0GLS8QF4B": {
+      "discovery_date": "2026-09-11T01:29:59.113268",
+      "price_history": [
+        {
+          "price": 1791.0,
+          "date": "2026-09-11T01:29:59.113268"
+        }
+      ]
     }
   },
   "data": [
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7990.0,
-      "original_price": 11499.0,
-      "discount": 30.5,
-      "difference": 3509.0,
-      "criteria": [
-        "R$ 3509.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789077437.189872,
-      "discovery_ts": 1789077437.189872,
-      "is_new": true
-    },
     {
       "asin": "B0GMY41LM8",
       "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
@@ -23952,39 +23960,41 @@
       "is_new": true
     },
     {
-      "asin": "B0F3M62DY3",
-      "title": "Tablet Samsung Galaxy Tab S10 FE, Prata, 128GB, 8GB RAM, Tela Imersiva de 10.9\" 90Hz, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
-      "link": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-Frontal-Android/dp/B0F3M62DY3",
-      "current_price": 2998.99,
-      "original_price": 4199.0,
-      "discount": 28.6,
-      "difference": 1200.01,
+      "asin": "B0GLS8QF4B",
+      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
+      "current_price": 1791.0,
+      "original_price": 2999.0,
+      "discount": 40.3,
+      "difference": 1208.0,
       "criteria": [
-        "R$ 1200.01 desc."
+        "40.3% OFF",
+        "R$ 1208.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51dSqpuPKWL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789083919.237109,
-      "discovery_ts": 1789077437.189865,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1789090199.113275,
       "is_new": true
     },
     {
-      "asin": "B0894J8SLQ",
-      "title": "Notebook Gamer Acer Nitro V15 ANV15-41-R6J0 AMD Ryzen™ 7 7735HS 8GB RAM 512GB SSD RTX 4050 Linux 15.6”",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-41-R6J0-RyzenTM-7735HS/dp/B0894J8SLQ",
-      "current_price": 5299.0,
-      "original_price": 5599.0,
-      "discount": 5.4,
-      "difference": 300.0,
+      "asin": "B0GHZ9WLHB",
+      "title": "Britânia Secador de Cabelo Motor BLDC 1450W BSD15A 127V Metal e plástico Rosa com rosê",
+      "link": "https://www.amazon.com.br/Secador-Cabelo-Brit%C3%A2nia-Motor-BSD15A/dp/B0GHZ9WLHB",
+      "current_price": 347.0,
+      "original_price": 769.0,
+      "discount": 54.9,
+      "difference": 422.0,
       "criteria": [
-        "R$ 300.0 desc."
+        "54.9% OFF",
+        "R$ 422.0 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
-      "discovery_ts": 1789077437.189865,
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1789090199.113275,
       "is_new": true
     },
     {
@@ -24002,8 +24012,26 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61WfwHHJFLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0GKQTTCMM",
+      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
+      "current_price": 7990.0,
+      "original_price": 11499.0,
+      "discount": 30.5,
+      "difference": 3509.0,
+      "criteria": [
+        "R$ 3509.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789077437.189872,
+      "discovery_ts": 1789077437.189872,
       "is_new": false
     },
     {
@@ -24039,7 +24067,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789077437.189872,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -24095,7 +24123,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -24113,7 +24141,7 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41PQ69cY6ML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24132,7 +24160,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789077437.189872,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789033030.838629,
       "is_new": false
     },
@@ -24169,8 +24197,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1787759876.510221,
+      "is_new": false
+    },
+    {
+      "asin": "B0F3M62DY3",
+      "title": "Tablet Samsung Galaxy Tab S10 FE, Prata, 128GB, 8GB RAM, Tela Imersiva de 10.9\" 90Hz, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
+      "link": "https://www.amazon.com.br/Samsung-Imersiva-Traseira-Frontal-Android/dp/B0F3M62DY3",
+      "current_price": 2998.99,
+      "original_price": 4199.0,
+      "discount": 28.6,
+      "difference": 1200.01,
+      "criteria": [
+        "R$ 1200.01 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dSqpuPKWL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -24187,7 +24233,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24223,7 +24269,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24241,7 +24287,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24296,7 +24342,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24314,7 +24360,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61m3QB2NHVL._AC_UL210_SR210,210_.jpg",
       "category": "[3D_PRINTER]",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24332,7 +24378,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24368,7 +24414,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24386,8 +24432,26 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61RGkr3wqEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH5NMXHK",
+      "title": "Monitor Gamer Alienware 25\", Full Hd, 320 Hz, Fast Ips, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
+      "current_price": 1648.98,
+      "original_price": 1999.0,
+      "discount": 17.5,
+      "difference": 350.02,
+      "criteria": [
+        "R$ 350.02 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1785547051.313967,
       "is_new": false
     },
     {
@@ -24404,7 +24468,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24422,8 +24486,44 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789083919.237109,
+      "last_seen": 1789090199.113275,
       "discovery_ts": 1786385523.800129,
+      "is_new": false
+    },
+    {
+      "asin": "B0894J8SLQ",
+      "title": "Notebook Gamer Acer Nitro V15 ANV15-41-R6J0 AMD Ryzen™ 7 7735HS 8GB RAM 512GB SSD RTX 4050 Linux 15.6”",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV15-41-R6J0-RyzenTM-7735HS/dp/B0894J8SLQ",
+      "current_price": 5299.0,
+      "original_price": 5599.0,
+      "discount": 5.4,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1789077437.189865,
+      "is_new": false
+    },
+    {
+      "asin": "B0GJTP5WB8",
+      "title": "Geladeira Frost Free 412 Litros Inox Consul com Compartimentos Removíveis - CRM50MK 220V",
+      "link": "https://www.amazon.com.br/Geladeira-CRM50MK-Litros-Duplex-Consul/dp/B0GJTP5WB8",
+      "current_price": 2899.0,
+      "original_price": 3199.0,
+      "discount": 9.4,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4183+l5-MVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789090199.113275,
+      "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
