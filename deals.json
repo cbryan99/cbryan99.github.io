@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 21:15:56",
+  "last_check": "11/09/2026 23:18:48",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24038,61 +24038,34 @@
           "date": "2026-09-11T21:15:44.809909"
         }
       ]
+    },
+    "B0D3J6CQNB": {
+      "discovery_date": "2026-09-11T23:18:48.986073",
+      "price_history": [
+        {
+          "price": 1638.0,
+          "date": "2026-09-11T23:18:48.986073"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B07ZYZ83Q9",
-      "title": "Geladeira Hisense Multidoor 460L Frost Free Inverter Inox 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Hisense-Multidoor-Frost-Inverter/dp/B07ZYZ83Q9",
-      "current_price": 4298.99,
-      "original_price": 6949.0,
-      "discount": 38.1,
-      "difference": 2650.01,
+      "asin": "B0D3J6CQNB",
+      "title": "Smart TV 43\" LG Full HD 43LR6700 Processador α5 Ger6 AI Alexa integrado LG Channels webOS 23 compatível com Controle Smart Magic",
+      "link": "https://www.amazon.com.br/LG-43LR6700-Processador-integrado-compat%C3%ADvel/dp/B0D3J6CQNB",
+      "current_price": 1638.0,
+      "original_price": 2100.0,
+      "discount": 22.0,
+      "difference": 462.0,
       "criteria": [
-        "R$ 2650.01 desc."
+        "R$ 462.0 desc."
       ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/719M2-VGUJL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789161344.809918,
-      "discovery_ts": 1789161344.809918,
-      "is_new": true
-    },
-    {
-      "asin": "B0D81JTSGX",
-      "title": "Lavadora de Roupas 13kg Branca Midea Wave Agitator 127V",
-      "link": "https://www.amazon.com.br/Lavadora-Roupas-Branca-Midea-Agitator/dp/B0D81JTSGX",
-      "current_price": 1709.9,
-      "original_price": 2199.0,
-      "discount": 22.2,
-      "difference": 489.1,
-      "criteria": [
-        "R$ 489.1 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WaSpk6xDL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789161344.809918,
-      "discovery_ts": 1789161344.809918,
-      "is_new": true
-    },
-    {
-      "asin": "B0H34YS1ZZ",
-      "title": "Samsung Combo Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-128GB/dp/B0H34YS1ZZ",
-      "current_price": 1998.99,
-      "original_price": 2399.0,
-      "discount": 16.7,
-      "difference": 400.01,
-      "criteria": [
-        "R$ 400.01 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Q6G0e5KhL._AC_UL210_SR210,210_.jpg",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61RFJ5GOqVL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
-      "discovery_ts": 1789161344.809918,
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1789168728.986082,
       "is_new": true
     },
     {
@@ -24133,6 +24106,24 @@
       "is_new": false
     },
     {
+      "asin": "B07ZYZ83Q9",
+      "title": "Geladeira Hisense Multidoor 460L Frost Free Inverter Inox 127V",
+      "link": "https://www.amazon.com.br/Geladeira-Hisense-Multidoor-Frost-Inverter/dp/B07ZYZ83Q9",
+      "current_price": 4298.99,
+      "original_price": 6949.0,
+      "discount": 38.1,
+      "difference": 2650.01,
+      "criteria": [
+        "R$ 2650.01 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719M2-VGUJL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1789161344.809909,
+      "is_new": false
+    },
+    {
       "asin": "B0FNSGP3T9",
       "title": "Tab Samsung Galaxy S11 Cinza, 256GB, 12GB 11\" Camera 12MP, 5G",
       "link": "https://www.amazon.com.br/Samsung-Galaxy-Cinza-256GB-Camera/dp/B0FNSGP3T9",
@@ -24164,8 +24155,27 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1784673560.96846,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -24244,6 +24254,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GP7B99RY",
+      "title": "Hisense Smart TV 100 Polegadas 100Q7QG QLED 4K UHD com HDR10+ Dolby Vision Game Mode 120Hz Alexa AirPlay Wi-Fi",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-100Q7QG-Vision-AirPlay/dp/B0GP7B99RY",
+      "current_price": 13389.0,
+      "original_price": 14999.0,
+      "discount": 10.7,
+      "difference": 1610.0,
+      "criteria": [
+        "R$ 1610.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51mR-VnEDSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1786885771.283717,
+      "is_new": false
+    },
+    {
       "asin": "B0GVSYZJ4W",
       "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Lavanda",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSYZJ4W",
@@ -24258,7 +24286,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789151798.211312,
       "is_new": false
     },
@@ -24294,7 +24322,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24312,7 +24340,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24331,7 +24359,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24349,7 +24377,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24368,7 +24396,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24409,6 +24437,42 @@
       "is_new": false
     },
     {
+      "asin": "B0D81JTSGX",
+      "title": "Lavadora de Roupas 13kg Branca Midea Wave Agitator 127V",
+      "link": "https://www.amazon.com.br/Lavadora-Roupas-Branca-Midea-Agitator/dp/B0D81JTSGX",
+      "current_price": 1709.9,
+      "original_price": 2199.0,
+      "discount": 22.2,
+      "difference": 489.1,
+      "criteria": [
+        "R$ 489.1 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WaSpk6xDL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1789161344.809918,
+      "discovery_ts": 1789161344.809918,
+      "is_new": false
+    },
+    {
+      "asin": "B0CZ9JXF9L",
+      "title": "Impressora 3D Bambu Lab A1 Mini + AMS Lite (Combo) - A1MC, Bivolt",
+      "link": "https://www.amazon.com.br/Bambu-Lab-Impressora-Combo-Cores/dp/B0CZ9JXF9L",
+      "current_price": 3484.86,
+      "original_price": 3959.0,
+      "discount": 12.0,
+      "difference": 474.14,
+      "criteria": [
+        "R$ 474.14 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61m3QB2NHVL._AC_UL210_SR210,210_.jpg",
+      "category": "[3D_PRINTER]",
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
       "asin": "B0GK2WV5WC",
       "title": "Ar Condicionado Inverter Elgin High Wall Eco Iii Wifi 12.000 Btus Quente/frio 220v",
       "link": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-12-000-Quente/dp/B0GK2WV5WC",
@@ -24422,8 +24486,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0H34YS1ZZ",
+      "title": "Samsung Combo Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-128GB/dp/B0H34YS1ZZ",
+      "current_price": 1998.99,
+      "original_price": 2399.0,
+      "discount": 16.7,
+      "difference": 400.01,
+      "criteria": [
+        "R$ 400.01 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Q6G0e5KhL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789168728.986082,
+      "discovery_ts": 1789161344.809909,
       "is_new": false
     },
     {
@@ -24440,7 +24522,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24458,7 +24540,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24476,7 +24558,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24494,7 +24576,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24531,7 +24613,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24549,7 +24631,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24585,7 +24667,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61H70XOtzkL._AC_UL210_SR210,210_.jpg",
       "category": "[HAIR_TRIMMER]",
-      "last_seen": 1789161344.809918,
+      "last_seen": 1789168728.986082,
       "discovery_ts": 1789151798.211312,
       "is_new": false
     },
