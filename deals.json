@@ -1,5 +1,5 @@
 {
-  "last_check": "12/09/2026 13:19:12",
+  "last_check": "12/09/2026 16:22:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -3932,6 +3932,10 @@
         {
           "price": 3499.0,
           "date": "2026-08-10T22:18:39.496484"
+        },
+        {
+          "price": 3399.0,
+          "date": "2026-09-12T16:22:30.834028"
         }
       ]
     },
@@ -16346,6 +16350,10 @@
         {
           "price": 89.9,
           "date": "2026-08-10T11:02:17.457140"
+        },
+        {
+          "price": 89.89,
+          "date": "2026-09-12T16:22:30.834028"
         }
       ]
     },
@@ -17741,6 +17749,10 @@
         {
           "price": 4919.0,
           "date": "2026-08-11T14:40:42.546747"
+        },
+        {
+          "price": 4799.0,
+          "date": "2026-09-12T16:22:30.834028"
         }
       ]
     },
@@ -24193,43 +24205,34 @@
           "date": "2026-09-12T13:19:05.198038"
         }
       ]
+    },
+    "B0F9PS8S9K": {
+      "discovery_date": "2026-09-12T16:22:30.834028",
+      "price_history": [
+        {
+          "price": 1935.9,
+          "date": "2026-09-12T16:22:30.834028"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0HFPWKFPY",
-      "title": "Samsung Notebook Galaxy Book6 16\", Ultra 7 355, 32GB, 1TB SSD, Windows 11 Home, 1.74 kg",
-      "link": "https://www.amazon.com.br/Samsung-Notebook-Galaxy-Book6-Windows/dp/B0HFPWKFPY",
-      "current_price": 9899.0,
-      "original_price": 10899.0,
-      "discount": 9.2,
-      "difference": 1000.0,
+      "asin": "B0F9PS8S9K",
+      "title": "Secadora de Roupas EOS 11kg Piso e Parede ESR11VB 220V",
+      "link": "https://www.amazon.com.br/Secadora-Roupas-EOS-Parede-ESR11VB/dp/B0F9PS8S9K",
+      "current_price": 1935.9,
+      "original_price": 2384.79,
+      "discount": 18.8,
+      "difference": 448.89,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 448.89 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51r+FZz+ICL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789219145.198045,
-      "is_new": true
-    },
-    {
-      "asin": "B0HBYBB54N",
-      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 2026, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HBYBB54N",
-      "current_price": 4149.0,
-      "original_price": 4499.0,
-      "discount": 7.8,
-      "difference": 350.0,
-      "criteria": [
-        "R$ 350.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyVARXJHL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789219145.198045,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41T8OV+MUqL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1789230150.834035,
       "is_new": true
     },
     {
@@ -24264,7 +24267,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789206942.412501,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789127150.878769,
       "is_new": false
     },
@@ -24282,7 +24285,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -24301,8 +24304,83 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
+      "asin": "B07CKDWL5R",
+      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
+      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
+      "current_price": 1722.78,
+      "original_price": 3883.89,
+      "discount": 55.6,
+      "difference": 2161.11,
+      "criteria": [
+        "55.6% OFF",
+        "R$ 2161.11 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKING_OVEN]",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1789033030.838629,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLTJ4MYM",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B08J9GJXMV",
+      "title": "Ar-condicionado Split Teto 30000 Btus Carrier Xperience Só Frio 42zqb30c5/38tfcb30515mc 220v",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Carrier-Xperience-42zqb30c5-38tfcb30515mc/dp/B08J9GJXMV",
+      "current_price": 4799.0,
+      "original_price": 6796.48,
+      "discount": 29.4,
+      "difference": 1997.48,
+      "criteria": [
+        "R$ 1997.48 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gOeZ+14xL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1786459242.546747,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT65QTG",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Verde",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVT65QTG",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nJuNN5hPL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1786556343.919248,
       "is_new": false
     },
     {
@@ -24325,22 +24403,39 @@
       "is_new": false
     },
     {
-      "asin": "B0GVT65QTG",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Verde",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVT65QTG",
-      "current_price": 2098.89,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.11,
+      "asin": "B0HCPPD4W9",
+      "title": "Geladeira Panasonic BB64PV2XC Frost Free Inverter 475L Aço Escovado Bivolt | Tecnologia Inverter",
+      "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB64PV2XC-Inverter-Escovado/dp/B0HCPPD4W9",
+      "current_price": 3969.0,
+      "original_price": 5399.0,
+      "discount": 26.5,
+      "difference": 1430.0,
       "criteria": [
-        "41.7% OFF",
-        "R$ 1500.11 desc."
+        "R$ 1430.0 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51nJuNN5hPL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1786556343.919248,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j2ubenPkL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1789175599.222088,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -24375,7 +24470,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dSqpuPKWL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24393,7 +24488,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24416,21 +24511,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GR11CQ84",
-      "title": "Monitor Samsung Odyssey OLED G9 49\", DQHD, 240Hz, 0.03ms, ajuste de altura, G-sync, FreeSync Premium Pro, DP, HDMI, Micro HDMI, prata",
-      "link": "https://www.amazon.com.br/Monitor-Samsung-Odyssey-FreeSync-Premium/dp/B0GR11CQ84",
-      "current_price": 8549.0,
-      "original_price": 9499.0,
-      "discount": 10.0,
-      "difference": 950.0,
+      "asin": "B0HFPWKFPY",
+      "title": "Samsung Notebook Galaxy Book6 16\", Ultra 7 355, 32GB, 1TB SSD, Windows 11 Home, 1.74 kg",
+      "link": "https://www.amazon.com.br/Samsung-Notebook-Galaxy-Book6-Windows/dp/B0HFPWKFPY",
+      "current_price": 9899.0,
+      "original_price": 10899.0,
+      "discount": 9.2,
+      "difference": 1000.0,
       "criteria": [
-        "R$ 950.0 desc."
+        "R$ 1000.0 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oGhLrTfhL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1784477560.307231,
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51r+FZz+ICL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789219145.198045,
+      "discovery_ts": 1789219145.198045,
       "is_new": false
     },
     {
@@ -24447,7 +24542,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24466,26 +24561,8 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "B08DMTGNT6",
-      "title": "Hisense WD3S12 Lava e Seca Noir Frontal 12kg/8kg 59,5x61x84,5 cm com Vapor Wi-Fi 16 Programas 110V Digital 1400 RPM",
-      "link": "https://www.amazon.com.br/Hisense-Frontal-5x61x84-Programas-Digital/dp/B08DMTGNT6",
-      "current_price": 2898.99,
-      "original_price": 3699.0,
-      "discount": 21.6,
-      "difference": 800.01,
-      "criteria": [
-        "R$ 800.01 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789069591.933998,
       "is_new": false
     },
     {
@@ -24538,44 +24615,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/911eIe88TOL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789175599.222088,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQY5GR",
-      "title": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
-      "link": "https://www.amazon.com.br/PHILIPS-Smart-55PUG7300-Comando-Bluetooth/dp/B0FPBQY5GR",
-      "current_price": 2399.0,
-      "original_price": 3099.0,
-      "discount": 22.6,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71d6BkXy+rL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789175599.222088,
-      "is_new": false
-    },
-    {
-      "asin": "B0F7Y4X8HY",
-      "title": "Lava-Louças EOS Premium AI 14 Serviços Prata ELL142S 220V",
-      "link": "https://www.amazon.com.br/Lava-Lou%C3%A7as-EOS-Premium-Servi%C3%A7os-ELL142S/dp/B0F7Y4X8HY",
-      "current_price": 2510.07,
-      "original_price": 3189.0,
-      "discount": 21.3,
-      "difference": 678.93,
-      "criteria": [
-        "R$ 678.93 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XAIU3pIhL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
       "is_new": false
     },
     {
@@ -24593,26 +24634,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789206942.412501,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
     {
-      "asin": "B0D81JTSGX",
-      "title": "Lavadora de Roupas 13kg Branca Midea Wave Agitator 127V",
-      "link": "https://www.amazon.com.br/Lavadora-Roupas-Branca-Midea-Agitator/dp/B0D81JTSGX",
-      "current_price": 1709.9,
-      "original_price": 2199.0,
-      "discount": 22.2,
-      "difference": 489.1,
+      "asin": "B0H4HKXMFH",
+      "title": "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026",
+      "link": "https://www.amazon.com.br/Smart-LG-OLED-polegadas-2026/dp/B0H4HKXMFH",
+      "current_price": 6499.0,
+      "original_price": 7119.0,
+      "discount": 8.7,
+      "difference": 620.0,
       "criteria": [
-        "R$ 489.1 desc."
+        "R$ 620.0 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WaSpk6xDL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789161344.809909,
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -24629,7 +24670,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24648,7 +24689,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789090199.113268,
       "is_new": false
     },
@@ -24684,62 +24725,8 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B0H4HKXMFH",
-      "title": "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026",
-      "link": "https://www.amazon.com.br/Smart-LG-OLED-polegadas-2026/dp/B0H4HKXMFH",
-      "current_price": 6499.0,
-      "original_price": 6870.51,
-      "discount": 5.4,
-      "difference": 371.51,
-      "criteria": [
-        "R$ 371.51 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
-      "asin": "B09SVS3DZM",
-      "title": "Aspirador de po robo Electrolux 2h20min controle remoto bateria longa duração automatico varre aspira passa pano ERB20 bivolt preto sensor antiqueda",
-      "link": "https://www.amazon.com.br/Electrolux-Experience-Autonomous-Technology-ERB20/dp/B09SVS3DZM",
-      "current_price": 579.9,
-      "original_price": 949.9,
-      "discount": 39.0,
-      "difference": 370.0,
-      "criteria": [
-        "R$ 370.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41PavImjqjL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCSM7NY6",
-      "title": "Ar-Condicionado Inverter Split Hi Wall TCL T-Pro 2.0 12.000 BTUs R-32 Só Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Split-TCL-12-000/dp/B0FCSM7NY6",
-      "current_price": 1999.0,
-      "original_price": 2366.11,
-      "discount": 15.5,
-      "difference": 367.11,
-      "criteria": [
-        "R$ 367.11 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51qyU6gKpTL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
       "is_new": false
     },
     {
@@ -24756,7 +24743,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24774,44 +24761,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
     {
-      "asin": "B0H2HJ1RWD",
-      "title": "VEDO Acordeon Profissional 34 Teclas, com 60 Teclas Baixo, 5 Teclas Variáveis, Terceira voz, Acordeão Avançado, Adequado Para Adultos Amantes da Música, Orquestra, Maple e Molas Alemãs, Preto",
-      "link": "https://www.amazon.com.br/VEDO-Acordeon-Profissional-Vari%C3%A1veis-Orquestra/dp/B0H2HJ1RWD",
-      "current_price": 2649.08,
-      "original_price": 2999.0,
-      "discount": 11.7,
-      "difference": 349.92,
+      "asin": "B0HBYBB54N",
+      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 2026, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HBYBB54N",
+      "current_price": 4149.0,
+      "original_price": 4499.0,
+      "discount": 7.8,
+      "difference": 350.0,
       "criteria": [
-        "R$ 349.92 desc."
+        "R$ 350.0 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/714mcIT0NML._AC_UL210_SR210,210_.jpg",
-      "category": "[MUSICAL_INSTRUMENTS]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
-      "is_new": false
-    },
-    {
-      "asin": "B07CKDWL5R",
-      "title": "Forno de embutir elétrico Brastemp 67 litros cor inox com Função Ar Forçado e Painel Touch - BO260AR 220V",
-      "link": "https://www.amazon.com.br/embutir-el%C3%A9trico-Brastemp-litros-For%C3%A7ado/dp/B07CKDWL5R",
-      "current_price": 3562.99,
-      "original_price": 3883.89,
-      "discount": 8.3,
-      "difference": 320.9,
-      "criteria": [
-        "R$ 320.9 desc."
-      ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789033030.838629,
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyVARXJHL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789219145.198045,
+      "discovery_ts": 1789219145.198045,
       "is_new": false
     },
     {
@@ -24828,7 +24797,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24851,39 +24820,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DFRSDH9P",
-      "title": "PHILIPS, Smart TV, 50'' 4K UHD, 50PUG7019/78, Google TV, Comando de Voz, HDR",
-      "link": "https://www.amazon.com.br/Philips-50PUG7019-78-Google-Comando/dp/B0DFRSDH9P",
-      "current_price": 2199.0,
-      "original_price": 2499.0,
-      "discount": 12.0,
-      "difference": 300.0,
+      "asin": "B0FN5DD149",
+      "title": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1 | Versatilidade para cuidar do visual completo | Rosto, cabelo e corpo |60 min sem fio | Lâminas autoafiáveis | MG3927/15",
+      "link": "https://www.amazon.com.br/PHILIPS-Multigroom-Aparador-Pelos-Bivolt/dp/B0FN5DD149",
+      "current_price": 138.96,
+      "original_price": 249.9,
+      "discount": 44.4,
+      "difference": 110.94,
       "criteria": [
-        "R$ 300.0 desc."
+        "44.4% OFF"
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615UmEOpLML._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
-      "is_new": false
-    },
-    {
-      "asin": "B0FYQ1SHHS",
-      "title": "GameSir G8 Plus MFi – Controle para iPhone 15/16/17, iPad Mini e Android (USB-C), com certificação MFi oficial, design ergonômico, 2 botões traseiros Pro e compatível com Call of Duty, Xbox Cloud Gaming e muito mais.",
-      "link": "https://www.amazon.com.br/GameSir-G8-MFi-Controlador-Handy/dp/B0FYQ1SHHS",
-      "current_price": 199.99,
-      "original_price": 399.0,
-      "discount": 49.9,
-      "difference": 199.01,
-      "criteria": [
-        "49.9% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61WGrvXwEWL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1789206942.412501,
-      "discovery_ts": 1789206942.412501,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71oDl7NmgaL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_SHAVER]",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1785559271.19715,
       "is_new": false
     },
     {
@@ -24900,8 +24851,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789230150.834035,
       "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0CKK4XLTB",
+      "title": "I2GO, Carregador Portátil (Power Bank), Pocket, 5000mAh, Não Necessita Cabos, Modelo USB-C",
+      "link": "https://www.amazon.com.br/Carregador-Port%C3%A1til-Power-Pocket-5000mAh/dp/B0CKK4XLTB",
+      "current_price": 89.89,
+      "original_price": 149.9,
+      "discount": 40.0,
+      "difference": 60.01,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61wg5LVdnOL._AC_UL210_SR210,210_.jpg",
+      "category": "[POWER_BANK]",
+      "last_seen": 1789230150.834035,
+      "discovery_ts": 1786359737.45714,
       "is_new": false
     }
   ]
