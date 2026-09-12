@@ -1,5 +1,5 @@
 {
-  "last_check": "11/09/2026 23:18:48",
+  "last_check": "12/09/2026 01:13:31",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24047,9 +24047,126 @@
           "date": "2026-09-11T23:18:48.986073"
         }
       ]
+    },
+    "B0HCPPD4W9": {
+      "discovery_date": "2026-09-12T01:13:19.222088",
+      "price_history": [
+        {
+          "price": 3969.0,
+          "date": "2026-09-12T01:13:19.222088"
+        }
+      ]
+    },
+    "B0F7JZMVKF": {
+      "discovery_date": "2026-09-12T01:13:19.222088",
+      "price_history": [
+        {
+          "price": 3227.8,
+          "date": "2026-09-12T01:13:19.222088"
+        }
+      ]
+    },
+    "B0GYQ6JLLN": {
+      "discovery_date": "2026-09-12T01:13:19.222088",
+      "price_history": [
+        {
+          "price": 8606.59,
+          "date": "2026-09-12T01:13:19.222088"
+        }
+      ]
+    },
+    "B0DVZQ8Z8S": {
+      "discovery_date": "2026-09-12T01:13:19.222088",
+      "price_history": [
+        {
+          "price": 3121.09,
+          "date": "2026-09-12T01:13:19.222088"
+        }
+      ]
+    },
+    "B0FPBQY5GR": {
+      "discovery_date": "2026-09-12T01:13:19.222088",
+      "price_history": [
+        {
+          "price": 2399.0,
+          "date": "2026-09-12T01:13:19.222088"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0HCPPD4W9",
+      "title": "Geladeira Panasonic BB64PV2XC Frost Free Inverter 475L Aço Escovado Bivolt | Tecnologia Inverter",
+      "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB64PV2XC-Inverter-Escovado/dp/B0HCPPD4W9",
+      "current_price": 3969.0,
+      "original_price": 5399.0,
+      "discount": 26.5,
+      "difference": 1430.0,
+      "criteria": [
+        "R$ 1430.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j2ubenPkL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789175599.222096,
+      "is_new": true
+    },
+    {
+      "asin": "B0F7JZMVKF",
+      "title": "Smart TV TCL 55 Polegadas QLED Mini LED 4K C6K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 55C6K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-55C6K/dp/B0F7JZMVKF",
+      "current_price": 3227.8,
+      "original_price": 3999.0,
+      "discount": 19.3,
+      "difference": 771.2,
+      "criteria": [
+        "R$ 771.2 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/911eIe88TOL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789175599.222096,
+      "is_new": true
+    },
+    {
+      "asin": "B0FPBQY5GR",
+      "title": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
+      "link": "https://www.amazon.com.br/PHILIPS-Smart-55PUG7300-Comando-Bluetooth/dp/B0FPBQY5GR",
+      "current_price": 2399.0,
+      "original_price": 3099.0,
+      "discount": 22.6,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71d6BkXy+rL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789175599.222096,
+      "is_new": true
+    },
+    {
+      "asin": "B0GYQ6JLLN",
+      "title": "Smart TV TCL 85 Polegadas QLED Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85A400M/dp/B0GYQ6JLLN",
+      "current_price": 8606.59,
+      "original_price": 9147.9,
+      "discount": 5.9,
+      "difference": 541.31,
+      "criteria": [
+        "R$ 541.31 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81thYHM7SlL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789175599.222096,
+      "is_new": true
+    },
     {
       "asin": "B0D3J6CQNB",
       "title": "Smart TV 43\" LG Full HD 43LR6700 Processador α5 Ger6 AI Alexa integrado LG Channels webOS 23 compatível com Controle Smart Magic",
@@ -24069,22 +24186,39 @@
       "is_new": true
     },
     {
-      "asin": "B0DSY6G3QB",
-      "title": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSY6G3QB",
-      "current_price": 3999.0,
-      "original_price": 7999.0,
-      "discount": 50.0,
-      "difference": 4000.0,
+      "asin": "B0DVZQ8Z8S",
+      "title": "Ar-Condicionado Split HW Philco PAC24FI 24.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Philco-PAC24FI-24-000/dp/B0DVZQ8Z8S",
+      "current_price": 3121.09,
+      "original_price": 3499.0,
+      "discount": 10.8,
+      "difference": 377.91,
       "criteria": [
-        "50.0% OFF",
-        "R$ 4000.0 desc."
+        "R$ 377.91 desc."
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789175599.222096,
+      "is_new": true
+    },
+    {
+      "asin": "B0GKQTTCMM",
+      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
+      "current_price": 7990.0,
+      "original_price": 11499.0,
+      "discount": 30.5,
+      "difference": 3509.0,
+      "criteria": [
+        "R$ 3509.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1787352315.632751,
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -24137,7 +24271,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51-pAvw7FNL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789127150.878769,
       "is_new": false
     },
@@ -24174,27 +24308,8 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -24212,14 +24327,14 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51SJsNXAuIL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKING_OVEN]",
-      "last_seen": 1789151798.21132,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789033030.838629,
       "is_new": false
     },
     {
-      "asin": "B0GLSQF18R",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
+      "asin": "B0GLTJ4MYM",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
       "current_price": 2499.0,
       "original_price": 4499.0,
       "discount": 44.5,
@@ -24229,10 +24344,10 @@
         "R$ 2000.0 desc."
       ],
       "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789016418.844032,
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
@@ -24267,7 +24382,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mR-VnEDSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1786885771.283717,
       "is_new": false
     },
@@ -24291,21 +24406,22 @@
       "is_new": false
     },
     {
-      "asin": "B0CYW2N6TX",
-      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
-      "current_price": 2999.0,
-      "original_price": 4299.0,
-      "discount": 30.2,
-      "difference": 1300.0,
+      "asin": "B0GVT89H5W",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
+      "current_price": 1887.77,
+      "original_price": 3299.0,
+      "discount": 42.8,
+      "difference": 1411.23,
       "criteria": [
-        "R$ 1300.0 desc."
+        "42.8% OFF",
+        "R$ 1411.23 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515VjUyFG6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1787759876.510221,
+      "last_seen": 1789175599.222096,
+      "discovery_ts": 1786473102.157315,
       "is_new": false
     },
     {
@@ -24340,7 +24456,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24359,7 +24475,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24377,7 +24493,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24396,7 +24512,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24416,24 +24532,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789161344.809918,
       "discovery_ts": 1789108447.438108,
-      "is_new": false
-    },
-    {
-      "asin": "B0GL3FW4QL",
-      "title": "Geladeira Inteligente B= Smart Brastemp Frost Free Duplex 512 Litros Cor Inox - BRM62AK Bivolt",
-      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRM62AK-Litros-Brastemp/dp/B0GL3FW4QL",
-      "current_price": 3692.95,
-      "original_price": 4199.0,
-      "discount": 12.1,
-      "difference": 506.05,
-      "criteria": [
-        "R$ 506.05 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41oL3b3I9qL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -24486,7 +24584,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24504,7 +24602,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Q6G0e5KhL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789161344.809909,
       "is_new": false
     },
@@ -24522,7 +24620,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LJSdrWwML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24540,7 +24638,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24558,7 +24656,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24576,27 +24674,8 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1786385523.800129,
-      "is_new": false
-    },
-    {
-      "asin": "B0GSS9L6NF",
-      "title": "MONDIAL Secador Multifuncional 5 em 1, Rosa Claro, 1500W, 110V - SM-01-BLDC-CP",
-      "link": "https://www.amazon.com.br/MONDIAL-Secador-Multifuncional-Claro-1500W/dp/B0GSS9L6NF",
-      "current_price": 455.0,
-      "original_price": 782.9,
-      "discount": 41.9,
-      "difference": 327.9,
-      "criteria": [
-        "41.9% OFF",
-        "R$ 327.9 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71s68kMyZaL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789139680.685997,
       "is_new": false
     },
     {
@@ -24613,7 +24692,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24667,26 +24746,8 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61H70XOtzkL._AC_UL210_SR210,210_.jpg",
       "category": "[HAIR_TRIMMER]",
-      "last_seen": 1789168728.986082,
+      "last_seen": 1789175599.222096,
       "discovery_ts": 1789151798.211312,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGTMR754",
-      "title": "PDRN PINK COLLAGEN GEL MASK (4EA)",
-      "link": "https://www.amazon.com.br/PDRN-PINK-COLLAGEN-GEL-MASK/dp/B0DGTMR754",
-      "current_price": 110.0,
-      "original_price": 199.0,
-      "discount": 44.7,
-      "difference": 89.0,
-      "criteria": [
-        "44.7% OFF"
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61An0jiJFvL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_TREATMENT_MASK]",
-      "last_seen": 1789151798.21132,
-      "discovery_ts": 1789139680.685997,
       "is_new": false
     },
     {
