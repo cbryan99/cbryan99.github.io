@@ -1,5 +1,5 @@
 {
-  "last_check": "12/09/2026 18:33:18",
+  "last_check": "12/09/2026 20:54:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1113,6 +1113,10 @@
         {
           "price": 3499.0,
           "date": "2026-09-11T18:36:38.211312"
+        },
+        {
+          "price": 3398.98,
+          "date": "2026-09-12T20:54:20.437726"
         }
       ]
     },
@@ -18509,6 +18513,10 @@
         {
           "price": 2189.0,
           "date": "2026-08-11T23:45:45.120891"
+        },
+        {
+          "price": 2188.99,
+          "date": "2026-09-12T20:54:20.437726"
         }
       ]
     },
@@ -24214,9 +24222,36 @@
           "date": "2026-09-12T16:22:30.834028"
         }
       ]
+    },
+    "B0C9KB44X1": {
+      "discovery_date": "2026-09-12T20:54:20.437726",
+      "price_history": [
+        {
+          "price": 3959.9,
+          "date": "2026-09-12T20:54:20.437726"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0C9KB44X1",
+      "title": "Refrigerador/Geladeira Side By Side Philco PRF535ID 434L 127V",
+      "link": "https://www.amazon.com.br/Refrigerador-Geladeira-Side-Philco-PRF535ID/dp/B0C9KB44X1",
+      "current_price": 3959.9,
+      "original_price": 4840.0,
+      "discount": 18.2,
+      "difference": 880.1,
+      "criteria": [
+        "R$ 880.1 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41rjklJH3VL._AC_UL210_SR210,210_.jpg",
+      "category": "[SMALL_HOME_APPLIANCES]",
+      "last_seen": 1789246460.437735,
+      "discovery_ts": 1789246460.437735,
+      "is_new": true
+    },
     {
       "asin": "B0DGM1PJMK",
       "title": "Apple iPhone 16 (128 GB) – Branco",
@@ -24231,7 +24266,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -24257,17 +24292,18 @@
       "asin": "B0CM3YVHMX",
       "title": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24F/YE24F 220V",
       "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-24000-Electrolux/dp/B0CM3YVHMX",
-      "current_price": 3499.0,
+      "current_price": 3398.98,
       "original_price": 5799.0,
-      "discount": 39.7,
-      "difference": 2300.0,
+      "discount": 41.4,
+      "difference": 2400.02,
       "criteria": [
-        "R$ 2300.0 desc."
+        "41.4% OFF",
+        "R$ 2400.02 desc."
       ],
-      "badge": "Oferta Amazon",
+      "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -24286,7 +24322,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -24343,7 +24379,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24385,6 +24421,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GVSXJF6K",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789246460.437735,
+      "discovery_ts": 1789033030.838629,
+      "is_new": false
+    },
+    {
       "asin": "B0GVSYZJ4W",
       "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Lavanda",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSYZJ4W",
@@ -24423,25 +24478,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GVSXJF6K",
-      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
-      "current_price": 2098.89,
-      "original_price": 3599.0,
-      "discount": 41.7,
-      "difference": 1500.11,
-      "criteria": [
-        "41.7% OFF",
-        "R$ 1500.11 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789033030.838629,
-      "is_new": false
-    },
-    {
       "asin": "B0HCPPD4W9",
       "title": "Geladeira Panasonic BB64PV2XC Frost Free Inverter 475L Aço Escovado Bivolt | Tecnologia Inverter",
       "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB64PV2XC-Inverter-Escovado/dp/B0HCPPD4W9",
@@ -24473,26 +24509,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1785269176.438674,
-      "is_new": false
-    },
-    {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -24532,24 +24550,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F6CX2QK4",
-      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
-      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
-      "current_price": 3967.37,
-      "original_price": 5000.0,
-      "discount": 20.7,
-      "difference": 1032.63,
-      "criteria": [
-        "R$ 1032.63 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
       "asin": "B0HFPWKFPY",
       "title": "Samsung Notebook Galaxy Book6 16\", Ultra 7 355, 32GB, 1TB SSD, Windows 11 Home, 1.74 kg",
       "link": "https://www.amazon.com.br/Samsung-Notebook-Galaxy-Book6-Windows/dp/B0HFPWKFPY",
@@ -24563,7 +24563,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51r+FZz+ICL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789219145.198038,
       "is_new": false
     },
@@ -24581,7 +24581,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oGhLrTfhL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1784477560.307231,
       "is_new": false
     },
@@ -24599,7 +24599,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24623,6 +24623,24 @@
       "is_new": false
     },
     {
+      "asin": "B08DMTGNT6",
+      "title": "Hisense WD3S12 Lava e Seca Noir Frontal 12kg/8kg 59,5x61x84,5 cm com Vapor Wi-Fi 16 Programas 110V Digital 1400 RPM",
+      "link": "https://www.amazon.com.br/Hisense-Frontal-5x61x84-Programas-Digital/dp/B08DMTGNT6",
+      "current_price": 2898.99,
+      "original_price": 3699.0,
+      "discount": 21.6,
+      "difference": 800.01,
+      "criteria": [
+        "R$ 800.01 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789246460.437735,
+      "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
       "asin": "B0FL4VDVCV",
       "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, Dolby Vision, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
       "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
@@ -24636,26 +24654,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/817DMLC5vqL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789192309.214638,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.89,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.11,
-      "criteria": [
-        "R$ 775.11 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -24672,8 +24672,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/911eIe88TOL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789175599.222088,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2188.99,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.01,
+      "criteria": [
+        "R$ 710.01 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789246460.437735,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -24691,7 +24709,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24709,7 +24727,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24745,7 +24763,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24769,24 +24787,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H34YS1ZZ",
-      "title": "Samsung Combo Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-128GB/dp/B0H34YS1ZZ",
-      "current_price": 1998.99,
-      "original_price": 2399.0,
-      "discount": 16.7,
-      "difference": 400.01,
-      "criteria": [
-        "R$ 400.01 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Q6G0e5KhL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789161344.809909,
-      "is_new": false
-    },
-    {
       "asin": "B0H51MB5J9",
       "title": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Quente/Frio 12.000 BTUs (NI12R/NE12R) 220V",
       "link": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI12R-NE12R/dp/B0H51MB5J9",
@@ -24805,6 +24805,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FCSM7NY6",
+      "title": "Ar-Condicionado Inverter Split Hi Wall TCL T-Pro 2.0 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Split-TCL-12-000/dp/B0FCSM7NY6",
+      "current_price": 1999.0,
+      "original_price": 2366.11,
+      "discount": 15.5,
+      "difference": 367.11,
+      "criteria": [
+        "R$ 367.11 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qyU6gKpTL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789246460.437735,
+      "discovery_ts": 1789206942.412494,
+      "is_new": false
+    },
+    {
       "asin": "B0G71HDJSM",
       "title": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
       "link": "https://www.amazon.com.br/Smart-Philco-HDR10-Dolby-%C3%81udio/dp/B0G71HDJSM",
@@ -24818,7 +24836,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24836,26 +24854,8 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1786385523.800129,
-      "is_new": false
-    },
-    {
-      "asin": "B0HBYBB54N",
-      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 2026, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HBYBB54N",
-      "current_price": 4149.0,
-      "original_price": 4499.0,
-      "discount": 7.8,
-      "difference": 350.0,
-      "criteria": [
-        "R$ 350.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyVARXJHL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789219145.198045,
-      "discovery_ts": 1789219145.198045,
       "is_new": false
     },
     {
@@ -24872,7 +24872,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24890,7 +24890,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81tK4J0OG-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24908,7 +24908,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71oDl7NmgaL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789230150.834035,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1785559271.19715,
       "is_new": false
     },
@@ -24926,7 +24926,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789237998.808695,
+      "last_seen": 1789246460.437735,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
