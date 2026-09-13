@@ -1,5 +1,5 @@
 {
-  "last_check": "13/09/2026 19:43:21",
+  "last_check": "13/09/2026 21:44:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24146,6 +24146,10 @@
         {
           "price": 2399.0,
           "date": "2026-09-12T01:13:19.222088"
+        },
+        {
+          "price": 2299.0,
+          "date": "2026-09-13T21:44:38.657186"
         }
       ]
     },
@@ -24310,43 +24314,34 @@
           "date": "2026-09-13T19:43:21.273590"
         }
       ]
+    },
+    "B0GTGDSQWD": {
+      "discovery_date": "2026-09-13T21:44:38.657186",
+      "price_history": [
+        {
+          "price": 9812.4,
+          "date": "2026-09-13T21:44:38.657186"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0C15HGYW4",
-      "title": "Geladeira Electrolux Side by Side Efficient com Tecnologia Autosense 435L (IS4S) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-Tecnologia-Autosense/dp/B0C15HGYW4",
-      "current_price": 4299.0,
-      "original_price": 5051.61,
-      "discount": 14.9,
-      "difference": 752.61,
+      "asin": "B0GTGDSQWD",
+      "title": "Guarda-roupa Modulado Reflecta 7 Portas 260cm X 240cm Mod 016 100% Mdf Innova Off White",
+      "link": "https://www.amazon.com.br/Guarda-roupa-Modulado-Reflecta-Portas-Innova/dp/B0GTGDSQWD",
+      "current_price": 9812.4,
+      "original_price": 11388.86,
+      "discount": 13.8,
+      "difference": 1576.46,
       "criteria": [
-        "R$ 752.61 desc."
+        "R$ 1576.46 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41NyZzks4dL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
-      "discovery_ts": 1789328601.273597,
-      "is_new": true
-    },
-    {
-      "asin": "B0H132NM6Z",
-      "title": "SUGGAR SECADORA DE ROUPAS 8KG BRANCA 127V PISO, BANCADA OU PAREDE SC8011BR",
-      "link": "https://www.amazon.com.br/SUGGAR-SECADORA-ROUPAS-BANCADA-SC8011BR/dp/B0H132NM6Z",
-      "current_price": 1558.98,
-      "original_price": 1999.0,
-      "discount": 22.0,
-      "difference": 440.02,
-      "criteria": [
-        "R$ 440.02 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51WOnvOyBkL._AC_UL210_SR210,210_.jpg",
-      "category": "[DRYER]",
-      "last_seen": 1789328601.273597,
-      "discovery_ts": 1789328601.273597,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rTu1B9xbL._AC_UL210_SR210,210_.jpg",
+      "category": "[CABINET]",
+      "last_seen": 1789335878.657194,
+      "discovery_ts": 1789335878.657194,
       "is_new": true
     },
     {
@@ -24363,7 +24358,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789309588.803974,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -24400,7 +24395,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -24443,24 +24438,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789309588.803974,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
       "asin": "B0GVSXJF6K",
       "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
@@ -24475,7 +24452,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789033030.838629,
       "is_new": false
     },
@@ -24493,7 +24470,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41j2ubenPkL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -24514,24 +24491,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789320688.471299,
       "discovery_ts": 1786566279.236894,
-      "is_new": false
-    },
-    {
-      "asin": "B0B5ZCFHJW",
-      "title": "Samsung WD11A Lava e Seca 3 em 1 Branco Frontal 11kg com Ecobubble, Lavagem a Seco e Ciclo Rápido 220V Eletromecânico 1400rpm",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B5ZCFHJW",
-      "current_price": 3799.0,
-      "original_price": 5129.23,
-      "discount": 25.9,
-      "difference": 1330.23,
-      "criteria": [
-        "R$ 1330.23 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5114re42wNL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789309588.803974,
-      "discovery_ts": 1784473933.589445,
       "is_new": false
     },
     {
@@ -24567,7 +24526,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -24622,7 +24581,7 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51dSqpuPKWL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789309588.803974,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24640,7 +24599,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789309588.803974,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -24676,7 +24635,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24695,7 +24654,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24713,8 +24672,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQY5GR",
+      "title": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
+      "link": "https://www.amazon.com.br/PHILIPS-Smart-55PUG7300-Comando-Bluetooth/dp/B0FPBQY5GR",
+      "current_price": 2299.0,
+      "original_price": 3099.0,
+      "discount": 25.8,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71d6BkXy+rL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789335878.657194,
+      "discovery_ts": 1789175599.222088,
       "is_new": false
     },
     {
@@ -24731,8 +24708,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
+      "asin": "B0C15HGYW4",
+      "title": "Geladeira Electrolux Side by Side Efficient com Tecnologia Autosense 435L (IS4S) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-Tecnologia-Autosense/dp/B0C15HGYW4",
+      "current_price": 4299.0,
+      "original_price": 5051.61,
+      "discount": 14.9,
+      "difference": 752.61,
+      "criteria": [
+        "R$ 752.61 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41NyZzks4dL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789328601.273597,
       "is_new": false
     },
     {
@@ -24749,7 +24744,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -24768,7 +24763,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24786,26 +24781,26 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
-      "asin": "B0DN3YMQ5F",
-      "title": "Geladeira Electrolux Frost Free com AutoSense 480L Efficient Duplex Branca (TF71) - 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-AutoSense-Efficient-Duplex/dp/B0DN3YMQ5F",
-      "current_price": 3386.45,
-      "original_price": 3866.22,
-      "discount": 12.4,
-      "difference": 479.77,
+      "asin": "B0H132NM6Z",
+      "title": "SUGGAR SECADORA DE ROUPAS 8KG BRANCA 127V PISO, BANCADA OU PAREDE SC8011BR",
+      "link": "https://www.amazon.com.br/SUGGAR-SECADORA-ROUPAS-BANCADA-SC8011BR/dp/B0H132NM6Z",
+      "current_price": 1558.98,
+      "original_price": 1999.0,
+      "discount": 22.0,
+      "difference": 440.02,
       "criteria": [
-        "R$ 479.77 desc."
+        "R$ 440.02 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41nJV7j5S2L._AC_UL210_SR210,210_.jpg",
-      "category": "[HOME]",
-      "last_seen": 1789309588.803974,
-      "discovery_ts": 1789309588.803974,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WOnvOyBkL._AC_UL210_SR210,210_.jpg",
+      "category": "[DRYER]",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789328601.273597,
       "is_new": false
     },
     {
@@ -24822,7 +24817,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24841,7 +24836,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789090199.113268,
       "is_new": false
     },
@@ -24859,7 +24854,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24877,7 +24872,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51qyU6gKpTL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789206942.412494,
       "is_new": false
     },
@@ -24895,7 +24890,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24913,7 +24908,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789309588.803974,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24931,7 +24926,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
@@ -24949,7 +24944,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24985,7 +24980,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789328601.273597,
+      "last_seen": 1789335878.657194,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
