@@ -1,5 +1,5 @@
 {
-  "last_check": "13/09/2026 17:31:41",
+  "last_check": "13/09/2026 19:43:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24292,9 +24292,63 @@
           "date": "2026-09-13T14:26:28.803965"
         }
       ]
+    },
+    "B0H132NM6Z": {
+      "discovery_date": "2026-09-13T19:43:21.273590",
+      "price_history": [
+        {
+          "price": 1558.98,
+          "date": "2026-09-13T19:43:21.273590"
+        }
+      ]
+    },
+    "B0C15HGYW4": {
+      "discovery_date": "2026-09-13T19:43:21.273590",
+      "price_history": [
+        {
+          "price": 4299.0,
+          "date": "2026-09-13T19:43:21.273590"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0C15HGYW4",
+      "title": "Geladeira Electrolux Side by Side Efficient com Tecnologia Autosense 435L (IS4S) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-Tecnologia-Autosense/dp/B0C15HGYW4",
+      "current_price": 4299.0,
+      "original_price": 5051.61,
+      "discount": 14.9,
+      "difference": 752.61,
+      "criteria": [
+        "R$ 752.61 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41NyZzks4dL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789328601.273597,
+      "is_new": true
+    },
+    {
+      "asin": "B0H132NM6Z",
+      "title": "SUGGAR SECADORA DE ROUPAS 8KG BRANCA 127V PISO, BANCADA OU PAREDE SC8011BR",
+      "link": "https://www.amazon.com.br/SUGGAR-SECADORA-ROUPAS-BANCADA-SC8011BR/dp/B0H132NM6Z",
+      "current_price": 1558.98,
+      "original_price": 1999.0,
+      "discount": 22.0,
+      "difference": 440.02,
+      "criteria": [
+        "R$ 440.02 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WOnvOyBkL._AC_UL210_SR210,210_.jpg",
+      "category": "[DRYER]",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789328601.273597,
+      "is_new": true
+    },
     {
       "asin": "B0DGM1PJMK",
       "title": "Apple iPhone 16 (128 GB) – Branco",
@@ -24346,7 +24400,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41jvq+TBeQL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789309588.803974,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1784673560.96846,
       "is_new": false
     },
@@ -24384,7 +24438,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24407,6 +24461,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GVSXJF6K",
+      "title": "Celular Samsung Galaxy A37 5G, 256GB, 8GB, 50MP Tela 6.7\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0GVSXJF6K",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51l7TfuQhrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789033030.838629,
+      "is_new": false
+    },
+    {
       "asin": "B0HCPPD4W9",
       "title": "Geladeira Panasonic BB64PV2XC Frost Free Inverter 475L Aço Escovado Bivolt | Tecnologia Inverter",
       "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB64PV2XC-Inverter-Escovado/dp/B0HCPPD4W9",
@@ -24420,7 +24493,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41j2ubenPkL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -24481,22 +24554,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GLS8QF4B",
-      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
-      "current_price": 1698.99,
-      "original_price": 2999.0,
-      "discount": 43.3,
-      "difference": 1300.01,
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
       "criteria": [
-        "43.3% OFF",
-        "R$ 1300.01 desc."
+        "R$ 1219.9 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
-      "discovery_ts": 1789090199.113268,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -24518,21 +24590,22 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
+      "asin": "B0GLS8QF4B",
+      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
+      "current_price": 1791.0,
+      "original_price": 2999.0,
+      "discount": 40.3,
+      "difference": 1208.0,
       "criteria": [
-        "R$ 1219.9 desc."
+        "40.3% OFF",
+        "R$ 1208.0 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789320688.471299,
-      "discovery_ts": 1785269176.438674,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789090199.113268,
       "is_new": false
     },
     {
@@ -24572,6 +24645,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F6CX2QK4",
+      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
+      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
+      "current_price": 3967.37,
+      "original_price": 5000.0,
+      "discount": 20.7,
+      "difference": 1032.63,
+      "criteria": [
+        "R$ 1032.63 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
       "asin": "B0F5X4NPK2",
       "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
       "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
@@ -24585,7 +24676,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -24604,7 +24695,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24622,8 +24713,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.89,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.11,
+      "criteria": [
+        "R$ 775.11 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -24640,7 +24749,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -24659,7 +24768,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24677,7 +24786,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51z3RYqywML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24713,7 +24822,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51UKZIPu7PL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24732,7 +24841,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789090199.113268,
       "is_new": false
     },
@@ -24750,8 +24859,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0FCSM7NY6",
+      "title": "Ar-Condicionado Inverter Split Hi Wall TCL T-Pro 2.0 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Split-TCL-12-000/dp/B0FCSM7NY6",
+      "current_price": 1999.0,
+      "original_price": 2366.11,
+      "discount": 15.5,
+      "difference": 367.11,
+      "criteria": [
+        "R$ 367.11 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qyU6gKpTL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789328601.273597,
+      "discovery_ts": 1789206942.412494,
       "is_new": false
     },
     {
@@ -24768,7 +24895,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51mIxc22QdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -24804,7 +24931,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
@@ -24822,7 +24949,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71IdrHN0WFL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24858,7 +24985,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789320688.471299,
+      "last_seen": 1789328601.273597,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
