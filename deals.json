@@ -1,5 +1,5 @@
 {
-  "last_check": "14/09/2026 13:56:49",
+  "last_check": "14/09/2026 19:00:36",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -888,6 +888,10 @@
         {
           "price": "5799.0",
           "date": "2026-07-21T01:03:25.500833"
+        },
+        {
+          "price": 5799.0,
+          "date": "2026-09-14T19:00:36.196250"
         }
       ]
     },
@@ -24380,9 +24384,228 @@
           "date": "2026-09-14T13:56:15.496681"
         }
       ]
+    },
+    "B0H41D4KFT": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 2099.99,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B0H7H2K9Q8": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 3282.21,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B0GVW8464B": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 2089.05,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B09VCJ171S": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 539.9,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B087WLJH8Y": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 15.99,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B0FXMBWGGM": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 3999.0,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B09BBNL8MV": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 4354.0,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
+    },
+    "B0FQCRXQ73": {
+      "discovery_date": "2026-09-14T19:00:36.196250",
+      "price_history": [
+        {
+          "price": 699.0,
+          "date": "2026-09-14T19:00:36.196250"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 2089.05,
+      "original_price": 3806.0,
+      "discount": 45.1,
+      "difference": 1716.95,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 1716.95 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B0FQCRXQ73",
+      "title": "Philips Secador de Cabelo Série 8000 Secagem Ultrarrápida | Proteção contra danos térmicos | Tecnoliga Thermoshield | Potência 1400W | 5 modos no display | Design Compacto | BHD837/01",
+      "link": "https://www.amazon.com.br/Secador-Cabelo-Philips-S%C3%A9rie-ThermoShield/dp/B0FQCRXQ73",
+      "current_price": 699.0,
+      "original_price": 1429.9,
+      "discount": 51.1,
+      "difference": 730.9,
+      "criteria": [
+        "51.1% OFF",
+        "R$ 730.9 desc."
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41nxr0tAgcL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B09VCJ171S",
+      "title": "Processador AMD Ryzen 5 5500 100100000457BOX, Cerâmica Cinza",
+      "link": "https://www.amazon.com.br/Processador-AMD-Ryzen-5500-100100000457BOX/dp/B09VCJ171S",
+      "current_price": 539.9,
+      "original_price": 1166.64,
+      "discount": 53.7,
+      "difference": 626.74,
+      "criteria": [
+        "53.7% OFF",
+        "R$ 626.74 desc."
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
+      "category": "[COMPUTER_PROCESSOR]",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B0H41D4KFT",
+      "title": "AMD Processador Ryzen 7 5800X3D de 8 núcleos e 16 threads para desktop com tecnologia AMD 3D V-Cache",
+      "link": "https://www.amazon.com.br/AMD-Processador-5800X3D-n%C3%BAcleos-tecnologia/dp/B0H41D4KFT",
+      "current_price": 2099.99,
+      "original_price": 2679.9,
+      "discount": 21.6,
+      "difference": 579.91,
+      "criteria": [
+        "R$ 579.91 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
+      "category": "[COMPUTER_PROCESSOR]",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B09BBNL8MV",
+      "title": "Lava-Louças Electrolux 14 Serviços Inox com Função Higienizar Compras (LL14X) - 127V",
+      "link": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Fun%C3%A7%C3%A3o-Higienizar/dp/B09BBNL8MV",
+      "current_price": 4354.0,
+      "original_price": 4699.0,
+      "discount": 7.3,
+      "difference": 345.0,
+      "criteria": [
+        "R$ 345.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OWfzSMjsL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B0H7H2K9Q8",
+      "title": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-Graphics-1920x1200/dp/B0H7H2K9Q8",
+      "current_price": 3282.21,
+      "original_price": 3599.99,
+      "discount": 8.8,
+      "difference": 317.78,
+      "criteria": [
+        "R$ 317.78 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tqud+UUUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
+    {
+      "asin": "B087WLJH8Y",
+      "title": "Creatine Turbo – sem sabor - Pote 300g - Black Skull - Suplementação para Treino, Performance, Ganho Muscular, Hipertrofia, Força e Resistência",
+      "link": "https://www.amazon.com.br/Creatine-Turbo-300g-Black-Skull/dp/B087WLJH8Y",
+      "current_price": 15.99,
+      "original_price": 53.46,
+      "discount": 70.1,
+      "difference": 37.47,
+      "criteria": [
+        "70.1% OFF"
+      ],
+      "badge": "70% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6165ojDGBPL._AC_UL210_SR210,210_.jpg",
+      "category": "[NUTRITIONAL_SUPPLEMENT]",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789412436.196258,
+      "is_new": true
+    },
     {
       "asin": "B0FDKNBCQ8",
       "title": "Smartphone, HUAWEI Pura 80 Pro 12GB+512GB, Câmera Ultra-iluminação de 1 Polegada, Câmera Teleobjetiva Macro Ultra-iluminação, Cancelamento de Ruído por IA, 5170 mAh, Dual SuperCharge,Celular Preto",
@@ -24400,43 +24623,7 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789394175.49669,
       "discovery_ts": 1789394175.49669,
-      "is_new": true
-    },
-    {
-      "asin": "B0HBYMG565",
-      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8000H 2026, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HBYMG565",
-      "current_price": 3099.0,
-      "original_price": 3399.0,
-      "discount": 8.8,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyVARXJHL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789394175.49669,
-      "discovery_ts": 1789394175.49669,
-      "is_new": true
-    },
-    {
-      "asin": "B0CXBJMSQF",
-      "title": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
-      "link": "https://www.amazon.com.br/Dove-S%C3%A9rum-Bif%C3%A1sico-Intense-Repair/dp/B0CXBJMSQF",
-      "current_price": 27.44,
-      "original_price": 50.03,
-      "discount": 45.2,
-      "difference": 22.59,
-      "criteria": [
-        "45.2% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+-OgmlRlL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789394175.49669,
-      "discovery_ts": 1789394175.49669,
-      "is_new": true
+      "is_new": false
     },
     {
       "asin": "B0DGM1PJMK",
@@ -24454,6 +24641,25 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789394175.49669,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -24531,6 +24737,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F6GGBRYR",
+      "title": "ASUS TUF Gaming F16 Intel Core 5, RTX 4050, 8 GB, 512 GB SSD, KeepOS,16.0'' FHD, Mecha Gray - FX607VU-RL054",
+      "link": "https://www.amazon.com.br/ASUS-Gaming-Intel-KeepOS-Mecha/dp/B0F6GGBRYR",
+      "current_price": 5799.0,
+      "original_price": 7499.0,
+      "discount": 22.7,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71S9ZyeF+wL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1784595805.500833,
+      "is_new": false
+    },
+    {
       "asin": "B0HCPPD4W9",
       "title": "Geladeira Panasonic BB64PV2XC Frost Free Inverter 475L Aço Escovado Bivolt | Tecnologia Inverter",
       "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB64PV2XC-Inverter-Escovado/dp/B0HCPPD4W9",
@@ -24568,6 +24792,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
+      "current_price": 2159.3,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.7,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.7 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
       "asin": "B0GLSLLGZL",
       "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
@@ -24582,7 +24825,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -24600,7 +24843,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24619,7 +24862,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24656,7 +24899,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24693,7 +24936,7 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71z4eg51MlL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1789090199.113268,
       "is_new": false
     },
@@ -24711,7 +24954,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -24729,8 +24972,44 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1789309588.803965,
+      "is_new": false
+    },
+    {
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789412436.196258,
+      "discovery_ts": 1789060608.678055,
+      "is_new": false
+    },
+    {
+      "asin": "B0HBYMG565",
+      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8000H 2026, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HBYMG565",
+      "current_price": 3099.0,
+      "original_price": 3399.0,
+      "discount": 8.8,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cyVARXJHL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789394175.49669,
+      "discovery_ts": 1789394175.49669,
       "is_new": false
     },
     {
@@ -24747,7 +25026,7 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1785152966.201765,
       "is_new": false
     },
@@ -24765,7 +25044,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789394175.49669,
+      "last_seen": 1789412436.196258,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -24821,6 +25100,24 @@
       "category": "[SKIN_MOISTURIZER]",
       "last_seen": 1789394175.49669,
       "discovery_ts": 1789369344.789328,
+      "is_new": false
+    },
+    {
+      "asin": "B0CXBJMSQF",
+      "title": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
+      "link": "https://www.amazon.com.br/Dove-S%C3%A9rum-Bif%C3%A1sico-Intense-Repair/dp/B0CXBJMSQF",
+      "current_price": 27.44,
+      "original_price": 50.03,
+      "discount": 45.2,
+      "difference": 22.59,
+      "criteria": [
+        "45.2% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61+-OgmlRlL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1789394175.49669,
+      "discovery_ts": 1789394175.49669,
       "is_new": false
     }
   ]
