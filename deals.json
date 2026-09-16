@@ -1,5 +1,5 @@
 {
-  "last_check": "15/09/2026 23:53:42",
+  "last_check": "16/09/2026 02:53:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24571,25 +24571,34 @@
           "date": "2026-09-15T23:53:42.285844"
         }
       ]
+    },
+    "B0DWQNS8TN": {
+      "discovery_date": "2026-09-16T02:53:52.478266",
+      "price_history": [
+        {
+          "price": 1059.0,
+          "date": "2026-09-16T02:53:52.478266"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DG46DS62",
-      "title": "Notebook Yoga Slim 7i Intel Core Ultra 5, 16GB, 512GB SSD Intel Arc Graphics, 14\" OLED, W11, 1.39kg, 83GM0003BR",
-      "link": "https://www.amazon.com.br/Notebook-Intel-Ultra-512GB-Graphics/dp/B0DG46DS62",
-      "current_price": 5929.0,
-      "original_price": 6899.99,
-      "discount": 14.1,
-      "difference": 970.99,
+      "asin": "B0DWQNS8TN",
+      "title": "Monitor Gamer Samsung Odyssey G5 32, Resolução QHD, Taxa de atualização de 165Hz & 1ms de tempo de resposta (MPRT), Curvatura com 1000R, HDR 10, AMD FreeSync, Eye Saver Mode & Flicker Free Mode",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Samsung-Odyssey-G5/dp/B0DWQNS8TN",
+      "current_price": 1059.0,
+      "original_price": 1599.0,
+      "discount": 33.8,
+      "difference": 540.0,
       "criteria": [
-        "R$ 970.99 desc."
+        "R$ 540.0 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
-      "discovery_ts": 1789516422.285852,
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616NYrEQ6QL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789527232.478275,
+      "discovery_ts": 1789527232.478275,
       "is_new": true
     },
     {
@@ -24630,6 +24639,25 @@
       "is_new": false
     },
     {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789527232.478275,
+      "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
       "asin": "B0F8LJSC9B",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
@@ -24646,25 +24674,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789516422.285852,
       "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789509210.017814,
-      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -24687,25 +24696,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GLTJ4MYM",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
-      "current_price": 2499.0,
-      "original_price": 4499.0,
-      "discount": 44.5,
-      "difference": 2000.0,
-      "criteria": [
-        "44.5% OFF",
-        "R$ 2000.0 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789498558.082978,
-      "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
       "asin": "B0GVW8464B",
       "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
       "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
@@ -24720,7 +24710,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789498558.082978,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24738,7 +24728,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -24757,7 +24747,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51CGLBYdeIL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -24781,6 +24771,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789527232.478275,
+      "discovery_ts": 1785269176.438674,
+      "is_new": false
+    },
+    {
       "asin": "B0B625GC45",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
@@ -24794,7 +24802,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -24835,6 +24843,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DG46DS62",
+      "title": "Notebook Yoga Slim 7i Intel Core Ultra 5, 16GB, 512GB SSD Intel Arc Graphics, 14\" OLED, W11, 1.39kg, 83GM0003BR",
+      "link": "https://www.amazon.com.br/Notebook-Intel-Ultra-512GB-Graphics/dp/B0DG46DS62",
+      "current_price": 5929.0,
+      "original_price": 6899.99,
+      "discount": 14.1,
+      "difference": 970.99,
+      "criteria": [
+        "R$ 970.99 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789527232.478275,
+      "discovery_ts": 1789516422.285844,
+      "is_new": false
+    },
+    {
       "asin": "B0FKW184B1",
       "title": "Notebook Gamer Acer Nitro V15 ANV15-52-737P Intel Core I7 13º Geração 16GB RAM 512GB SSD (RTX 4050) retroiluminado Preto Linux",
       "link": "https://www.amazon.com.br/Notebook-Gamer-ANV15-52-737P-Gera%C3%A7%C3%A3o-retroiluminado/dp/B0FKW184B1",
@@ -24848,26 +24874,8 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789498558.08297,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBPX7WF",
-      "title": "PHILIPS Smart TV, 50\" 4K, 50PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
-      "link": "https://www.amazon.com.br/PHILIPS-Smart-50PUG7300-Comando-Bluetooth/dp/B0FPBPX7WF",
-      "current_price": 1899.0,
-      "original_price": 2799.0,
-      "discount": 32.2,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "32% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71AcJsiJuVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789498558.082978,
-      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -24885,7 +24893,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789498558.082978,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -24903,7 +24911,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -24940,7 +24948,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24959,7 +24967,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24996,8 +25004,8 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71KyxaQzQgL._AC_UL210_SR210,210_.jpg",
       "category": "[COOKING_OVEN]",
-      "last_seen": 1789498558.082978,
-      "discovery_ts": 1789498558.082978,
+      "last_seen": 1789527232.478275,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
@@ -25014,7 +25022,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -25050,7 +25058,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OiVZl6UhL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1786385523.800129,
       "is_new": false
     },
@@ -25104,7 +25112,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tqud+UUUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25122,7 +25130,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
@@ -25140,7 +25148,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -25158,7 +25166,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51CQy6+eBOL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -25176,7 +25184,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1789509210.017814,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1786433627.124475,
       "is_new": false
     },
@@ -25194,7 +25202,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71QS7WTTChL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -25230,7 +25238,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61bsBAPQB7L._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1789516422.285852,
+      "last_seen": 1789527232.478275,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     }
