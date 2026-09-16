@@ -1,5 +1,5 @@
 {
-  "last_check": "16/09/2026 20:27:05",
+  "last_check": "16/09/2026 23:08:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -7331,6 +7331,10 @@
         {
           "price": 3585.0,
           "date": "2026-08-11T17:37:41.404163"
+        },
+        {
+          "price": 3599.0,
+          "date": "2026-09-16T23:08:25.912826"
         }
       ]
     },
@@ -23401,6 +23405,10 @@
         {
           "price": 3699.0,
           "date": "2026-08-29T07:26:17.926092"
+        },
+        {
+          "price": 3698.99,
+          "date": "2026-09-16T23:08:25.912826"
         }
       ]
     },
@@ -24659,26 +24667,34 @@
           "date": "2026-09-16T20:26:56.301637"
         }
       ]
+    },
+    "B0DZJNNY5S": {
+      "discovery_date": "2026-09-16T23:08:25.912826",
+      "price_history": [
+        {
+          "price": 5555.53,
+          "date": "2026-09-16T23:08:25.912826"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0CJYJH5TD",
-      "title": "WAP Aspirador de Pó Vertical à Bateria ECO RÁPIDO Autonomia de 40 min, 2 Velocidades, 700ml, Bivolt",
-      "link": "https://www.amazon.com.br/WAP-Aspirador-Velocidades-Capacidade-Carregador/dp/B0CJYJH5TD",
-      "current_price": 499.9,
-      "original_price": 959.9,
-      "discount": 47.9,
-      "difference": 460.0,
+      "asin": "B0DZJNNY5S",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Cinzento sideral (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZJNNY5S",
+      "current_price": 5555.53,
+      "original_price": 7899.99,
+      "discount": 29.7,
+      "difference": 2344.46,
       "criteria": [
-        "47.9% OFF",
-        "R$ 460.0 desc."
+        "R$ 2344.46 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61IrpNfTEZL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789590416.301647,
-      "discovery_ts": 1789590416.301647,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zQBY6uFAL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789600105.912834,
       "is_new": true
     },
     {
@@ -24713,8 +24729,27 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/719M2-VGUJL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789161344.809909,
+      "is_new": false
+    },
+    {
+      "asin": "B0GMY41LM8",
+      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
+      "current_price": 3399.0,
+      "original_price": 5999.0,
+      "discount": 43.3,
+      "difference": 2600.0,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 2600.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789083919.237103,
       "is_new": false
     },
     {
@@ -24732,7 +24767,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -24788,8 +24823,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
+      "asin": "B0CYW2N6TX",
+      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
+      "current_price": 2999.0,
+      "original_price": 4299.0,
+      "discount": 30.2,
+      "difference": 1300.0,
+      "criteria": [
+        "R$ 1300.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1787759876.510221,
       "is_new": false
     },
     {
@@ -24830,6 +24883,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3599.0,
+      "original_price": 4838.9,
+      "discount": 25.6,
+      "difference": 1239.9,
+      "criteria": [
+        "R$ 1239.9 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ15NC13",
       "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
@@ -24843,7 +24914,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -24884,6 +24955,42 @@
       "is_new": false
     },
     {
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 3698.99,
+      "original_price": 4780.0,
+      "discount": 22.6,
+      "difference": 1081.01,
+      "criteria": [
+        "R$ 1081.01 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1787988377.926092,
+      "is_new": false
+    },
+    {
+      "asin": "B0GT61W3LM",
+      "title": "Notebook ASUS Vivobook S14, Intel Core Ultra 5, 16 GB, 512 GB SSD, W 11 Home, 14.0'' FHD, Matte Gray - S3407CA-LY113W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Ultra/dp/B0GT61W3LM",
+      "current_price": 5499.0,
+      "original_price": 6499.0,
+      "discount": 15.4,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1787934841.41155,
+      "is_new": false
+    },
+    {
       "asin": "B0DG46DS62",
       "title": "Notebook Yoga Slim 7i Intel Core Ultra 5, 16GB, 512GB SSD Intel Arc Graphics, 14\" OLED, W11, 1.39kg, 83GM0003BR",
       "link": "https://www.amazon.com.br/Notebook-Intel-Ultra-512GB-Graphics/dp/B0DG46DS62",
@@ -24897,7 +25004,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -24920,6 +25027,25 @@
       "is_new": false
     },
     {
+      "asin": "B08R93TVRG",
+      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
+      "current_price": 399.0,
+      "original_price": 1199.9,
+      "discount": 66.7,
+      "difference": 800.9,
+      "criteria": [
+        "66.7% OFF",
+        "R$ 800.9 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1785729477.338894,
+      "is_new": false
+    },
+    {
       "asin": "B0F9Z2DV83",
       "title": "WAP Aspirador de Pó Robô W310 3 em 1, 420ml com Base Carregadora e Sensor Anticolisão e Antiqueda 30W Bivolt",
       "link": "https://www.amazon.com.br/WAP-Aspirador-Carregadora-Anticolis%C3%A3o-Antiqueda/dp/B0F9Z2DV83",
@@ -24934,8 +25060,8 @@
       "badge": "57% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61QHYk962EL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789580595.484384,
-      "discovery_ts": 1789580595.484384,
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789580595.484377,
       "is_new": false
     },
     {
@@ -24953,7 +25079,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -24972,7 +25098,25 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0H41D4KFT",
+      "title": "AMD Processador Ryzen 7 5800X3D de 8 núcleos e 16 threads para desktop com tecnologia AMD 3D V-Cache",
+      "link": "https://www.amazon.com.br/AMD-Processador-5800X3D-n%C3%BAcleos-tecnologia/dp/B0H41D4KFT",
+      "current_price": 2099.99,
+      "original_price": 2679.9,
+      "discount": 21.6,
+      "difference": 579.91,
+      "criteria": [
+        "R$ 579.91 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
+      "category": "[COMPUTER_PROCESSOR]",
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24995,6 +25139,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3299.0,
+      "original_price": 3799.0,
+      "discount": 13.2,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
       "asin": "B0FNXZZTDW",
       "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV | Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa",
       "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
@@ -25008,8 +25170,27 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1785207848.029087,
+      "is_new": false
+    },
+    {
+      "asin": "B0CJYJH5TD",
+      "title": "WAP Aspirador de Pó Vertical à Bateria ECO RÁPIDO Autonomia de 40 min, 2 Velocidades, 700ml, Bivolt",
+      "link": "https://www.amazon.com.br/WAP-Aspirador-Velocidades-Capacidade-Carregador/dp/B0CJYJH5TD",
+      "current_price": 499.9,
+      "original_price": 959.9,
+      "discount": 47.9,
+      "difference": 460.0,
+      "criteria": [
+        "47.9% OFF",
+        "R$ 460.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61IrpNfTEZL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789590416.301647,
+      "discovery_ts": 1789590416.301647,
       "is_new": false
     },
     {
@@ -25045,7 +25226,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789565540.55532,
       "is_new": false
     },
@@ -25086,6 +25267,24 @@
       "is_new": false
     },
     {
+      "asin": "B0H7H2K9Q8",
+      "title": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-Graphics-1920x1200/dp/B0H7H2K9Q8",
+      "current_price": 3282.21,
+      "original_price": 3599.99,
+      "discount": 8.8,
+      "difference": 317.78,
+      "criteria": [
+        "R$ 317.78 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tqud+UUUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
       "asin": "B0GNZVSQ34",
       "title": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32 Só Frio 220V",
       "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-Elgin-12-000/dp/B0GNZVSQ34",
@@ -25099,8 +25298,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789309588.803965,
+      "is_new": false
+    },
+    {
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789600105.912834,
+      "discovery_ts": 1789060608.678055,
       "is_new": false
     },
     {
@@ -25243,7 +25460,7 @@
       "badge": "70% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6165ojDGBPL._AC_UL210_SR210,210_.jpg",
       "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1789590416.301647,
+      "last_seen": 1789600105.912834,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     }
