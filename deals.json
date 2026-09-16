@@ -1,5 +1,5 @@
 {
-  "last_check": "16/09/2026 13:32:27",
+  "last_check": "16/09/2026 17:43:32",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -21199,6 +21199,10 @@
         {
           "price": 3848.99,
           "date": "2026-08-26T04:20:20.462459"
+        },
+        {
+          "price": 3899.0,
+          "date": "2026-09-16T17:43:15.484377"
         }
       ]
     },
@@ -24447,6 +24451,10 @@
         {
           "price": 15.99,
           "date": "2026-09-14T19:00:36.196250"
+        },
+        {
+          "price": 15.0,
+          "date": "2026-09-16T17:43:15.484377"
         }
       ]
     },
@@ -24602,44 +24610,116 @@
           "date": "2026-09-16T13:32:20.555320"
         }
       ]
+    },
+    "B0F9Z2DV83": {
+      "discovery_date": "2026-09-16T17:43:15.484377",
+      "price_history": [
+        {
+          "price": 509.9,
+          "date": "2026-09-16T17:43:15.484377"
+        }
+      ]
+    },
+    "B0CBSZ6YXZ": {
+      "discovery_date": "2026-09-16T17:43:15.484377",
+      "price_history": [
+        {
+          "price": 115.9,
+          "date": "2026-09-16T17:43:15.484377"
+        }
+      ]
+    },
+    "B0G6PJNF5K": {
+      "discovery_date": "2026-09-16T17:43:15.484377",
+      "price_history": [
+        {
+          "price": 128.9,
+          "date": "2026-09-16T17:43:15.484377"
+        }
+      ]
+    },
+    "B0FGDKYGFS": {
+      "discovery_date": "2026-09-16T17:43:15.484377",
+      "price_history": [
+        {
+          "price": 999.0,
+          "date": "2026-09-16T17:43:15.484377"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F4ZY4HXQ",
-      "title": "Monitor Gamer Curvo Alienware 34\", Uw-qhd, 240 Hz, Qd-oled, Aw3425dw | G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0.03 ms, Brilho até 1000 nits, 99.30% DCI-P3, Contraste 1,500,000:1",
-      "link": "https://www.amazon.com.br/Monitor-Dell-Alienware-34-AW3425DW/dp/B0F4ZY4HXQ",
-      "current_price": 6799.0,
-      "original_price": 7899.0,
-      "discount": 13.9,
-      "difference": 1100.0,
+      "asin": "B0F9Z2DV83",
+      "title": "WAP Aspirador de Pó Robô W310 3 em 1, 420ml com Base Carregadora e Sensor Anticolisão e Antiqueda 30W Bivolt",
+      "link": "https://www.amazon.com.br/WAP-Aspirador-Carregadora-Anticolis%C3%A3o-Antiqueda/dp/B0F9Z2DV83",
+      "current_price": 509.9,
+      "original_price": 1199.9,
+      "discount": 57.5,
+      "difference": 690.0,
       "criteria": [
-        "R$ 1100.0 desc."
+        "57.5% OFF",
+        "R$ 690.0 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71QsAnRlmEL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789565540.555328,
-      "discovery_ts": 1789565540.555328,
+      "badge": "57% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QHYk962EL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789580595.484384,
       "is_new": true
     },
     {
-      "asin": "B0CH3WBKN6",
-      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
-      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3WBKN6",
-      "current_price": 449.9,
-      "original_price": 849.9,
-      "discount": 47.1,
-      "difference": 400.0,
+      "asin": "B0FGDKYGFS",
+      "title": "Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A",
+      "link": "https://www.amazon.com.br/Monitor-AOC-DCI-P3-Speakers-U27B3A/dp/B0FGDKYGFS",
+      "current_price": 999.0,
+      "original_price": 1299.0,
+      "discount": 23.1,
+      "difference": 300.0,
       "criteria": [
-        "47.1% OFF",
-        "R$ 400.0 desc."
+        "R$ 300.0 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
-      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789565540.555328,
-      "discovery_ts": 1789565540.555328,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71V0IzDsUHL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789580595.484384,
+      "is_new": true
+    },
+    {
+      "asin": "B0G6PJNF5K",
+      "title": "Camiseta Flamengo retrô 1996 home masculina",
+      "link": "https://www.amazon.com.br/Camiseta-Flamengo-retr%C3%B4-1996-masculina/dp/B0G6PJNF5K",
+      "current_price": 128.9,
+      "original_price": 259.99,
+      "discount": 50.4,
+      "difference": 131.09,
+      "criteria": [
+        "50.4% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61XDvWkNyUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789580595.484384,
+      "is_new": true
+    },
+    {
+      "asin": "B0CBSZ6YXZ",
+      "title": "Britânia Aspirador de Pó Vertical 2 em 1 BAS1295P 1250W 127V Preto",
+      "link": "https://www.amazon.com.br/Aspirador-Vertical-Brit%C3%A2nia-BAS1295P-1250W/dp/B0CBSZ6YXZ",
+      "current_price": 115.9,
+      "original_price": 204.0,
+      "discount": 43.2,
+      "difference": 88.1,
+      "criteria": [
+        "43.2% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41DJWLonAjL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789580595.484384,
       "is_new": true
     },
     {
@@ -24656,46 +24736,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -24713,7 +24755,7 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -24750,27 +24792,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0DKVCTTFN",
-      "title": "Samsung Ar-condicionado Split Digital Inverter Ultra Connect AI 12.000 BTUs Frio AR12DYFZAWKNAZ",
-      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Digital-Inverter-AR12DYFZAWKNAZ/dp/B0DKVCTTFN",
-      "current_price": 2299.0,
-      "original_price": 3939.0,
-      "discount": 41.6,
-      "difference": 1640.0,
-      "criteria": [
-        "41.6% OFF",
-        "R$ 1640.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51CGLBYdeIL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
@@ -24793,22 +24816,40 @@
       "is_new": false
     },
     {
-      "asin": "B0H41D4KFT",
-      "title": "AMD Processador Ryzen 7 5800X3D de 8 núcleos e 16 threads para desktop com tecnologia AMD 3D V-Cache",
-      "link": "https://www.amazon.com.br/AMD-Processador-5800X3D-n%C3%BAcleos-tecnologia/dp/B0H41D4KFT",
-      "current_price": 1399.99,
-      "original_price": 2679.9,
-      "discount": 47.8,
-      "difference": 1279.91,
+      "asin": "B0GLS8QF4B",
+      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
+      "current_price": 1699.0,
+      "original_price": 2999.0,
+      "discount": 43.3,
+      "difference": 1300.0,
       "criteria": [
-        "47.8% OFF",
-        "R$ 1279.91 desc."
+        "43.3% OFF",
+        "R$ 1300.0 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
-      "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789412436.196258,
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789090199.113268,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -24825,27 +24866,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
-      "asin": "B0GLS8QF4B",
-      "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
-      "current_price": 1791.0,
-      "original_price": 2999.0,
-      "discount": 40.3,
-      "difference": 1208.0,
-      "criteria": [
-        "40.3% OFF",
-        "R$ 1208.0 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789090199.113268,
       "is_new": false
     },
     {
@@ -24862,8 +24884,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789509210.017806,
+      "is_new": false
+    },
+    {
+      "asin": "B0F4ZY4HXQ",
+      "title": "Monitor Gamer Curvo Alienware 34\", Uw-qhd, 240 Hz, Qd-oled, Aw3425dw | G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0.03 ms, Brilho até 1000 nits, 99.30% DCI-P3, Contraste 1,500,000:1",
+      "link": "https://www.amazon.com.br/Monitor-Dell-Alienware-34-AW3425DW/dp/B0F4ZY4HXQ",
+      "current_price": 6799.0,
+      "original_price": 7899.0,
+      "discount": 13.9,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QsAnRlmEL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789565540.555328,
+      "discovery_ts": 1789565540.555328,
       "is_new": false
     },
     {
@@ -24880,7 +24920,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -24921,21 +24961,21 @@
       "is_new": false
     },
     {
-      "asin": "B08DMTGNT6",
-      "title": "Hisense WD3S12 Lava e Seca Noir Frontal 12kg/8kg 59,5x61x84,5 cm com Vapor Wi-Fi 16 Programas 110V Digital 1400 RPM",
-      "link": "https://www.amazon.com.br/Hisense-Frontal-5x61x84-Programas-Digital/dp/B08DMTGNT6",
-      "current_price": 2898.99,
-      "original_price": 3699.0,
-      "discount": 21.6,
-      "difference": 800.01,
+      "asin": "B0H2NGMNB8",
+      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
+      "current_price": 6599.0,
+      "original_price": 7399.99,
+      "discount": 10.8,
+      "difference": 800.99,
       "criteria": [
-        "R$ 800.01 desc."
+        "R$ 800.99 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789069591.933998,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1784990556.520456,
       "is_new": false
     },
     {
@@ -24957,24 +24997,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBQY5GR",
-      "title": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
-      "link": "https://www.amazon.com.br/PHILIPS-Smart-55PUG7300-Comando-Bluetooth/dp/B0FPBQY5GR",
-      "current_price": 2399.0,
-      "original_price": 3099.0,
-      "discount": 22.6,
-      "difference": 700.0,
-      "criteria": [
-        "R$ 700.0 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71d6BkXy+rL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789175599.222088,
-      "is_new": false
-    },
-    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -24989,7 +25011,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25008,45 +25030,27 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
-      "asin": "B0CVS84X3C",
-      "title": "Fischer Forno Elétrico Embutir Fit Line 48L Inox 220V 34493-95486",
-      "link": "https://www.amazon.com.br/FISCHER-FORNO-EL%C3%89TRICO-EMBUTIR-34493-95486/dp/B0CVS84X3C",
-      "current_price": 831.89,
-      "original_price": 1429.0,
-      "discount": 41.8,
-      "difference": 597.11,
+      "asin": "B0CH3WBKN6",
+      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
+      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3WBKN6",
+      "current_price": 449.9,
+      "original_price": 849.9,
+      "discount": 47.1,
+      "difference": 400.0,
       "criteria": [
-        "41.8% OFF",
-        "R$ 597.11 desc."
+        "47.1% OFF",
+        "R$ 400.0 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71KyxaQzQgL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789498558.08297,
-      "is_new": false
-    },
-    {
-      "asin": "B0DWQNS8TN",
-      "title": "Monitor Gamer Samsung Odyssey G5 32, Resolução QHD, Taxa de atualização de 165Hz & 1ms de tempo de resposta (MPRT), Curvatura com 1000R, HDR 10, AMD FreeSync, Eye Saver Mode & Flicker Free Mode",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Samsung-Odyssey-G5/dp/B0DWQNS8TN",
-      "current_price": 1059.0,
-      "original_price": 1599.0,
-      "discount": 33.8,
-      "difference": 540.0,
-      "criteria": [
-        "R$ 540.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616NYrEQ6QL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789527232.478266,
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
+      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1789565540.55532,
       "is_new": false
     },
     {
@@ -25063,7 +25067,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789546300.671865,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1785547051.313967,
       "is_new": false
     },
@@ -25099,26 +25103,8 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41cbbClO-jL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1789546300.671865,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789484663.036845,
-      "is_new": false
-    },
-    {
-      "asin": "B0H7H2K9Q8",
-      "title": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-Graphics-1920x1200/dp/B0H7H2K9Q8",
-      "current_price": 3282.21,
-      "original_price": 3599.99,
-      "discount": 8.8,
-      "difference": 317.78,
-      "criteria": [
-        "R$ 317.78 desc."
-      ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tqud+UUUL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789546300.671865,
-      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -25135,8 +25121,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789309588.803965,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3899.0,
+      "original_price": 4199.0,
+      "discount": 7.1,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4183aoBiILL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
@@ -25155,6 +25159,24 @@
       "category": "[SKIN_CARE_PRODUCT]",
       "last_seen": 1789565540.555328,
       "discovery_ts": 1786433627.124475,
+      "is_new": false
+    },
+    {
+      "asin": "B088MVWBM9",
+      "title": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
+      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
+      "current_price": 211.9,
+      "original_price": 434.9,
+      "discount": 51.3,
+      "difference": 223.0,
+      "criteria": [
+        "51.3% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789580595.484384,
+      "discovery_ts": 1785152966.201765,
       "is_new": false
     },
     {
@@ -25179,17 +25201,17 @@
       "asin": "B087WLJH8Y",
       "title": "Creatine Turbo – sem sabor - Pote 300g - Black Skull - Suplementação para Treino, Performance, Ganho Muscular, Hipertrofia, Força e Resistência",
       "link": "https://www.amazon.com.br/Creatine-Turbo-300g-Black-Skull/dp/B087WLJH8Y",
-      "current_price": 15.99,
+      "current_price": 15.0,
       "original_price": 53.46,
-      "discount": 70.1,
-      "difference": 37.47,
+      "discount": 71.9,
+      "difference": 38.46,
       "criteria": [
-        "70.1% OFF"
+        "71.9% OFF"
       ],
-      "badge": "70% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6165ojDGBPL._AC_UL210_SR210,210_.jpg",
       "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1789565540.555328,
+      "last_seen": 1789580595.484384,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     }
