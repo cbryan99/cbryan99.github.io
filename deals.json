@@ -1,5 +1,5 @@
 {
-  "last_check": "17/09/2026 06:21:59",
+  "last_check": "17/09/2026 11:56:30",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -20967,6 +20967,10 @@
         {
           "price": 2346.0,
           "date": "2026-08-14T08:47:43.070354"
+        },
+        {
+          "price": 2217.0,
+          "date": "2026-09-17T11:56:16.066163"
         }
       ]
     },
@@ -24720,79 +24724,34 @@
           "date": "2026-09-17T06:21:43.680900"
         }
       ]
+    },
+    "B0H126PTKS": {
+      "discovery_date": "2026-09-17T11:56:16.066163",
+      "price_history": [
+        {
+          "price": 2479.0,
+          "date": "2026-09-17T11:56:16.066163"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FHB4KWBF",
-      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 280 Hz, Qd-oled, Aw2725d | NVIDIA G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0,03, Brilho 1000 nits, 99.3% DCI-P3, Contraste 1.500.000:1",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-2560-1440/dp/B0FHB4KWBF",
-      "current_price": 5199.0,
-      "original_price": 6339.0,
-      "discount": 18.0,
-      "difference": 1140.0,
+      "asin": "B0H126PTKS",
+      "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34H, IP68, Áudio Lossless Laranja",
+      "link": "https://www.amazon.com.br/JBL-Boombox-Bluetooth-Personaliz%C3%A1veis-Lossless/dp/B0H126PTKS",
+      "current_price": 2479.0,
+      "original_price": 3199.0,
+      "discount": 22.5,
+      "difference": 720.0,
       "criteria": [
-        "R$ 1140.0 desc."
+        "R$ 720.0 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vzRwgE+nL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
-      "is_new": true
-    },
-    {
-      "asin": "B0FP6K9M5D",
-      "title": "Samsung Tablet Galaxy Tab S10 Lite 5G, 256GB, 8GB RAM, Tela 10.9\", S Pen e Capa Smartbook Cover Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Smartbook-Inclusas/dp/B0FP6K9M5D",
-      "current_price": 2799.0,
-      "original_price": 3699.0,
-      "discount": 24.3,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZM0Xk2y2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
-      "is_new": true
-    },
-    {
-      "asin": "B0B59DHLJG",
-      "title": "Caixa De Som Bluetooth Max 12 Preto JBL",
-      "link": "https://www.amazon.com.br/Caixa-Som-Bluetooth-Preto-JBL/dp/B0B59DHLJG",
-      "current_price": 2554.67,
-      "original_price": 3258.8,
-      "discount": 21.6,
-      "difference": 704.13,
-      "criteria": [
-        "R$ 704.13 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fny0m5ziL._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41L+ESJsjmL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
-      "is_new": true
-    },
-    {
-      "asin": "B0CN79H73Y",
-      "title": "LG Geladeira Frost Free 395 Litros Duplex com Compressor Smart Inverter Preta Top Freezer 2 Portas",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN79H73Y",
-      "current_price": 2799.0,
-      "original_price": 3194.85,
-      "discount": 12.4,
-      "difference": 395.85,
-      "criteria": [
-        "R$ 395.85 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1789646176.066172,
       "is_new": true
     },
     {
@@ -24809,27 +24768,8 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1786530504.605256,
-      "is_new": false
-    },
-    {
-      "asin": "B0GMY41LM8",
-      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
-      "current_price": 3399.0,
-      "original_price": 5999.0,
-      "discount": 43.3,
-      "difference": 2600.0,
-      "criteria": [
-        "43.3% OFF",
-        "R$ 2600.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1789083919.237103,
       "is_new": false
     },
     {
@@ -24851,22 +24791,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
+      "asin": "B0F6NLGYGJ",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Azul, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-128GB-Inclusas/dp/B0F6NLGYGJ",
+      "current_price": 3199.0,
+      "original_price": 5299.0,
+      "discount": 39.6,
+      "difference": 2100.0,
       "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
+        "R$ 2100.0 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1785712474.49735,
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1786482845.187191,
       "is_new": false
     },
     {
@@ -24902,26 +24841,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0CYW2N6TX",
-      "title": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-KeepOS/dp/B0CYW2N6TX",
-      "current_price": 2999.0,
-      "original_price": 4299.0,
-      "discount": 30.2,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1787759876.510221,
       "is_new": false
     },
     {
@@ -24956,7 +24877,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -24992,8 +24913,26 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789509210.017806,
+      "is_new": false
+    },
+    {
+      "asin": "B0FHB4KWBF",
+      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 280 Hz, Qd-oled, Aw2725d | NVIDIA G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0,03, Brilho 1000 nits, 99.3% DCI-P3, Contraste 1.500.000:1",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-2560-1440/dp/B0FHB4KWBF",
+      "current_price": 5199.0,
+      "original_price": 6339.0,
+      "discount": 18.0,
+      "difference": 1140.0,
+      "criteria": [
+        "R$ 1140.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vzRwgE+nL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789626103.680906,
+      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
@@ -25010,7 +24949,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -25028,7 +24967,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1787934841.41155,
       "is_new": false
     },
@@ -25064,46 +25003,62 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
     {
-      "asin": "B08R93TVRG",
-      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
-      "current_price": 399.0,
-      "original_price": 1199.9,
-      "discount": 66.7,
-      "difference": 800.9,
+      "asin": "B0FP6K9M5D",
+      "title": "Samsung Tablet Galaxy Tab S10 Lite 5G, 256GB, 8GB RAM, Tela 10.9\", S Pen e Capa Smartbook Cover Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Smartbook-Inclusas/dp/B0FP6K9M5D",
+      "current_price": 2799.0,
+      "original_price": 3699.0,
+      "discount": 24.3,
+      "difference": 900.0,
       "criteria": [
-        "66.7% OFF",
-        "R$ 800.9 desc."
+        "R$ 900.0 desc."
       ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1785729477.338894,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZM0Xk2y2L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789626103.680906,
+      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
-      "asin": "B0F9Z2DV83",
-      "title": "WAP Aspirador de Pó Robô W310 3 em 1, 420ml com Base Carregadora e Sensor Anticolisão e Antiqueda 30W Bivolt",
-      "link": "https://www.amazon.com.br/WAP-Aspirador-Carregadora-Anticolis%C3%A3o-Antiqueda/dp/B0F9Z2DV83",
-      "current_price": 509.9,
-      "original_price": 1199.9,
-      "discount": 57.5,
-      "difference": 690.0,
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2188.99,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.01,
       "criteria": [
-        "57.5% OFF",
-        "R$ 690.0 desc."
+        "R$ 710.01 desc."
       ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61QHYk962EL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1789580595.484377,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0B59DHLJG",
+      "title": "Caixa De Som Bluetooth Max 12 Preto JBL",
+      "link": "https://www.amazon.com.br/Caixa-Som-Bluetooth-Preto-JBL/dp/B0B59DHLJG",
+      "current_price": 2554.67,
+      "original_price": 3258.8,
+      "discount": 21.6,
+      "difference": 704.13,
+      "criteria": [
+        "R$ 704.13 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fny0m5ziL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1789626103.680906,
+      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
@@ -25121,7 +25076,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25140,7 +25095,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25158,7 +25113,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25181,42 +25136,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GL3FW4QL",
-      "title": "Geladeira Inteligente B= Smart Brastemp Frost Free Duplex 512 Litros Cor Inox - BRM62AK Bivolt",
-      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRM62AK-Litros-Brastemp/dp/B0GL3FW4QL",
-      "current_price": 3692.95,
-      "original_price": 4199.0,
-      "discount": 12.1,
-      "difference": 506.05,
-      "criteria": [
-        "R$ 506.05 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41oL3b3I9qL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1786477286.868824,
-      "is_new": false
-    },
-    {
-      "asin": "B0FS2CVM1T",
-      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
-      "current_price": 3299.0,
-      "original_price": 3799.0,
-      "discount": 13.2,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
       "asin": "B0FNXZZTDW",
       "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV | Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa",
       "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
@@ -25230,26 +25149,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
     {
-      "asin": "B0H634F4BP",
-      "title": "Freezer Vertical Electrolux Efficient 249L SmartBivolt Inverter (FEI27T) Branco - Bivolt",
-      "link": "https://www.amazon.com.br/Vertical-Electrolux-Efficient-SmartBivolt-Inverter/dp/B0H634F4BP",
-      "current_price": 2699.0,
-      "original_price": 3149.0,
-      "discount": 14.3,
-      "difference": 450.0,
+      "asin": "B019HBG0QK",
+      "title": "Panasonic Lavadora Top Load F190WA Branca 64 x 72 x 115 cm 19 kg Sistema Ciclone, Smartsense e JetWash Plus Cesto em Aço Inox 10 Programas de Lavagem 45 kg",
+      "link": "https://www.amazon.com.br/Panasonic-Lavadora-Sistema-Smartsense-Programas/dp/B019HBG0QK",
+      "current_price": 2217.0,
+      "original_price": 2707.2,
+      "discount": 18.1,
+      "difference": 490.2,
       "criteria": [
-        "R$ 450.0 desc."
+        "R$ 490.2 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31gN-mbz9iL._AC_UL210_SR210,210_.jpg",
-      "category": "[FREEZER]",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1787368158.987282,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41MU-zH5UUL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1786697263.070354,
       "is_new": false
     },
     {
@@ -25267,8 +25186,26 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789565540.55532,
+      "is_new": false
+    },
+    {
+      "asin": "B0CN79H73Y",
+      "title": "LG Geladeira Frost Free 395 Litros Duplex com Compressor Smart Inverter Preta Top Freezer 2 Portas",
+      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN79H73Y",
+      "current_price": 2799.0,
+      "original_price": 3194.85,
+      "discount": 12.4,
+      "difference": 395.85,
+      "criteria": [
+        "R$ 395.85 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789626103.680906,
+      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
@@ -25308,6 +25245,24 @@
       "is_new": false
     },
     {
+      "asin": "B09B929QDL",
+      "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17) 220v",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B929QDL",
+      "current_price": 2099.0,
+      "original_price": 2420.0,
+      "discount": 13.3,
+      "difference": 321.0,
+      "criteria": [
+        "R$ 321.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cbbClO-jL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1789484663.036845,
+      "is_new": false
+    },
+    {
       "asin": "B0H7H2K9Q8",
       "title": "Notebook Lenovo Ideapad Slim 3 Amd Ryzen 5 7535hs, 8gb, Amd Radeon Graphics, Ssd 512gb, 15.3\" Wuxga 1920x1200, Linux - 83mms00300",
       "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-Graphics-1920x1200/dp/B0H7H2K9Q8",
@@ -25321,7 +25276,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tqud+UUUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25339,26 +25294,44 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
     {
-      "asin": "B0FGDKYGFS",
-      "title": "Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A",
-      "link": "https://www.amazon.com.br/Monitor-AOC-DCI-P3-Speakers-U27B3A/dp/B0FGDKYGFS",
-      "current_price": 999.0,
-      "original_price": 1299.0,
-      "discount": 23.1,
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
       "difference": 300.0,
       "criteria": [
         "R$ 300.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71V0IzDsUHL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1789580595.484377,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1789060608.678055,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3899.0,
+      "original_price": 4199.0,
+      "discount": 7.1,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4183aoBiILL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1786793784.851285,
       "is_new": false
     },
     {
@@ -25393,26 +25366,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41NMLoCbJIL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1789608096.142854,
+      "last_seen": 1789646176.066172,
       "discovery_ts": 1787002543.355604,
-      "is_new": false
-    },
-    {
-      "asin": "B087WLJH8Y",
-      "title": "Creatine Turbo – sem sabor - Pote 300g - Black Skull - Suplementação para Treino, Performance, Ganho Muscular, Hipertrofia, Força e Resistência",
-      "link": "https://www.amazon.com.br/Creatine-Turbo-300g-Black-Skull/dp/B087WLJH8Y",
-      "current_price": 15.99,
-      "original_price": 53.46,
-      "discount": 70.1,
-      "difference": 37.47,
-      "criteria": [
-        "70.1% OFF"
-      ],
-      "badge": "70% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6165ojDGBPL._AC_UL210_SR210,210_.jpg",
-      "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1789608096.142854,
-      "discovery_ts": 1789412436.19625,
       "is_new": false
     }
   ]
