@@ -1,5 +1,5 @@
 {
-  "last_check": "17/09/2026 11:56:30",
+  "last_check": "17/09/2026 16:12:33",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -284,6 +284,10 @@
         {
           "price": 58.45,
           "date": "2026-08-10T05:07:04.792042"
+        },
+        {
+          "price": 58.41,
+          "date": "2026-09-17T16:12:20.831914"
         }
       ]
     },
@@ -24733,25 +24737,34 @@
           "date": "2026-09-17T11:56:16.066163"
         }
       ]
+    },
+    "B0HD7RD8F1": {
+      "discovery_date": "2026-09-17T16:12:20.831914",
+      "price_history": [
+        {
+          "price": 2199.0,
+          "date": "2026-09-17T16:12:20.831914"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0H126PTKS",
-      "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34H, IP68, Áudio Lossless Laranja",
-      "link": "https://www.amazon.com.br/JBL-Boombox-Bluetooth-Personaliz%C3%A1veis-Lossless/dp/B0H126PTKS",
-      "current_price": 2479.0,
-      "original_price": 3199.0,
-      "discount": 22.5,
-      "difference": 720.0,
+      "asin": "B0HD7RD8F1",
+      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
+      "current_price": 2199.0,
+      "original_price": 3099.0,
+      "discount": 29.0,
+      "difference": 900.0,
       "criteria": [
-        "R$ 720.0 desc."
+        "R$ 900.0 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41L+ESJsjmL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1789646176.066172,
-      "discovery_ts": 1789646176.066172,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789661540.831923,
+      "discovery_ts": 1789661540.831923,
       "is_new": true
     },
     {
@@ -24786,8 +24799,27 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zQBY6uFAL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789600105.912834,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789661540.831923,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -24809,6 +24841,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GLTJ4MYM",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789661540.831923,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
       "asin": "B0GVW8464B",
       "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
       "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
@@ -24823,7 +24874,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24841,7 +24892,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -24859,7 +24910,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OWfzSMjsL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24877,7 +24928,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -24895,7 +24946,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -24913,26 +24964,8 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789509210.017806,
-      "is_new": false
-    },
-    {
-      "asin": "B0FHB4KWBF",
-      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 280 Hz, Qd-oled, Aw2725d | NVIDIA G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0,03, Brilho 1000 nits, 99.3% DCI-P3, Contraste 1.500.000:1",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-2560-1440/dp/B0FHB4KWBF",
-      "current_price": 5199.0,
-      "original_price": 6339.0,
-      "discount": 18.0,
-      "difference": 1140.0,
-      "criteria": [
-        "R$ 1140.0 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vzRwgE+nL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
@@ -24967,26 +25000,8 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1787934841.41155,
-      "is_new": false
-    },
-    {
-      "asin": "B0GR11CQ84",
-      "title": "Monitor Samsung Odyssey OLED G9 49\", DQHD, 240Hz, 0.03ms, ajuste de altura, G-sync, FreeSync Premium Pro, DP, HDMI, Micro HDMI, prata",
-      "link": "https://www.amazon.com.br/Monitor-Samsung-Odyssey-FreeSync-Premium/dp/B0GR11CQ84",
-      "current_price": 8499.0,
-      "original_price": 9499.0,
-      "discount": 10.5,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oGhLrTfhL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1784477560.307231,
       "is_new": false
     },
     {
@@ -25003,26 +25018,26 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
     {
-      "asin": "B0FP6K9M5D",
-      "title": "Samsung Tablet Galaxy Tab S10 Lite 5G, 256GB, 8GB RAM, Tela 10.9\", S Pen e Capa Smartbook Cover Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Smartbook-Inclusas/dp/B0FP6K9M5D",
-      "current_price": 2799.0,
-      "original_price": 3699.0,
-      "discount": 24.3,
-      "difference": 900.0,
+      "asin": "B0H126PTKS",
+      "title": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34H, IP68, Áudio Lossless Laranja",
+      "link": "https://www.amazon.com.br/JBL-Boombox-Bluetooth-Personaliz%C3%A1veis-Lossless/dp/B0H126PTKS",
+      "current_price": 2479.0,
+      "original_price": 3199.0,
+      "discount": 22.5,
+      "difference": 720.0,
       "criteria": [
-        "R$ 900.0 desc."
+        "R$ 720.0 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZM0Xk2y2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41L+ESJsjmL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1789646176.066172,
+      "discovery_ts": 1789646176.066172,
       "is_new": false
     },
     {
@@ -25044,24 +25059,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B59DHLJG",
-      "title": "Caixa De Som Bluetooth Max 12 Preto JBL",
-      "link": "https://www.amazon.com.br/Caixa-Som-Bluetooth-Preto-JBL/dp/B0B59DHLJG",
-      "current_price": 2554.67,
-      "original_price": 3258.8,
-      "discount": 21.6,
-      "difference": 704.13,
-      "criteria": [
-        "R$ 704.13 desc."
-      ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fny0m5ziL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
-      "is_new": false
-    },
-    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -25076,7 +25073,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25095,7 +25092,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25113,26 +25110,8 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789412436.19625,
-      "is_new": false
-    },
-    {
-      "asin": "B0DWQNS8TN",
-      "title": "Monitor Gamer Samsung Odyssey G5 32, Resolução QHD, Taxa de atualização de 165Hz & 1ms de tempo de resposta (MPRT), Curvatura com 1000R, HDR 10, AMD FreeSync, Eye Saver Mode & Flicker Free Mode",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Samsung-Odyssey-G5/dp/B0DWQNS8TN",
-      "current_price": 1059.0,
-      "original_price": 1599.0,
-      "discount": 33.8,
-      "difference": 540.0,
-      "criteria": [
-        "R$ 540.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616NYrEQ6QL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789527232.478266,
       "is_new": false
     },
     {
@@ -25149,7 +25128,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -25186,26 +25165,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789565540.55532,
-      "is_new": false
-    },
-    {
-      "asin": "B0CN79H73Y",
-      "title": "LG Geladeira Frost Free 395 Litros Duplex com Compressor Smart Inverter Preta Top Freezer 2 Portas",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN79H73Y",
-      "current_price": 2799.0,
-      "original_price": 3194.85,
-      "discount": 12.4,
-      "difference": 395.85,
-      "criteria": [
-        "R$ 395.85 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1789626103.680906,
       "is_new": false
     },
     {
@@ -25222,7 +25183,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -25240,7 +25201,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789626103.680906,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1785547051.313967,
       "is_new": false
     },
@@ -25258,7 +25219,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41cbbClO-jL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789484663.036845,
       "is_new": false
     },
@@ -25294,7 +25255,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
@@ -25312,7 +25273,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789646176.066172,
+      "last_seen": 1789661540.831923,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -25335,21 +25296,21 @@
       "is_new": false
     },
     {
-      "asin": "B0C22PGBGC",
-      "title": "EUCERIN Creme de Olhos Clareador de Olheiras 15ml, Anti-Pigment, Antimanchas, Thiamidol",
-      "link": "https://www.amazon.com.br/Eucerin-Anti-Pigment-Olhos-15/dp/B0C22PGBGC",
-      "current_price": 9.12,
-      "original_price": 249.9,
-      "discount": 96.4,
-      "difference": 240.78,
+      "asin": "B088MVWBM9",
+      "title": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
+      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
+      "current_price": 211.9,
+      "original_price": 434.9,
+      "discount": 51.3,
+      "difference": 223.0,
       "criteria": [
-        "96.4% OFF"
+        "51.3% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61IfKmdTAWL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1789626103.680906,
-      "discovery_ts": 1786433627.124475,
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789661540.831923,
+      "discovery_ts": 1785152966.201765,
       "is_new": false
     },
     {
@@ -25368,6 +25329,24 @@
       "category": "[SHIRT]",
       "last_seen": 1789646176.066172,
       "discovery_ts": 1787002543.355604,
+      "is_new": false
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": 58.41,
+      "original_price": 119.9,
+      "discount": 51.3,
+      "difference": 61.49,
+      "criteria": [
+        "51.3% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "last_seen": 1789661540.831923,
+      "discovery_ts": 1784433482.515947,
       "is_new": false
     }
   ]
