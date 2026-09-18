@@ -1,5 +1,5 @@
 {
-  "last_check": "18/09/2026 17:25:17",
+  "last_check": "18/09/2026 19:50:31",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24844,25 +24844,115 @@
           "date": "2026-09-18T17:25:09.069889"
         }
       ]
+    },
+    "B07Y94W69D": {
+      "discovery_date": "2026-09-18T19:50:31.138208",
+      "price_history": [
+        {
+          "price": 899.99,
+          "date": "2026-09-18T19:50:31.138208"
+        }
+      ]
+    },
+    "B084RX82RT": {
+      "discovery_date": "2026-09-18T19:50:31.138208",
+      "price_history": [
+        {
+          "price": 3399.0,
+          "date": "2026-09-18T19:50:31.138208"
+        }
+      ]
+    },
+    "B0H724HJYH": {
+      "discovery_date": "2026-09-18T19:50:31.138208",
+      "price_history": [
+        {
+          "price": 6554.05,
+          "date": "2026-09-18T19:50:31.138208"
+        }
+      ]
+    },
+    "B0DSJXKX9T": {
+      "discovery_date": "2026-09-18T19:50:31.138208",
+      "price_history": [
+        {
+          "price": 1076.78,
+          "date": "2026-09-18T19:50:31.138208"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BLT4DQ9R",
-      "title": "Churrasqueira Elétrica De Mesa Bbq Show Elgin 220V Com controle de temperatura, bandeja anti-fumaça e grelha removível",
-      "link": "https://www.amazon.com.br/Churrasqueira-El%C3%A9trica-temperatura-anti-fuma%C3%A7a-remov%C3%ADvel/dp/B0BLT4DQ9R",
-      "current_price": 89.7,
-      "original_price": 196.02,
-      "discount": 54.2,
-      "difference": 106.32,
+      "asin": "B0DSJXKX9T",
+      "title": "Freezer Horizontal 140L Philco PFH160B Dupla Função 220V",
+      "link": "https://www.amazon.com.br/Freezer-Horizontal-Philco-PFH160B-Fun%C3%A7%C3%A3o/dp/B0DSJXKX9T",
+      "current_price": 1076.78,
+      "original_price": 1589.5,
+      "discount": 32.3,
+      "difference": 512.72,
       "criteria": [
-        "54.2% OFF"
+        "R$ 512.72 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61uFZyGJqmL._AC_UL210_SR210,210_.jpg",
-      "category": "[BARBECUE_GRILL]",
-      "last_seen": 1789752309.069901,
-      "discovery_ts": 1789752309.069901,
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41L7rxtRkIL._AC_UL210_SR210,210_.jpg",
+      "category": "[FREEZER]",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1789761031.138215,
+      "is_new": true
+    },
+    {
+      "asin": "B07Y94W69D",
+      "title": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista gigante com lançador, rampas e ataque do T-Rex motorizado. Para crianças a partir de 4 anos.",
+      "link": "https://www.amazon.com.br/Hot-Wheels-GJL14-WheelsCity-Ultimate/dp/B07Y94W69D",
+      "current_price": 899.99,
+      "original_price": 1359.99,
+      "discount": 33.8,
+      "difference": 460.0,
+      "criteria": [
+        "R$ 460.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81q94ZM9zjL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_VEHICLE_SET]",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1789761031.138215,
+      "is_new": true
+    },
+    {
+      "asin": "B084RX82RT",
+      "title": "Secadora de Roupas Electrolux 12Kg Branca Premium Care com Autosense (SFP12) 220V",
+      "link": "https://www.amazon.com.br/Secadora-Electrolux-SFP12-Front-Premium/dp/B084RX82RT",
+      "current_price": 3399.0,
+      "original_price": 3772.98,
+      "discount": 9.9,
+      "difference": 373.98,
+      "criteria": [
+        "R$ 373.98 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51vAxVDRrQL._AC_UL210_SR210,210_.jpg",
+      "category": "[DRYER]",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1789761031.138215,
+      "is_new": true
+    },
+    {
+      "asin": "B0H724HJYH",
+      "title": "Impressora 3D Bambu Lab A2LC - A2L + AMS Lite (Combo) - 220V",
+      "link": "https://www.amazon.com.br/Impressora-3D-Bambu-Lab-A2LC/dp/B0H724HJYH",
+      "current_price": 6554.05,
+      "original_price": 6899.0,
+      "discount": 5.0,
+      "difference": 344.95,
+      "criteria": [
+        "R$ 344.95 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61B2rgFe-GL._AC_UL210_SR210,210_.jpg",
+      "category": "[3D_PRINTER]",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1789761031.138215,
       "is_new": true
     },
     {
@@ -24898,7 +24988,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -24917,7 +25007,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -24972,8 +25062,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
+      "asin": "B0F6NSM3CW",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Cinza, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Galaxy-Tab-S10-FE/dp/B0F6NSM3CW",
+      "current_price": 3199.0,
+      "original_price": 5299.0,
+      "discount": 39.6,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51v9qqepPbL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1786469861.404163,
       "is_new": false
     },
     {
@@ -25014,6 +25122,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJV247C",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+      "current_price": 6949.0,
+      "original_price": 8699.0,
+      "discount": 20.1,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1786425512.309444,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -25046,7 +25172,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789739596.21763,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -25100,7 +25226,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25118,7 +25244,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25136,8 +25262,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1785460545.090896,
+      "is_new": false
+    },
+    {
+      "asin": "B0HD7RD8F1",
+      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
+      "current_price": 2199.0,
+      "original_price": 3099.0,
+      "discount": 29.0,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789761031.138215,
+      "discovery_ts": 1789661540.831914,
       "is_new": false
     },
     {
@@ -25154,7 +25298,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -25227,7 +25371,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25245,7 +25389,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25301,7 +25445,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1789565540.55532,
       "is_new": false
     },
@@ -25355,7 +25499,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789752309.069901,
+      "last_seen": 1789761031.138215,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -25375,6 +25519,24 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1789739596.21763,
       "discovery_ts": 1785152966.201765,
+      "is_new": false
+    },
+    {
+      "asin": "B0BLT4DQ9R",
+      "title": "Churrasqueira Elétrica De Mesa Bbq Show Elgin 220V Com controle de temperatura, bandeja anti-fumaça e grelha removível",
+      "link": "https://www.amazon.com.br/Churrasqueira-El%C3%A9trica-temperatura-anti-fuma%C3%A7a-remov%C3%ADvel/dp/B0BLT4DQ9R",
+      "current_price": 89.7,
+      "original_price": 196.02,
+      "discount": 54.2,
+      "difference": 106.32,
+      "criteria": [
+        "54.2% OFF"
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61uFZyGJqmL._AC_UL210_SR210,210_.jpg",
+      "category": "[BARBECUE_GRILL]",
+      "last_seen": 1789752309.069901,
+      "discovery_ts": 1789752309.069901,
       "is_new": false
     }
   ]
