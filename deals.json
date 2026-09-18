@@ -1,5 +1,5 @@
 {
-  "last_check": "18/09/2026 00:36:38",
+  "last_check": "18/09/2026 05:08:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24781,44 +24781,90 @@
           "date": "2026-09-18T00:36:38.124239"
         }
       ]
+    },
+    "B0DSXX6XB3": {
+      "discovery_date": "2026-09-18T05:08:45.988773",
+      "price_history": [
+        {
+          "price": 4288.0,
+          "date": "2026-09-18T05:08:45.988773"
+        }
+      ]
+    },
+    "B0DSYJCY45": {
+      "discovery_date": "2026-09-18T05:08:45.988773",
+      "price_history": [
+        {
+          "price": 5998.89,
+          "date": "2026-09-18T05:08:45.988773"
+        }
+      ]
+    },
+    "B0FT95Z9LX": {
+      "discovery_date": "2026-09-18T05:08:45.988773",
+      "price_history": [
+        {
+          "price": 1349.0,
+          "date": "2026-09-18T05:08:45.988773"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BVRZZ1LW",
-      "title": "Ar Condicionado LG DUAL Inverter Voice 30000 BTU/h Quente e Frio S4NW30L43FA.EB2GAMZ - 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Quente-S4NW30L43FA-EB2GAMZ/dp/B0BVRZZ1LW",
-      "current_price": 7600.67,
-      "original_price": 9989.0,
-      "discount": 23.9,
-      "difference": 2388.33,
+      "asin": "B0DSYJCY45",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSYJCY45",
+      "current_price": 5998.89,
+      "original_price": 10999.0,
+      "discount": 45.5,
+      "difference": 5000.11,
       "criteria": [
-        "R$ 2388.33 desc."
+        "45.5% OFF",
+        "R$ 5000.11 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51qxFyQAx6L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789691798.124245,
-      "discovery_ts": 1789691798.124245,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1789708125.988781,
       "is_new": true
     },
     {
-      "asin": "B0CH3YNWVK",
-      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 220V",
-      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3YNWVK",
-      "current_price": 449.9,
-      "original_price": 849.9,
-      "discount": 47.1,
-      "difference": 400.0,
+      "asin": "B0DSXX6XB3",
+      "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSXX6XB3",
+      "current_price": 4288.0,
+      "original_price": 7499.0,
+      "discount": 42.8,
+      "difference": 3211.0,
       "criteria": [
-        "47.1% OFF",
-        "R$ 400.0 desc."
+        "42.8% OFF",
+        "R$ 3211.0 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
-      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789691798.124245,
-      "discovery_ts": 1789691798.124245,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1789708125.988781,
+      "is_new": true
+    },
+    {
+      "asin": "B0FT95Z9LX",
+      "title": "Monitor Samsung Viewfinity S5 34\" WQHD Ultrawide 100Hz",
+      "link": "https://www.amazon.com.br/Monitor-Samsung-Viewfinity-Ultrawide-100Hz/dp/B0FT95Z9LX",
+      "current_price": 1349.0,
+      "original_price": 2199.99,
+      "discount": 38.7,
+      "difference": 850.99,
+      "criteria": [
+        "R$ 850.99 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51RrbUcYkzL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1789708125.988781,
       "is_new": true
     },
     {
@@ -24835,8 +24881,64 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789674269.693344,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0BVRZZ1LW",
+      "title": "Ar Condicionado LG DUAL Inverter Voice 30000 BTU/h Quente e Frio S4NW30L43FA.EB2GAMZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Quente-S4NW30L43FA-EB2GAMZ/dp/B0BVRZZ1LW",
+      "current_price": 7600.67,
+      "original_price": 9989.0,
+      "discount": 23.9,
+      "difference": 2388.33,
+      "criteria": [
+        "R$ 2388.33 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qxFyQAx6L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789691798.124245,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLTJ4MYM",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
+      "current_price": 2249.11,
+      "original_price": 4499.0,
+      "discount": 50.0,
+      "difference": 2249.89,
+      "criteria": [
+        "50.0% OFF",
+        "R$ 2249.89 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -24859,28 +24961,9 @@
       "is_new": false
     },
     {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NSM3CW",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Cinza, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Galaxy-Tab-S10-FE/dp/B0F6NSM3CW",
+      "asin": "B0F6NLGYGJ",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Azul, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-128GB-Inclusas/dp/B0F6NLGYGJ",
       "current_price": 3199.0,
       "original_price": 5299.0,
       "discount": 39.6,
@@ -24889,10 +24972,10 @@
         "R$ 2100.0 desc."
       ],
       "badge": "39% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51v9qqepPbL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-rwVkAl9L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1786469861.404163,
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1786482845.187191,
       "is_new": false
     },
     {
@@ -24915,25 +24998,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GLTJ4MYM",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
-      "current_price": 2499.0,
-      "original_price": 4499.0,
-      "discount": 44.5,
-      "difference": 2000.0,
-      "criteria": [
-        "44.5% OFF",
-        "R$ 2000.0 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615ojDU7zSL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
       "asin": "B0GVW8464B",
       "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
       "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
@@ -24948,7 +25012,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -24966,26 +25030,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GRJV247C",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
-      "current_price": 6949.0,
-      "original_price": 8699.0,
-      "discount": 20.1,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1786425512.309444,
       "is_new": false
     },
     {
@@ -25021,7 +25067,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789509210.017806,
       "is_new": false
     },
@@ -25039,7 +25085,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OWfzSMjsL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25057,7 +25103,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25075,7 +25121,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25098,21 +25144,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GT61W3LM",
-      "title": "Notebook ASUS Vivobook S14, Intel Core Ultra 5, 16 GB, 512 GB SSD, W 11 Home, 14.0'' FHD, Matte Gray - S3407CA-LY113W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Ultra/dp/B0GT61W3LM",
-      "current_price": 5499.0,
-      "original_price": 6499.0,
-      "discount": 15.4,
-      "difference": 1000.0,
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 3698.99,
+      "original_price": 4780.0,
+      "discount": 22.6,
+      "difference": 1081.01,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 1081.01 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-aar2N5zL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1787934841.41155,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1789708125.988781,
+      "discovery_ts": 1787988377.926092,
       "is_new": false
     },
     {
@@ -25129,7 +25175,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -25147,7 +25193,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -25165,26 +25211,8 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
-      "asin": "B0D9YS13X6",
-      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YS13X6",
-      "current_price": 3199.0,
-      "original_price": 3893.68,
-      "discount": 17.8,
-      "difference": 694.68,
-      "criteria": [
-        "R$ 694.68 desc."
-      ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yb5tekSxL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1789684029.529039,
       "is_new": false
     },
     {
@@ -25202,7 +25230,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25221,7 +25249,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25239,26 +25267,8 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789412436.19625,
-      "is_new": false
-    },
-    {
-      "asin": "B0GL3FW4QL",
-      "title": "Geladeira Inteligente B= Smart Brastemp Frost Free Duplex 512 Litros Cor Inox - BRM62AK Bivolt",
-      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRM62AK-Litros-Brastemp/dp/B0GL3FW4QL",
-      "current_price": 3692.95,
-      "original_price": 4199.0,
-      "discount": 12.1,
-      "difference": 506.05,
-      "criteria": [
-        "R$ 506.05 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41oL3b3I9qL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -25275,7 +25285,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -25293,27 +25303,8 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/616NYrEQ6QL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789691798.124245,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789527232.478266,
-      "is_new": false
-    },
-    {
-      "asin": "B0CJYJH5TD",
-      "title": "WAP Aspirador de Pó Vertical à Bateria ECO RÁPIDO Autonomia de 40 min, 2 Velocidades, 700ml, Bivolt",
-      "link": "https://www.amazon.com.br/WAP-Aspirador-Velocidades-Capacidade-Carregador/dp/B0CJYJH5TD",
-      "current_price": 499.9,
-      "original_price": 959.9,
-      "discount": 47.9,
-      "difference": 460.0,
-      "criteria": [
-        "47.9% OFF",
-        "R$ 460.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61IrpNfTEZL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1789590416.301637,
       "is_new": false
     },
     {
@@ -25331,8 +25322,27 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1789565540.55532,
+      "is_new": false
+    },
+    {
+      "asin": "B0CH3YNWVK",
+      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 220V",
+      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3YNWVK",
+      "current_price": 449.9,
+      "original_price": 849.9,
+      "discount": 47.1,
+      "difference": 400.0,
+      "criteria": [
+        "47.1% OFF",
+        "R$ 400.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
+      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789691798.124245,
       "is_new": false
     },
     {
@@ -25372,56 +25382,20 @@
       "is_new": false
     },
     {
-      "asin": "B0CB1QS325",
-      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
-      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
-      "current_price": 4699.0,
-      "original_price": 4999.0,
-      "discount": 6.0,
-      "difference": 300.0,
-      "criteria": [
-        "R$ 300.0 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B088MVWBM9",
-      "title": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
-      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
-      "current_price": 211.9,
-      "original_price": 434.9,
-      "discount": 51.3,
-      "difference": 223.0,
-      "criteria": [
-        "51.3% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1785152966.201765,
-      "is_new": false
-    },
-    {
       "asin": "B0GHP4NL1J",
       "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
       "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": 58.41,
+      "current_price": 17.52,
       "original_price": 119.9,
-      "discount": 51.3,
-      "difference": 61.49,
+      "discount": 85.4,
+      "difference": 102.38,
       "criteria": [
-        "51.3% OFF"
+        "85.4% OFF"
       ],
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789708125.988781,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
