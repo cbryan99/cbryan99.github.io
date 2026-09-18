@@ -1,5 +1,5 @@
 {
-  "last_check": "17/09/2026 22:27:18",
+  "last_check": "18/09/2026 00:36:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24600,6 +24600,10 @@
         {
           "price": 7139.0,
           "date": "2026-09-15T21:53:30.017806"
+        },
+        {
+          "price": 6999.0,
+          "date": "2026-09-18T00:36:38.124239"
         }
       ]
     },
@@ -24759,25 +24763,62 @@
           "date": "2026-09-17T22:27:09.529032"
         }
       ]
+    },
+    "B0CH3YNWVK": {
+      "discovery_date": "2026-09-18T00:36:38.124239",
+      "price_history": [
+        {
+          "price": 449.9,
+          "date": "2026-09-18T00:36:38.124239"
+        }
+      ]
+    },
+    "B0BVRZZ1LW": {
+      "discovery_date": "2026-09-18T00:36:38.124239",
+      "price_history": [
+        {
+          "price": 7600.67,
+          "date": "2026-09-18T00:36:38.124239"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0D9YS13X6",
-      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YS13X6",
-      "current_price": 3199.0,
-      "original_price": 3893.68,
-      "discount": 17.8,
-      "difference": 694.68,
+      "asin": "B0BVRZZ1LW",
+      "title": "Ar Condicionado LG DUAL Inverter Voice 30000 BTU/h Quente e Frio S4NW30L43FA.EB2GAMZ - 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Quente-S4NW30L43FA-EB2GAMZ/dp/B0BVRZZ1LW",
+      "current_price": 7600.67,
+      "original_price": 9989.0,
+      "discount": 23.9,
+      "difference": 2388.33,
       "criteria": [
-        "R$ 694.68 desc."
+        "R$ 2388.33 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yb5tekSxL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789684029.529039,
-      "discovery_ts": 1789684029.529039,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qxFyQAx6L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789691798.124245,
+      "is_new": true
+    },
+    {
+      "asin": "B0CH3YNWVK",
+      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 220V",
+      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3YNWVK",
+      "current_price": 449.9,
+      "original_price": 849.9,
+      "discount": 47.1,
+      "difference": 400.0,
+      "criteria": [
+        "47.1% OFF",
+        "R$ 400.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
+      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789691798.124245,
       "is_new": true
     },
     {
@@ -24813,7 +24854,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -24855,6 +24896,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GLSQF18R",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
       "asin": "B0GLTJ4MYM",
       "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 Câmeras 50MP, Tela 1.5K Extreme Amoled 120Hz - Gadget Gray",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLTJ4MYM",
@@ -24871,25 +24931,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789684029.529039,
       "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
-      "asin": "B0GLSQF18R",
-      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
-      "current_price": 2499.0,
-      "original_price": 4499.0,
-      "discount": 44.5,
-      "difference": 2000.0,
-      "criteria": [
-        "44.5% OFF",
-        "R$ 2000.0 desc."
-      ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -24912,6 +24953,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GRJNQWHW",
+      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
+      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
+      "current_price": 7249.0,
+      "original_price": 8999.0,
+      "discount": 19.4,
+      "difference": 1750.0,
+      "criteria": [
+        "R$ 1750.0 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
       "asin": "B0GRJV247C",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
@@ -24930,24 +24989,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GRJNQWHW",
-      "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
-      "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
-      "current_price": 7249.0,
-      "original_price": 8999.0,
-      "discount": 19.4,
-      "difference": 1750.0,
-      "criteria": [
-        "R$ 1750.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
       "asin": "B0GLSLLGZL",
       "title": "Smartphone Motorola Moto G77 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Marrom",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
@@ -24962,8 +25003,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1788189889.613867,
+      "is_new": false
+    },
+    {
+      "asin": "B0H3QCCJ8M",
+      "title": "Smart TV TCL 85 Polegadas QLED 4K P8L WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85P8L",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85P8L/dp/B0H3QCCJ8M",
+      "current_price": 6999.0,
+      "original_price": 8299.0,
+      "discount": 15.7,
+      "difference": 1300.0,
+      "criteria": [
+        "R$ 1300.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789691798.124245,
+      "discovery_ts": 1789509210.017806,
       "is_new": false
     },
     {
@@ -24998,7 +25057,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25016,7 +25075,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25034,26 +25093,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
-      "asin": "B0H3QCCJ8M",
-      "title": "Smart TV TCL 85 Polegadas QLED 4K P8L WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85P8L",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85P8L/dp/B0H3QCCJ8M",
-      "current_price": 7139.0,
-      "original_price": 8299.0,
-      "discount": 14.0,
-      "difference": 1160.0,
-      "criteria": [
-        "R$ 1160.0 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789674269.693344,
-      "discovery_ts": 1789509210.017806,
       "is_new": false
     },
     {
@@ -25088,7 +25129,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -25106,7 +25147,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -25124,8 +25165,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0D9YS13X6",
+      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YS13X6",
+      "current_price": 3199.0,
+      "original_price": 3893.68,
+      "discount": 17.8,
+      "difference": 694.68,
+      "criteria": [
+        "R$ 694.68 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yb5tekSxL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1789684029.529039,
+      "discovery_ts": 1789684029.529039,
       "is_new": false
     },
     {
@@ -25143,7 +25202,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25162,7 +25221,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51So7GoGvxL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25180,7 +25239,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25216,7 +25275,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81bpAJQ1ROL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1785207848.029087,
       "is_new": false
     },
@@ -25234,7 +25293,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/616NYrEQ6QL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789527232.478266,
       "is_new": false
     },
@@ -25290,7 +25349,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -25308,7 +25367,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/515h8+K6u6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789684029.529039,
+      "last_seen": 1789691798.124245,
       "discovery_ts": 1789309588.803965,
       "is_new": false
     },
