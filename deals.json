@@ -1,5 +1,5 @@
 {
-  "last_check": "19/09/2026 07:33:18",
+  "last_check": "19/09/2026 12:02:44",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24820,6 +24820,10 @@
         {
           "price": 4004.9,
           "date": "2026-09-19T07:32:59.666466"
+        },
+        {
+          "price": 3999.0,
+          "date": "2026-09-19T12:02:38.956884"
         }
       ]
     },
@@ -25002,62 +25006,108 @@
           "date": "2026-09-19T07:32:59.666466"
         }
       ]
+    },
+    "B0GQJF7T7S": {
+      "discovery_date": "2026-09-19T12:02:38.956884",
+      "price_history": [
+        {
+          "price": 2848.0,
+          "date": "2026-09-19T12:02:38.956884"
+        }
+      ]
+    },
+    "B08DMSYCFC": {
+      "discovery_date": "2026-09-19T12:02:38.956884",
+      "price_history": [
+        {
+          "price": 2899.0,
+          "date": "2026-09-19T12:02:38.956884"
+        }
+      ]
+    },
+    "B0H7Z2YW38": {
+      "discovery_date": "2026-09-19T12:02:38.956884",
+      "price_history": [
+        {
+          "price": 3149.0,
+          "date": "2026-09-19T12:02:38.956884"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B08F7DBTRX",
-      "title": "Volante Logitech G923 para PS5, PS4 e PC com Force Feedback TRUEFORCE, Pedais Responsivos, Launch Control e Acabamento em Couro",
-      "link": "https://www.amazon.com.br/Logitech-Feedback-TRUEFORCE-Responsivos-Acabamento/dp/B08F7DBTRX",
-      "current_price": 2399.9,
-      "original_price": 3499.9,
-      "discount": 31.4,
-      "difference": 1100.0,
+      "asin": "B08DMSYCFC",
+      "title": "Lava e Seca Hisense 3S 12/8 kg Inverter Wi-Fi e Função Steam Black Noir 220V - WD3S1243BB2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B08DMSYCFC",
+      "current_price": 2899.0,
+      "original_price": 3699.0,
+      "discount": 21.6,
+      "difference": 800.0,
       "criteria": [
-        "R$ 1100.0 desc."
+        "R$ 800.0 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71pJHPTyacL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1789803179.666476,
-      "discovery_ts": 1789803179.666476,
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71lZq8NuyvL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789819358.956892,
       "is_new": true
     },
     {
-      "asin": "B09S5L5G2F",
-      "title": "Máquina Overlock Singer S0235 Inclui Acessórios (2 Agulhas, Pinça, Chave de Fenda),220V | 4 Linhas, 1300 Pontos/Minuto, Luz LED, Passador de linha manual | Design Compacto e Portátil",
-      "link": "https://www.amazon.com.br/M%C3%A1quina-Costura-Singer-Making-Cut/dp/B09S5L5G2F",
-      "current_price": 1599.0,
-      "original_price": 2299.9,
-      "discount": 30.5,
-      "difference": 700.9,
+      "asin": "B0GQJF7T7S",
+      "title": "Ar-Condicionado Split 18.000 BTUs AirVolution Lite Inverter Frio Midea | inverter, r32 lite",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-18-000-AirVolution-Inverter-Midea/dp/B0GQJF7T7S",
+      "current_price": 2848.0,
+      "original_price": 3583.08,
+      "discount": 20.5,
+      "difference": 735.08,
       "criteria": [
-        "R$ 700.9 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71KTHBFpziL._AC_UL210_SR210,210_.jpg",
-      "category": "[SEWING_MACHINE]",
-      "last_seen": 1789803179.666476,
-      "discovery_ts": 1789803179.666476,
-      "is_new": true
-    },
-    {
-      "asin": "B0FH5VGDQC",
-      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Inox com Programa Lava & Seca 50 min (LS08E) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS08E/dp/B0FH5VGDQC",
-      "current_price": 1987.98,
-      "original_price": 2499.0,
-      "discount": 20.4,
-      "difference": 511.02,
-      "criteria": [
-        "R$ 511.02 desc."
+        "R$ 735.08 desc."
       ],
       "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Q4P2GkUIL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1789803179.666476,
-      "discovery_ts": 1789803179.666476,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415jOsCNyrL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789819358.956892,
       "is_new": true
+    },
+    {
+      "asin": "B0H7Z2YW38",
+      "title": "Samsung Smart TV 55\" MiniLED 4K M75H | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Smart-TV-MiniLED-M75H/dp/B0H7Z2YW38",
+      "current_price": 3149.0,
+      "original_price": 3500.0,
+      "discount": 10.0,
+      "difference": 351.0,
+      "criteria": [
+        "R$ 351.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619zHmZFrkL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789819358.956892,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSXZ4FZT",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
+      "current_price": 6399.0,
+      "original_price": 11999.0,
+      "discount": 46.7,
+      "difference": 5600.0,
+      "criteria": [
+        "46.7% OFF",
+        "R$ 5600.0 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789768639.994649,
+      "is_new": false
     },
     {
       "asin": "B0GKQTTCMM",
@@ -25081,18 +25131,18 @@
       "asin": "B0DSXX6XB3",
       "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSXX6XB3",
-      "current_price": 4004.9,
+      "current_price": 3999.0,
       "original_price": 7499.0,
-      "discount": 46.6,
-      "difference": 3494.1,
+      "discount": 46.7,
+      "difference": 3500.0,
       "criteria": [
-        "46.6% OFF",
-        "R$ 3494.1 desc."
+        "46.7% OFF",
+        "R$ 3500.0 desc."
       ],
-      "badge": "Oferta Amazon",
+      "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -25110,8 +25160,8 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ot5-7coTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1789785807.17566,
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789785807.175653,
       "is_new": false
     },
     {
@@ -25133,25 +25183,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
       "asin": "B0GRJNQWHW",
       "title": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Windows 11 Home | NVIDIA GeForce RTX 4050 6GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi-Fi 7, Teclado Retroiluminado",
       "link": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Windows/dp/B0GRJNQWHW",
@@ -25165,7 +25196,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -25184,7 +25215,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25226,6 +25257,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1785269176.438674,
+      "is_new": false
+    },
+    {
       "asin": "B0B625GC45",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
       "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
@@ -25244,39 +25293,39 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1785269176.438674,
-      "is_new": false
-    },
-    {
-      "asin": "B0HD7RD8F1",
-      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
-      "current_price": 1999.0,
-      "original_price": 3099.0,
-      "discount": 35.5,
+      "asin": "B0GQW5MH7D",
+      "title": "Apple iPhone 17e de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GQW5MH7D",
+      "current_price": 4699.0,
+      "original_price": 5799.0,
+      "discount": 19.0,
       "difference": 1100.0,
       "criteria": [
         "R$ 1100.0 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789724536.471138,
+      "is_new": false
+    },
+    {
+      "asin": "B08F7DBTRX",
+      "title": "Volante Logitech G923 para PS5, PS4 e PC com Force Feedback TRUEFORCE, Pedais Responsivos, Launch Control e Acabamento em Couro",
+      "link": "https://www.amazon.com.br/Logitech-Feedback-TRUEFORCE-Responsivos-Acabamento/dp/B08F7DBTRX",
+      "current_price": 2399.9,
+      "original_price": 3499.9,
+      "discount": 31.4,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71pJHPTyacL._AC_UL210_SR210,210_.jpg",
+      "category": "🎮 Games & Lazer",
       "last_seen": 1789803179.666476,
-      "discovery_ts": 1789661540.831914,
+      "discovery_ts": 1789803179.666476,
       "is_new": false
     },
     {
@@ -25295,6 +25344,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789803179.666476,
       "discovery_ts": 1789516422.285844,
+      "is_new": false
+    },
+    {
+      "asin": "B0HD7RD8F1",
+      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
+      "current_price": 2199.0,
+      "original_price": 3099.0,
+      "discount": 29.0,
+      "difference": 900.0,
+      "criteria": [
+        "R$ 900.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789661540.831914,
       "is_new": false
     },
     {
@@ -25352,6 +25419,24 @@
       "is_new": false
     },
     {
+      "asin": "B09S5L5G2F",
+      "title": "Máquina Overlock Singer S0235 Inclui Acessórios (2 Agulhas, Pinça, Chave de Fenda),220V | 4 Linhas, 1300 Pontos/Minuto, Luz LED, Passador de linha manual | Design Compacto e Portátil",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Costura-Singer-Making-Cut/dp/B09S5L5G2F",
+      "current_price": 1599.0,
+      "original_price": 2299.9,
+      "discount": 30.5,
+      "difference": 700.9,
+      "criteria": [
+        "R$ 700.9 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71KTHBFpziL._AC_UL210_SR210,210_.jpg",
+      "category": "[SEWING_MACHINE]",
+      "last_seen": 1789803179.666476,
+      "discovery_ts": 1789803179.666476,
+      "is_new": false
+    },
+    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -25366,7 +25451,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25384,7 +25469,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25403,7 +25488,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81DFMqlGQ+L._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_FIGURE_PLAYSET]",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25421,8 +25506,62 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41yb7JiKeVL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1789785807.17566,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789775662.257893,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPDW9PLB",
+      "title": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-TCL-Polegadas-Freesync/dp/B0FPDW9PLB",
+      "current_price": 1253.05,
+      "original_price": 1799.0,
+      "discount": 30.3,
+      "difference": 545.95,
+      "criteria": [
+        "R$ 545.95 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91P194qjQmL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1786421114.339604,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH5VGDQC",
+      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Inox com Programa Lava & Seca 50 min (LS08E) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS08E/dp/B0FH5VGDQC",
+      "current_price": 1987.98,
+      "original_price": 2499.0,
+      "discount": 20.4,
+      "difference": 511.02,
+      "criteria": [
+        "R$ 511.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Q4P2GkUIL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789803179.666466,
+      "is_new": false
+    },
+    {
+      "asin": "B0GL3FW4QL",
+      "title": "Geladeira Inteligente B= Smart Brastemp Frost Free Duplex 512 Litros Cor Inox - BRM62AK Bivolt",
+      "link": "https://www.amazon.com.br/Geladeira-Inteligente-BRM62AK-Litros-Brastemp/dp/B0GL3FW4QL",
+      "current_price": 3692.95,
+      "original_price": 4199.0,
+      "discount": 12.1,
+      "difference": 506.05,
+      "criteria": [
+        "R$ 506.05 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41oL3b3I9qL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -25444,42 +25583,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FPDW9PLB",
-      "title": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-TCL-Polegadas-Freesync/dp/B0FPDW9PLB",
-      "current_price": 1319.0,
-      "original_price": 1799.0,
-      "discount": 26.7,
-      "difference": 480.0,
-      "criteria": [
-        "R$ 480.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91P194qjQmL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1786421114.339604,
-      "is_new": false
-    },
-    {
-      "asin": "B0CN7B2LNK",
-      "title": "Geladeira LG GN-B392PX 2 Portas 395 Litros Preta Inox | Frost Free, Top Freezer Inverter -127 Volts",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN7B2LNK",
-      "current_price": 2788.0,
-      "original_price": 3194.85,
-      "discount": 12.7,
-      "difference": 406.85,
-      "criteria": [
-        "R$ 406.85 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1789724536.471138,
-      "is_new": false
-    },
-    {
       "asin": "B0CH3WBKN6",
       "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
       "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3WBKN6",
@@ -25494,7 +25597,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
       "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789565540.55532,
       "is_new": false
     },
@@ -25512,7 +25615,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51vAxVDRrQL._AC_UL210_SR210,210_.jpg",
       "category": "[DRYER]",
-      "last_seen": 1789803179.666476,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1789761031.138208,
       "is_new": false
     },
@@ -25530,26 +25633,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1789785807.17566,
+      "last_seen": 1789819358.956892,
       "discovery_ts": 1785547051.313967,
       "is_new": false
     },
     {
-      "asin": "B0DD1M9WJT",
-      "title": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V | Alta Capacidade Interna – asse, doure e prepare pratos variados com praticidade (AI551/08)",
-      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1M9WJT",
-      "current_price": 688.99,
-      "original_price": 999.9,
-      "discount": 31.1,
-      "difference": 310.91,
+      "asin": "B0CB1QS325",
+      "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
+      "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
+      "current_price": 4699.0,
+      "original_price": 4999.0,
+      "discount": 6.0,
+      "difference": 300.0,
       "criteria": [
-        "R$ 310.91 desc."
+        "R$ 300.0 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1789785807.17566,
-      "discovery_ts": 1786332587.274524,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789819358.956892,
+      "discovery_ts": 1789060608.678055,
       "is_new": false
     },
     {
