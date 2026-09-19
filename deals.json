@@ -1,5 +1,5 @@
 {
-  "last_check": "19/09/2026 20:44:58",
+  "last_check": "19/09/2026 22:31:05",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24431,6 +24431,10 @@
         {
           "price": 6226.0,
           "date": "2026-09-14T07:02:24.789320"
+        },
+        {
+          "price": 6107.55,
+          "date": "2026-09-19T22:30:53.770282"
         }
       ]
     },
@@ -25073,6 +25077,15 @@
           "date": "2026-09-19T20:44:58.556811"
         }
       ]
+    },
+    "B0CCSYG7WM": {
+      "discovery_date": "2026-09-19T22:30:53.770282",
+      "price_history": [
+        {
+          "price": 4299.0,
+          "date": "2026-09-19T22:30:53.770282"
+        }
+      ]
     }
   },
   "data": [
@@ -25108,8 +25121,26 @@
       "badge": "37% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71FXFo4kYiL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1789850698.556819,
-      "discovery_ts": 1789850698.556819,
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1789850698.556811,
+      "is_new": true
+    },
+    {
+      "asin": "B0CCSYG7WM",
+      "title": "Tab S9 Grafite, 256GB, 11\", WiFi, Câmera Principal 13MP, Câmera Frontal 12MP, UW,",
+      "link": "https://www.amazon.com.br/Tablet-Samsung-Galaxy-256GB-Imersiva/dp/B0CCSYG7WM",
+      "current_price": 4299.0,
+      "original_price": 4999.0,
+      "discount": 14.0,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61EFk5g2H7L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1789857053.770287,
       "is_new": true
     },
     {
@@ -25132,43 +25163,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DSXZ4FZT",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
-      "current_price": 6399.0,
-      "original_price": 11999.0,
-      "discount": 46.7,
-      "difference": 5600.0,
-      "criteria": [
-        "46.7% OFF",
-        "R$ 5600.0 desc."
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789768639.994649,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
-      "criteria": [
-        "R$ 3809.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789077437.189865,
-      "is_new": false
-    },
-    {
       "asin": "B0DSXX6XB3",
       "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSXX6XB3",
@@ -25183,8 +25177,27 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789708125.988773,
+      "is_new": false
+    },
+    {
+      "asin": "B0GKQTJD9P",
+      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Violeta",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTJD9P",
+      "current_price": 4297.5,
+      "original_price": 7499.0,
+      "discount": 42.7,
+      "difference": 3201.5,
+      "criteria": [
+        "42.7% OFF",
+        "R$ 3201.5 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kX9KSBv1L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1789832979.563394,
       "is_new": false
     },
     {
@@ -25201,7 +25214,7 @@
       "badge": "37% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Lw9udEQRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25219,26 +25232,8 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789841611.117693,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789775662.257893,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTJD9P",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Violeta",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTJD9P",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61kX9KSBv1L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789832979.563394,
       "is_new": false
     },
     {
@@ -25273,8 +25268,46 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789832979.563394,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1786530504.605256,
+      "is_new": false
+    },
+    {
+      "asin": "B0GMY41LM8",
+      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
+      "current_price": 3399.0,
+      "original_price": 5999.0,
+      "discount": 43.3,
+      "difference": 2600.0,
+      "criteria": [
+        "43.3% OFF",
+        "R$ 2600.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1789083919.237103,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -25310,7 +25343,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -25329,7 +25362,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25348,7 +25381,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -25366,7 +25399,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25384,7 +25417,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25402,7 +25435,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -25438,7 +25471,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -25456,44 +25489,44 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
-      "asin": "B0GLQXJFBD",
-      "title": "Smartphone Motorola Moto G67 5G - 128GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Chumbo",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G67-ultrarresistente/dp/B0GLQXJFBD",
-      "current_price": 1312.19,
-      "original_price": 2099.0,
-      "discount": 37.5,
-      "difference": 786.81,
+      "asin": "B0H2NGMNB8",
+      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
+      "current_price": 6599.0,
+      "original_price": 7399.99,
+      "discount": 10.8,
+      "difference": 800.99,
       "criteria": [
-        "R$ 786.81 desc."
+        "R$ 800.99 desc."
       ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51BHq8sWc5L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789832979.563394,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1784990556.520456,
       "is_new": false
     },
     {
-      "asin": "B0GQJF7T7S",
-      "title": "Ar-Condicionado Split 18.000 BTUs AirVolution Lite Inverter Frio Midea | inverter, r32 lite",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-18-000-AirVolution-Inverter-Midea/dp/B0GQJF7T7S",
-      "current_price": 2848.0,
-      "original_price": 3583.08,
-      "discount": 20.5,
-      "difference": 735.08,
+      "asin": "B0CVN8HWG7",
+      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 360 Hz, Qd-Oled, Aw2725df | VESA DisplayHDR True Black 400, FreeSync Premium Pro, 0.03 ms, 1000 nits, 99,3% DCI-P3, Contraste 1.500.000:1, USB-hub",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-60Hz-QD-OLED/dp/B0CVN8HWG7",
+      "current_price": 6107.55,
+      "original_price": 6899.0,
+      "discount": 11.5,
+      "difference": 791.45,
       "criteria": [
-        "R$ 735.08 desc."
+        "R$ 791.45 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/415jOsCNyrL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789819358.956884,
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+QKCclxML._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789857053.770287,
+      "discovery_ts": 1789369344.78932,
       "is_new": false
     },
     {
@@ -25528,7 +25561,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1787411687.576549,
       "is_new": false
     },
@@ -25547,7 +25580,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25565,7 +25598,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25602,7 +25635,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41yb7JiKeVL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1789841611.117693,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -25620,7 +25653,7 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41L7rxtRkIL._AC_UL210_SR210,210_.jpg",
       "category": "[FREEZER]",
-      "last_seen": 1789841611.117693,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789761031.138208,
       "is_new": false
     },
@@ -25638,7 +25671,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Q4P2GkUIL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789803179.666466,
       "is_new": false
     },
@@ -25679,25 +25712,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CH3YNWVK",
-      "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 220V",
-      "link": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-Cleaner-Pot%C3%AAncia/dp/B0CH3YNWVK",
-      "current_price": 449.9,
-      "original_price": 849.9,
-      "discount": 47.1,
-      "difference": 400.0,
-      "criteria": [
-        "47.1% OFF",
-        "R$ 400.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71YOp9GJX2L._AC_UL210_SR210,210_.jpg",
-      "category": "[CARPET_UPHOLSTERY_CLEANING_MACHINE]",
-      "last_seen": 1789832979.563394,
-      "discovery_ts": 1789691798.124239,
-      "is_new": false
-    },
-    {
       "asin": "B084RX82RT",
       "title": "Secadora de Roupas Electrolux 12Kg Branca Premium Care com Autosense (SFP12) 220V",
       "link": "https://www.amazon.com.br/Secadora-Electrolux-SFP12-Front-Premium/dp/B084RX82RT",
@@ -25711,7 +25725,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51vAxVDRrQL._AC_UL210_SR210,210_.jpg",
       "category": "[DRYER]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1789761031.138208,
       "is_new": false
     },
@@ -25747,7 +25761,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789850698.556819,
+      "last_seen": 1789857053.770287,
       "discovery_ts": 1786342826.475291,
       "is_new": false
     }
