@@ -1,5 +1,5 @@
 {
-  "last_check": "20/09/2026 05:08:27",
+  "last_check": "20/09/2026 09:45:45",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2122,6 +2122,10 @@
         {
           "price": "1089.0",
           "date": "2026-07-25T21:38:46.987924"
+        },
+        {
+          "price": 1017.02,
+          "date": "2026-09-20T09:45:35.044583"
         }
       ]
     },
@@ -25090,9 +25094,145 @@
           "date": "2026-09-19T22:30:53.770282"
         }
       ]
+    },
+    "B0DXTHQTGM": {
+      "discovery_date": "2026-09-20T09:45:35.044583",
+      "price_history": [
+        {
+          "price": 1999.0,
+          "date": "2026-09-20T09:45:35.044583"
+        }
+      ]
+    },
+    "B0D8QJRBV3": {
+      "discovery_date": "2026-09-20T09:45:35.044583",
+      "price_history": [
+        {
+          "price": 393.08,
+          "date": "2026-09-20T09:45:35.044583"
+        }
+      ]
+    },
+    "B09MZKNRW3": {
+      "discovery_date": "2026-09-20T09:45:35.044583",
+      "price_history": [
+        {
+          "price": 1048.87,
+          "date": "2026-09-20T09:45:35.044583"
+        }
+      ]
+    },
+    "B0FSF6CQGD": {
+      "discovery_date": "2026-09-20T09:45:35.044583",
+      "price_history": [
+        {
+          "price": 1358.0,
+          "date": "2026-09-20T09:45:35.044583"
+        }
+      ]
+    },
+    "B0GLQPPTLR": {
+      "discovery_date": "2026-09-20T09:45:35.044583",
+      "price_history": [
+        {
+          "price": 1348.99,
+          "date": "2026-09-20T09:45:35.044583"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FSF6CQGD",
+      "title": "Cadeirinha para Carro Alpha Rotação 360º e Fixação Isofix Isize 40-150cm Fisher-Price - BB721",
+      "link": "https://www.amazon.com.br/Cadeirinha-Rota%C3%A7%C3%A3o-Fixa%C3%A7%C3%A3o-40-150cm-Fisher-Price/dp/B0FSF6CQGD",
+      "current_price": 1358.0,
+      "original_price": 2200.0,
+      "discount": 38.3,
+      "difference": 842.0,
+      "criteria": [
+        "R$ 842.0 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51damxFSUML._AC_UL210_SR210,210_.jpg",
+      "category": "[INFANT_TODDLER_CAR_SEAT]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789897535.044592,
+      "is_new": true
+    },
+    {
+      "asin": "B0GLQPPTLR",
+      "title": "Smartphone Motorola Moto G67 5G - 128GB 12GB (4GB RAM + 8GB RAM Boost) camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Claro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G67-ultrarresistente/dp/B0GLQPPTLR",
+      "current_price": 1348.99,
+      "original_price": 2099.0,
+      "discount": 35.7,
+      "difference": 750.01,
+      "criteria": [
+        "R$ 750.01 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/611nOISxRYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789897535.044592,
+      "is_new": true
+    },
+    {
+      "asin": "B0DXTHQTGM",
+      "title": "Monitor Gamer BenQ Mobiuz EX271Q 27” 1ms 2K 180Hz Freesync",
+      "link": "https://www.amazon.com.br/Monitor-BenQ-Mobiuz-EX271Q-Freesync/dp/B0DXTHQTGM",
+      "current_price": 1999.0,
+      "original_price": 2542.74,
+      "discount": 21.4,
+      "difference": 543.74,
+      "criteria": [
+        "R$ 543.74 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71104Q8EbwL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789897535.044592,
+      "is_new": true
+    },
+    {
+      "asin": "B09MZKNRW3",
+      "title": "Desumidificador Ar Ambiente Elétrico Portátil Pure Ion Antimofo Max Bivolt - Reservatório de 3 Litros - Relaxmedic",
+      "link": "https://www.amazon.com.br/Desumidificador-Ambiente-El%C3%A9trico-Pure-Ion/dp/B09MZKNRW3",
+      "current_price": 1048.87,
+      "original_price": 1499.9,
+      "discount": 30.1,
+      "difference": 451.03,
+      "criteria": [
+        "R$ 451.03 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NIkKGVw3L._AC_UL210_SR210,210_.jpg",
+      "category": "[DEHUMIDIFIER]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789897535.044592,
+      "is_new": true
+    },
+    {
+      "asin": "B0D8QJRBV3",
+      "title": "JBL, Fone de Ouvido Com Fio, Quantum 360 Wireless, Headset Gamer, Over Ear, Microfone Removível - Preto",
+      "link": "https://www.amazon.com.br/JBL-Quantum-Wireless-Microfone-Remov%C3%ADvel/dp/B0D8QJRBV3",
+      "current_price": 393.08,
+      "original_price": 699.0,
+      "discount": 43.8,
+      "difference": 305.92,
+      "criteria": [
+        "43.8% OFF",
+        "R$ 305.92 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619cYdY-PkL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789897535.044592,
+      "is_new": true
+    },
     {
       "asin": "B0DSXX6XB3",
       "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
@@ -25108,7 +25248,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789880883.127187,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -25181,7 +25321,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ot5-7coTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789863660.031664,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789785807.175653,
       "is_new": false
     },
@@ -25219,6 +25359,25 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1789880883.127187,
       "discovery_ts": 1789161344.809909,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1786338424.792042,
       "is_new": false
     },
     {
@@ -25273,7 +25432,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789880883.127187,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25293,6 +25452,25 @@
       "category": "[COFFEE_MAKER]",
       "last_seen": 1789880883.127187,
       "discovery_ts": 1789850698.556811,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT6FMNG",
+      "title": "Celular Samsung Galaxy A37 5g 256GB, 8GB RAM, Câmera Tripla de até 50MP Ois, Selfie de 12MP Video Hdr, Ip68, Tela Super AMOLED 6.7\", Recursos AI, Até 6 Atualizações de Android e Segurança (Branco)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT6FMNG",
+      "current_price": 2098.89,
+      "original_price": 3599.0,
+      "discount": 41.7,
+      "difference": 1500.11,
+      "criteria": [
+        "41.7% OFF",
+        "R$ 1500.11 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gN3j6H4ML._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1785754504.149542,
       "is_new": false
     },
     {
@@ -25351,24 +25529,6 @@
       "is_new": false
     },
     {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789863660.031664,
-      "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
       "asin": "B0FHB4KWBF",
       "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 280 Hz, Qd-oled, Aw2725d | NVIDIA G-SYNC, VESA DisplayHDR True Black 400, Tempo de Resposta 0,03, Brilho 1000 nits, 99.3% DCI-P3, Contraste 1.500.000:1",
       "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-2560-1440/dp/B0FHB4KWBF",
@@ -25387,6 +25547,24 @@
       "is_new": false
     },
     {
+      "asin": "B0HD7RD8F1",
+      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
+      "current_price": 1999.0,
+      "original_price": 3099.0,
+      "discount": 35.5,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789661540.831914,
+      "is_new": false
+    },
+    {
       "asin": "B0DG46DS62",
       "title": "Notebook Yoga Slim 7i Intel Core Ultra 5, 16GB, 512GB SSD Intel Arc Graphics, 14\" OLED, W11, 1.39kg, 83GM0003BR",
       "link": "https://www.amazon.com.br/Notebook-Intel-Ultra-512GB-Graphics/dp/B0DG46DS62",
@@ -25402,24 +25580,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1789880883.127187,
       "discovery_ts": 1789516422.285844,
-      "is_new": false
-    },
-    {
-      "asin": "B0HD7RD8F1",
-      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
-      "current_price": 2199.0,
-      "original_price": 3099.0,
-      "discount": 29.0,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789863660.031664,
-      "discovery_ts": 1789661540.831914,
       "is_new": false
     },
     {
@@ -25477,6 +25637,24 @@
       "is_new": false
     },
     {
+      "asin": "B0B59DHLJG",
+      "title": "Caixa De Som Bluetooth Max 12 Preto JBL",
+      "link": "https://www.amazon.com.br/Caixa-Som-Bluetooth-Preto-JBL/dp/B0B59DHLJG",
+      "current_price": 2554.67,
+      "original_price": 3258.8,
+      "discount": 21.6,
+      "difference": 704.13,
+      "criteria": [
+        "R$ 704.13 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fny0m5ziL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789626103.6809,
+      "is_new": false
+    },
+    {
       "asin": "B0CCSYG7WM",
       "title": "Tab S9 Grafite, 256GB, 11\", WiFi, Câmera Principal 13MP, Câmera Frontal 12MP, UW,",
       "link": "https://www.amazon.com.br/Tablet-Samsung-Galaxy-256GB-Imersiva/dp/B0CCSYG7WM",
@@ -25490,7 +25668,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61EFk5g2H7L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1789863660.031664,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789857053.770282,
       "is_new": false
     },
@@ -25509,7 +25687,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789880883.127187,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25527,7 +25705,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789880883.127187,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25563,8 +25741,26 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41L7rxtRkIL._AC_UL210_SR210,210_.jpg",
       "category": "[FREEZER]",
-      "last_seen": 1789863660.031664,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789761031.138208,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH5VGDQC",
+      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Inox com Programa Lava & Seca 50 min (LS08E) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS08E/dp/B0FH5VGDQC",
+      "current_price": 1987.98,
+      "original_price": 2499.0,
+      "discount": 20.4,
+      "difference": 511.02,
+      "criteria": [
+        "R$ 511.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Q4P2GkUIL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789803179.666466,
       "is_new": false
     },
     {
@@ -25581,44 +25777,62 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/615UmEOpLML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789880883.127187,
+      "last_seen": 1789897535.044592,
       "discovery_ts": 1789206942.412494,
       "is_new": false
     },
     {
-      "asin": "B0CN7B2LNK",
-      "title": "Geladeira LG GN-B392PX 2 Portas 395 Litros Preta Inox | Frost Free, Top Freezer Inverter -127 Volts",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN7B2LNK",
-      "current_price": 2788.0,
-      "original_price": 3194.85,
-      "discount": 12.7,
-      "difference": 406.85,
+      "asin": "B07XM8KGBB",
+      "title": "ThunderX3, Cadeira Ergonomic, YAMA1BK, Preto",
+      "link": "https://www.amazon.com.br/Cadeira-Ergonomic-Thunderx3-Yama1-Preta/dp/B07XM8KGBB",
+      "current_price": 1017.02,
+      "original_price": 1441.08,
+      "discount": 29.4,
+      "difference": 424.06,
       "criteria": [
-        "R$ 406.85 desc."
+        "R$ 424.06 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1789863660.031664,
-      "discovery_ts": 1789724536.471138,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W9FnH1Q1L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1785015526.987924,
       "is_new": false
     },
     {
-      "asin": "B09B929QDL",
-      "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17) 220v",
-      "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B929QDL",
-      "current_price": 2099.0,
-      "original_price": 2420.0,
-      "discount": 13.3,
-      "difference": 321.0,
+      "asin": "B0FH5NMXHK",
+      "title": "Monitor Gamer Alienware 25\", Full Hd, 320 Hz, Fast Ips, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
+      "current_price": 1639.99,
+      "original_price": 1999.0,
+      "discount": 18.0,
+      "difference": 359.01,
       "criteria": [
-        "R$ 321.0 desc."
+        "R$ 359.01 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41cbbClO-jL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1789863660.031664,
-      "discovery_ts": 1789484663.036845,
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1785547051.313967,
+      "is_new": false
+    },
+    {
+      "asin": "B0H7Z2YW38",
+      "title": "Samsung Smart TV 55\" MiniLED 4K M75H | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+      "link": "https://www.amazon.com.br/Samsung-Smart-TV-MiniLED-M75H/dp/B0H7Z2YW38",
+      "current_price": 3149.0,
+      "original_price": 3500.0,
+      "discount": 10.0,
+      "difference": 351.0,
+      "criteria": [
+        "R$ 351.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/619zHmZFrkL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789897535.044592,
+      "discovery_ts": 1789819358.956884,
       "is_new": false
     },
     {
