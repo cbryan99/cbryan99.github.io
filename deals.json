@@ -1,5 +1,5 @@
 {
-  "last_check": "20/09/2026 23:34:06",
+  "last_check": "21/09/2026 01:35:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24254,6 +24254,10 @@
         {
           "price": 2399.0,
           "date": "2026-09-16T08:11:40.671859"
+        },
+        {
+          "price": 2299.0,
+          "date": "2026-09-21T01:35:22.349655"
         }
       ]
     },
@@ -25184,25 +25188,7 @@
       "category": "[UNMANNED_AERIAL_VEHICLE]",
       "last_seen": 1789947242.692223,
       "discovery_ts": 1789940636.584601,
-      "is_new": true
-    },
-    {
-      "asin": "B07WZXSDKW",
-      "title": "Schwinn Fitness Série de bicicletas ergométricas para ciclismo interno",
-      "link": "https://www.amazon.com.br/Schwinn-bicicleta-ciclismo-ambientes-internos/dp/B07WZXSDKW",
-      "current_price": 9539.98,
-      "original_price": 11990.0,
-      "discount": 20.4,
-      "difference": 2450.02,
-      "criteria": [
-        "R$ 2450.02 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Y2gX8qNLL._AC_UL210_SR210,210_.jpg",
-      "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1789940636.584608,
-      "discovery_ts": 1789940636.584608,
-      "is_new": true
+      "is_new": false
     },
     {
       "asin": "B0GKQTTCMM",
@@ -25218,7 +25204,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -25237,7 +25223,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -25255,7 +25241,7 @@
       "badge": "37% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Lw9udEQRL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25273,7 +25259,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -25296,6 +25282,43 @@
       "is_new": false
     },
     {
+      "asin": "B07WZXSDKW",
+      "title": "Schwinn Fitness Série de bicicletas ergométricas para ciclismo interno",
+      "link": "https://www.amazon.com.br/Schwinn-bicicleta-ciclismo-ambientes-internos/dp/B07WZXSDKW",
+      "current_price": 9539.98,
+      "original_price": 11990.0,
+      "discount": 20.4,
+      "difference": 2450.02,
+      "criteria": [
+        "R$ 2450.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Y2gX8qNLL._AC_UL210_SR210,210_.jpg",
+      "category": "[STATIONARY_BICYCLE]",
+      "last_seen": 1789940636.584608,
+      "discovery_ts": 1789940636.584608,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8KVQZQX",
+      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
+      "current_price": 3298.99,
+      "original_price": 5499.0,
+      "discount": 40.0,
+      "difference": 2200.01,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 2200.01 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789954522.349661,
+      "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
       "asin": "B0F8LJSC9B",
       "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
@@ -25315,25 +25338,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 24GB (12GB RAM+12GB Ram Boost) Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
       "asin": "B0FXM4S78T",
       "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
       "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
@@ -25347,7 +25351,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ARCAiNjRL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
@@ -25365,7 +25369,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/514EAjs4c9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -25384,7 +25388,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25439,7 +25443,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25457,7 +25461,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25475,7 +25479,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -25493,7 +25497,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -25511,8 +25515,26 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1787268944.843758,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQY5GR",
+      "title": "PHILIPS Smart TV, 55\" 4K, 55PUG7300, Comando de Voz, Bluetooth, HDR, Dolby Atmos, HDMI, USB, Wi-Fi",
+      "link": "https://www.amazon.com.br/PHILIPS-Smart-55PUG7300-Comando-Bluetooth/dp/B0FPBQY5GR",
+      "current_price": 2299.0,
+      "original_price": 3099.0,
+      "discount": 25.8,
+      "difference": 800.0,
+      "criteria": [
+        "R$ 800.0 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71d6BkXy+rL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1789954522.349661,
+      "discovery_ts": 1789175599.222088,
       "is_new": false
     },
     {
@@ -25529,7 +25551,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -25552,6 +25574,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FVPZ3GVC",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 220V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVPZ3GVC",
+      "current_price": 2499.0,
+      "original_price": 3199.0,
+      "discount": 21.9,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1789954522.349661,
+      "discovery_ts": 1787411687.576549,
+      "is_new": false
+    },
+    {
       "asin": "B0DHWFBYVC",
       "title": "Smartphone Motorola Moto g35 5G - 128GB 12GB (4GB RAM+8GB Ram Boost) e Camera 50MP com AI NFC Tela 6.7\" com Superbrilho - Verde",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g35-Superbrilho/dp/B0DHWFBYVC",
@@ -25566,7 +25606,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61pGaBV+-AL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25584,7 +25624,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vkFq7H9tL._AC_UL210_SR210,210_.jpg",
       "category": "[COMPUTER_PROCESSOR]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25608,24 +25648,6 @@
       "is_new": false
     },
     {
-      "asin": "B0BTFCXSMS",
-      "title": "Lava Louças 8 Serviços Brastemp Cinza - BLF08BS 110V",
-      "link": "https://www.amazon.com.br/Lava-Lou-Servi-Brastemp-BLF08BS/dp/B0BTFCXSMS",
-      "current_price": 1801.33,
-      "original_price": 2352.6,
-      "discount": 23.4,
-      "difference": 551.27,
-      "criteria": [
-        "R$ 551.27 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41yb7JiKeVL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1789775662.257893,
-      "is_new": false
-    },
-    {
       "asin": "B0DSJXKX9T",
       "title": "Freezer Horizontal 140L Philco PFH160B Dupla Função 220V",
       "link": "https://www.amazon.com.br/Freezer-Horizontal-Philco-PFH160B-Fun%C3%A7%C3%A3o/dp/B0DSJXKX9T",
@@ -25639,44 +25661,8 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41L7rxtRkIL._AC_UL210_SR210,210_.jpg",
       "category": "[FREEZER]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789761031.138208,
-      "is_new": false
-    },
-    {
-      "asin": "B0FVPLDKKG",
-      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
-      "current_price": 3699.0,
-      "original_price": 4199.0,
-      "discount": 11.9,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4183aoBiILL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1786793784.851285,
-      "is_new": false
-    },
-    {
-      "asin": "B0DFRSDH9P",
-      "title": "PHILIPS, Smart TV, 50'' 4K UHD, 50PUG7019/78, Google TV, Comando de Voz, HDR",
-      "link": "https://www.amazon.com.br/Philips-50PUG7019-78-Google-Comando/dp/B0DFRSDH9P",
-      "current_price": 1999.0,
-      "original_price": 2499.0,
-      "discount": 20.0,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615UmEOpLML._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1789206942.412494,
       "is_new": false
     },
     {
@@ -25698,24 +25684,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FPBPDWZQ",
-      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
-      "current_price": 3198.89,
-      "original_price": 3535.9,
-      "discount": 9.5,
-      "difference": 337.01,
-      "criteria": [
-        "R$ 337.01 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1786459242.546747,
-      "is_new": false
-    },
-    {
       "asin": "B09B929QDL",
       "title": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17) 220v",
       "link": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B929QDL",
@@ -25729,7 +25697,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41cbbClO-jL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789484663.036845,
       "is_new": false
     },
@@ -25747,7 +25715,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1786342826.475291,
       "is_new": false
     },
@@ -25765,26 +25733,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1789947242.692223,
+      "last_seen": 1789954522.349661,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B088MVWBM9",
-      "title": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
-      "link": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
-      "current_price": 211.9,
-      "original_price": 434.9,
-      "discount": 51.3,
-      "difference": 223.0,
-      "criteria": [
-        "51.3% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41El3TMO04L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1789932215.088785,
-      "discovery_ts": 1785152966.201765,
       "is_new": false
     }
   ]
