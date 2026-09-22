@@ -1,5 +1,5 @@
 {
-  "last_check": "22/09/2026 06:08:33",
+  "last_check": "22/09/2026 11:30:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -10007,6 +10007,10 @@
         {
           "price": 3645.99,
           "date": "2026-08-02T23:14:34.497350"
+        },
+        {
+          "price": 2990.0,
+          "date": "2026-09-22T11:30:58.667690"
         }
       ]
     },
@@ -25249,9 +25253,90 @@
           "date": "2026-09-21T13:59:37.934523"
         }
       ]
+    },
+    "B0CJ9YMDWX": {
+      "discovery_date": "2026-09-22T11:30:58.667690",
+      "price_history": [
+        {
+          "price": 4049.89,
+          "date": "2026-09-22T11:30:58.667690"
+        }
+      ]
+    },
+    "B0G6Z6PTJG": {
+      "discovery_date": "2026-09-22T11:30:58.667690",
+      "price_history": [
+        {
+          "price": 3274.08,
+          "date": "2026-09-22T11:30:58.667690"
+        }
+      ]
+    },
+    "B0C44K7N7G": {
+      "discovery_date": "2026-09-22T11:30:58.667690",
+      "price_history": [
+        {
+          "price": 137.9,
+          "date": "2026-09-22T11:30:58.667690"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0G6Z6PTJG",
+      "title": "eufy C20 Omni Robô Aspirador e Passa Pano,Autolimpante,Navegação Laser,220V | Esvaziamento, Limpeza e Secagem Automática,Estação Completa, Mapeamento Laser Multinível, Corpo Ultrafino 8,5cm, WiFi App Voz",
+      "link": "https://www.amazon.com.br/eufy-autom%C3%A1tica-Esvaziamento-autom%C3%A1tico-antiembara%C3%A7o/dp/B0G6Z6PTJG",
+      "current_price": 3274.08,
+      "original_price": 3749.0,
+      "discount": 12.7,
+      "difference": 474.92,
+      "criteria": [
+        "R$ 474.92 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71L9NltLIxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1790076658.667698,
+      "is_new": true
+    },
+    {
+      "asin": "B0CJ9YMDWX",
+      "title": "Refrigerador Expositor Vertical Metalfrio All Black 403 Litros Porta de Vidro Temperado 110v",
+      "link": "https://www.amazon.com.br/Refrigerador-Expositor-Vertical-Metalfrio-Temperado/dp/B0CJ9YMDWX",
+      "current_price": 4049.89,
+      "original_price": 4399.0,
+      "discount": 7.9,
+      "difference": 349.11,
+      "criteria": [
+        "R$ 349.11 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51I6cAU8SwL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1790076658.667698,
+      "is_new": true
+    },
+    {
+      "asin": "B0C44K7N7G",
+      "title": "Aspirador de Pó Philco Vertical 2 em 1 1450w Preto Pas1600p - 220",
+      "link": "https://www.amazon.com.br/Aspirador-Philco-Vertical-1450w-Pas1600p/dp/B0C44K7N7G",
+      "current_price": 137.9,
+      "original_price": 241.0,
+      "discount": 42.8,
+      "difference": 103.1,
+      "criteria": [
+        "42.8% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41inGaNI2TL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1790076658.667698,
+      "is_new": true
+    },
     {
       "asin": "B0GKQTTCMM",
       "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
@@ -25266,7 +25351,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -25285,7 +25370,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -25322,7 +25407,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -25359,7 +25444,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -25396,7 +25481,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25433,7 +25518,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51CGLBYdeIL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -25451,8 +25536,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789768639.994649,
+      "is_new": false
+    },
+    {
+      "asin": "B0CSK9296X",
+      "title": "TCL TABLET NXTPAPER 14 - Tela 14,3\" NXTPAPER 2.4K - 256 ROM - 16Gb (8Gb + 8Gb RAM BOOST) -Octacore - 10.000 mAh de Bateria - Capa e Caneta",
+      "link": "https://www.amazon.com.br/TCL-TABLET-NXTPAPER-14-Octacore/dp/B0CSK9296X",
+      "current_price": 2990.0,
+      "original_price": 4499.0,
+      "discount": 33.5,
+      "difference": 1509.0,
+      "criteria": [
+        "R$ 1509.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71M3uQCHrKL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -25487,8 +25590,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -25510,21 +25631,39 @@
       "is_new": false
     },
     {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
+      "asin": "B0GQW5MH7D",
+      "title": "Apple iPhone 17e de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GQW5MH7D",
+      "current_price": 4699.0,
+      "original_price": 5799.0,
+      "discount": 19.0,
+      "difference": 1100.0,
       "criteria": [
-        "R$ 1219.9 desc."
+        "R$ 1100.0 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790057295.67434,
-      "discovery_ts": 1785269176.438674,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1789724536.471138,
+      "is_new": false
+    },
+    {
+      "asin": "B0HD7RD8F1",
+      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
+      "current_price": 1999.0,
+      "original_price": 3099.0,
+      "discount": 35.5,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1789661540.831914,
       "is_new": false
     },
     {
@@ -25541,26 +25680,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
-      "asin": "B0HD7RD8F1",
-      "title": "Notebook Samsung Galaxy Book Go, Windows 11 Home, Snapdragon | Windows 11 Home, 4GB RAM, 128GB UFS, 1.38kg",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Windows-Snapdragon/dp/B0HD7RD8F1",
-      "current_price": 2199.0,
-      "original_price": 3099.0,
-      "discount": 29.0,
-      "difference": 900.0,
-      "criteria": [
-        "R$ 900.0 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71mg-93pBzL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790039229.319029,
-      "discovery_ts": 1789661540.831914,
       "is_new": false
     },
     {
@@ -25577,7 +25698,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -25631,7 +25752,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/615UmEOpLML._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789206942.412494,
       "is_new": false
     },
@@ -25650,7 +25771,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -25673,6 +25794,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DF86C39M",
+      "title": "LEGO Super Heroes Marvel X-Men: A Mansão X 76294 (3.093 Peças)",
+      "link": "https://www.amazon.com.br/LEGO-Marvel-X-Men-Conjunto-Construir/dp/B0DF86C39M",
+      "current_price": 2969.99,
+      "original_price": 3299.99,
+      "discount": 10.0,
+      "difference": 330.0,
+      "criteria": [
+        "R$ 330.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81nkKjspM6L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790076658.667698,
+      "discovery_ts": 1789974290.529182,
+      "is_new": false
+    },
+    {
       "asin": "B0DD1KD5JP",
       "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V | Visor Transparente – acompanhe o preparo dos alimentos sem abrir o aparelho (AI551/09)",
       "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
@@ -25686,7 +25825,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1786342826.475291,
       "is_new": false
     },
@@ -25704,7 +25843,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/8160QjpuoOL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790057295.67434,
+      "last_seen": 1790076658.667698,
       "discovery_ts": 1785742098.427671,
       "is_new": false
     }
