@@ -1,5 +1,5 @@
 {
-  "last_check": "23/09/2026 14:27:45",
+  "last_check": "23/09/2026 18:31:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -25378,43 +25378,88 @@
           "date": "2026-09-23T14:27:39.832030"
         }
       ]
+    },
+    "B0DPY44LWR": {
+      "discovery_date": "2026-09-23T18:31:07.162769",
+      "price_history": [
+        {
+          "price": 5398.0,
+          "date": "2026-09-23T18:31:07.162769"
+        }
+      ]
+    },
+    "B09Q4L157D": {
+      "discovery_date": "2026-09-23T18:31:07.162769",
+      "price_history": [
+        {
+          "price": 246.9,
+          "date": "2026-09-23T18:31:07.162769"
+        }
+      ]
+    },
+    "B0CD14V4RQ": {
+      "discovery_date": "2026-09-23T18:31:07.162769",
+      "price_history": [
+        {
+          "price": 229.0,
+          "date": "2026-09-23T18:31:07.162769"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BFZF8NRQ",
-      "title": "Tech T-shirt Gola U Feminino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BFZF8NRQ",
-      "current_price": 69.9,
-      "original_price": 159.0,
-      "discount": 56.0,
-      "difference": 89.1,
+      "asin": "B0DPY44LWR",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 5500, 110V | Café Fresco na Hora – espresso e bebidas cremosas com preparo automático em casa (EP5547/95)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Philips-Walita/dp/B0DPY44LWR",
+      "current_price": 5398.0,
+      "original_price": 6999.9,
+      "discount": 22.9,
+      "difference": 1601.9,
       "criteria": [
-        "56.0% OFF"
+        "R$ 1601.9 desc."
       ],
-      "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/313d29Qg9pL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1790173659.832037,
-      "discovery_ts": 1790173659.832037,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1790188267.162777,
       "is_new": true
     },
     {
-      "asin": "B0DPJR2KGZ",
-      "title": "Tangle Teezer - Escova de cabelo desembaraçadora The Ultimate Detangler para todos os tipos de cabelo. Cor: Rosa",
-      "link": "https://www.amazon.com.br/Tangle-Teezer-desembara%C3%A7adora-Ultimate-Detangler/dp/B0DPJR2KGZ",
-      "current_price": 83.9,
-      "original_price": 160.0,
-      "discount": 47.6,
-      "difference": 76.1,
+      "asin": "B09Q4L157D",
+      "title": "LEGO Orquídea de Decoração de Plantas para Adultos, Construir 10311",
+      "link": "https://www.amazon.com.br/Constru%C3%A7%C3%A3o-Decora%C3%A7%C3%A3o-Construir-Exposi%C3%A7%C3%A3o-Escrit%C3%B3rio/dp/B09Q4L157D",
+      "current_price": 246.9,
+      "original_price": 499.99,
+      "discount": 50.6,
+      "difference": 253.09,
       "criteria": [
-        "47.6% OFF"
+        "50.6% OFF"
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z6+gjhBaL._AC_UL210_SR210,210_.jpg",
-      "category": "[HAIR_BRUSH]",
-      "last_seen": 1790173659.832037,
-      "discovery_ts": 1790173659.832037,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iY-AO2D1L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1790188267.162777,
+      "is_new": true
+    },
+    {
+      "asin": "B0CD14V4RQ",
+      "title": "Fritadeira Elétrica sem óleo/Air Fryer Philco PFR15PG Preto 4,3L com Timer",
+      "link": "https://www.amazon.com.br/Fritadeira-Fryer-Brit%C3%A2nia-BFR30-Antiaderente/dp/B0CD14V4RQ",
+      "current_price": 229.0,
+      "original_price": 391.0,
+      "discount": 41.4,
+      "difference": 162.0,
+      "criteria": [
+        "41.4% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51QJNzNg7lL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1790188267.162777,
       "is_new": true
     },
     {
@@ -25491,6 +25536,42 @@
       "is_new": false
     },
     {
+      "asin": "B0HFQFSDT4",
+      "title": "Notebook Samsung Galaxy Book6 Pro 14\" AMOLED Copilot+ PC, Windows 11 Home, Ultra X7, 32GB, 1TB SSD, Arc B390, 1.24 kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HFQFSDT4",
+      "current_price": 11899.0,
+      "original_price": 13999.0,
+      "discount": 15.0,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5186PqxMJeL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1789850698.556811,
+      "is_new": false
+    },
+    {
+      "asin": "B0GPQTM751",
+      "title": "Ar Condicionado Split Teto Inverter Midea Connect 60.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Midea-Connect-60-000/dp/B0GPQTM751",
+      "current_price": 8995.0,
+      "original_price": 10999.0,
+      "discount": 18.2,
+      "difference": 2004.0,
+      "criteria": [
+        "R$ 2004.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1789999177.934523,
+      "is_new": false
+    },
+    {
       "asin": "B0FXMBWGGM",
       "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
       "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
@@ -25504,7 +25585,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -25523,7 +25604,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25564,6 +25645,25 @@
       "is_new": false
     },
     {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
+      "current_price": 2159.3,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.7,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.7 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
       "asin": "B0GLSLLGZL",
       "title": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
@@ -25578,7 +25678,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -25614,7 +25714,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25632,7 +25732,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -25668,26 +25768,8 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0H2NGMNB8",
-      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
-      "current_price": 6599.0,
-      "original_price": 7399.99,
-      "discount": 10.8,
-      "difference": 800.99,
-      "criteria": [
-        "R$ 800.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1784990556.520456,
       "is_new": false
     },
     {
@@ -25705,44 +25787,62 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
     {
-      "asin": "B0B59DHLJG",
-      "title": "Caixa De Som Bluetooth Max 12 Preto JBL",
-      "link": "https://www.amazon.com.br/Caixa-Som-Bluetooth-Preto-JBL/dp/B0B59DHLJG",
-      "current_price": 2554.67,
-      "original_price": 3258.8,
-      "discount": 21.6,
-      "difference": 704.13,
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2188.99,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.01,
       "criteria": [
-        "R$ 704.13 desc."
+        "R$ 710.01 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fny0m5ziL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1789626103.6809,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
-      "asin": "B0G6Z6PTJG",
-      "title": "eufy C20 Omni Robô Aspirador e Passa Pano,Autolimpante,Navegação Laser,220V | Esvaziamento, Limpeza e Secagem Automática,Estação Completa, Mapeamento Laser Multinível, Corpo Ultrafino 8,5cm, WiFi App Voz",
-      "link": "https://www.amazon.com.br/eufy-autom%C3%A1tica-Esvaziamento-autom%C3%A1tico-antiembara%C3%A7o/dp/B0G6Z6PTJG",
-      "current_price": 3274.08,
-      "original_price": 3749.0,
-      "discount": 12.7,
-      "difference": 474.92,
+      "asin": "B0D9YS13X6",
+      "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YS13X6",
+      "current_price": 3199.0,
+      "original_price": 3893.68,
+      "discount": 17.8,
+      "difference": 694.68,
       "criteria": [
-        "R$ 474.92 desc."
+        "R$ 694.68 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71L9NltLIxL._AC_UL210_SR210,210_.jpg",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yb5tekSxL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1789684029.529032,
+      "is_new": false
+    },
+    {
+      "asin": "B0GY4H64Y1",
+      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
+      "current_price": 2699.0,
+      "original_price": 3299.0,
+      "discount": 18.2,
+      "difference": 600.0,
+      "criteria": [
+        "R$ 600.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790076658.66769,
+      "last_seen": 1790188267.162777,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
@@ -25759,7 +25859,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/314T-z8Hm7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1790091578.47064,
       "is_new": false
     },
@@ -25777,45 +25877,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "B0FW1DK8QL",
-      "title": "Tablet Lenovo Idea Tab Plus 12.1\" 2.5K 90Hz - Octa-Core, 8GB RAM, 128GB, Wi-Fi 5, Android 15, Caneta e Case",
-      "link": "https://www.amazon.com.br/Tablet-Lenovo-Octa-Core-AndroidTM-Acompanha/dp/B0FW1DK8QL",
-      "current_price": 2212.73,
-      "original_price": 2599.0,
-      "discount": 14.9,
-      "difference": 386.27,
-      "criteria": [
-        "R$ 386.27 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61z4Hp0-gEL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790123063.850979,
-      "is_new": false
-    },
-    {
-      "asin": "B0CGY57KKM",
-      "title": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
-      "link": "https://www.amazon.com.br/LEGO-Icons-10330-McLaren-Ayrton/dp/B0CGY57KKM",
-      "current_price": 415.89,
-      "original_price": 799.99,
-      "discount": 48.0,
-      "difference": 384.1,
-      "criteria": [
-        "48.0% OFF",
-        "R$ 384.1 desc."
-      ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81JnCaFLWkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1789999177.934523,
       "is_new": false
     },
     {
@@ -25833,26 +25896,8 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1789999177.934523,
-      "is_new": false
-    },
-    {
-      "asin": "B0CGR56CN4",
-      "title": "Cadeira de escritório presidente, cadeira de home office com apoio para os pés e encosto ajustável（Preto）",
-      "link": "https://www.amazon.com.br/Cadeira-escrit%C3%B3rio-presidente-cadeira-ajust%C3%A1vel%EF%BC%88Preto%EF%BC%89/dp/B0CGR56CN4",
-      "current_price": 389.46,
-      "original_price": 689.0,
-      "discount": 43.5,
-      "difference": 299.54,
-      "criteria": [
-        "43.5% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71+UV1-34zL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1785406754.569515,
       "is_new": false
     },
     {
@@ -25869,7 +25914,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -25887,7 +25932,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/8160QjpuoOL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790173659.832037,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1785742098.427671,
       "is_new": false
     },
@@ -25910,9 +25955,9 @@
       "is_new": false
     },
     {
-      "asin": "B0BG12N9VQ",
+      "asin": "B0BFZF8NRQ",
       "title": "Tech T-shirt Gola U Feminino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BG12N9VQ",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BFZF8NRQ",
       "current_price": 69.9,
       "original_price": 159.0,
       "discount": 56.0,
@@ -25923,8 +25968,26 @@
       "badge": "56% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/313d29Qg9pL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790156779.821632,
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1790173659.832037,
+      "is_new": false
+    },
+    {
+      "asin": "B0DPJR2KGZ",
+      "title": "Tangle Teezer - Escova de cabelo desembaraçadora The Ultimate Detangler para todos os tipos de cabelo. Cor: Rosa",
+      "link": "https://www.amazon.com.br/Tangle-Teezer-desembara%C3%A7adora-Ultimate-Detangler/dp/B0DPJR2KGZ",
+      "current_price": 83.9,
+      "original_price": 160.0,
+      "discount": 47.6,
+      "difference": 76.1,
+      "criteria": [
+        "47.6% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z6+gjhBaL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_BRUSH]",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1790173659.832037,
       "is_new": false
     },
     {
@@ -25941,7 +26004,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dV5kqkL7L._AC_UL210_SR210,210_.jpg",
       "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790188267.162777,
       "discovery_ts": 1790156779.821632,
       "is_new": false
     }
