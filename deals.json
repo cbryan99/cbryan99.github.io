@@ -1,5 +1,5 @@
 {
-  "last_check": "23/09/2026 09:46:22",
+  "last_check": "23/09/2026 14:27:45",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2394,6 +2394,10 @@
         {
           "price": 196.6,
           "date": "2026-08-31T15:24:49.613867"
+        },
+        {
+          "price": 196.59,
+          "date": "2026-09-23T14:27:39.832030"
         }
       ]
     },
@@ -25356,32 +25360,31 @@
           "date": "2026-09-23T09:46:19.821624"
         }
       ]
+    },
+    "B0DPJR2KGZ": {
+      "discovery_date": "2026-09-23T14:27:39.832030",
+      "price_history": [
+        {
+          "price": 83.9,
+          "date": "2026-09-23T14:27:39.832030"
+        }
+      ]
+    },
+    "B0BFZF8NRQ": {
+      "discovery_date": "2026-09-23T14:27:39.832030",
+      "price_history": [
+        {
+          "price": 69.9,
+          "date": "2026-09-23T14:27:39.832030"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B08R91NTHY",
-      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
-      "current_price": 399.0,
-      "original_price": 1199.9,
-      "discount": 66.7,
-      "difference": 800.9,
-      "criteria": [
-        "66.7% OFF",
-        "R$ 800.9 desc."
-      ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790156779.821632,
-      "is_new": true
-    },
-    {
-      "asin": "B0BG12N9VQ",
+      "asin": "B0BFZF8NRQ",
       "title": "Tech T-shirt Gola U Feminino",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BG12N9VQ",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BFZF8NRQ",
       "current_price": 69.9,
       "original_price": 159.0,
       "discount": 56.0,
@@ -25392,45 +25395,44 @@
       "badge": "56% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/313d29Qg9pL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790156779.821632,
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1790173659.832037,
       "is_new": true
     },
     {
-      "asin": "B0FCJDHML8",
-      "title": "BONI NATURAL - Creme Dental Carvão Ativado Branqueador Com Carvão Vegetal, Sem Flúor, Sem Triclosan, 90g, 3 unidades Leve Mais Pague Menos",
-      "link": "https://www.amazon.com.br/Natural-Ativado-Branqueador-Vegetal-unidades/dp/B0FCJDHML8",
-      "current_price": 28.0,
-      "original_price": 49.9,
-      "discount": 43.9,
-      "difference": 21.9,
+      "asin": "B0DPJR2KGZ",
+      "title": "Tangle Teezer - Escova de cabelo desembaraçadora The Ultimate Detangler para todos os tipos de cabelo. Cor: Rosa",
+      "link": "https://www.amazon.com.br/Tangle-Teezer-desembara%C3%A7adora-Ultimate-Detangler/dp/B0DPJR2KGZ",
+      "current_price": 83.9,
+      "original_price": 160.0,
+      "discount": 47.6,
+      "difference": 76.1,
       "criteria": [
-        "43.9% OFF"
+        "47.6% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61dV5kqkL7L._AC_UL210_SR210,210_.jpg",
-      "category": "[TOOTH_CLEANING_AGENT]",
-      "last_seen": 1790156779.821632,
-      "discovery_ts": 1790156779.821632,
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z6+gjhBaL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_BRUSH]",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1790173659.832037,
       "is_new": true
     },
     {
-      "asin": "B0DSXX6XB3",
-      "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSXX6XB3",
-      "current_price": 3999.0,
-      "original_price": 7499.0,
-      "discount": 46.7,
-      "difference": 3500.0,
+      "asin": "B0GKQTTCMM",
+      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
+      "current_price": 7690.0,
+      "original_price": 11499.0,
+      "discount": 33.1,
+      "difference": 3809.0,
       "criteria": [
-        "46.7% OFF",
-        "R$ 3500.0 desc."
+        "R$ 3809.0 desc."
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ypIBTp6vL._AC_UL210_SR210,210_.jpg",
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1789708125.988773,
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -25447,7 +25449,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -25465,7 +25467,7 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1786530504.605256,
       "is_new": false
     },
@@ -25484,26 +25486,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
-      "asin": "B0GPQTM751",
-      "title": "Ar Condicionado Split Teto Inverter Midea Connect 60.000 Btus Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Midea-Connect-60-000/dp/B0GPQTM751",
-      "current_price": 8995.0,
-      "original_price": 10999.0,
-      "discount": 18.2,
-      "difference": 2004.0,
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 2004.0 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1789999177.934523,
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -25521,7 +25523,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25539,7 +25541,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dbFA9RmWL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789516422.285844,
       "is_new": false
     },
@@ -25557,7 +25559,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25576,7 +25578,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -25594,7 +25596,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25612,26 +25614,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1785269176.438674,
-      "is_new": false
-    },
-    {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -25648,8 +25632,44 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789048034.956824,
+      "is_new": false
+    },
+    {
+      "asin": "B0GPN3XW9T",
+      "title": "Bicicleta Elétrica HDJ G60 Aro 20 - Motor 1000W, Bateria 48V 15Ah 32Mph, Até 50km Autonomia, Suspensão Dupla, Freio Hidráulico, 7 Velocidades - Mobilidade Urbana para Adultos",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-HDJ-G60-Aro/dp/B0GPN3XW9T",
+      "current_price": 6174.98,
+      "original_price": 6999.99,
+      "discount": 11.8,
+      "difference": 825.01,
+      "criteria": [
+        "R$ 825.01 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vGR09GeeL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1787575015.430138,
+      "is_new": false
+    },
+    {
+      "asin": "B0F5X4NPK2",
+      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
+      "current_price": 4499.0,
+      "original_price": 5299.99,
+      "discount": 15.1,
+      "difference": 800.99,
+      "criteria": [
+        "R$ 800.99 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
@@ -25671,39 +25691,22 @@
       "is_new": false
     },
     {
-      "asin": "B0F5X4NPK2",
-      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
-      "current_price": 4499.0,
-      "original_price": 5299.99,
-      "discount": 15.1,
-      "difference": 800.99,
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 399.0,
+      "original_price": 1199.9,
+      "discount": 66.7,
+      "difference": 800.9,
       "criteria": [
-        "R$ 800.99 desc."
+        "66.7% OFF",
+        "R$ 800.9 desc."
       ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1787268944.843758,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.88,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.12,
-      "criteria": [
-        "R$ 775.12 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1784464310.552537,
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1790156779.821624,
       "is_new": false
     },
     {
@@ -25722,24 +25725,6 @@
       "category": "[SPEAKERS]",
       "last_seen": 1790156779.821632,
       "discovery_ts": 1789626103.6809,
-      "is_new": false
-    },
-    {
-      "asin": "B0DFRSDH9P",
-      "title": "PHILIPS, Smart TV, 50'' 4K UHD, 50PUG7019/78, Google TV, Comando de Voz, HDR",
-      "link": "https://www.amazon.com.br/Philips-50PUG7019-78-Google-Comando/dp/B0DFRSDH9P",
-      "current_price": 1999.0,
-      "original_price": 2499.0,
-      "discount": 20.0,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615UmEOpLML._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1789206942.412494,
       "is_new": false
     },
     {
@@ -25774,7 +25759,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/314T-z8Hm7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1790091578.47064,
       "is_new": false
     },
@@ -25792,7 +25777,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25848,44 +25833,8 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789999177.934523,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBPDWZQ",
-      "title": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8100-78-Bluetooth/dp/B0FPBPDWZQ",
-      "current_price": 3198.89,
-      "original_price": 3535.9,
-      "discount": 9.5,
-      "difference": 337.01,
-      "criteria": [
-        "R$ 337.01 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1786459242.546747,
-      "is_new": false
-    },
-    {
-      "asin": "B0DD1KD5JP",
-      "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V | Visor Transparente – acompanhe o preparo dos alimentos sem abrir o aparelho (AI551/09)",
-      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
-      "current_price": 688.99,
-      "original_price": 999.9,
-      "discount": 31.1,
-      "difference": 310.91,
-      "criteria": [
-        "R$ 310.91 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790139446.242568,
-      "discovery_ts": 1786342826.475291,
       "is_new": false
     },
     {
@@ -25907,6 +25856,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CRTYZG5C",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
+      "current_price": 196.59,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.41,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1790173659.832037,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
       "asin": "B00NHQFA1I",
       "title": "LEGO Classic - Caixa Média de Peças Criativas",
       "link": "https://www.amazon.com.br/Classic-Caixa-M%C3%A9dia-Pe%C3%A7as-Criativas/dp/B00NHQFA1I",
@@ -25920,7 +25887,7 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/8160QjpuoOL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1785742098.427671,
       "is_new": false
     },
@@ -25938,8 +25905,44 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41inGaNI2TL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790156779.821632,
+      "last_seen": 1790173659.832037,
       "discovery_ts": 1789484663.036845,
+      "is_new": false
+    },
+    {
+      "asin": "B0BG12N9VQ",
+      "title": "Tech T-shirt Gola U Feminino",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Feminino-Preto/dp/B0BG12N9VQ",
+      "current_price": 69.9,
+      "original_price": 159.0,
+      "discount": 56.0,
+      "difference": 89.1,
+      "criteria": [
+        "56.0% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/313d29Qg9pL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1790156779.821632,
+      "discovery_ts": 1790156779.821632,
+      "is_new": false
+    },
+    {
+      "asin": "B0FCJDHML8",
+      "title": "BONI NATURAL - Creme Dental Carvão Ativado Branqueador Com Carvão Vegetal, Sem Flúor, Sem Triclosan, 90g, 3 unidades Leve Mais Pague Menos",
+      "link": "https://www.amazon.com.br/Natural-Ativado-Branqueador-Vegetal-unidades/dp/B0FCJDHML8",
+      "current_price": 28.0,
+      "original_price": 49.9,
+      "discount": 43.9,
+      "difference": 21.9,
+      "criteria": [
+        "43.9% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61dV5kqkL7L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOOTH_CLEANING_AGENT]",
+      "last_seen": 1790156779.821632,
+      "discovery_ts": 1790156779.821632,
       "is_new": false
     }
   ]
