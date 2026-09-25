@@ -1,5 +1,5 @@
 {
-  "last_check": "24/09/2026 21:41:34",
+  "last_check": "25/09/2026 00:02:16",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -18591,6 +18591,10 @@
         {
           "price": 8549.0,
           "date": "2026-08-11T22:58:53.209908"
+        },
+        {
+          "price": 8499.0,
+          "date": "2026-09-25T00:02:16.677303"
         }
       ]
     },
@@ -25503,25 +25507,34 @@
           "date": "2026-09-24T21:41:29.827232"
         }
       ]
+    },
+    "B0HC8MK4NK": {
+      "discovery_date": "2026-09-25T00:02:16.677303",
+      "price_history": [
+        {
+          "price": 6118.98,
+          "date": "2026-09-25T00:02:16.677303"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0H4H96J9N",
-      "title": "Smart TV 4K 65\" LG OLED evo AI C6 2026",
-      "link": "https://www.amazon.com.br/Smart-LG-OLED-evo-2026/dp/B0H4H96J9N",
-      "current_price": 8999.0,
-      "original_price": 9499.0,
-      "discount": 5.3,
-      "difference": 500.0,
+      "asin": "B0HC8MK4NK",
+      "title": "Smart TV TCL 65 Polegadas SQD-Mini LED 4K C7L WiFi Bluetooth Google TV HDR10+ Ultra Slim 65C7L",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-SQD-Mini-Bluetooth-65C7L/dp/B0HC8MK4NK",
+      "current_price": 6118.98,
+      "original_price": 6999.0,
+      "discount": 12.6,
+      "difference": 880.02,
       "criteria": [
-        "R$ 500.0 desc."
+        "R$ 880.02 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51isjkR0FUL._AC_UL210_SR210,210_.jpg",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DwpBNgQAL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
-      "discovery_ts": 1790286089.827238,
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1790294536.67731,
       "is_new": true
     },
     {
@@ -25538,8 +25551,26 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1789077437.189865,
+      "is_new": false
+    },
+    {
+      "asin": "B0C2JNW62Y",
+      "title": "Geladeira Samsung Side by Side RS60 628 Litros Inox Look 127V RS60T5200S9/AZ",
+      "link": "https://www.amazon.com.br/Geladeira-Samsung-Side-Litros-RS60T5200S9/dp/B0C2JNW62Y",
+      "current_price": 8499.0,
+      "original_price": 11999.0,
+      "discount": 29.2,
+      "difference": 3500.0,
+      "criteria": [
+        "R$ 3500.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qG7JUJ7JL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1786489133.209908,
       "is_new": false
     },
     {
@@ -25593,7 +25624,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786338424.792042,
       "is_new": false
     },
@@ -25629,7 +25660,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -25648,7 +25679,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25666,7 +25697,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25707,6 +25738,24 @@
       "is_new": false
     },
     {
+      "asin": "B09ZHCLVXF",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 1200, 220V | Café Fresco na Hora – bebidas de espresso preparadas com praticidade no preparo (EP1220/12)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Autom%C3%A1tica-Philips-Walita/dp/B09ZHCLVXF",
+      "current_price": 2499.0,
+      "original_price": 3999.0,
+      "discount": 37.5,
+      "difference": 1500.0,
+      "criteria": [
+        "R$ 1500.0 desc."
+      ],
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FXFo4kYiL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1789850698.556811,
+      "is_new": false
+    },
+    {
       "asin": "B0GLSLLGZL",
       "title": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
@@ -25739,26 +25788,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790286089.827238,
-      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -25775,8 +25806,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1785460545.090896,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -25793,7 +25842,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -25811,7 +25860,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41NyZzks4dL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1790241708.977617,
       "is_new": false
     },
@@ -25848,8 +25897,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790274422.033637,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0H4H96J9N",
+      "title": "Smart TV 4K 65\" LG OLED evo AI C6 2026",
+      "link": "https://www.amazon.com.br/Smart-LG-OLED-evo-2026/dp/B0H4H96J9N",
+      "current_price": 8999.0,
+      "original_price": 9499.0,
+      "discount": 5.3,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51isjkR0FUL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1790286089.827232,
       "is_new": false
     },
     {
@@ -25866,8 +25933,44 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786491945.120891,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVPLDKKG",
+      "title": "Electrolux Geladeira Electrolux Frost Free Inverter 400L Efficient AutoSense e Rapid Freeze Inverse Black Inox Look (IB6B) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Efficient-AutoSense-IB6B/dp/B0FVPLDKKG",
+      "current_price": 3699.0,
+      "original_price": 4199.0,
+      "discount": 11.9,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4183aoBiILL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1786793784.851285,
+      "is_new": false
+    },
+    {
+      "asin": "B0FNXZZTDW",
+      "title": "Hisense Smart TV 4K 55\" Polegadas 55A6NV | Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-55A6NV-Virtual-Compatibilidade/dp/B0FNXZZTDW",
+      "current_price": 2099.89,
+      "original_price": 2599.0,
+      "discount": 19.2,
+      "difference": 499.11,
+      "criteria": [
+        "R$ 499.11 desc."
+      ],
+      "badge": "19% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aLPabwsVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790294536.67731,
+      "discovery_ts": 1785207848.029087,
       "is_new": false
     },
     {
@@ -25884,7 +25987,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/314T-z8Hm7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1790091578.47064,
       "is_new": false
     },
@@ -25902,7 +26005,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -25921,7 +26024,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -25939,7 +26042,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790286089.827238,
+      "last_seen": 1790294536.67731,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
