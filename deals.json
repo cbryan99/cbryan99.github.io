@@ -1,5 +1,5 @@
 {
-  "last_check": "26/09/2026 14:24:00",
+  "last_check": "26/09/2026 17:52:13",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -25328,6 +25328,10 @@
         {
           "price": 1798.0,
           "date": "2026-09-22T15:39:38.470640"
+        },
+        {
+          "price": 1599.0,
+          "date": "2026-09-26T17:52:03.187058"
         }
       ]
     },
@@ -25672,9 +25676,54 @@
           "date": "2026-09-26T14:23:59.429890"
         }
       ]
+    },
+    "B0D27J4Q8G": {
+      "discovery_date": "2026-09-26T17:52:03.187058",
+      "price_history": [
+        {
+          "price": 2499.0,
+          "date": "2026-09-26T17:52:03.187058"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0D27J4Q8G",
+      "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS",
+      "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Stage/dp/B0D27J4Q8G",
+      "current_price": 2499.0,
+      "original_price": 3899.0,
+      "discount": 35.9,
+      "difference": 1400.0,
+      "criteria": [
+        "R$ 1400.0 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CdXeEV5aL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1790445123.187065,
+      "is_new": true
+    },
+    {
+      "asin": "B0GKQTTCMM",
+      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
+      "current_price": 7690.0,
+      "original_price": 11499.0,
+      "discount": 33.1,
+      "difference": 3809.0,
+      "criteria": [
+        "R$ 3809.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1789077437.189865,
+      "is_new": false
+    },
     {
       "asin": "B0DGJ8QQRY",
       "title": "Apple Watch Series 10 GPS + Cellular • Caixa ouro rosa de alumínio – 42 mm • Pulseira esportiva blush-clara – P/M",
@@ -25692,24 +25741,6 @@
       "category": "[WEARABLE_COMPUTER]",
       "last_seen": 1790432639.429898,
       "discovery_ts": 1790432639.429898,
-      "is_new": true
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
-      "criteria": [
-        "R$ 3809.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
-      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
@@ -25726,7 +25757,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -25745,26 +25776,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790417113.00852,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1789083919.237103,
-      "is_new": false
-    },
-    {
-      "asin": "B083LGFDGJ",
-      "title": "Acer Aspire 5 Notebook 15.6\" AMD Ryzen 5 512GB SSD 16GB",
-      "link": "https://www.amazon.com.br/Notebook-Aspire-A515-45-R043-Ryzen-Windows/dp/B083LGFDGJ",
-      "current_price": 3594.0,
-      "original_price": 5799.0,
-      "discount": 38.0,
-      "difference": 2205.0,
-      "criteria": [
-        "R$ 2205.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71xtw8GoY7L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1790311705.416372,
       "is_new": false
     },
     {
@@ -25782,8 +25795,45 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
+      "asin": "B0GPQTM751",
+      "title": "Ar Condicionado Split Teto Inverter Midea Connect 60.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Midea-Connect-60-000/dp/B0GPQTM751",
+      "current_price": 8995.0,
+      "original_price": 10999.0,
+      "discount": 18.2,
+      "difference": 2004.0,
+      "criteria": [
+        "R$ 2004.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1789999177.934523,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFHDYTG",
+      "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio meia‑noite de 40 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-Cellular-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFHDYTG",
+      "current_price": 1999.0,
+      "original_price": 3899.0,
+      "discount": 48.7,
+      "difference": 1900.0,
+      "criteria": [
+        "48.7% OFF",
+        "R$ 1900.0 desc."
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HakFG+e3L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1790383143.860863,
       "is_new": false
     },
     {
@@ -25801,7 +25851,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25857,7 +25907,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1790400459.391094,
       "is_new": false
     },
@@ -25876,7 +25926,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -25894,7 +25944,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1787934841.41155,
       "is_new": false
     },
@@ -25912,7 +25962,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -25930,7 +25980,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -25948,26 +25998,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
-      "asin": "B0FP6K9M5D",
-      "title": "Samsung Tablet Galaxy Tab S10 Lite 5G, 256GB, 8GB RAM, Tela 10.9\", S Pen e Capa Smartbook Cover Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Smartbook-Inclusas/dp/B0FP6K9M5D",
-      "current_price": 2799.0,
-      "original_price": 3699.0,
-      "discount": 24.3,
-      "difference": 900.0,
+      "asin": "B0HC8MK4NK",
+      "title": "Smart TV TCL 65 Polegadas SQD-Mini LED 4K C7L WiFi Bluetooth Google TV HDR10+ Ultra Slim 65C7L",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-SQD-Mini-Bluetooth-65C7L/dp/B0HC8MK4NK",
+      "current_price": 6118.98,
+      "original_price": 6999.0,
+      "discount": 12.6,
+      "difference": 880.02,
       "criteria": [
-        "R$ 900.0 desc."
+        "R$ 880.02 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZM0Xk2y2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1789626103.6809,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DwpBNgQAL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1790294536.677303,
       "is_new": false
     },
     {
@@ -25984,7 +26034,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -26007,25 +26057,6 @@
       "is_new": false
     },
     {
-      "asin": "B08R93TVRG",
-      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
-      "current_price": 399.0,
-      "original_price": 1199.9,
-      "discount": 66.7,
-      "difference": 800.9,
-      "criteria": [
-        "66.7% OFF",
-        "R$ 800.9 desc."
-      ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
       "asin": "B0D9YS13X6",
       "title": "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0D9YS13X6",
@@ -26039,27 +26070,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Yb5tekSxL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1790417113.00852,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1789684029.529032,
       "is_new": false
     },
     {
-      "asin": "B0DG32SNZ4",
-      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
-      "current_price": 349.0,
-      "original_price": 829.9,
-      "discount": 57.9,
-      "difference": 480.9,
+      "asin": "B0GQC12MYK",
+      "title": "Ar-Condicionado Split 9.000 BTUs AI AirVolution Frio Midea | AI , inverter",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-9-000-AirVolution-Midea/dp/B0GQC12MYK",
+      "current_price": 1599.0,
+      "original_price": 2089.0,
+      "discount": 23.5,
+      "difference": 490.0,
       "criteria": [
-        "57.9% OFF",
-        "R$ 480.9 desc."
+        "R$ 490.0 desc."
       ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1790417113.00852,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/314T-z8Hm7L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1790091578.47064,
       "is_new": false
     },
     {
@@ -26076,7 +26106,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -26095,7 +26125,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26113,80 +26143,26 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790432639.429898,
+      "last_seen": 1790445123.187065,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
-      "asin": "B0GWRVVRHQ",
-      "title": "SUGGAR COIFA DE EMBUTIR 75CM 110V SLIM TOPÁZIO VIDRO PRETO PAINEL TOUCH POR GESTOS ASPIRAÇÃO PERIMETRAL TP7501PT",
-      "link": "https://www.amazon.com.br/EMBUTIR-TOP%C3%81ZIO-ASPIRA%C3%87%C3%83O-PERIMETRAL-TP7501PT/dp/B0GWRVVRHQ",
-      "current_price": 1984.0,
-      "original_price": 2312.32,
-      "discount": 14.2,
-      "difference": 328.32,
+      "asin": "B0DD1KD5JP",
+      "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V | Visor Transparente – acompanhe o preparo dos alimentos sem abrir o aparelho (AI551/09)",
+      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
+      "current_price": 688.99,
+      "original_price": 999.9,
+      "discount": 31.1,
+      "difference": 310.91,
       "criteria": [
-        "R$ 328.32 desc."
+        "R$ 310.91 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ywtcUXpoL._AC_UL210_SR210,210_.jpg",
-      "category": "[VENT_HOOD]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1790417113.00852,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXMX7SGL",
-      "title": "Logitech G, G29 SE Driving Force, Combo Volante Pedais e Câmbio, USB, PS5, PS4, PS3 e PC",
-      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
-      "current_price": 1999.0,
-      "original_price": 2299.9,
-      "discount": 13.1,
-      "difference": 300.9,
-      "criteria": [
-        "R$ 300.9 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1784825707.553482,
-      "is_new": false
-    },
-    {
-      "asin": "B0DR3N5BV6",
-      "title": "Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
-      "link": "https://www.amazon.com.br/Fisher-Price-Aprender-Brinquedo-Cachorrinho-crian%C3%A7as/dp/B0DR3N5BV6",
-      "current_price": 175.0,
-      "original_price": 369.99,
-      "discount": 52.7,
-      "difference": 194.99,
-      "criteria": [
-        "52.7% OFF"
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/710kBoOgaEL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRONIC_LEARNING_TOY]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1790348123.417838,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZ38QQYB",
-      "title": "Tech T-shirt Gola V Masculino Insider",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0DZ38QQYB",
-      "current_price": 89.9,
-      "original_price": 165.0,
-      "discount": 45.5,
-      "difference": 75.1,
-      "criteria": [
-        "45.5% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41XnNtQ9IvL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1790417113.00852,
-      "discovery_ts": 1790417113.00852,
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790445123.187065,
+      "discovery_ts": 1786342826.475291,
       "is_new": false
     }
   ]
