@@ -1,5 +1,5 @@
 {
-  "last_check": "27/09/2026 12:30:24",
+  "last_check": "27/09/2026 17:15:03",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23447,6 +23447,10 @@
         {
           "price": 9499.0,
           "date": "2026-08-28T16:34:01.411550"
+        },
+        {
+          "price": 6999.0,
+          "date": "2026-09-27T17:15:01.083727"
         }
       ]
     },
@@ -24378,6 +24382,10 @@
         {
           "price": 4149.0,
           "date": "2026-09-12T13:19:05.198038"
+        },
+        {
+          "price": 4099.0,
+          "date": "2026-09-27T17:15:01.083727"
         }
       ]
     },
@@ -25738,22 +25746,23 @@
   },
   "data": [
     {
-      "asin": "B0FXNSNJGW",
-      "title": "KIT FRAN CHILLICAKE KIT BY FRANCINY EHLKE",
-      "link": "https://www.amazon.com.br/KIT-FRAN-CHILLICAKE-FRANCINY-EHLKE/dp/B0FXNSNJGW",
-      "current_price": 38.69,
-      "original_price": 149.9,
-      "discount": 74.2,
-      "difference": 111.21,
+      "asin": "B0FQHXF22H",
+      "title": "Apple Watch Ultra 3 GPS + Cellular, Caixa em titânio preto de 49 mm com Loop milanesa em titânio preto ‑ M",
+      "link": "https://www.amazon.com.br/Apple-Watch-Cellular-tit%C3%A2nio-milanesa/dp/B0FQHXF22H",
+      "current_price": 6999.0,
+      "original_price": 11799.0,
+      "discount": 40.7,
+      "difference": 4800.0,
       "criteria": [
-        "74.2% OFF"
+        "40.7% OFF",
+        "R$ 4800.0 desc."
       ],
-      "badge": "74% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Htaa0rKJL._AC_UL210_SR210,210_.jpg",
-      "category": "[LIP_COLOR]",
-      "last_seen": 1790512224.75053,
-      "discovery_ts": 1790512224.75053,
-      "is_new": true
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61GKy1LLs9L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1787934841.41155,
+      "is_new": false
     },
     {
       "asin": "B0FQHCHV7C",
@@ -25775,27 +25784,27 @@
       "is_new": false
     },
     {
-      "asin": "B0FQF5CFG4",
-      "title": "Apple Watch Series 11 GPS + Cellular, Caixa em titânio ardósia de 42 mm com Bracelete desportiva preta - M/G",
-      "link": "https://www.amazon.com.br/Apple-Cellular-tit%C3%A2nio-Bracelete-desportiva/dp/B0FQF5CFG4",
-      "current_price": 5999.0,
-      "original_price": 9299.0,
-      "discount": 35.5,
-      "difference": 3300.0,
+      "asin": "B0GKQTTCMM",
+      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
+      "current_price": 7690.0,
+      "original_price": 11499.0,
+      "discount": 33.1,
+      "difference": 3809.0,
       "criteria": [
-        "R$ 3300.0 desc."
+        "R$ 3809.0 desc."
       ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cAjR3kICL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1790491685.164592,
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1789077437.189865,
       "is_new": false
     },
     {
-      "asin": "B0GKQNGV23",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
+      "asin": "B0GKQTJD9P",
+      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Violeta",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTJD9P",
       "current_price": 4775.0,
       "original_price": 7499.0,
       "discount": 36.3,
@@ -25804,46 +25813,10 @@
         "R$ 2724.0 desc."
       ],
       "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kX9KSBv1L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1789775662.257893,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQPFCXS",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Branco",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQPFCXS",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ot5-7coTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1789785807.175653,
-      "is_new": false
-    },
-    {
-      "asin": "B0CPFBBHP4",
-      "title": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, 220v | Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos Inteligente com Visão por IA e Laser LiDAR,Ideal para Pets",
-      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
-      "current_price": 4749.0,
-      "original_price": 6999.0,
-      "discount": 32.1,
-      "difference": 2250.0,
-      "criteria": [
-        "R$ 2250.0 desc."
-      ],
-      "badge": "32% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1784564480.506233,
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1789832979.563387,
       "is_new": false
     },
     {
@@ -25861,8 +25834,27 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1786338424.792042,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLSQF18R",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 24GB (8GB RAM + 16GB RAM Boost), Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -25885,6 +25877,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FQFJP7MP",
+      "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - M/G",
+      "link": "https://www.amazon.com.br/Apple-Cellular-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJP7MP",
+      "current_price": 2499.0,
+      "original_price": 4299.0,
+      "discount": 41.9,
+      "difference": 1800.0,
+      "criteria": [
+        "41.9% OFF",
+        "R$ 1800.0 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HakFG+e3L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1790464066.070863,
+      "is_new": false
+    },
+    {
       "asin": "B0GVT7QXF7",
       "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
       "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
@@ -25899,8 +25910,26 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1786349565.683197,
+      "is_new": false
+    },
+    {
+      "asin": "B0DPY44LWR",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 5500, 110V | Café Fresco na Hora – espresso e bebidas cremosas com preparo automático em casa (EP5547/95)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Philips-Walita/dp/B0DPY44LWR",
+      "current_price": 5398.0,
+      "original_price": 6999.9,
+      "discount": 22.9,
+      "difference": 1601.9,
+      "criteria": [
+        "R$ 1601.9 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1790188267.162769,
       "is_new": false
     },
     {
@@ -25940,24 +25969,6 @@
       "is_new": false
     },
     {
-      "asin": "B09ZHCLVXF",
-      "title": "Philips Walita Cafeteira Espresso Superautomática Série 1200, 220V | Café Fresco na Hora – bebidas de espresso preparadas com praticidade no preparo (EP1220/12)",
-      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Autom%C3%A1tica-Philips-Walita/dp/B09ZHCLVXF",
-      "current_price": 2499.0,
-      "original_price": 3999.0,
-      "discount": 37.5,
-      "difference": 1500.0,
-      "criteria": [
-        "R$ 1500.0 desc."
-      ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FXFo4kYiL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1789850698.556811,
-      "is_new": false
-    },
-    {
       "asin": "B0D27J4Q8G",
       "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS",
       "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Stage/dp/B0D27J4Q8G",
@@ -25990,8 +26001,26 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1788189889.613867,
+      "is_new": false
+    },
+    {
+      "asin": "B0GTRZFNJM",
+      "title": "Apple iPhone 17e de 256 GB — Rosa-pálido",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM",
+      "current_price": 4499.0,
+      "original_price": 5799.0,
+      "discount": 22.4,
+      "difference": 1300.0,
+      "criteria": [
+        "R$ 1300.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1787934841.41155,
       "is_new": false
     },
     {
@@ -26013,24 +26042,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GTRZFNJM",
-      "title": "Apple iPhone 17e de 256 GB — Rosa-pálido",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM",
-      "current_price": 4499.0,
-      "original_price": 5799.0,
-      "discount": 22.4,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1787934841.41155,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -26044,26 +26055,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0BZ15NC13",
-      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
-      "current_price": 3399.0,
-      "original_price": 4618.9,
-      "discount": 26.4,
-      "difference": 1219.9,
-      "criteria": [
-        "R$ 1219.9 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790512224.75053,
-      "discovery_ts": 1785269176.438674,
       "is_new": false
     },
     {
@@ -26080,8 +26073,44 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1785460545.090896,
+      "is_new": false
+    },
+    {
+      "asin": "B0BZ15NC13",
+      "title": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+      "current_price": 3399.0,
+      "original_price": 4618.9,
+      "discount": 26.4,
+      "difference": 1219.9,
+      "criteria": [
+        "R$ 1219.9 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1785269176.438674,
+      "is_new": false
+    },
+    {
+      "asin": "B0DYVMS335",
+      "title": "Smartphone Samsung Galaxy A36 256GB 5G 8GB RAM Violeta 6,7\" Câm. Tripla + Selfie 12MP",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVMS335",
+      "current_price": 1887.78,
+      "original_price": 2999.0,
+      "discount": 37.1,
+      "difference": 1111.22,
+      "criteria": [
+        "R$ 1111.22 desc."
+      ],
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61MuhIMNhcL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1790383143.860863,
       "is_new": false
     },
     {
@@ -26098,26 +26127,27 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
-      "asin": "B0H2NGMNB8",
-      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
-      "current_price": 6599.0,
-      "original_price": 7399.99,
-      "discount": 10.8,
-      "difference": 800.99,
+      "asin": "B08R93TVRG",
+      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
+      "current_price": 399.0,
+      "original_price": 1199.9,
+      "discount": 66.7,
+      "difference": 800.9,
       "criteria": [
-        "R$ 800.99 desc."
+        "66.7% OFF",
+        "R$ 800.9 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1784990556.520456,
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1785729477.338894,
       "is_new": false
     },
     {
@@ -26153,8 +26183,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0HBYBB54N",
+      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBB54N",
+      "current_price": 4099.0,
+      "original_price": 4499.0,
+      "discount": 8.9,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1789219145.198038,
       "is_new": false
     },
     {
@@ -26172,7 +26220,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26190,44 +26238,44 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790512224.75053,
+      "last_seen": 1790529301.083736,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
-      "asin": "B0FTNHK4G7",
-      "title": "Apple iPhone 15 Pro (256 GB) — Titânio preto (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-256-Recondicionado/dp/B0FTNHK4G7",
-      "current_price": 4477.98,
-      "original_price": 4791.99,
-      "discount": 6.6,
-      "difference": 314.01,
+      "asin": "B0DD1KD5JP",
+      "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V | Visor Transparente – acompanhe o preparo dos alimentos sem abrir o aparelho (AI551/09)",
+      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
+      "current_price": 688.99,
+      "original_price": 999.9,
+      "discount": 31.1,
+      "difference": 310.91,
       "criteria": [
-        "R$ 314.01 desc."
+        "R$ 310.91 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51CLSwLslpL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1790400459.391094,
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790529301.083736,
+      "discovery_ts": 1786342826.475291,
       "is_new": false
     },
     {
-      "asin": "B0FXMX7SGL",
-      "title": "Logitech G, G29 SE Driving Force, Combo Volante Pedais e Câmbio, USB, PS5, PS4, PS3 e PC",
-      "link": "https://www.amazon.com.br/Volante-Pedais-Cambio-Logitech-Driving/dp/B0FXMX7SGL",
-      "current_price": 1999.0,
-      "original_price": 2299.9,
-      "discount": 13.1,
-      "difference": 300.9,
+      "asin": "B0FXNSNJGW",
+      "title": "KIT FRAN CHILLICAKE KIT BY FRANCINY EHLKE",
+      "link": "https://www.amazon.com.br/KIT-FRAN-CHILLICAKE-FRANCINY-EHLKE/dp/B0FXNSNJGW",
+      "current_price": 38.69,
+      "original_price": 149.9,
+      "discount": 74.2,
+      "difference": 111.21,
       "criteria": [
-        "R$ 300.9 desc."
+        "74.2% OFF"
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71FpVBlTvyL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1784825707.553482,
+      "badge": "74% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Htaa0rKJL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIP_COLOR]",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1790512224.75053,
       "is_new": false
     },
     {
@@ -26246,24 +26294,6 @@
       "category": "🛒 Supermercado & Bebidas",
       "last_seen": 1790512224.75053,
       "discovery_ts": 1790491685.164583,
-      "is_new": false
-    },
-    {
-      "asin": "B01IT28KG6",
-      "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
-      "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
-      "current_price": 39.27,
-      "original_price": 73.99,
-      "discount": 46.9,
-      "difference": 34.72,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
-      "category": "[WINE]",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1790491685.164592,
       "is_new": false
     }
   ]
