@@ -1,5 +1,5 @@
 {
-  "last_check": "27/09/2026 06:48:15",
+  "last_check": "27/09/2026 12:30:24",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -25725,9 +25725,55 @@
           "date": "2026-09-27T06:48:05.164583"
         }
       ]
+    },
+    "B0FXNSNJGW": {
+      "discovery_date": "2026-09-27T12:30:24.750523",
+      "price_history": [
+        {
+          "price": 38.69,
+          "date": "2026-09-27T12:30:24.750523"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FXNSNJGW",
+      "title": "KIT FRAN CHILLICAKE KIT BY FRANCINY EHLKE",
+      "link": "https://www.amazon.com.br/KIT-FRAN-CHILLICAKE-FRANCINY-EHLKE/dp/B0FXNSNJGW",
+      "current_price": 38.69,
+      "original_price": 149.9,
+      "discount": 74.2,
+      "difference": 111.21,
+      "criteria": [
+        "74.2% OFF"
+      ],
+      "badge": "74% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Htaa0rKJL._AC_UL210_SR210,210_.jpg",
+      "category": "[LIP_COLOR]",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1790512224.75053,
+      "is_new": true
+    },
+    {
+      "asin": "B0FQHCHV7C",
+      "title": "Apple Watch Ultra 3 GPS + Cellular, Caixa em titânio preto de 49 mm com Loop milanesa em titânio preto ‑ G",
+      "link": "https://www.amazon.com.br/Apple-Watch-Cellular-tit%C3%A2nio-milanesa/dp/B0FQHCHV7C",
+      "current_price": 6999.0,
+      "original_price": 11799.0,
+      "discount": 40.7,
+      "difference": 4800.0,
+      "criteria": [
+        "40.7% OFF",
+        "R$ 4800.0 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61GKy1LLs9L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1790400459.391094,
+      "is_new": false
+    },
     {
       "asin": "B0FQF5CFG4",
       "title": "Apple Watch Series 11 GPS + Cellular, Caixa em titânio ardósia de 42 mm com Bracelete desportiva preta - M/G",
@@ -25744,43 +25790,7 @@
       "category": "[WEARABLE_COMPUTER]",
       "last_seen": 1790491685.164592,
       "discovery_ts": 1790491685.164592,
-      "is_new": true
-    },
-    {
-      "asin": "B01ERTTV5O",
-      "title": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
-      "link": "https://www.amazon.com.br/Ballantines-Whisky-Finest-1L/dp/B01ERTTV5O",
-      "current_price": 61.64,
-      "original_price": 105.9,
-      "discount": 41.8,
-      "difference": 44.26,
-      "criteria": [
-        "41.8% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51fuirDimQL._AC_UL210_SR210,210_.jpg",
-      "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1790491685.164592,
-      "is_new": true
-    },
-    {
-      "asin": "B01IT28KG6",
-      "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
-      "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
-      "current_price": 39.27,
-      "original_price": 73.99,
-      "discount": 46.9,
-      "difference": 34.72,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
-      "category": "[WINE]",
-      "last_seen": 1790491685.164592,
-      "discovery_ts": 1790491685.164592,
-      "is_new": true
+      "is_new": false
     },
     {
       "asin": "B0GKQNGV23",
@@ -25819,25 +25829,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GMY41LM8",
-      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
-      "current_price": 3399.0,
-      "original_price": 5999.0,
-      "discount": 43.3,
-      "difference": 2600.0,
-      "criteria": [
-        "43.3% OFF",
-        "R$ 2600.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1789083919.237103,
-      "is_new": false
-    },
-    {
       "asin": "B0CPFBBHP4",
       "title": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, 220v | Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos Inteligente com Visão por IA e Laser LiDAR,Ideal para Pets",
       "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
@@ -25870,26 +25861,8 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0HFQFSDT4",
-      "title": "Notebook Samsung Galaxy Book6 Pro 14\" AMOLED Copilot+ PC, Windows 11 Home, Ultra X7, 32GB, 1TB SSD, Arc B390, 1.24 kg",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HFQFSDT4",
-      "current_price": 11899.0,
-      "original_price": 13999.0,
-      "discount": 15.0,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/5186PqxMJeL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1789850698.556811,
       "is_new": false
     },
     {
@@ -25907,7 +25880,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51HakFG+e3L._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1790383143.860863,
       "is_new": false
     },
@@ -25926,7 +25899,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
@@ -25944,7 +25917,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q8zNldpZL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1790472165.356053,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -25962,7 +25935,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71M3uQCHrKL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -25985,25 +25958,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FQFTB8JX",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 40 mm com Bracelete desportiva meia‑noite - M/G",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFTB8JX",
-      "current_price": 1799.0,
-      "original_price": 3299.0,
-      "discount": 45.5,
-      "difference": 1500.0,
-      "criteria": [
-        "45.5% OFF",
-        "R$ 1500.0 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1790400459.391094,
-      "is_new": false
-    },
-    {
       "asin": "B0D27J4Q8G",
       "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS",
       "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Stage/dp/B0D27J4Q8G",
@@ -26017,7 +25971,7 @@
       "badge": "35% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51CdXeEV5aL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1790472165.356053,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1790445123.187058,
       "is_new": false
     },
@@ -26041,6 +25995,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GTS998HJ",
+      "title": "Apple iPhone 17e de 256 GB — Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
+      "current_price": 4499.0,
+      "original_price": 5799.0,
+      "discount": 22.4,
+      "difference": 1300.0,
+      "criteria": [
+        "R$ 1300.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
       "asin": "B0GTRZFNJM",
       "title": "Apple iPhone 17e de 256 GB — Rosa-pálido",
       "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM",
@@ -26059,24 +26031,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GTS998HJ",
-      "title": "Apple iPhone 17e de 256 GB — Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTS998HJ",
-      "current_price": 4499.0,
-      "original_price": 5799.0,
-      "discount": 22.4,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41Qt5voMacL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -26090,7 +26044,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -26108,7 +26062,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790472165.356053,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -26126,26 +26080,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790472165.356053,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1785460545.090896,
-      "is_new": false
-    },
-    {
-      "asin": "B0DYVMS335",
-      "title": "Smartphone Samsung Galaxy A36 256GB 5G 8GB RAM Violeta 6,7\" Câm. Tripla + Selfie 12MP",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVMS335",
-      "current_price": 1887.78,
-      "original_price": 2999.0,
-      "discount": 37.1,
-      "difference": 1111.22,
-      "criteria": [
-        "R$ 1111.22 desc."
-      ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61MuhIMNhcL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1790383143.860863,
       "is_new": false
     },
     {
@@ -26162,7 +26098,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -26185,6 +26121,25 @@
       "is_new": false
     },
     {
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 399.0,
+      "original_price": 1199.9,
+      "discount": 66.7,
+      "difference": 800.9,
+      "criteria": [
+        "66.7% OFF",
+        "R$ 800.9 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1790156779.821624,
+      "is_new": false
+    },
+    {
       "asin": "B0GC17K7K7",
       "title": "Samsung Smart TV 43\" QLED Full HD Q5F 2025, Xbox Cloud Gaming, Canais Gratuitos, HDR, Som em Movimento Virtual",
       "link": "https://www.amazon.com.br/Samsung-Gaming-Gratuitos-Movimento-Virtual/dp/B0GC17K7K7",
@@ -26198,7 +26153,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -26217,7 +26172,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790491685.164592,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26235,7 +26190,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790472165.356053,
+      "last_seen": 1790512224.75053,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
@@ -26276,39 +26231,39 @@
       "is_new": false
     },
     {
-      "asin": "B00NHQFA1I",
-      "title": "LEGO Classic - Caixa Média de Peças Criativas",
-      "link": "https://www.amazon.com.br/Classic-Caixa-M%C3%A9dia-Pe%C3%A7as-Criativas/dp/B00NHQFA1I",
-      "current_price": 199.99,
-      "original_price": 349.99,
-      "discount": 42.9,
-      "difference": 150.0,
+      "asin": "B01ERTTV5O",
+      "title": "Whisky Ballantine's Finest Blended Escocês - 1 Litro",
+      "link": "https://www.amazon.com.br/Ballantines-Whisky-Finest-1L/dp/B01ERTTV5O",
+      "current_price": 61.64,
+      "original_price": 105.9,
+      "discount": 41.8,
+      "difference": 44.26,
       "criteria": [
-        "42.9% OFF"
+        "41.8% OFF"
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/8160QjpuoOL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1785742098.427671,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51fuirDimQL._AC_UL210_SR210,210_.jpg",
+      "category": "🛒 Supermercado & Bebidas",
+      "last_seen": 1790512224.75053,
+      "discovery_ts": 1790491685.164583,
       "is_new": false
     },
     {
-      "asin": "B086R87WFZ",
-      "title": "Concha y Toro Diablo Dark Black 750ml",
-      "link": "https://www.amazon.com.br/Vinho-Tinto-Diablo-Black-750ml/dp/B086R87WFZ",
-      "current_price": 54.0,
-      "original_price": 99.9,
-      "discount": 45.9,
-      "difference": 45.9,
+      "asin": "B01IT28KG6",
+      "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
+      "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
+      "current_price": 39.27,
+      "original_price": 73.99,
+      "discount": 46.9,
+      "difference": 34.72,
       "criteria": [
-        "45.9% OFF"
+        "46.9% OFF"
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61pF9evnZML._AC_UL210_SR210,210_.jpg",
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
       "category": "[WINE]",
-      "last_seen": 1790472165.356053,
-      "discovery_ts": 1790374502.770565,
+      "last_seen": 1790491685.164592,
+      "discovery_ts": 1790491685.164592,
       "is_new": false
     }
   ]
