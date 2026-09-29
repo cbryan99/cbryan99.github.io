@@ -1,5 +1,5 @@
 {
-  "last_check": "29/09/2026 01:13:50",
+  "last_check": "29/09/2026 06:58:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1950,6 +1950,10 @@
         {
           "price": 2499.0,
           "date": "2026-08-15T00:57:23.347247"
+        },
+        {
+          "price": 2549.0,
+          "date": "2026-09-29T06:58:19.027630"
         }
       ]
     },
@@ -21099,6 +21103,10 @@
         {
           "price": 3271.97,
           "date": "2026-08-31T07:37:15.986265"
+        },
+        {
+          "price": 3328.86,
+          "date": "2026-09-29T06:58:19.027630"
         }
       ]
     },
@@ -25833,43 +25841,89 @@
           "date": "2026-09-29T01:13:38.034445"
         }
       ]
+    },
+    "B0D9KJHRXN": {
+      "discovery_date": "2026-09-29T06:58:19.027630",
+      "price_history": [
+        {
+          "price": 879.0,
+          "date": "2026-09-29T06:58:19.027630"
+        }
+      ]
+    },
+    "B0DRW6K649": {
+      "discovery_date": "2026-09-29T06:58:19.027630",
+      "price_history": [
+        {
+          "price": 940.4,
+          "date": "2026-09-29T06:58:19.027630"
+        }
+      ]
+    },
+    "B0GW9PLK7J": {
+      "discovery_date": "2026-09-29T06:58:19.027630",
+      "price_history": [
+        {
+          "price": 3137.52,
+          "date": "2026-09-29T06:58:19.027630"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DVBPL6CV",
-      "title": "Philips Walita Cafeteira Espresso Superautomática Série 4400 LatteGo, 220V | Bebidas Quentes e Geladas – 12 opções de café com tecnologia SilentBrew silenciosa (EP4441/53)",
-      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Walita-garantia/dp/B0DVBPL6CV",
-      "current_price": 4384.98,
-      "original_price": 5999.9,
-      "discount": 26.9,
-      "difference": 1614.92,
+      "asin": "B0DRW6K649",
+      "title": "LEGO Super Mario Mario Kart™: Mario e Kart Padrão 72037",
+      "link": "https://www.amazon.com.br/LEGO-Super-Mario-KartTM-Padr%C3%A3o/dp/B0DRW6K649",
+      "current_price": 940.4,
+      "original_price": 1699.99,
+      "discount": 44.7,
+      "difference": 759.59,
       "criteria": [
-        "R$ 1614.92 desc."
+        "44.7% OFF",
+        "R$ 759.59 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1790644418.034453,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81x8NTyDheL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_FIGURE_PLAYSET]",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1790665099.027639,
       "is_new": true
     },
     {
-      "asin": "B0FRHSY74T",
-      "title": "Soundbar Samsung HW-B450F, com 2.1 canais, 300W, Bluetooth, Subwoofer sem fio e Dolby Audio",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-B450F-Bluetooth-Subwoofer/dp/B0FRHSY74T",
-      "current_price": 959.0,
+      "asin": "B0D9KJHRXN",
+      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
+      "current_price": 879.0,
       "original_price": 1399.0,
-      "discount": 31.5,
-      "difference": 440.0,
+      "discount": 37.2,
+      "difference": 520.0,
       "criteria": [
-        "R$ 440.0 desc."
+        "R$ 520.0 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31UgPHRQaLL._AC_UL210_SR210,210_.jpg",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1790644418.034453,
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1790665099.027639,
+      "is_new": true
+    },
+    {
+      "asin": "B0GW9PLK7J",
+      "title": "Cafeteira Espresso Automática Série Pro Midea 127V",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Autom%C3%A1tica-S%C3%A9rie-Midea/dp/B0GW9PLK7J",
+      "current_price": 3137.52,
+      "original_price": 3469.0,
+      "discount": 9.6,
+      "difference": 331.48,
+      "criteria": [
+        "R$ 331.48 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71224dQx7aL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1790665099.027639,
       "is_new": true
     },
     {
@@ -25892,6 +25946,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FQHCHV7C",
+      "title": "Apple Watch Ultra 3 GPS + Cellular, Caixa em titânio preto de 49 mm com Loop milanesa em titânio preto ‑ G",
+      "link": "https://www.amazon.com.br/Apple-Watch-Cellular-tit%C3%A2nio-milanesa/dp/B0FQHCHV7C",
+      "current_price": 6999.0,
+      "original_price": 11799.0,
+      "discount": 40.7,
+      "difference": 4800.0,
+      "criteria": [
+        "40.7% OFF",
+        "R$ 4800.0 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61GKy1LLs9L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1790400459.391094,
+      "is_new": false
+    },
+    {
       "asin": "B0GKQTTCMM",
       "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
@@ -25905,8 +25978,26 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1789077437.189865,
+      "is_new": false
+    },
+    {
+      "asin": "B0GKQNGV23",
+      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
+      "current_price": 4775.0,
+      "original_price": 7499.0,
+      "discount": 36.3,
+      "difference": 2724.0,
+      "criteria": [
+        "R$ 2724.0 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1789775662.257893,
       "is_new": false
     },
     {
@@ -25925,6 +26016,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1790644418.034453,
       "discovery_ts": 1789832979.563387,
+      "is_new": false
+    },
+    {
+      "asin": "B0CZ4LQCQJ",
+      "title": "Monitor Samsung ViewFinity S9 27\" 5k, Tela Plana, 60Hz, 5ms, Thunderbolt 4, Smart Hub, Gaming Mode 27\"",
+      "link": "https://www.amazon.com.br/Monitor-Samsung-ViewFinity-Thunderbolt-Gaming/dp/B0CZ4LQCQJ",
+      "current_price": 7699.0,
+      "original_price": 10030.51,
+      "discount": 23.2,
+      "difference": 2331.51,
+      "criteria": [
+        "R$ 2331.51 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aVgm5pxNL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1790091578.47064,
       "is_new": false
     },
     {
@@ -25978,7 +26087,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26001,24 +26110,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FXMBWGGM",
-      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
-      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
-      "current_price": 3999.0,
-      "original_price": 5999.0,
-      "discount": 33.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1789412436.19625,
-      "is_new": false
-    },
-    {
       "asin": "B0FQFJKBMX",
       "title": "Apple Watch Series 11 GPS, Caixa em alumínio rosa‑dourado de 46 mm com Bracelete desportiva rosa leve - M/G",
       "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-rosa%E2%80%91dourado-Bracelete-desportiva/dp/B0FQFJKBMX",
@@ -26037,25 +26128,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FQFJP7MP",
-      "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - M/G",
-      "link": "https://www.amazon.com.br/Apple-Cellular-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJP7MP",
-      "current_price": 2499.0,
-      "original_price": 4299.0,
-      "discount": 41.9,
-      "difference": 1800.0,
-      "criteria": [
-        "41.9% OFF",
-        "R$ 1800.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51HakFG+e3L._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1790464066.070863,
-      "is_new": false
-    },
-    {
       "asin": "B0GVT7QXF7",
       "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
       "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
@@ -26070,46 +26142,44 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1786349565.683197,
       "is_new": false
     },
     {
-      "asin": "B0GVT85MNH",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Verde)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT85MNH",
-      "current_price": 1788.0,
-      "original_price": 3299.0,
-      "discount": 45.8,
-      "difference": 1511.0,
+      "asin": "B0DVBPL6CV",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 4400 LatteGo, 220V | Bebidas Quentes e Geladas – 12 opções de café com tecnologia SilentBrew silenciosa (EP4441/53)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Walita-garantia/dp/B0DVBPL6CV",
+      "current_price": 4384.98,
+      "original_price": 5999.9,
+      "discount": 26.9,
+      "difference": 1614.92,
       "criteria": [
-        "45.8% OFF",
-        "R$ 1511.0 desc."
+        "R$ 1614.92 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51nJuNN5hPL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1790550337.054459,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790644418.034453,
+      "discovery_ts": 1790644418.034453,
       "is_new": false
     },
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
-      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
-      "current_price": 2159.29,
-      "original_price": 3599.0,
-      "discount": 40.0,
-      "difference": 1439.71,
+      "asin": "B0FTKPP8LZ",
+      "title": "Apple iPhone 15 (128 GB) — Preto (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-Recondicionado/dp/B0FTKPP8LZ",
+      "current_price": 3328.86,
+      "original_price": 4776.67,
+      "discount": 30.3,
+      "difference": 1447.81,
       "criteria": [
-        "40.0% OFF",
-        "R$ 1439.71 desc."
+        "R$ 1447.81 desc."
       ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1785128082.040921,
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/511+KLyfFuL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1786704121.505645,
       "is_new": false
     },
     {
@@ -26127,7 +26197,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790631061.168733,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -26150,24 +26220,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GTRWMZWZ",
-      "title": "Apple iPhone 17e de 256 GB — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-17e-256-GB/dp/B0GTRWMZWZ",
-      "current_price": 4499.0,
-      "original_price": 5799.0,
-      "discount": 22.4,
-      "difference": 1300.0,
-      "criteria": [
-        "R$ 1300.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41aApj0ACOL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -26181,7 +26233,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -26199,7 +26251,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1787268944.843758,
       "is_new": false
     },
@@ -26218,7 +26270,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -26236,8 +26288,44 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1785349892.292556,
+      "is_new": false
+    },
+    {
+      "asin": "B0FVP6KRP4",
+      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+      "current_price": 2549.0,
+      "original_price": 3199.0,
+      "discount": 20.3,
+      "difference": 650.0,
+      "criteria": [
+        "R$ 650.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1784936763.261283,
+      "is_new": false
+    },
+    {
+      "asin": "B0FRHSY74T",
+      "title": "Soundbar Samsung HW-B450F, com 2.1 canais, 300W, Bluetooth, Subwoofer sem fio e Dolby Audio",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-B450F-Bluetooth-Subwoofer/dp/B0FRHSY74T",
+      "current_price": 959.0,
+      "original_price": 1399.0,
+      "discount": 31.5,
+      "difference": 440.0,
+      "criteria": [
+        "R$ 440.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31UgPHRQaLL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790644418.034453,
+      "discovery_ts": 1790644418.034453,
       "is_new": false
     },
     {
@@ -26254,7 +26342,7 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790665099.027639,
       "discovery_ts": 1786332587.274524,
       "is_new": false
     },
@@ -26296,24 +26384,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DD1KD5JP",
-      "title": "Philips Walita Fritadeira Airfryer Forno 12 Litros, Preta, 110V | Visor Transparente – acompanhe o preparo dos alimentos sem abrir o aparelho (AI551/09)",
-      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
-      "current_price": 688.99,
-      "original_price": 999.9,
-      "discount": 31.1,
-      "difference": 310.91,
-      "criteria": [
-        "R$ 310.91 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790631061.168733,
-      "discovery_ts": 1786342826.475291,
-      "is_new": false
-    },
-    {
       "asin": "B0DD1M9WJT",
       "title": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V | Alta Capacidade Interna – asse, doure e prepare pratos variados com praticidade (AI551/08)",
       "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1M9WJT",
@@ -26329,6 +26399,24 @@
       "category": "[AIR_FRYER]",
       "last_seen": 1790644418.034453,
       "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0GY4H64Y1",
+      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
+      "current_price": 2698.99,
+      "original_price": 2999.0,
+      "discount": 10.0,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790665099.027639,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
