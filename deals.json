@@ -1,5 +1,5 @@
 {
-  "last_check": "29/09/2026 06:58:20",
+  "last_check": "29/09/2026 13:51:12",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -15846,6 +15846,10 @@
         {
           "price": 1699.0,
           "date": "2026-09-13T17:31:28.471293"
+        },
+        {
+          "price": 1694.01,
+          "date": "2026-09-29T13:50:55.342082"
         }
       ]
     },
@@ -25868,62 +25872,88 @@
           "date": "2026-09-29T06:58:19.027630"
         }
       ]
+    },
+    "B0DN6S7FNT": {
+      "discovery_date": "2026-09-29T13:50:55.342082",
+      "price_history": [
+        {
+          "price": 218.22,
+          "date": "2026-09-29T13:50:55.342082"
+        }
+      ]
+    },
+    "B00UD3IWB8": {
+      "discovery_date": "2026-09-29T13:50:55.342082",
+      "price_history": [
+        {
+          "price": 4933.0,
+          "date": "2026-09-29T13:50:55.342082"
+        }
+      ]
+    },
+    "B0DHLFGNMM": {
+      "discovery_date": "2026-09-29T13:50:55.342082",
+      "price_history": [
+        {
+          "price": 133.99,
+          "date": "2026-09-29T13:50:55.342082"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DRW6K649",
-      "title": "LEGO Super Mario Mario Kart™: Mario e Kart Padrão 72037",
-      "link": "https://www.amazon.com.br/LEGO-Super-Mario-KartTM-Padr%C3%A3o/dp/B0DRW6K649",
-      "current_price": 940.4,
-      "original_price": 1699.99,
-      "discount": 44.7,
-      "difference": 759.59,
+      "asin": "B00UD3IWB8",
+      "title": "Behringer XR18 Mesa de Som Digital com 18 canais",
+      "link": "https://www.amazon.com.br/Mixer-Digital-X-Air-XR18-Behringer/dp/B00UD3IWB8",
+      "current_price": 4933.0,
+      "original_price": 6393.0,
+      "discount": 22.8,
+      "difference": 1460.0,
       "criteria": [
-        "44.7% OFF",
-        "R$ 759.59 desc."
+        "R$ 1460.0 desc."
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81x8NTyDheL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_FIGURE_PLAYSET]",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1790665099.027639,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IhX-xtKGL._AC_UL210_SR210,210_.jpg",
+      "category": "[AUDIO_MIXING_CONSOLE]",
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1790689855.342089,
       "is_new": true
     },
     {
-      "asin": "B0D9KJHRXN",
-      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
-      "current_price": 879.0,
-      "original_price": 1399.0,
-      "discount": 37.2,
-      "difference": 520.0,
+      "asin": "B0DN6S7FNT",
+      "title": "Marvel Legends Series X-Men, conjunto duplo de figuras de ação Deathbird e Marvel's Gladiator",
+      "link": "https://www.amazon.com.br/Marvel-Legends-conjunto-Deathbird-Gladiator/dp/B0DN6S7FNT",
+      "current_price": 218.22,
+      "original_price": 424.22,
+      "discount": 48.6,
+      "difference": 206.0,
       "criteria": [
-        "R$ 520.0 desc."
+        "48.6% OFF"
       ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1790665099.027639,
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81H7i-8h93L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_FIGURE]",
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1790689855.342089,
       "is_new": true
     },
     {
-      "asin": "B0GW9PLK7J",
-      "title": "Cafeteira Espresso Automática Série Pro Midea 127V",
-      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Autom%C3%A1tica-S%C3%A9rie-Midea/dp/B0GW9PLK7J",
-      "current_price": 3137.52,
-      "original_price": 3469.0,
-      "discount": 9.6,
-      "difference": 331.48,
+      "asin": "B0DHLFGNMM",
+      "title": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
+      "link": "https://www.amazon.com.br/LEGO-Champions-Corrida-Oracle-Racing/dp/B0DHLFGNMM",
+      "current_price": 133.99,
+      "original_price": 249.99,
+      "discount": 46.4,
+      "difference": 116.0,
       "criteria": [
-        "R$ 331.48 desc."
+        "46.4% OFF"
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71224dQx7aL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1790665099.027639,
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81oplZow5nL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1790689855.342089,
       "is_new": true
     },
     {
@@ -25941,118 +25971,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1789708125.988773,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQHCHV7C",
-      "title": "Apple Watch Ultra 3 GPS + Cellular, Caixa em titânio preto de 49 mm com Loop milanesa em titânio preto ‑ G",
-      "link": "https://www.amazon.com.br/Apple-Watch-Cellular-tit%C3%A2nio-milanesa/dp/B0FQHCHV7C",
-      "current_price": 6999.0,
-      "original_price": 11799.0,
-      "discount": 40.7,
-      "difference": 4800.0,
-      "criteria": [
-        "40.7% OFF",
-        "R$ 4800.0 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61GKy1LLs9L._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1790400459.391094,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
-      "criteria": [
-        "R$ 3809.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1789077437.189865,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQNGV23",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1789775662.257893,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTJD9P",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Violeta",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTJD9P",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61kX9KSBv1L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1789832979.563387,
-      "is_new": false
-    },
-    {
-      "asin": "B0CZ4LQCQJ",
-      "title": "Monitor Samsung ViewFinity S9 27\" 5k, Tela Plana, 60Hz, 5ms, Thunderbolt 4, Smart Hub, Gaming Mode 27\"",
-      "link": "https://www.amazon.com.br/Monitor-Samsung-ViewFinity-Thunderbolt-Gaming/dp/B0CZ4LQCQJ",
-      "current_price": 7699.0,
-      "original_price": 10030.51,
-      "discount": 23.2,
-      "difference": 2331.51,
-      "criteria": [
-        "R$ 2331.51 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41aVgm5pxNL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1790091578.47064,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
@@ -26069,7 +25989,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/5186PqxMJeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1789850698.556811,
       "is_new": false
     },
@@ -26087,7 +26007,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MYHzxciAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26105,26 +26025,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1788327827.078928,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQFJKBMX",
-      "title": "Apple Watch Series 11 GPS, Caixa em alumínio rosa‑dourado de 46 mm com Bracelete desportiva rosa leve - M/G",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-rosa%E2%80%91dourado-Bracelete-desportiva/dp/B0FQFJKBMX",
-      "current_price": 3999.0,
-      "original_price": 5899.0,
-      "discount": 32.2,
-      "difference": 1900.0,
-      "criteria": [
-        "R$ 1900.0 desc."
-      ],
-      "badge": "32% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51z7MYOjGFL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1790580848.288315,
       "is_new": false
     },
     {
@@ -26142,44 +26044,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1786349565.683197,
-      "is_new": false
-    },
-    {
-      "asin": "B0DVBPL6CV",
-      "title": "Philips Walita Cafeteira Espresso Superautomática Série 4400 LatteGo, 220V | Bebidas Quentes e Geladas – 12 opções de café com tecnologia SilentBrew silenciosa (EP4441/53)",
-      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Walita-garantia/dp/B0DVBPL6CV",
-      "current_price": 4384.98,
-      "original_price": 5999.9,
-      "discount": 26.9,
-      "difference": 1614.92,
-      "criteria": [
-        "R$ 1614.92 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1790644418.034453,
-      "is_new": false
-    },
-    {
-      "asin": "B0FTKPP8LZ",
-      "title": "Apple iPhone 15 (128 GB) — Preto (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-Recondicionado/dp/B0FTKPP8LZ",
-      "current_price": 3328.86,
-      "original_price": 4776.67,
-      "discount": 30.3,
-      "difference": 1447.81,
-      "criteria": [
-        "R$ 1447.81 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/511+KLyfFuL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1786704121.505645,
       "is_new": false
     },
     {
@@ -26197,7 +26063,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1788189889.613867,
       "is_new": false
     },
@@ -26215,7 +26081,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41YoC-wH37L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1787934841.41155,
       "is_new": false
     },
@@ -26233,26 +26099,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0F5X4NPK2",
-      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8100F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8100F-2025/dp/B0F5X4NPK2",
-      "current_price": 4499.0,
-      "original_price": 5299.99,
-      "discount": 15.1,
-      "difference": 800.99,
-      "criteria": [
-        "R$ 800.99 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
-      "discovery_ts": 1787268944.843758,
       "is_new": false
     },
     {
@@ -26270,7 +26118,7 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1785729477.338894,
       "is_new": false
     },
@@ -26288,7 +26136,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1785349892.292556,
       "is_new": false
     },
@@ -26306,63 +26154,62 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1784936763.261283,
       "is_new": false
     },
     {
-      "asin": "B0FRHSY74T",
-      "title": "Soundbar Samsung HW-B450F, com 2.1 canais, 300W, Bluetooth, Subwoofer sem fio e Dolby Audio",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-B450F-Bluetooth-Subwoofer/dp/B0FRHSY74T",
-      "current_price": 959.0,
+      "asin": "B0D9KJHRXN",
+      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
+      "current_price": 879.0,
       "original_price": 1399.0,
-      "discount": 31.5,
-      "difference": 440.0,
+      "discount": 37.2,
+      "difference": 520.0,
       "criteria": [
-        "R$ 440.0 desc."
+        "R$ 520.0 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31UgPHRQaLL._AC_UL210_SR210,210_.jpg",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1790644418.034453,
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1790665099.027639,
+      "is_new": false
+    },
+    {
+      "asin": "B07XM8KGBB",
+      "title": "ThunderX3, Cadeira Ergonomic, YAMA1BK, Preto",
+      "link": "https://www.amazon.com.br/Cadeira-Ergonomic-Thunderx3-Yama1-Preta/dp/B07XM8KGBB",
+      "current_price": 1017.02,
+      "original_price": 1441.08,
+      "discount": 29.4,
+      "difference": 424.06,
+      "criteria": [
+        "R$ 424.06 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W9FnH1Q1L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1785015526.987924,
       "is_new": false
     },
     {
       "asin": "B0GC17K7K7",
       "title": "Samsung Smart TV 43\" QLED Full HD Q5F 2025, Xbox Cloud Gaming, Canais Gratuitos, HDR, Som em Movimento Virtual",
       "link": "https://www.amazon.com.br/Samsung-Gaming-Gratuitos-Movimento-Virtual/dp/B0GC17K7K7",
-      "current_price": 1699.0,
+      "current_price": 1694.01,
       "original_price": 2099.0,
-      "discount": 19.1,
-      "difference": 400.0,
+      "discount": 19.3,
+      "difference": 404.99,
       "criteria": [
-        "R$ 400.0 desc."
+        "R$ 404.99 desc."
       ],
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61E3pEdWcsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
-      "asin": "6555321806",
-      "title": "Box Harry Potter Premium Vermelho (7 Livros em capa dura)",
-      "link": "https://www.amazon.com.br/Harry-Potter-Premium-Vermelho-Livros/dp/6555321806",
-      "current_price": 325.5,
-      "original_price": 699.9,
-      "discount": 53.5,
-      "difference": 374.4,
-      "criteria": [
-        "53.5% OFF",
-        "R$ 374.4 desc."
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1789999177.934523,
       "is_new": false
     },
     {
@@ -26379,26 +26226,26 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-b5p1Qg-L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1786459242.546747,
       "is_new": false
     },
     {
-      "asin": "B0DD1M9WJT",
-      "title": "Philips Walita Fritadeira Airfryer Forno Série 5000, 220V | Alta Capacidade Interna – asse, doure e prepare pratos variados com praticidade (AI551/08)",
-      "link": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1M9WJT",
-      "current_price": 688.99,
-      "original_price": 999.9,
-      "discount": 31.1,
-      "difference": 310.91,
+      "asin": "B0DF86C39M",
+      "title": "LEGO Super Heroes Marvel X-Men: A Mansão X 76294 (3.093 Peças)",
+      "link": "https://www.amazon.com.br/LEGO-Marvel-X-Men-Conjunto-Construir/dp/B0DF86C39M",
+      "current_price": 2969.99,
+      "original_price": 3299.99,
+      "discount": 10.0,
+      "difference": 330.0,
       "criteria": [
-        "R$ 310.91 desc."
+        "R$ 330.0 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61a0AdTUvPL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790644418.034453,
-      "discovery_ts": 1786332587.274524,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81nkKjspM6L._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790689855.342089,
+      "discovery_ts": 1789974290.529182,
       "is_new": false
     },
     {
@@ -26415,7 +26262,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790665099.027639,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -26423,17 +26270,17 @@
       "asin": "B01IT28KG6",
       "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
       "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
-      "current_price": 37.31,
+      "current_price": 0.05,
       "original_price": 73.99,
-      "discount": 49.6,
-      "difference": 36.68,
+      "discount": 99.9,
+      "difference": 73.94,
       "criteria": [
-        "49.6% OFF"
+        "99.9% OFF"
       ],
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
       "category": "[WINE]",
-      "last_seen": 1790644418.034453,
+      "last_seen": 1790689855.342089,
       "discovery_ts": 1790491685.164583,
       "is_new": false
     }
