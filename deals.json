@@ -1,5 +1,5 @@
 {
-  "last_check": "30/09/2026 07:31:07",
+  "last_check": "30/09/2026 14:12:44",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -16195,6 +16195,10 @@
         {
           "price": 1898.0,
           "date": "2026-09-18T23:54:22.257893"
+        },
+        {
+          "price": 1869.9,
+          "date": "2026-09-30T14:12:33.187889"
         }
       ]
     },
@@ -24195,6 +24199,10 @@
         {
           "price": 1791.0,
           "date": "2026-09-11T01:29:59.113268"
+        },
+        {
+          "price": 1750.0,
+          "date": "2026-09-30T14:12:33.187889"
         }
       ]
     },
@@ -25955,45 +25963,89 @@
           "date": "2026-09-30T07:31:06.842200"
         }
       ]
+    },
+    "B0D4V3JMGB": {
+      "discovery_date": "2026-09-30T14:12:33.187889",
+      "price_history": [
+        {
+          "price": 1979.08,
+          "date": "2026-09-30T14:12:33.187889"
+        }
+      ]
+    },
+    "B0DVBCTYJC": {
+      "discovery_date": "2026-09-30T14:12:33.187889",
+      "price_history": [
+        {
+          "price": 4405.38,
+          "date": "2026-09-30T14:12:33.187889"
+        }
+      ]
+    },
+    "B0D9KL3T8S": {
+      "discovery_date": "2026-09-30T14:12:33.187889",
+      "price_history": [
+        {
+          "price": 1699.0,
+          "date": "2026-09-30T14:12:33.187889"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FMS97LGV",
-      "title": "LEGO Icons Navio Pirata do Capitão Jack Sparrow, Kit de Construção para Adultos 10365",
-      "link": "https://www.amazon.com.br/LEGO-Capit%C3%A3o-Sparrow-Constru%C3%A7%C3%A3o-Adultos/dp/B0FMS97LGV",
-      "current_price": 3149.99,
-      "original_price": 3499.99,
-      "discount": 10.0,
-      "difference": 350.0,
+      "asin": "B0DVBCTYJC",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 4400 LatteGo, 110V | Espresso com Um Toque – bebidas cremosas preparadas de forma automática em casa (EP4441/55)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Walita-garantia/dp/B0DVBCTYJC",
+      "current_price": 4405.38,
+      "original_price": 5999.9,
+      "discount": 26.6,
+      "difference": 1594.52,
       "criteria": [
-        "R$ 350.0 desc."
+        "R$ 1594.52 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/814BXKb0LlL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1790753466.842208,
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1790777553.187898,
       "is_new": true
     },
     {
-      "asin": "B0DSYJCY45",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSYJCY45",
-      "current_price": 5509.0,
-      "original_price": 10999.0,
-      "discount": 49.9,
-      "difference": 5490.0,
+      "asin": "B0D9KL3T8S",
+      "title": "Home Theater Soundbar LG 440W RMS, 5.1 Canais, Bluetooth 5.3, Dolby Digital, Alto-Falantes Traseiros, AI Sound Pro, Wow Interface, Sem fios, Conexões Múltiplas - S60TR",
+      "link": "https://www.amazon.com.br/LG-Bluetooth-Alto-Falantes-Traseiros-Interface/dp/B0D9KL3T8S",
+      "current_price": 1699.0,
+      "original_price": 2299.0,
+      "discount": 26.1,
+      "difference": 600.0,
       "criteria": [
-        "49.9% OFF",
-        "R$ 5490.0 desc."
+        "R$ 600.0 desc."
       ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1789708125.988773,
-      "is_new": false
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518WJXlmLIL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1790777553.187898,
+      "is_new": true
+    },
+    {
+      "asin": "B0D4V3JMGB",
+      "title": "HCSTVCON Câmera PTZ 4K NDI 20X com Rastreamento Automático por IA, Saídas HDMI, USB, LAN POE para Igrejas, Eventos e Videoconferência, Compatível com OBS, Zoom, Skype",
+      "link": "https://www.amazon.com.br/HCSTVCON-Rastreamento-Autom%C3%A1tico-Videoconfer%C3%AAncia-Compat%C3%ADvel/dp/B0D4V3JMGB",
+      "current_price": 1979.08,
+      "original_price": 2399.0,
+      "discount": 17.5,
+      "difference": 419.92,
+      "criteria": [
+        "R$ 419.92 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DeG0-vznL._AC_UL210_SR210,210_.jpg",
+      "category": "[CAMCORDER]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1790777553.187898,
+      "is_new": true
     },
     {
       "asin": "B0FXM57JL9",
@@ -26009,62 +26061,8 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790732878.594458,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785169875.641153,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
-      "criteria": [
-        "R$ 3809.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1789077437.189865,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTJD9P",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Violeta",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQTJD9P",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61kX9KSBv1L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790732878.594458,
-      "discovery_ts": 1789832979.563387,
-      "is_new": false
-    },
-    {
-      "asin": "B0B3PGGKVT",
-      "title": "Geladeira Electrolux Multidoor Efficient Com Autosense e Inverter 590 l Black Inox Look (IM8B) 127V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Multidoor-Efficient-Autosense/dp/B0B3PGGKVT",
-      "current_price": 6499.0,
-      "original_price": 8999.0,
-      "discount": 27.8,
-      "difference": 2500.0,
-      "criteria": [
-        "R$ 2500.0 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31DhYnOQs0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790732878.594458,
-      "discovery_ts": 1790708661.971561,
       "is_new": false
     },
     {
@@ -26082,7 +26080,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790732878.594458,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -26100,8 +26098,27 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLSQF18R",
+      "title": "Smartphone Motorola Edge 70 5G - 256GB 8GB RAM + 16GB RAM Boost, Ultrafino, 3 cameras 50MP, Tela 1.5K extreme Amoled 120hz - Lily Pad",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-70-Ultrafino/dp/B0GLSQF18R",
+      "current_price": 2499.0,
+      "original_price": 4499.0,
+      "discount": 44.5,
+      "difference": 2000.0,
+      "criteria": [
+        "44.5% OFF",
+        "R$ 2000.0 desc."
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ykLzKMQLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -26118,65 +26135,102 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1789412436.19625,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVT7QXF7",
-      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
-      "current_price": 1898.0,
-      "original_price": 3599.0,
-      "discount": 47.3,
-      "difference": 1701.0,
-      "criteria": [
-        "47.3% OFF",
-        "R$ 1701.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1786349565.683197,
       "is_new": false
     },
     {
       "asin": "B0GVT7XMDC",
       "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Recursos AI (Azul Claro)",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Recursos/dp/B0GVT7XMDC",
-      "current_price": 1899.0,
+      "current_price": 1689.9,
       "original_price": 3599.0,
-      "discount": 47.2,
-      "difference": 1700.0,
+      "discount": 53.0,
+      "difference": 1909.1,
       "criteria": [
-        "47.2% OFF",
-        "R$ 1700.0 desc."
+        "53.0% OFF",
+        "R$ 1909.1 desc."
       ],
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790732878.594458,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1790708661.971569,
       "is_new": false
     },
     {
-      "asin": "B0GLSLLGZL",
-      "title": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
-      "current_price": 1698.99,
-      "original_price": 2999.0,
-      "discount": 43.3,
-      "difference": 1300.01,
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 13099.0,
+      "original_price": 14999.0,
+      "discount": 12.7,
+      "difference": 1900.0,
       "criteria": [
-        "43.3% OFF",
-        "R$ 1300.01 desc."
+        "R$ 1900.0 desc."
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1787860684.198484,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT7QXF7",
+      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
+      "current_price": 1869.9,
+      "original_price": 3599.0,
+      "discount": 48.0,
+      "difference": 1729.1,
+      "criteria": [
+        "48.0% OFF",
+        "R$ 1729.1 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1788189889.613867,
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1786349565.683197,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
+      "current_price": 2159.29,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.71,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.71 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
+      "asin": "B0GLS8QF4B",
+      "title": "Smartphone Motorola Moto G77 5G - 256GB 8GB RAM + 16GB RAM Boost camera 108MP Ultra-Pixel, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Escuro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLS8QF4B",
+      "current_price": 1750.0,
+      "original_price": 2999.0,
+      "discount": 41.6,
+      "difference": 1249.0,
+      "criteria": [
+        "41.6% OFF",
+        "R$ 1249.0 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VvteJGEVL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1789090199.113268,
       "is_new": false
     },
     {
@@ -26193,7 +26247,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -26211,7 +26265,7 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71pJHPTyacL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1789803179.666466,
       "is_new": false
     },
@@ -26230,26 +26284,8 @@
       "badge": "66% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.88,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.12,
-      "criteria": [
-        "R$ 775.12 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -26266,62 +26302,8 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785349892.292556,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBR8V26",
-      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
-      "current_price": 2188.99,
-      "original_price": 2899.0,
-      "discount": 24.5,
-      "difference": 710.01,
-      "criteria": [
-        "R$ 710.01 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1786491945.120891,
-      "is_new": false
-    },
-    {
-      "asin": "B0FVP6KRP4",
-      "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
-      "current_price": 2549.0,
-      "original_price": 3199.0,
-      "discount": 20.3,
-      "difference": 650.0,
-      "criteria": [
-        "R$ 650.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416nfzkCKsL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790753466.842208,
-      "discovery_ts": 1784936763.261283,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKBJXJYF",
-      "title": "Smartphone Motorola Moto G17 4G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela FHD+ 60hz, bateria 5200 mAh - Roxo",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G17-4G/dp/B0GKBJXJYF",
-      "current_price": 843.0,
-      "original_price": 1299.0,
-      "discount": 35.1,
-      "difference": 456.0,
-      "criteria": [
-        "R$ 456.0 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61qB6i9FOYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790732878.594458,
-      "discovery_ts": 1790732878.594458,
       "is_new": false
     },
     {
@@ -26339,26 +26321,26 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61UQDAOBVWL._AC_UL210_SR210,210_.jpg",
       "category": "[ABIS_BOOK]",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
     {
-      "asin": "B0FTNHK4G7",
-      "title": "Apple iPhone 15 Pro (256 GB) — Titânio preto (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-256-Recondicionado/dp/B0FTNHK4G7",
-      "current_price": 4477.98,
-      "original_price": 4791.99,
-      "discount": 6.6,
-      "difference": 314.01,
+      "asin": "B0GY4H64Y1",
+      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
+      "current_price": 2698.99,
+      "original_price": 2999.0,
+      "discount": 10.0,
+      "difference": 300.01,
       "criteria": [
-        "R$ 314.01 desc."
+        "R$ 300.01 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51iZ0kJ1BLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790732878.594458,
-      "discovery_ts": 1790400459.391094,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
@@ -26375,8 +26357,62 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51TL2aLCIpL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1790753466.842208,
+      "last_seen": 1790777553.187898,
       "discovery_ts": 1785500357.771,
+      "is_new": false
+    },
+    {
+      "asin": "B0DHLFGNMM",
+      "title": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
+      "link": "https://www.amazon.com.br/LEGO-Champions-Corrida-Oracle-Racing/dp/B0DHLFGNMM",
+      "current_price": 133.99,
+      "original_price": 249.99,
+      "discount": 46.4,
+      "difference": 116.0,
+      "criteria": [
+        "46.4% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81oplZow5nL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1790689855.342082,
+      "is_new": false
+    },
+    {
+      "asin": "B079VQTRM7",
+      "title": "Bio Oil Bio",
+      "link": "https://www.amazon.com.br/%C3%93leo-para-cuidado-pele-Rosa/dp/B079VQTRM7",
+      "current_price": 46.7,
+      "original_price": 85.99,
+      "discount": 45.7,
+      "difference": 39.29,
+      "criteria": [
+        "45.7% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_MOISTURIZER]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1787605966.041524,
+      "is_new": false
+    },
+    {
+      "asin": "B01IT28KG6",
+      "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
+      "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
+      "current_price": 39.27,
+      "original_price": 73.99,
+      "discount": 46.9,
+      "difference": 34.72,
+      "criteria": [
+        "46.9% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
+      "category": "[WINE]",
+      "last_seen": 1790777553.187898,
+      "discovery_ts": 1790491685.164583,
       "is_new": false
     }
   ]
