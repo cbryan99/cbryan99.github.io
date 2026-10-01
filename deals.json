@@ -1,5 +1,5 @@
 {
-  "last_check": "01/10/2026 02:04:19",
+  "last_check": "01/10/2026 08:47:55",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -18289,6 +18289,10 @@
         {
           "price": 1887.77,
           "date": "2026-09-10T13:47:14.956824"
+        },
+        {
+          "price": 1784.0,
+          "date": "2026-10-01T08:47:52.579065"
         }
       ]
     },
@@ -21202,6 +21206,10 @@
         {
           "price": 2199.0,
           "date": "2026-08-14T17:29:18.102676"
+        },
+        {
+          "price": 1966.15,
+          "date": "2026-10-01T08:47:52.579065"
         }
       ]
     },
@@ -26050,25 +26058,169 @@
           "date": "2026-10-01T02:04:11.380572"
         }
       ]
+    },
+    "B0DJDDY334": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 1648.98,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
+    },
+    "B0DK47GVKM": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 947.98,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
+    },
+    "8532512941": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 290.21,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
+    },
+    "B0FTFVNZKX": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 1021.1,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
+    },
+    "8581581889": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 182.38,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
+    },
+    "B0DG5JXWB3": {
+      "discovery_date": "2026-10-01T08:47:52.579065",
+      "price_history": [
+        {
+          "price": 341.05,
+          "date": "2026-10-01T08:47:52.579065"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0B3PJXDMN",
-      "title": "Geladeira Electrolux Multidoor Efficient Com Autosense e Inverter 590L Black Inox Look (IM8B) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Multidoor-Efficient-Autosense/dp/B0B3PJXDMN",
-      "current_price": 6499.0,
-      "original_price": 7577.89,
-      "discount": 14.2,
-      "difference": 1078.89,
+      "asin": "B0DJDDY334",
+      "title": "LEGO Speed Champions 66802",
+      "link": "https://www.amazon.com.br/LEGO-6560522-Speed-Champions-66802/dp/B0DJDDY334",
+      "current_price": 1648.98,
+      "original_price": 2499.9,
+      "discount": 34.0,
+      "difference": 850.92,
       "criteria": [
-        "R$ 1078.89 desc."
+        "R$ 850.92 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31DhYnOQs0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1790820251.380579,
+      "badge": "34% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/813nPY+CHkL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
+      "is_new": true
+    },
+    {
+      "asin": "B0FTFVNZKX",
+      "title": "Smartphone OPPO A5 256GB 6GB RAM Bateria 6000mAh 45W 50MP AI Câmera BRANCO | Bateria 6000mAh com carga 45W, resistência militar IP65 e câmera 50MP.",
+      "link": "https://www.amazon.com.br/Smartphone-OPPO-Bateria-6000mAh-C%C3%A2mera/dp/B0FTFVNZKX",
+      "current_price": 1021.1,
+      "original_price": 1499.0,
+      "discount": 31.9,
+      "difference": 477.9,
+      "criteria": [
+        "R$ 477.9 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xjK+rVUGL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
+      "is_new": true
+    },
+    {
+      "asin": "B0DK47GVKM",
+      "title": "Elements Cadeira Ergonômica de Escritório Astra Pro com Apoio Lombar e Cabeça Ajustável, Preta",
+      "link": "https://www.amazon.com.br/Cadeira-Ergon%C3%B4mica-Elements-Astra-Preta/dp/B0DK47GVKM",
+      "current_price": 947.98,
+      "original_price": 1299.0,
+      "discount": 27.0,
+      "difference": 351.02,
+      "criteria": [
+        "R$ 351.02 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51yXvLreBkL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
+      "is_new": true
+    },
+    {
+      "asin": "8532512941",
+      "title": "Box Harry Potter Scholastic - castelo (caixa azul): com 02 marcadores",
+      "link": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Harry-Potter-7-volumes/dp/8532512941",
+      "current_price": 290.21,
+      "original_price": 549.9,
+      "discount": 47.2,
+      "difference": 259.69,
+      "criteria": [
+        "47.2% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71gOCNRA9nL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
+      "is_new": true
+    },
+    {
+      "asin": "B0DG5JXWB3",
+      "title": "Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly(Rosa)",
+      "link": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel/dp/B0DG5JXWB3",
+      "current_price": 341.05,
+      "original_price": 599.0,
+      "discount": 43.1,
+      "difference": 257.95,
+      "criteria": [
+        "43.1% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61X65xNkLzL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
+      "is_new": true
+    },
+    {
+      "asin": "8581581889",
+      "title": "Bíblia Sagrada King James Fiel 1611, de Estudo Holman, Letra Padrão, com Palavras de Jesus Destacadas, com Mapa, Couro Sintético Duotone Preto/ Marrom",
+      "link": "https://www.amazon.com.br/Sagrada-Palavras-Destacadas-Sint%C3%A9tico-Duotone/dp/8581581889",
+      "current_price": 182.38,
+      "original_price": 424.0,
+      "discount": 57.0,
+      "difference": 241.62,
+      "criteria": [
+        "57.0% OFF"
+      ],
+      "badge": "56% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-htwOmUWL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790844472.579072,
       "is_new": true
     },
     {
@@ -26086,155 +26238,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
+      "last_seen": 1790844472.579072,
       "discovery_ts": 1789708125.988773,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
-      "criteria": [
-        "R$ 3809.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789077437.189865,
-      "is_new": false
-    },
-    {
-      "asin": "B0GKQNGV23",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
-      "current_price": 4775.0,
-      "original_price": 7499.0,
-      "discount": 36.3,
-      "difference": 2724.0,
-      "criteria": [
-        "R$ 2724.0 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789775662.257893,
-      "is_new": false
-    },
-    {
-      "asin": "B0GMY41LM8",
-      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 12GB RAM + 12GB RAM Boost, Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
-      "current_price": 3399.0,
-      "original_price": 5999.0,
-      "discount": 43.3,
-      "difference": 2600.0,
-      "criteria": [
-        "43.3% OFF",
-        "R$ 2600.0 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789083919.237103,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8LJSC9B",
-      "title": "Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
-      "current_price": 2969.09,
-      "original_price": 5499.0,
-      "discount": 46.0,
-      "difference": 2529.91,
-      "criteria": [
-        "46.0% OFF",
-        "R$ 2529.91 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0CZ4LQCQJ",
-      "title": "Monitor Samsung ViewFinity S9 27\" 5k, Tela Plana, 60Hz, 5ms, Thunderbolt 4, Smart Hub, Gaming Mode 27\"",
-      "link": "https://www.amazon.com.br/Monitor-Samsung-ViewFinity-Thunderbolt-Gaming/dp/B0CZ4LQCQJ",
-      "current_price": 7699.0,
-      "original_price": 10030.51,
-      "discount": 23.2,
-      "difference": 2331.51,
-      "criteria": [
-        "R$ 2331.51 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41aVgm5pxNL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1790091578.47064,
-      "is_new": false
-    },
-    {
-      "asin": "B0F8KVQZQX",
-      "title": "Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Branco",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8KVQZQX",
-      "current_price": 3298.99,
-      "original_price": 5499.0,
-      "discount": 40.0,
-      "difference": 2200.01,
-      "criteria": [
-        "40.0% OFF",
-        "R$ 2200.01 desc."
-      ],
-      "badge": "40% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ik2Dj2zTL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1786338424.792042,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NLFZCW",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NLFZCW",
-      "current_price": 3249.0,
-      "original_price": 5299.0,
-      "discount": 38.7,
-      "difference": 2050.0,
-      "criteria": [
-        "R$ 2050.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-ey8KOkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1787529189.226013,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXMBWGGM",
-      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
-      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
-      "current_price": 3999.0,
-      "original_price": 5999.0,
-      "discount": 33.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -26251,82 +26256,83 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790809619.236016,
+      "last_seen": 1790844472.579072,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
-      "asin": "B0GXF8NXKX",
-      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
-      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
-      "current_price": 13099.0,
-      "original_price": 14999.0,
-      "discount": 12.7,
-      "difference": 1900.0,
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 2089.05,
+      "original_price": 3806.0,
+      "discount": 45.1,
+      "difference": 1716.95,
       "criteria": [
-        "R$ 1900.0 desc."
+        "45.1% OFF",
+        "R$ 1716.95 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1787860684.198484,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVT7QXF7",
-      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera Tripla de até 50MP OIS, Selfie de 12MP Video HDR, IP68, Tela Super AMOLED 6.7\", NFC, Recursos AI, Até 6 Atualizações de Android e Segurança (Lilás)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVT7QXF7",
-      "current_price": 1898.0,
-      "original_price": 3599.0,
-      "discount": 47.3,
-      "difference": 1701.0,
-      "criteria": [
-        "47.3% OFF",
-        "R$ 1701.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51VZg1VWMlL._AC_UL210_SR210,210_.jpg",
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1786349565.683197,
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
-      "asin": "B0GVT7XMDC",
-      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Recursos AI (Azul Claro)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Recursos/dp/B0GVT7XMDC",
-      "current_price": 1899.0,
-      "original_price": 3599.0,
-      "discount": 47.2,
-      "difference": 1700.0,
+      "asin": "B0DVBPL6CV",
+      "title": "Philips Walita Cafeteira Espresso Superautomática Série 4400 LatteGo, 220V | Bebidas Quentes e Geladas – 12 opções de café com tecnologia SilentBrew silenciosa (EP4441/53)",
+      "link": "https://www.amazon.com.br/Cafeteira-Espresso-Superautom%C3%A1tica-Walita-garantia/dp/B0DVBPL6CV",
+      "current_price": 4405.38,
+      "original_price": 5999.9,
+      "discount": 26.6,
+      "difference": 1594.52,
       "criteria": [
-        "47.2% OFF",
-        "R$ 1700.0 desc."
+        "R$ 1594.52 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790644418.034445,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT89H5W",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
+      "current_price": 1784.0,
+      "original_price": 3299.0,
+      "discount": 45.9,
+      "difference": 1515.0,
+      "criteria": [
+        "45.9% OFF",
+        "R$ 1515.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515VjUyFG6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1790708661.971561,
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1786473102.157315,
       "is_new": false
     },
     {
-      "asin": "B0FVNLDR58",
-      "title": "Samsung Ar-condicionado Split Inverter WindFree AI 18.000 BTUs Frio AR60F18D1AWNAZ Branco",
-      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR60F18D1AWNAZ/dp/B0FVNLDR58",
-      "current_price": 3362.15,
-      "original_price": 4929.0,
-      "discount": 31.8,
-      "difference": 1566.85,
+      "asin": "B0CG2B4VBW",
+      "title": "Nobreak SMS Gamer 2000Bi/Bi WI-FI, Interativo, Entrada 115/220v e Saída Bivolt 115/220V, 8 Tomadas, 29601",
+      "link": "https://www.amazon.com.br/NOBREAK-SMS-2000VA-SENOIDAL-INTERATIVO/dp/B0CG2B4VBW",
+      "current_price": 1966.15,
+      "original_price": 3455.74,
+      "discount": 43.1,
+      "difference": 1489.59,
       "criteria": [
-        "R$ 1566.85 desc."
+        "43.1% OFF",
+        "R$ 1489.59 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51M+TLOyOJL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1790796298.949891,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618MXGjETGL._AC_UL210_SR210,210_.jpg",
+      "category": "[UNINTERRUPTIBLE_POWER_SUPPLY]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1786728558.102676,
       "is_new": false
     },
     {
@@ -26344,82 +26350,8 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790809619.236016,
+      "last_seen": 1790844472.579072,
       "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
-      "asin": "B0GLSLLGZL",
-      "title": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Moto-G77-ultrarresistente/dp/B0GLSLLGZL",
-      "current_price": 1750.0,
-      "original_price": 2999.0,
-      "discount": 41.6,
-      "difference": 1249.0,
-      "criteria": [
-        "41.6% OFF",
-        "R$ 1249.0 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61zXvb3EmiL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1788189889.613867,
-      "is_new": false
-    },
-    {
-      "asin": "B0BZ129NTZ",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
-      "current_price": 3599.0,
-      "original_price": 4838.9,
-      "discount": 25.6,
-      "difference": 1239.9,
-      "criteria": [
-        "R$ 1239.9 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B08R93TVRG",
-      "title": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-127v/dp/B08R93TVRG",
-      "current_price": 399.0,
-      "original_price": 1199.9,
-      "discount": 66.7,
-      "difference": 800.9,
-      "criteria": [
-        "66.7% OFF",
-        "R$ 800.9 desc."
-      ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1785729477.338894,
-      "is_new": false
-    },
-    {
-      "asin": "B0FY3TV864",
-      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i5 13ª Geração 16GB Windows",
-      "link": "https://www.amazon.com.br/Notebook-Acer-AG15-71P-53R6-Gera%C3%A7%C3%A3o-Windows/dp/B0FY3TV864",
-      "current_price": 4443.0,
-      "original_price": 5199.0,
-      "discount": 14.5,
-      "difference": 756.0,
-      "criteria": [
-        "R$ 756.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1785349892.292556,
       "is_new": false
     },
     {
@@ -26437,64 +26369,62 @@
       "badge": "60% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZmaXPuqYL._AC_UL210_SR210,210_.jpg",
       "category": "[TENT]",
-      "last_seen": 1790809619.236016,
+      "last_seen": 1790844472.579072,
       "discovery_ts": 1790809619.236016,
       "is_new": false
     },
     {
-      "asin": "B0CGY57KKM",
-      "title": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
-      "link": "https://www.amazon.com.br/LEGO-Icons-10330-McLaren-Ayrton/dp/B0CGY57KKM",
-      "current_price": 415.89,
-      "original_price": 799.99,
-      "discount": 48.0,
-      "difference": 384.1,
+      "asin": "B0D9KJHRXN",
+      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
+      "current_price": 879.0,
+      "original_price": 1399.0,
+      "discount": 37.2,
+      "difference": 520.0,
       "criteria": [
-        "48.0% OFF",
-        "R$ 384.1 desc."
+        "R$ 520.0 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81JnCaFLWkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789999177.934523,
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790665099.02763,
       "is_new": false
     },
     {
-      "asin": "B07BMZS1BN",
-      "title": "Brinox - Jogo de Panelas Antiaderente Ceramic Life 6 Peças Smart Plus - Vanilla",
-      "link": "https://www.amazon.com.br/Brinox-Conjunto-Panelas-Ceramic-Vanilla/dp/B07BMZS1BN",
-      "current_price": 395.42,
-      "original_price": 699.9,
-      "discount": 43.5,
-      "difference": 304.48,
-      "criteria": [
-        "43.5% OFF",
-        "R$ 304.48 desc."
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51iJYGpWU5L._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKWARE_SET]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1786444170.735799,
-      "is_new": false
-    },
-    {
-      "asin": "B0GY4H64Y1",
-      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
-      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
-      "current_price": 2698.99,
-      "original_price": 2999.0,
+      "asin": "B0FMS97LGV",
+      "title": "LEGO Icons Navio Pirata do Capitão Jack Sparrow, Kit de Construção para Adultos 10365",
+      "link": "https://www.amazon.com.br/LEGO-Capit%C3%A3o-Sparrow-Constru%C3%A7%C3%A3o-Adultos/dp/B0FMS97LGV",
+      "current_price": 3149.99,
+      "original_price": 3499.99,
       "discount": 10.0,
-      "difference": 300.01,
+      "difference": 350.0,
       "criteria": [
-        "R$ 300.01 desc."
+        "R$ 350.0 desc."
       ],
       "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1789498558.08297,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/814BXKb0LlL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1790753466.8422,
+      "is_new": false
+    },
+    {
+      "asin": "B0CRTR3PMF",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTR3PMF",
+      "current_price": 196.5,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.5,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TL2aLCIpL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1790844472.579072,
+      "discovery_ts": 1785500357.771,
       "is_new": false
     },
     {
@@ -26511,62 +26441,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81oplZow5nL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790820251.380579,
+      "last_seen": 1790844472.579072,
       "discovery_ts": 1790689855.342082,
-      "is_new": false
-    },
-    {
-      "asin": "B079VQTRM7",
-      "title": "Bio Oil Bio",
-      "link": "https://www.amazon.com.br/%C3%93leo-para-cuidado-pele-Rosa/dp/B079VQTRM7",
-      "current_price": 0.34,
-      "original_price": 85.99,
-      "discount": 99.6,
-      "difference": 85.65,
-      "criteria": [
-        "99.6% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41UeIwJ3WBL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_MOISTURIZER]",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1787605966.041524,
-      "is_new": false
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": 58.4,
-      "original_price": 119.9,
-      "discount": 51.3,
-      "difference": 61.5,
-      "criteria": [
-        "51.3% OFF"
-      ],
-      "badge": "51% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1790809619.236016,
-      "discovery_ts": 1784433482.515947,
-      "is_new": false
-    },
-    {
-      "asin": "B01IT28KG6",
-      "title": "Concha y Toro Casillero Del Diablo Merlot 750ml",
-      "link": "https://www.amazon.com.br/Vinho-Casillero-Diablo-Merlot-750ml/dp/B01IT28KG6",
-      "current_price": 39.27,
-      "original_price": 73.99,
-      "discount": 46.9,
-      "difference": 34.72,
-      "criteria": [
-        "46.9% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51gFM0vgJHL._AC_UL210_SR210,210_.jpg",
-      "category": "[WINE]",
-      "last_seen": 1790820251.380579,
-      "discovery_ts": 1790491685.164583,
       "is_new": false
     }
   ]
