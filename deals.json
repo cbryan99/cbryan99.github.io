@@ -1,5 +1,5 @@
 {
-  "last_check": "01/10/2026 08:47:55",
+  "last_check": "01/10/2026 15:42:52",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -17694,6 +17694,10 @@
         {
           "price": 67.52,
           "date": "2026-08-11T08:33:34.425977"
+        },
+        {
+          "price": 50.12,
+          "date": "2026-10-01T15:42:51.225401"
         }
       ]
     },
@@ -26112,115 +26116,143 @@
           "date": "2026-10-01T08:47:52.579065"
         }
       ]
+    },
+    "B0F6D7MQQB": {
+      "discovery_date": "2026-10-01T15:42:51.225401",
+      "price_history": [
+        {
+          "price": 3999.0,
+          "date": "2026-10-01T15:42:51.225401"
+        }
+      ]
+    },
+    "B0FR6PC1FB": {
+      "discovery_date": "2026-10-01T15:42:51.225401",
+      "price_history": [
+        {
+          "price": 2099.0,
+          "date": "2026-10-01T15:42:51.225401"
+        }
+      ]
+    },
+    "B0CV946GDT": {
+      "discovery_date": "2026-10-01T15:42:51.225401",
+      "price_history": [
+        {
+          "price": 2537.1,
+          "date": "2026-10-01T15:42:51.225401"
+        }
+      ]
+    },
+    "B0DRW679JC": {
+      "discovery_date": "2026-10-01T15:42:51.225401",
+      "price_history": [
+        {
+          "price": 1499.98,
+          "date": "2026-10-01T15:42:51.225401"
+        }
+      ]
+    },
+    "B08GKYKZBF": {
+      "discovery_date": "2026-10-01T15:42:51.225401",
+      "price_history": [
+        {
+          "price": 54.89,
+          "date": "2026-10-01T15:42:51.225401"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DJDDY334",
-      "title": "LEGO Speed Champions 66802",
-      "link": "https://www.amazon.com.br/LEGO-6560522-Speed-Champions-66802/dp/B0DJDDY334",
-      "current_price": 1648.98,
-      "original_price": 2499.9,
-      "discount": 34.0,
-      "difference": 850.92,
+      "asin": "B0DRW679JC",
+      "title": "LEGO Icons O Senhor dos Anéis: O Condado 10354 (2.017 Peças)",
+      "link": "https://www.amazon.com.br/LEGO-Icons-Senhor-dos-An%C3%A9is/dp/B0DRW679JC",
+      "current_price": 1499.98,
+      "original_price": 2699.99,
+      "discount": 44.4,
+      "difference": 1200.01,
       "criteria": [
-        "R$ 850.92 desc."
+        "44.4% OFF",
+        "R$ 1200.01 desc."
       ],
-      "badge": "34% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/813nPY+CHkL._AC_UL210_SR210,210_.jpg",
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91idOo63QdL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790869371.225408,
       "is_new": true
     },
     {
-      "asin": "B0FTFVNZKX",
-      "title": "Smartphone OPPO A5 256GB 6GB RAM Bateria 6000mAh 45W 50MP AI Câmera BRANCO | Bateria 6000mAh com carga 45W, resistência militar IP65 e câmera 50MP.",
-      "link": "https://www.amazon.com.br/Smartphone-OPPO-Bateria-6000mAh-C%C3%A2mera/dp/B0FTFVNZKX",
-      "current_price": 1021.1,
-      "original_price": 1499.0,
-      "discount": 31.9,
-      "difference": 477.9,
+      "asin": "B0CV946GDT",
+      "title": "Ar Condicionado Split Hi Wall Agratto Liv Top Inverter 18.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Agratto-Inverter-18-000/dp/B0CV946GDT",
+      "current_price": 2537.1,
+      "original_price": 3299.0,
+      "discount": 23.1,
+      "difference": 761.9,
       "criteria": [
-        "R$ 477.9 desc."
+        "R$ 761.9 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51xjK+rVUGL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790869371.225408,
       "is_new": true
     },
     {
-      "asin": "B0DK47GVKM",
-      "title": "Elements Cadeira Ergonômica de Escritório Astra Pro com Apoio Lombar e Cabeça Ajustável, Preta",
-      "link": "https://www.amazon.com.br/Cadeira-Ergon%C3%B4mica-Elements-Astra-Preta/dp/B0DK47GVKM",
-      "current_price": 947.98,
-      "original_price": 1299.0,
-      "discount": 27.0,
-      "difference": 351.02,
+      "asin": "B0F6D7MQQB",
+      "title": "Console Nintendo Switch 2 - Modelo Nacional de Tomada | Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia, Modelo Nacional de Tomada",
+      "link": "https://www.amazon.com.br/Nintendo-Nacional-Port%C3%A1til-Dom%C3%A9stico-Garantia/dp/B0F6D7MQQB",
+      "current_price": 3999.0,
+      "original_price": 4599.9,
+      "discount": 13.1,
+      "difference": 600.9,
       "criteria": [
-        "R$ 351.02 desc."
+        "R$ 600.9 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yXvLreBkL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONSOLE]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790869371.225408,
       "is_new": true
     },
     {
-      "asin": "8532512941",
-      "title": "Box Harry Potter Scholastic - castelo (caixa azul): com 02 marcadores",
-      "link": "https://www.amazon.com.br/Cole%C3%A7%C3%A3o-Harry-Potter-7-volumes/dp/8532512941",
-      "current_price": 290.21,
-      "original_price": 549.9,
-      "discount": 47.2,
-      "difference": 259.69,
+      "asin": "B0FR6PC1FB",
+      "title": "Bundle Nintendo Switch OLED + Super Mario Bros Wonder + 3 Meses de Assinatura Nintendo Switch Online",
+      "link": "https://www.amazon.com.br/Bundle-Nintendo-Switch-Wonder-Assinatura/dp/B0FR6PC1FB",
+      "current_price": 2099.0,
+      "original_price": 2699.9,
+      "discount": 22.3,
+      "difference": 600.9,
       "criteria": [
-        "47.2% OFF"
+        "R$ 600.9 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71gOCNRA9nL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONSOLE]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790869371.225408,
       "is_new": true
     },
     {
-      "asin": "B0DG5JXWB3",
-      "title": "Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly(Rosa)",
-      "link": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel/dp/B0DG5JXWB3",
-      "current_price": 341.05,
-      "original_price": 599.0,
-      "discount": 43.1,
-      "difference": 257.95,
+      "asin": "B08GKYKZBF",
+      "title": "Candide, Laptop Infantil, Barbie, Brinquedo Educativo - Bilíngue",
+      "link": "https://www.amazon.com.br/Candide-1812-LAPTOP-BARBIE-BILINGUE/dp/B08GKYKZBF",
+      "current_price": 54.89,
+      "original_price": 99.99,
+      "discount": 45.1,
+      "difference": 45.1,
       "criteria": [
-        "43.1% OFF"
+        "45.1% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61X65xNkLzL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
-      "is_new": true
-    },
-    {
-      "asin": "8581581889",
-      "title": "Bíblia Sagrada King James Fiel 1611, de Estudo Holman, Letra Padrão, com Palavras de Jesus Destacadas, com Mapa, Couro Sintético Duotone Preto/ Marrom",
-      "link": "https://www.amazon.com.br/Sagrada-Palavras-Destacadas-Sint%C3%A9tico-Duotone/dp/8581581889",
-      "current_price": 182.38,
-      "original_price": 424.0,
-      "discount": 57.0,
-      "difference": 241.62,
-      "criteria": [
-        "57.0% OFF"
-      ],
-      "badge": "56% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-htwOmUWL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790844472.579072,
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61IrteUbAHL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRONIC_LEARNING_TOY]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790869371.225408,
       "is_new": true
     },
     {
@@ -26238,8 +26270,63 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790844472.579072,
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1789708125.988773,
+      "is_new": false
+    },
+    {
+      "asin": "B0FXM57JL9",
+      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": 8998.97,
+      "original_price": 12999.0,
+      "discount": 30.8,
+      "difference": 4000.03,
+      "criteria": [
+        "R$ 4000.03 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1785169875.641153,
+      "is_new": false
+    },
+    {
+      "asin": "B0778T2K1G",
+      "title": "Faqueiro Tramontina Vicenza em Aço Inox com Facas de Mesa Forjadas Acabamento Alto Brilho com Detalhes no Cabo e Estojo de Madeira 130 Peças",
+      "link": "https://www.amazon.com.br/Faqueiro-Tramontina-Forjadas-Acabamento-Detalhes/dp/B0778T2K1G",
+      "current_price": 3216.98,
+      "original_price": 6140.88,
+      "discount": 47.6,
+      "difference": 2923.9,
+      "criteria": [
+        "47.6% OFF",
+        "R$ 2923.9 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ywArYbIlL._AC_UL210_SR210,210_.jpg",
+      "category": "[FLATWARE]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790580848.288309,
+      "is_new": false
+    },
+    {
+      "asin": "B0GKQNGV23",
+      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
+      "current_price": 4775.0,
+      "original_price": 7499.0,
+      "discount": 36.3,
+      "difference": 2724.0,
+      "criteria": [
+        "R$ 2724.0 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1789775662.257893,
       "is_new": false
     },
     {
@@ -26256,27 +26343,45 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790844472.579072,
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
-      "asin": "B0GVW8464B",
-      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
-      "current_price": 2089.05,
-      "original_price": 3806.0,
-      "discount": 45.1,
-      "difference": 1716.95,
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
       "criteria": [
-        "45.1% OFF",
-        "R$ 1716.95 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790844472.579072,
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT7XMDC",
+      "title": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Recursos AI (Azul Claro)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Recursos/dp/B0GVT7XMDC",
+      "current_price": 1899.0,
+      "original_price": 3599.0,
+      "discount": 47.2,
+      "difference": 1700.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 1700.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790708661.971561,
       "is_new": false
     },
     {
@@ -26293,27 +26398,8 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71URt6c1ZaL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1790844472.579072,
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1790644418.034445,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVT89H5W",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Preto)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT89H5W",
-      "current_price": 1784.0,
-      "original_price": 3299.0,
-      "discount": 45.9,
-      "difference": 1515.0,
-      "criteria": [
-        "45.9% OFF",
-        "R$ 1515.0 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/515VjUyFG6L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1786473102.157315,
       "is_new": false
     },
     {
@@ -26331,7 +26417,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618MXGjETGL._AC_UL210_SR210,210_.jpg",
       "category": "[UNINTERRUPTIBLE_POWER_SUPPLY]",
-      "last_seen": 1790844472.579072,
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1786728558.102676,
       "is_new": false
     },
@@ -26350,99 +26436,81 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790844472.579072,
+      "last_seen": 1790869371.225408,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
-      "asin": "B078P1PNW3",
-      "title": "Mor Life - Barraca Luna 8 Pessoas",
-      "link": "https://www.amazon.com.br/Barraca-Camping-Luna-para-Pessoas/dp/B078P1PNW3",
-      "current_price": 369.0,
-      "original_price": 936.51,
-      "discount": 60.6,
-      "difference": 567.51,
+      "asin": "B0BZ129NTZ",
+      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+      "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+      "current_price": 3599.0,
+      "original_price": 4838.9,
+      "discount": 25.6,
+      "difference": 1239.9,
       "criteria": [
-        "60.6% OFF",
-        "R$ 567.51 desc."
+        "R$ 1239.9 desc."
       ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZmaXPuqYL._AC_UL210_SR210,210_.jpg",
-      "category": "[TENT]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790809619.236016,
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
-      "asin": "B0D9KJHRXN",
-      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
-      "current_price": 879.0,
-      "original_price": 1399.0,
-      "discount": 37.2,
-      "difference": 520.0,
+      "asin": "B0H1T7241Z",
+      "title": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
+      "link": "https://www.amazon.com.br/Barbie-Dreamland-Conjunto-Brinquedo-Escorregador/dp/B0H1T7241Z",
+      "current_price": 849.99,
+      "original_price": 1699.99,
+      "discount": 50.0,
+      "difference": 850.0,
       "criteria": [
-        "R$ 520.0 desc."
+        "50.0% OFF",
+        "R$ 850.0 desc."
       ],
-      "badge": "37% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790665099.02763,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
+      "category": "[MINIATURE_TOY_BUILDING]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1790241708.977617,
       "is_new": false
     },
     {
-      "asin": "B0FMS97LGV",
-      "title": "LEGO Icons Navio Pirata do Capitão Jack Sparrow, Kit de Construção para Adultos 10365",
-      "link": "https://www.amazon.com.br/LEGO-Capit%C3%A3o-Sparrow-Constru%C3%A7%C3%A3o-Adultos/dp/B0FMS97LGV",
-      "current_price": 3149.99,
-      "original_price": 3499.99,
+      "asin": "B0GY4H64Y1",
+      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
+      "current_price": 2698.99,
+      "original_price": 2999.0,
       "discount": 10.0,
-      "difference": 350.0,
+      "difference": 300.01,
       "criteria": [
-        "R$ 350.0 desc."
+        "R$ 300.01 desc."
       ],
       "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/814BXKb0LlL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790753466.8422,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
-      "asin": "B0CRTR3PMF",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTR3PMF",
-      "current_price": 196.5,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.5,
+      "asin": "B08Y3CV67L",
+      "title": "As extraordinárias viagens de Júlio Verne - Box com 6 livros",
+      "link": "https://www.amazon.com.br/As-extraordin%C3%A1rias-viagens-J%C3%BAlio-Verne/dp/B08Y3CV67L",
+      "current_price": 50.12,
+      "original_price": 179.0,
+      "discount": 72.0,
+      "difference": 128.88,
       "criteria": [
-        "46.7% OFF"
+        "72.0% OFF"
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TL2aLCIpL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1785500357.771,
-      "is_new": false
-    },
-    {
-      "asin": "B0DHLFGNMM",
-      "title": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
-      "link": "https://www.amazon.com.br/LEGO-Champions-Corrida-Oracle-Racing/dp/B0DHLFGNMM",
-      "current_price": 133.99,
-      "original_price": 249.99,
-      "discount": 46.4,
-      "difference": 116.0,
-      "criteria": [
-        "46.4% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81oplZow5nL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790844472.579072,
-      "discovery_ts": 1790689855.342082,
+      "badge": "72% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71wgomAPTQS._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1790869371.225408,
+      "discovery_ts": 1786437214.425977,
       "is_new": false
     }
   ]
