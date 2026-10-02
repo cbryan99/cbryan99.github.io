@@ -1,5 +1,5 @@
 {
-  "last_check": "02/10/2026 05:31:22",
+  "last_check": "02/10/2026 11:18:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2354,6 +2354,10 @@
         {
           "price": 1298.99,
           "date": "2026-07-28T11:33:30.939981"
+        },
+        {
+          "price": 1298.98,
+          "date": "2026-10-02T11:18:43.757791"
         }
       ]
     },
@@ -26218,45 +26222,90 @@
           "date": "2026-10-02T05:31:21.991129"
         }
       ]
+    },
+    "B0H2HMVRF9": {
+      "discovery_date": "2026-10-02T11:18:43.757791",
+      "price_history": [
+        {
+          "price": 2564.14,
+          "date": "2026-10-02T11:18:43.757791"
+        }
+      ]
+    },
+    "B09WZ27141": {
+      "discovery_date": "2026-10-02T11:18:43.757791",
+      "price_history": [
+        {
+          "price": 1702.38,
+          "date": "2026-10-02T11:18:43.757791"
+        }
+      ]
+    },
+    "B0DHLG5BTD": {
+      "discovery_date": "2026-10-02T11:18:43.757791",
+      "price_history": [
+        {
+          "price": 1320.4,
+          "date": "2026-10-02T11:18:43.757791"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "6560050416",
-      "title": "BOX As Crônicas de Nárnia - Edição de Luxo",
-      "link": "https://www.amazon.com.br/BOX-As-Cr%C3%B4nicas-N%C3%A1rnia-Edi%C3%A7%C3%A3o/dp/6560050416",
-      "current_price": 231.84,
-      "original_price": 399.9,
-      "discount": 42.0,
-      "difference": 168.06,
+      "asin": "B0DHLG5BTD",
+      "title": "LEGO Technic Carro Ferrari SF-24 F1 42207 (1.361 Peças)",
+      "link": "https://www.amazon.com.br/LEGO-Technic-Carro-Ferrari-SF-24/dp/B0DHLG5BTD",
+      "current_price": 1320.4,
+      "original_price": 2299.99,
+      "discount": 42.6,
+      "difference": 979.59,
       "criteria": [
-        "42.0% OFF"
+        "42.6% OFF",
+        "R$ 979.59 desc."
       ],
       "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81erRs9DQDL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1790919081.991136,
-      "discovery_ts": 1790919081.991136,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ea+nKSWAL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
       "is_new": true
     },
     {
-      "asin": "B0FWF1NXQ5",
-      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Processador M5 da Apple com CPU 10‑Core e GPU 10‑Core, 24GB Memória unificada, 1 TB) - Preto sideral",
-      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-Processador-unificada/dp/B0FWF1NXQ5",
-      "current_price": 14297.0,
-      "original_price": 24799.0,
-      "discount": 42.3,
-      "difference": 10502.0,
+      "asin": "B09WZ27141",
+      "title": "Cafeteira Espresso Nespresso Lattissima One Branca 220V",
+      "link": "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WZ27141",
+      "current_price": 1702.38,
+      "original_price": 2339.0,
+      "discount": 27.2,
+      "difference": 636.62,
       "criteria": [
-        "42.3% OFF",
-        "R$ 10502.0 desc."
+        "R$ 636.62 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41aAZbOTpqL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
-      "is_new": false
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51OdKoJCrkL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
+      "is_new": true
+    },
+    {
+      "asin": "B0H2HMVRF9",
+      "title": "VEDO Acordeon Profissional 34 Teclas, com 60 Teclas Baixo, 5 Teclas Variáveis, Terceira voz, Acordeão Avançado, Adequado Para Adultos Amantes da Música, Orquestra, Maple e Molas Alemãs, Branco",
+      "link": "https://www.amazon.com.br/VEDO-Acordeon-Profissional-Vari%C3%A1veis-Orquestra/dp/B0H2HMVRF9",
+      "current_price": 2564.14,
+      "original_price": 2999.0,
+      "discount": 14.5,
+      "difference": 434.86,
+      "criteria": [
+        "R$ 434.86 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZW2sixR3L._AC_UL210_SR210,210_.jpg",
+      "category": "[MUSICAL_INSTRUMENTS]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
+      "is_new": true
     },
     {
       "asin": "B0DSYJCY45",
@@ -26273,26 +26322,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1789708125.988773,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXM57JL9",
-      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": 8998.97,
-      "original_price": 12999.0,
-      "discount": 30.8,
-      "difference": 4000.03,
-      "criteria": [
-        "R$ 4000.03 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1785169875.641153,
       "is_new": false
     },
     {
@@ -26309,7 +26340,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1789077437.189865,
       "is_new": false
     },
@@ -26345,44 +26376,8 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1788222077.894487,
-      "is_new": false
-    },
-    {
-      "asin": "B0DXR7GNWJ",
-      "title": "Apple iPhone 16e de 128 GB — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ",
-      "current_price": 3665.56,
-      "original_price": 5799.0,
-      "discount": 36.8,
-      "difference": 2133.44,
-      "criteria": [
-        "R$ 2133.44 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6NLFZCW",
-      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
-      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NLFZCW",
-      "current_price": 3249.0,
-      "original_price": 5299.0,
-      "discount": 38.7,
-      "difference": 2050.0,
-      "criteria": [
-        "R$ 2050.0 desc."
-      ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-ey8KOkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1787529189.226013,
       "is_new": false
     },
     {
@@ -26399,7 +26394,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
@@ -26436,27 +26431,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1790708661.971561,
-      "is_new": false
-    },
-    {
-      "asin": "B0GVSZXP9M",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Lavanda/dp/B0GVSZXP9M",
-      "current_price": 1788.0,
-      "original_price": 3299.0,
-      "discount": 45.8,
-      "difference": 1511.0,
-      "criteria": [
-        "45.8% OFF",
-        "R$ 1511.0 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
       "is_new": false
     },
     {
@@ -26474,8 +26450,27 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618MXGjETGL._AC_UL210_SR210,210_.jpg",
       "category": "[UNINTERRUPTIBLE_POWER_SUPPLY]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1786728558.102676,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
+      "current_price": 2159.29,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.71,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.71 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -26492,8 +26487,27 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0BQ3M1M7M",
+      "title": "Elements Cadeira de Escritorio Ergonômica Vertta Pro com Apoio Lombar e Cabeça Respirável, Cinza",
+      "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
+      "current_price": 1298.98,
+      "original_price": 2197.0,
+      "discount": 40.9,
+      "difference": 898.02,
+      "criteria": [
+        "40.9% OFF",
+        "R$ 898.02 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5196AsZqILL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -26528,7 +26542,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26546,7 +26560,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26561,10 +26575,10 @@
       "criteria": [
         "R$ 600.9 desc."
       ],
-      "badge": "22% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26588,21 +26602,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DK47GVKM",
-      "title": "Elements Cadeira Ergonômica de Escritório Astra Pro com Apoio Lombar e Cabeça Ajustável, Preta",
-      "link": "https://www.amazon.com.br/Cadeira-Ergon%C3%B4mica-Elements-Astra-Preta/dp/B0DK47GVKM",
-      "current_price": 947.98,
-      "original_price": 1299.0,
-      "discount": 27.0,
-      "difference": 351.02,
+      "asin": "B0FTNHK4G7",
+      "title": "Apple iPhone 15 Pro (256 GB) — Titânio preto (Seminovo)",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-256-Recondicionado/dp/B0FTNHK4G7",
+      "current_price": 4477.97,
+      "original_price": 4791.99,
+      "discount": 6.6,
+      "difference": 314.02,
       "criteria": [
-        "R$ 351.02 desc."
+        "R$ 314.02 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51yXvLreBkL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790844472.579065,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51iZ0kJ1BLL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790400459.391094,
       "is_new": false
     },
     {
@@ -26642,6 +26656,24 @@
       "is_new": false
     },
     {
+      "asin": "6560050416",
+      "title": "BOX As Crônicas de Nárnia - Edição de Luxo",
+      "link": "https://www.amazon.com.br/BOX-As-Cr%C3%B4nicas-N%C3%A1rnia-Edi%C3%A7%C3%A3o/dp/6560050416",
+      "current_price": 231.84,
+      "original_price": 399.9,
+      "discount": 42.0,
+      "difference": 168.06,
+      "criteria": [
+        "42.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81erRs9DQDL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1790919081.991136,
+      "is_new": false
+    },
+    {
       "asin": "B08GKYKZBF",
       "title": "Candide, Laptop Infantil, Barbie, Brinquedo Educativo - Bilíngue",
       "link": "https://www.amazon.com.br/Candide-1812-LAPTOP-BARBIE-BILINGUE/dp/B08GKYKZBF",
@@ -26655,7 +26687,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ubj7qnXCL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRONIC_LEARNING_TOY]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790939923.757797,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     }
