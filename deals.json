@@ -1,5 +1,5 @@
 {
-  "last_check": "02/10/2026 11:18:43",
+  "last_check": "02/10/2026 16:41:57",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24403,6 +24403,10 @@
         {
           "price": 3299.95,
           "date": "2026-09-12T05:51:49.214638"
+        },
+        {
+          "price": 3189.99,
+          "date": "2026-10-02T16:41:56.049343"
         }
       ]
     },
@@ -26249,62 +26253,89 @@
           "date": "2026-10-02T11:18:43.757791"
         }
       ]
+    },
+    "B0CP6CR795": {
+      "discovery_date": "2026-10-02T16:41:56.049343",
+      "price_history": [
+        {
+          "price": 4443.0,
+          "date": "2026-10-02T16:41:56.049343"
+        }
+      ]
+    },
+    "B07NFMX7SH": {
+      "discovery_date": "2026-10-02T16:41:56.049343",
+      "price_history": [
+        {
+          "price": 31.42,
+          "date": "2026-10-02T16:41:56.049343"
+        }
+      ]
+    },
+    "B0GSBX72GH": {
+      "discovery_date": "2026-10-02T16:41:56.049343",
+      "price_history": [
+        {
+          "price": 999.0,
+          "date": "2026-10-02T16:41:56.049343"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DHLG5BTD",
-      "title": "LEGO Technic Carro Ferrari SF-24 F1 42207 (1.361 Peças)",
-      "link": "https://www.amazon.com.br/LEGO-Technic-Carro-Ferrari-SF-24/dp/B0DHLG5BTD",
-      "current_price": 1320.4,
-      "original_price": 2299.99,
-      "discount": 42.6,
-      "difference": 979.59,
+      "asin": "B0GSBX72GH",
+      "title": "Soundbar Samsung HW-B400F + Soundbar Samsung HW-B400F",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-B400F/dp/B0GSBX72GH",
+      "current_price": 999.0,
+      "original_price": 1998.0,
+      "discount": 50.0,
+      "difference": 999.0,
       "criteria": [
-        "42.6% OFF",
-        "R$ 979.59 desc."
+        "50.0% OFF",
+        "R$ 999.0 desc."
       ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81ea+nKSWAL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790939923.757797,
-      "discovery_ts": 1790939923.757797,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31dQm8fXmFL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790959316.04935,
       "is_new": true
     },
     {
-      "asin": "B09WZ27141",
-      "title": "Cafeteira Espresso Nespresso Lattissima One Branca 220V",
-      "link": "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WZ27141",
-      "current_price": 1702.38,
-      "original_price": 2339.0,
-      "discount": 27.2,
-      "difference": 636.62,
+      "asin": "B0CP6CR795",
+      "title": "Apple iPhone 15 (128 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
+      "current_price": 4443.0,
+      "original_price": 4776.67,
+      "discount": 7.0,
+      "difference": 333.67,
       "criteria": [
-        "R$ 636.62 desc."
+        "R$ 333.67 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51OdKoJCrkL._AC_UL210_SR210,210_.jpg",
-      "category": "[COFFEE_MAKER]",
-      "last_seen": 1790939923.757797,
-      "discovery_ts": 1790939923.757797,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790959316.04935,
       "is_new": true
     },
     {
-      "asin": "B0H2HMVRF9",
-      "title": "VEDO Acordeon Profissional 34 Teclas, com 60 Teclas Baixo, 5 Teclas Variáveis, Terceira voz, Acordeão Avançado, Adequado Para Adultos Amantes da Música, Orquestra, Maple e Molas Alemãs, Branco",
-      "link": "https://www.amazon.com.br/VEDO-Acordeon-Profissional-Vari%C3%A1veis-Orquestra/dp/B0H2HMVRF9",
-      "current_price": 2564.14,
-      "original_price": 2999.0,
-      "discount": 14.5,
-      "difference": 434.86,
+      "asin": "B07NFMX7SH",
+      "title": "Widicare Higienizando A Juba Shampoo - Widi Care Widi Care Branco Grande 500 ml",
+      "link": "https://www.amazon.com.br/Higienizando-Juba-Shampoo-Branco-Grande/dp/B07NFMX7SH",
+      "current_price": 31.42,
+      "original_price": 59.9,
+      "discount": 47.5,
+      "difference": 28.48,
       "criteria": [
-        "R$ 434.86 desc."
+        "47.5% OFF"
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZW2sixR3L._AC_UL210_SR210,210_.jpg",
-      "category": "[MUSICAL_INSTRUMENTS]",
-      "last_seen": 1790939923.757797,
-      "discovery_ts": 1790939923.757797,
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fPXZWMx5L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHAMPOO]",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790959316.04935,
       "is_new": true
     },
     {
@@ -26322,7 +26353,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -26345,9 +26376,9 @@
       "is_new": false
     },
     {
-      "asin": "B0GKQNGV23",
-      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQNGV23",
+      "asin": "B0GKQPFCXS",
+      "title": "Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Branco",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0GKQPFCXS",
       "current_price": 4775.0,
       "original_price": 7499.0,
       "discount": 36.3,
@@ -26356,10 +26387,28 @@
         "R$ 2724.0 desc."
       ],
       "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ot5-7coTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790919081.991136,
-      "discovery_ts": 1789775662.257893,
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1789785807.175653,
+      "is_new": false
+    },
+    {
+      "asin": "B0DXR7GNWJ",
+      "title": "Apple iPhone 16e de 128 GB — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ",
+      "current_price": 3665.56,
+      "original_price": 5799.0,
+      "discount": 36.8,
+      "difference": 2133.44,
+      "criteria": [
+        "R$ 2133.44 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790899771.741747,
       "is_new": false
     },
     {
@@ -26394,7 +26443,7 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
@@ -26412,7 +26461,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -26431,7 +26480,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1790708661.971561,
       "is_new": false
     },
@@ -26492,6 +26541,43 @@
       "is_new": false
     },
     {
+      "asin": "B0DHLG5BTD",
+      "title": "LEGO Technic Carro Ferrari SF-24 F1 42207 (1.361 Peças)",
+      "link": "https://www.amazon.com.br/LEGO-Technic-Carro-Ferrari-SF-24/dp/B0DHLG5BTD",
+      "current_price": 1320.4,
+      "original_price": 2299.99,
+      "discount": 42.6,
+      "difference": 979.59,
+      "criteria": [
+        "42.6% OFF",
+        "R$ 979.59 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81ea+nKSWAL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
+      "is_new": false
+    },
+    {
+      "asin": "B0FL4VDVCV",
+      "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
+      "current_price": 3189.99,
+      "original_price": 4099.0,
+      "discount": 22.2,
+      "difference": 909.01,
+      "criteria": [
+        "R$ 909.01 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81RIGY3yxRL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1789192309.214638,
+      "is_new": false
+    },
+    {
       "asin": "B0BQ3M1M7M",
       "title": "Elements Cadeira de Escritorio Ergonômica Vertta Pro com Apoio Lombar e Cabeça Respirável, Cinza",
       "link": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mico-Elements-Vertta/dp/B0BQ3M1M7M",
@@ -26511,21 +26597,22 @@
       "is_new": false
     },
     {
-      "asin": "B0778V2M6N",
-      "title": "Micro-ondas de Embutir Brastemp 40l Inox Bmo40ar 220v",
-      "link": "https://www.amazon.com.br/Micro-ondas-Brastemp-Gourmand-embutir-Litros/dp/B0778V2M6N",
-      "current_price": 4499.0,
-      "original_price": 5289.0,
-      "discount": 14.9,
-      "difference": 790.0,
+      "asin": "B0H1T7241Z",
+      "title": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
+      "link": "https://www.amazon.com.br/Barbie-Dreamland-Conjunto-Brinquedo-Escorregador/dp/B0H1T7241Z",
+      "current_price": 849.99,
+      "original_price": 1699.99,
+      "discount": 50.0,
+      "difference": 850.0,
       "criteria": [
-        "R$ 790.0 desc."
+        "50.0% OFF",
+        "R$ 850.0 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41pNt8PmLtL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1790919081.991136,
-      "discovery_ts": 1790899771.741747,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
+      "category": "[MINIATURE_TOY_BUILDING]",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790241708.977617,
       "is_new": false
     },
     {
@@ -26542,8 +26629,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1790869371.225401,
+      "is_new": false
+    },
+    {
+      "asin": "B09WZ27141",
+      "title": "Cafeteira Espresso Nespresso Lattissima One Branca 220V",
+      "link": "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WZ27141",
+      "current_price": 1702.38,
+      "original_price": 2339.0,
+      "discount": 27.2,
+      "difference": 636.62,
+      "criteria": [
+        "R$ 636.62 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51OdKoJCrkL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
       "is_new": false
     },
     {
@@ -26560,7 +26665,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26575,11 +26680,47 @@
       "criteria": [
         "R$ 600.9 desc."
       ],
-      "badge": "Oferta Amazon",
+      "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1790869371.225401,
+      "is_new": false
+    },
+    {
+      "asin": "B0D9KJHRXN",
+      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
+      "current_price": 879.0,
+      "original_price": 1399.0,
+      "discount": 37.2,
+      "difference": 520.0,
+      "criteria": [
+        "R$ 520.0 desc."
+      ],
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1790959316.04935,
+      "discovery_ts": 1790665099.02763,
+      "is_new": false
+    },
+    {
+      "asin": "B0H2HMVRF9",
+      "title": "VEDO Acordeon Profissional 34 Teclas, com 60 Teclas Baixo, 5 Teclas Variáveis, Terceira voz, Acordeão Avançado, Adequado Para Adultos Amantes da Música, Orquestra, Maple e Molas Alemãs, Branco",
+      "link": "https://www.amazon.com.br/VEDO-Acordeon-Profissional-Vari%C3%A1veis-Orquestra/dp/B0H2HMVRF9",
+      "current_price": 2564.14,
+      "original_price": 2999.0,
+      "discount": 14.5,
+      "difference": 434.86,
+      "criteria": [
+        "R$ 434.86 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZW2sixR3L._AC_UL210_SR210,210_.jpg",
+      "category": "[MUSICAL_INSTRUMENTS]",
+      "last_seen": 1790939923.757797,
+      "discovery_ts": 1790939923.757797,
       "is_new": false
     },
     {
@@ -26597,7 +26738,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81JnCaFLWkL._AC_UL210_SR210,210_.jpg",
       "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1789999177.934523,
       "is_new": false
     },
@@ -26633,44 +26774,8 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790919081.991136,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1789498558.08297,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTR3PMF",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTR3PMF",
-      "current_price": 196.5,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.5,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51TL2aLCIpL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1790919081.991136,
-      "discovery_ts": 1785500357.771,
-      "is_new": false
-    },
-    {
-      "asin": "6560050416",
-      "title": "BOX As Crônicas de Nárnia - Edição de Luxo",
-      "link": "https://www.amazon.com.br/BOX-As-Cr%C3%B4nicas-N%C3%A1rnia-Edi%C3%A7%C3%A3o/dp/6560050416",
-      "current_price": 231.84,
-      "original_price": 399.9,
-      "discount": 42.0,
-      "difference": 168.06,
-      "criteria": [
-        "42.0% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81erRs9DQDL._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1790919081.991136,
-      "discovery_ts": 1790919081.991136,
       "is_new": false
     },
     {
@@ -26687,7 +26792,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ubj7qnXCL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRONIC_LEARNING_TOY]",
-      "last_seen": 1790939923.757797,
+      "last_seen": 1790959316.04935,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     }
