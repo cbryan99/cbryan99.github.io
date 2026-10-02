@@ -1,5 +1,5 @@
 {
-  "last_check": "02/10/2026 00:09:33",
+  "last_check": "02/10/2026 05:31:22",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26167,6 +26167,10 @@
         {
           "price": 54.89,
           "date": "2026-10-01T15:42:51.225401"
+        },
+        {
+          "price": 50.9,
+          "date": "2026-10-02T05:31:21.991129"
         }
       ]
     },
@@ -26205,9 +26209,36 @@
           "date": "2026-10-02T00:09:31.741747"
         }
       ]
+    },
+    "6560050416": {
+      "discovery_date": "2026-10-02T05:31:21.991129",
+      "price_history": [
+        {
+          "price": 231.84,
+          "date": "2026-10-02T05:31:21.991129"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "6560050416",
+      "title": "BOX As Crônicas de Nárnia - Edição de Luxo",
+      "link": "https://www.amazon.com.br/BOX-As-Cr%C3%B4nicas-N%C3%A1rnia-Edi%C3%A7%C3%A3o/dp/6560050416",
+      "current_price": 231.84,
+      "original_price": 399.9,
+      "discount": 42.0,
+      "difference": 168.06,
+      "criteria": [
+        "42.0% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81erRs9DQDL._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1790919081.991136,
+      "is_new": true
+    },
     {
       "asin": "B0FWF1NXQ5",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Processador M5 da Apple com CPU 10‑Core e GPU 10‑Core, 24GB Memória unificada, 1 TB) - Preto sideral",
@@ -26225,62 +26256,7 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1790899771.741754,
       "discovery_ts": 1790899771.741754,
-      "is_new": true
-    },
-    {
-      "asin": "B0DXR7GNWJ",
-      "title": "Apple iPhone 16e de 128 GB — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ",
-      "current_price": 3665.56,
-      "original_price": 5799.0,
-      "discount": 36.8,
-      "difference": 2133.44,
-      "criteria": [
-        "R$ 2133.44 desc."
-      ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
-      "is_new": true
-    },
-    {
-      "asin": "B0GVSZXP9M",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Lavanda/dp/B0GVSZXP9M",
-      "current_price": 1788.0,
-      "original_price": 3299.0,
-      "discount": 45.8,
-      "difference": 1511.0,
-      "criteria": [
-        "45.8% OFF",
-        "R$ 1511.0 desc."
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
-      "is_new": true
-    },
-    {
-      "asin": "B0778V2M6N",
-      "title": "Micro-ondas de Embutir Brastemp 40l Inox Bmo40ar 220v",
-      "link": "https://www.amazon.com.br/Micro-ondas-Brastemp-Gourmand-embutir-Litros/dp/B0778V2M6N",
-      "current_price": 4499.0,
-      "original_price": 5289.0,
-      "discount": 14.9,
-      "difference": 790.0,
-      "criteria": [
-        "R$ 790.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41pNt8PmLtL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKING_OVEN]",
-      "last_seen": 1790899771.741754,
-      "discovery_ts": 1790899771.741754,
-      "is_new": true
+      "is_new": false
     },
     {
       "asin": "B0DSYJCY45",
@@ -26297,7 +26273,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1789708125.988773,
       "is_new": false
     },
@@ -26351,7 +26327,7 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1789775662.257893,
       "is_new": false
     },
@@ -26369,8 +26345,26 @@
       "badge": "36% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790886840.202698,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1788222077.894487,
+      "is_new": false
+    },
+    {
+      "asin": "B0DXR7GNWJ",
+      "title": "Apple iPhone 16e de 128 GB — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16e-128-GB/dp/B0DXR7GNWJ",
+      "current_price": 3665.56,
+      "original_price": 5799.0,
+      "discount": 36.8,
+      "difference": 2133.44,
+      "criteria": [
+        "R$ 2133.44 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790899771.741754,
+      "discovery_ts": 1790899771.741754,
       "is_new": false
     },
     {
@@ -26405,8 +26399,26 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -26424,8 +26436,27 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1790708661.971561,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVSZXP9M",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Lavanda/dp/B0GVSZXP9M",
+      "current_price": 1788.0,
+      "original_price": 3299.0,
+      "discount": 45.8,
+      "difference": 1511.0,
+      "criteria": [
+        "45.8% OFF",
+        "R$ 1511.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1790899771.741754,
+      "discovery_ts": 1790899771.741754,
       "is_new": false
     },
     {
@@ -26443,7 +26474,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/618MXGjETGL._AC_UL210_SR210,210_.jpg",
       "category": "[UNINTERRUPTIBLE_POWER_SUPPLY]",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1786728558.102676,
       "is_new": false
     },
@@ -26461,27 +26492,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
     {
-      "asin": "B0H1T7241Z",
-      "title": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
-      "link": "https://www.amazon.com.br/Barbie-Dreamland-Conjunto-Brinquedo-Escorregador/dp/B0H1T7241Z",
-      "current_price": 849.99,
-      "original_price": 1699.99,
-      "discount": 50.0,
-      "difference": 850.0,
+      "asin": "B0778V2M6N",
+      "title": "Micro-ondas de Embutir Brastemp 40l Inox Bmo40ar 220v",
+      "link": "https://www.amazon.com.br/Micro-ondas-Brastemp-Gourmand-embutir-Litros/dp/B0778V2M6N",
+      "current_price": 4499.0,
+      "original_price": 5289.0,
+      "discount": 14.9,
+      "difference": 790.0,
       "criteria": [
-        "50.0% OFF",
-        "R$ 850.0 desc."
+        "R$ 790.0 desc."
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
-      "category": "[MINIATURE_TOY_BUILDING]",
-      "last_seen": 1790886840.202698,
-      "discovery_ts": 1790241708.977617,
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41pNt8PmLtL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKING_OVEN]",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1790899771.741747,
       "is_new": false
     },
     {
@@ -26513,10 +26543,10 @@
       "criteria": [
         "R$ 600.9 desc."
       ],
-      "badge": "Oferta Amazon",
+      "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26534,26 +26564,27 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1790899771.741754,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
     {
-      "asin": "B0D4V3JMGB",
-      "title": "HCSTVCON Câmera PTZ 4K NDI 20X com Rastreamento Automático por IA, Saídas HDMI, USB, LAN POE para Igrejas, Eventos e Videoconferência, Compatível com OBS, Zoom, Skype",
-      "link": "https://www.amazon.com.br/HCSTVCON-Rastreamento-Autom%C3%A1tico-Videoconfer%C3%AAncia-Compat%C3%ADvel/dp/B0D4V3JMGB",
-      "current_price": 1979.08,
-      "original_price": 2399.0,
-      "discount": 17.5,
-      "difference": 419.92,
+      "asin": "B0CGY57KKM",
+      "title": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
+      "link": "https://www.amazon.com.br/LEGO-Icons-10330-McLaren-Ayrton/dp/B0CGY57KKM",
+      "current_price": 415.89,
+      "original_price": 799.99,
+      "discount": 48.0,
+      "difference": 384.1,
       "criteria": [
-        "R$ 419.92 desc."
+        "48.0% OFF",
+        "R$ 384.1 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61DeG0-vznL._AC_UL210_SR210,210_.jpg",
-      "category": "[CAMCORDER]",
-      "last_seen": 1790886840.202698,
-      "discovery_ts": 1790777553.187889,
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81JnCaFLWkL._AC_UL210_SR210,210_.jpg",
+      "category": "[TOY_BUILDING_BLOCK]",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1789999177.934523,
       "is_new": false
     },
     {
@@ -26575,24 +26606,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FTNHK4G7",
-      "title": "Apple iPhone 15 Pro (256 GB) — Titânio preto (Seminovo)",
-      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-256-Recondicionado/dp/B0FTNHK4G7",
-      "current_price": 4477.97,
-      "original_price": 4791.99,
-      "discount": 6.6,
-      "difference": 314.02,
-      "criteria": [
-        "R$ 314.02 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51iZ0kJ1BLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1790886840.202698,
-      "discovery_ts": 1790400459.391094,
-      "is_new": false
-    },
-    {
       "asin": "B0GY4H64Y1",
       "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
       "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
@@ -26606,7 +26619,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1790886840.202698,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -26624,8 +26637,26 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51TL2aLCIpL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1790886840.202698,
+      "last_seen": 1790919081.991136,
       "discovery_ts": 1785500357.771,
+      "is_new": false
+    },
+    {
+      "asin": "B08GKYKZBF",
+      "title": "Candide, Laptop Infantil, Barbie, Brinquedo Educativo - Bilíngue",
+      "link": "https://www.amazon.com.br/Candide-1812-LAPTOP-BARBIE-BILINGUE/dp/B08GKYKZBF",
+      "current_price": 50.9,
+      "original_price": 99.99,
+      "discount": 49.1,
+      "difference": 49.09,
+      "criteria": [
+        "49.1% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ubj7qnXCL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRONIC_LEARNING_TOY]",
+      "last_seen": 1790919081.991136,
+      "discovery_ts": 1790869371.225401,
       "is_new": false
     }
   ]
