@@ -1,5 +1,5 @@
 {
-  "last_check": "04/10/2026 15:51:21",
+  "last_check": "04/10/2026 18:56:58",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26159,6 +26159,10 @@
         {
           "price": 4149.0,
           "date": "2026-10-04T05:43:44.886055"
+        },
+        {
+          "price": 3999.0,
+          "date": "2026-10-04T18:56:58.767012"
         }
       ]
     },
@@ -26412,61 +26416,52 @@
           "date": "2026-10-04T15:51:19.983713"
         }
       ]
+    },
+    "B0DSY665M3": {
+      "discovery_date": "2026-10-04T18:56:58.767012",
+      "price_history": [
+        {
+          "price": 4032.0,
+          "date": "2026-10-04T18:56:58.767012"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0H9NTDD3W",
-      "title": "Samsung Combo Smart TV 58\" Crystal UHD 4K U8000H + Samsung Smart TV 43\" QLED Full HD",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Crystal-U8000H/dp/B0H9NTDD3W",
-      "current_price": 4698.0,
-      "original_price": 6446.0,
-      "discount": 27.1,
-      "difference": 1748.0,
+      "asin": "B0DSY665M3",
+      "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Azul Marinho",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY665M3",
+      "current_price": 4032.0,
+      "original_price": 4332.22,
+      "discount": 6.9,
+      "difference": 300.22,
       "criteria": [
-        "R$ 1748.0 desc."
+        "R$ 300.22 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UU8sYnUyL._AC_UL210_SR210,210_.jpg",
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61FupVYWaxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1791129079.98372,
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1791140218.767019,
       "is_new": true
     },
     {
-      "asin": "B0DNR59SJH",
-      "title": "Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse Preta (IB42G) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-IB42G/dp/B0DNR59SJH",
-      "current_price": 3899.0,
-      "original_price": 4399.0,
-      "discount": 11.4,
-      "difference": 500.0,
+      "asin": "B0F6NLFZCW",
+      "title": "Samsung Tablet Galaxy Tab S10 FE+ WiFi, Prata, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas",
+      "link": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Prata-Inclusas/dp/B0F6NLFZCW",
+      "current_price": 3249.0,
+      "original_price": 5299.0,
+      "discount": 38.7,
+      "difference": 2050.0,
       "criteria": [
-        "R$ 500.0 desc."
+        "R$ 2050.0 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31upDJHs02L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1791129079.98372,
-      "is_new": true
-    },
-    {
-      "asin": "B0FXM4S78T",
-      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
-      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
-      "current_price": 5499.0,
-      "original_price": 7499.0,
-      "discount": 26.7,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1788327827.078928,
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51LNsGBzeGL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1787529189.226013,
       "is_new": false
     },
     {
@@ -26483,8 +26478,44 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0FXM4S78T",
+      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
+      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
+      "current_price": 5499.0,
+      "original_price": 7499.0,
+      "discount": 26.7,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0H9NTDD3W",
+      "title": "Samsung Combo Smart TV 58\" Crystal UHD 4K U8000H + Samsung Smart TV 43\" QLED Full HD",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Crystal-U8000H/dp/B0H9NTDD3W",
+      "current_price": 4698.0,
+      "original_price": 6446.0,
+      "discount": 27.1,
+      "difference": 1748.0,
+      "criteria": [
+        "R$ 1748.0 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UU8sYnUyL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1791129079.98372,
       "is_new": false
     },
     {
@@ -26502,7 +26533,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -26521,7 +26552,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1790708661.971561,
       "is_new": false
     },
@@ -26558,7 +26589,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -26581,6 +26612,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FL4VDVCV",
+      "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
+      "current_price": 3189.99,
+      "original_price": 4099.0,
+      "discount": 22.2,
+      "difference": 909.01,
+      "criteria": [
+        "R$ 909.01 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81RIGY3yxRL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1789192309.214638,
+      "is_new": false
+    },
+    {
       "asin": "B0H1T7241Z",
       "title": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
       "link": "https://www.amazon.com.br/Barbie-Dreamland-Conjunto-Brinquedo-Escorregador/dp/B0H1T7241Z",
@@ -26595,7 +26644,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
       "category": "[MINIATURE_TOY_BUILDING]",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1790241708.977617,
       "is_new": false
     },
@@ -26613,7 +26662,25 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1790869371.225401,
+      "is_new": false
+    },
+    {
+      "asin": "B0F6D7MQQB",
+      "title": "Console Nintendo Switch 2 - Modelo Nacional de Tomada | Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia, Modelo Nacional de Tomada",
+      "link": "https://www.amazon.com.br/Nintendo-Nacional-Port%C3%A1til-Dom%C3%A9stico-Garantia/dp/B0F6D7MQQB",
+      "current_price": 3999.0,
+      "original_price": 4599.9,
+      "discount": 13.1,
+      "difference": 600.9,
+      "criteria": [
+        "R$ 600.9 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONSOLE]",
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26631,8 +26698,44 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1790869371.225401,
+      "is_new": false
+    },
+    {
+      "asin": "B00HGONW26",
+      "title": "Máquina de lavar Intuitive+ Panasonic 19kg Lavagem Eficiente SmartSense Sistema Ciclone Ciclo Pet Preta - NA-F190G1BA 127V",
+      "link": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Preta-NA-F190G1B/dp/B00HGONW26",
+      "current_price": 2650.98,
+      "original_price": 3249.0,
+      "discount": 18.4,
+      "difference": 598.02,
+      "criteria": [
+        "R$ 598.02 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61NBD9xxofL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1790987106.4028,
+      "is_new": false
+    },
+    {
+      "asin": "B0DNR59SJH",
+      "title": "Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse Preta (IB42G) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-IB42G/dp/B0DNR59SJH",
+      "current_price": 3899.0,
+      "original_price": 4399.0,
+      "discount": 11.4,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31upDJHs02L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1791129079.98372,
       "is_new": false
     },
     {
@@ -26654,21 +26757,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F6D7MQQB",
-      "title": "Console Nintendo Switch 2 - Modelo Nacional de Tomada | Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia, Modelo Nacional de Tomada",
-      "link": "https://www.amazon.com.br/Nintendo-Nacional-Port%C3%A1til-Dom%C3%A9stico-Garantia/dp/B0F6D7MQQB",
-      "current_price": 4149.0,
-      "original_price": 4599.9,
-      "discount": 9.8,
-      "difference": 450.9,
+      "asin": "B0H3Q1RHD7",
+      "title": "Smart TV TCL 65 Polegadas QLED 4K T6C WiFi Bluetooth Google TV Tela HVA e HDR10+ 65T6C",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65T6C/dp/B0H3Q1RHD7",
+      "current_price": 3499.99,
+      "original_price": 3999.0,
+      "discount": 12.5,
+      "difference": 499.01,
       "criteria": [
-        "R$ 450.9 desc."
+        "R$ 499.01 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1790869371.225401,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81PghVbGE6L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1790987106.4028,
       "is_new": false
     },
     {
@@ -26685,8 +26788,26 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/414kTl1cGAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791140218.767019,
       "discovery_ts": 1791039118.615527,
+      "is_new": false
+    },
+    {
+      "asin": "B0GY4H64Y1",
+      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
+      "current_price": 2698.99,
+      "original_price": 2999.0,
+      "discount": 10.0,
+      "difference": 300.01,
+      "criteria": [
+        "R$ 300.01 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     }
   ]
