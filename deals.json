@@ -1,5 +1,5 @@
 {
-  "last_check": "04/10/2026 18:56:58",
+  "last_check": "04/10/2026 22:12:28",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26163,6 +26163,10 @@
         {
           "price": 3999.0,
           "date": "2026-10-04T18:56:58.767012"
+        },
+        {
+          "price": 4149.0,
+          "date": "2026-10-04T22:12:18.854443"
         }
       ]
     },
@@ -26425,25 +26429,62 @@
           "date": "2026-10-04T18:56:58.767012"
         }
       ]
+    },
+    "B09HHD6PYY": {
+      "discovery_date": "2026-10-04T22:12:18.854443",
+      "price_history": [
+        {
+          "price": 5640.58,
+          "date": "2026-10-04T22:12:18.854443"
+        }
+      ]
+    },
+    "B07XQR2WNZ": {
+      "discovery_date": "2026-10-04T22:12:18.854443",
+      "price_history": [
+        {
+          "price": 284.9,
+          "date": "2026-10-04T22:12:18.854443"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DSY665M3",
-      "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Azul Marinho",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY665M3",
-      "current_price": 4032.0,
-      "original_price": 4332.22,
-      "discount": 6.9,
-      "difference": 300.22,
+      "asin": "B09HHD6PYY",
+      "title": "Metalfrio Cervejeira Optima VN50AF 572 Litros 85 x 67,5 x 204,4 cm Preta 1 Porta Frost Free",
+      "link": "https://www.amazon.com.br/Cervejeira-Vertical-Metalfrio-VN50AF-220V/dp/B09HHD6PYY",
+      "current_price": 5640.58,
+      "original_price": 6114.64,
+      "discount": 7.8,
+      "difference": 474.06,
       "criteria": [
-        "R$ 300.22 desc."
+        "R$ 474.06 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61FupVYWaxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791140218.767019,
-      "discovery_ts": 1791140218.767019,
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51RbtKWPC-L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1791151938.854451,
+      "is_new": true
+    },
+    {
+      "asin": "B07XQR2WNZ",
+      "title": "MONDIAL Climatizador Flash Air, Branco/Preto, 80W, 110V - CL-03",
+      "link": "https://www.amazon.com.br/Climatizador-CL-03-Mondial-Branco-Pacote/dp/B07XQR2WNZ",
+      "current_price": 284.9,
+      "original_price": 599.9,
+      "discount": 52.5,
+      "difference": 315.0,
+      "criteria": [
+        "52.5% OFF",
+        "R$ 315.0 desc."
+      ],
+      "badge": "52% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71tgspfZK8L._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_COOLER]",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1791151938.854451,
       "is_new": true
     },
     {
@@ -26460,26 +26501,8 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51LNsGBzeGL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1787529189.226013,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXMBWGGM",
-      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
-      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
-      "current_price": 3999.0,
-      "original_price": 5999.0,
-      "discount": 33.3,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791140218.767019,
-      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -26496,26 +26519,44 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
-      "asin": "B0H9NTDD3W",
-      "title": "Samsung Combo Smart TV 58\" Crystal UHD 4K U8000H + Samsung Smart TV 43\" QLED Full HD",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Crystal-U8000H/dp/B0H9NTDD3W",
-      "current_price": 4698.0,
-      "original_price": 6446.0,
-      "discount": 27.1,
-      "difference": 1748.0,
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 1748.0 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51UU8sYnUyL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1791129079.98372,
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 13099.0,
+      "original_price": 14999.0,
+      "discount": 12.7,
+      "difference": 1900.0,
+      "criteria": [
+        "R$ 1900.0 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1787860684.198484,
       "is_new": false
     },
     {
@@ -26552,27 +26593,46 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790708661.971561,
       "is_new": false
     },
     {
-      "asin": "B0GVSZXP9M",
-      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Lavanda/dp/B0GVSZXP9M",
-      "current_price": 1788.0,
-      "original_price": 3299.0,
-      "discount": 45.8,
-      "difference": 1511.0,
+      "asin": "B0CG2B4VBW",
+      "title": "Nobreak SMS Gamer 2000Bi/Bi WI-FI, Interativo, Entrada 115/220v e Saída Bivolt 115/220V, 8 Tomadas, 29601",
+      "link": "https://www.amazon.com.br/NOBREAK-SMS-2000VA-SENOIDAL-INTERATIVO/dp/B0CG2B4VBW",
+      "current_price": 1966.15,
+      "original_price": 3455.74,
+      "discount": 43.1,
+      "difference": 1489.59,
       "criteria": [
-        "45.8% OFF",
-        "R$ 1511.0 desc."
+        "43.1% OFF",
+        "R$ 1489.59 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1790899771.741747,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618MXGjETGL._AC_UL210_SR210,210_.jpg",
+      "category": "[UNINTERRUPTIBLE_POWER_SUPPLY]",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1786728558.102676,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Minimiza Enroscos, Limpeza para Pets, Bateria 5200mAh, 127V",
+      "link": "https://www.amazon.com.br/D15-Plus-Aspirador-Autoesvaziamento-Obst%C3%A1culos/dp/B0GXFFSVYM",
+      "current_price": 2159.29,
+      "original_price": 3599.0,
+      "discount": 40.0,
+      "difference": 1439.71,
+      "criteria": [
+        "40.0% OFF",
+        "R$ 1439.71 desc."
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -26589,7 +26649,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -26607,7 +26667,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81pgLSDCazL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791129079.98372,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790974927.152782,
       "is_new": false
     },
@@ -26644,7 +26704,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
       "category": "[MINIATURE_TOY_BUILDING]",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790241708.977617,
       "is_new": false
     },
@@ -26662,25 +26722,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791140218.767019,
-      "discovery_ts": 1790869371.225401,
-      "is_new": false
-    },
-    {
-      "asin": "B0F6D7MQQB",
-      "title": "Console Nintendo Switch 2 - Modelo Nacional de Tomada | Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia, Modelo Nacional de Tomada",
-      "link": "https://www.amazon.com.br/Nintendo-Nacional-Port%C3%A1til-Dom%C3%A9stico-Garantia/dp/B0F6D7MQQB",
-      "current_price": 3999.0,
-      "original_price": 4599.9,
-      "discount": 13.1,
-      "difference": 600.9,
-      "criteria": [
-        "R$ 600.9 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26695,10 +26737,10 @@
       "criteria": [
         "R$ 600.9 desc."
       ],
-      "badge": "22% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26721,42 +26763,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DNR59SJH",
-      "title": "Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse Preta (IB42G) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-IB42G/dp/B0DNR59SJH",
-      "current_price": 3899.0,
-      "original_price": 4399.0,
-      "discount": 11.4,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31upDJHs02L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1791129079.98372,
-      "is_new": false
-    },
-    {
-      "asin": "B0C6JZ2ZDN",
-      "title": "Combo Teclado e Mouse Sem Fio MX Keys S com Apoio para as Mãos, Conexão Bluetooth ou Receptor Logi Bolt, Iluminação Inteligente, Rolagem Rápida, Compatível com Windows, macOS, ChromeOS, Linux- Grafite",
-      "link": "https://www.amazon.com.br/Bluetooth-Receptor-Ilumina%C3%A7%C3%A3o-Inteligente-Compat%C3%ADvel/dp/B0C6JZ2ZDN",
-      "current_price": 999.9,
-      "original_price": 1499.9,
-      "discount": 33.3,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61dHtG0j4hL._AC_UL210_SR210,210_.jpg",
-      "category": "[KEYBOARDS]",
-      "last_seen": 1791129079.98372,
-      "discovery_ts": 1790987106.4028,
-      "is_new": false
-    },
-    {
       "asin": "B0H3Q1RHD7",
       "title": "Smart TV TCL 65 Polegadas QLED 4K T6C WiFi Bluetooth Google TV Tela HVA e HDR10+ 65T6C",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65T6C/dp/B0H3Q1RHD7",
@@ -26770,8 +26776,26 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81PghVbGE6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1790987106.4028,
+      "is_new": false
+    },
+    {
+      "asin": "B0F6D7MQQB",
+      "title": "Console Nintendo Switch 2 - Modelo Nacional de Tomada | Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia, Modelo Nacional de Tomada",
+      "link": "https://www.amazon.com.br/Nintendo-Nacional-Port%C3%A1til-Dom%C3%A9stico-Garantia/dp/B0F6D7MQQB",
+      "current_price": 4149.0,
+      "original_price": 4599.9,
+      "discount": 9.8,
+      "difference": 450.9,
+      "criteria": [
+        "R$ 450.9 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_GAME_CONSOLE]",
+      "last_seen": 1791151938.854451,
+      "discovery_ts": 1790869371.225401,
       "is_new": false
     },
     {
@@ -26788,8 +26812,26 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/414kTl1cGAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1791039118.615527,
+      "is_new": false
+    },
+    {
+      "asin": "B0DSY665M3",
+      "title": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Azul Marinho",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY665M3",
+      "current_price": 4032.0,
+      "original_price": 4332.22,
+      "discount": 6.9,
+      "difference": 300.22,
+      "criteria": [
+        "R$ 300.22 desc."
+      ],
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61FupVYWaxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791140218.767019,
+      "discovery_ts": 1791140218.767019,
       "is_new": false
     },
     {
@@ -26806,7 +26848,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791140218.767019,
+      "last_seen": 1791151938.854451,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     }
