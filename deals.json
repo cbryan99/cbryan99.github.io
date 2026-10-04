@@ -1,5 +1,5 @@
 {
-  "last_check": "04/10/2026 11:19:35",
+  "last_check": "04/10/2026 15:51:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26394,26 +26394,62 @@
           "date": "2026-10-03T14:51:58.615527"
         }
       ]
+    },
+    "B0H9NTDD3W": {
+      "discovery_date": "2026-10-04T15:51:19.983713",
+      "price_history": [
+        {
+          "price": 4698.0,
+          "date": "2026-10-04T15:51:19.983713"
+        }
+      ]
+    },
+    "B0DNR59SJH": {
+      "discovery_date": "2026-10-04T15:51:19.983713",
+      "price_history": [
+        {
+          "price": 3899.0,
+          "date": "2026-10-04T15:51:19.983713"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GKQTTCMM",
-      "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQTTCMM",
-      "current_price": 7690.0,
-      "original_price": 11499.0,
-      "discount": 33.1,
-      "difference": 3809.0,
+      "asin": "B0H9NTDD3W",
+      "title": "Samsung Combo Smart TV 58\" Crystal UHD 4K U8000H + Samsung Smart TV 43\" QLED Full HD",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Crystal-U8000H/dp/B0H9NTDD3W",
+      "current_price": 4698.0,
+      "original_price": 6446.0,
+      "discount": 27.1,
+      "difference": 1748.0,
       "criteria": [
-        "R$ 3809.0 desc."
+        "R$ 1748.0 desc."
       ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tUK0-AiTL._AC_UL210_SR210,210_.jpg",
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51UU8sYnUyL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791092624.886062,
-      "discovery_ts": 1789077437.189865,
-      "is_new": false
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1791129079.98372,
+      "is_new": true
+    },
+    {
+      "asin": "B0DNR59SJH",
+      "title": "Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse Preta (IB42G) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-IB42G/dp/B0DNR59SJH",
+      "current_price": 3899.0,
+      "original_price": 4399.0,
+      "discount": 11.4,
+      "difference": 500.0,
+      "criteria": [
+        "R$ 500.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31upDJHs02L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1791129079.98372,
+      "is_new": true
     },
     {
       "asin": "B0FXM4S78T",
@@ -26429,8 +26465,45 @@
       "badge": "26% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3999.0,
+      "original_price": 5999.0,
+      "discount": 33.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 2089.05,
+      "original_price": 3806.0,
+      "discount": 45.1,
+      "difference": 1716.95,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 1716.95 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -26448,8 +26521,27 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51gXyjgA3EL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1790708661.971561,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVSZXP9M",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Lavanda/dp/B0GVSZXP9M",
+      "current_price": 1788.0,
+      "original_price": 3299.0,
+      "discount": 45.8,
+      "difference": 1511.0,
+      "criteria": [
+        "45.8% OFF",
+        "R$ 1511.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51aUn8rRtBL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1790899771.741747,
       "is_new": false
     },
     {
@@ -26466,8 +26558,63 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0FL4N5RG6",
+      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
+      "current_price": 4499.99,
+      "original_price": 5699.0,
+      "discount": 21.0,
+      "difference": 1199.01,
+      "criteria": [
+        "R$ 1199.01 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81pgLSDCazL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1790974927.152782,
+      "is_new": false
+    },
+    {
+      "asin": "B0H1T7241Z",
+      "title": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
+      "link": "https://www.amazon.com.br/Barbie-Dreamland-Conjunto-Brinquedo-Escorregador/dp/B0H1T7241Z",
+      "current_price": 849.99,
+      "original_price": 1699.99,
+      "discount": 50.0,
+      "difference": 850.0,
+      "criteria": [
+        "50.0% OFF",
+        "R$ 850.0 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VhNgOsi8L._AC_UL210_SR210,210_.jpg",
+      "category": "[MINIATURE_TOY_BUILDING]",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1790241708.977617,
+      "is_new": false
+    },
+    {
+      "asin": "B0CV946GDT",
+      "title": "Ar Condicionado Split Hi Wall Agratto Liv Top Inverter 18.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Agratto-Inverter-18-000/dp/B0CV946GDT",
+      "current_price": 2562.34,
+      "original_price": 3299.0,
+      "discount": 22.3,
+      "difference": 736.66,
+      "criteria": [
+        "R$ 736.66 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41l162FxWcL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1790869371.225401,
       "is_new": false
     },
     {
@@ -26484,7 +26631,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26502,25 +26649,7 @@
       "badge": "33% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61dHtG0j4hL._AC_UL210_SR210,210_.jpg",
       "category": "[KEYBOARDS]",
-      "last_seen": 1791092624.886062,
-      "discovery_ts": 1790987106.4028,
-      "is_new": false
-    },
-    {
-      "asin": "B0H3Q1RHD7",
-      "title": "Smart TV TCL 65 Polegadas QLED 4K T6C WiFi Bluetooth Google TV Tela HVA e HDR10+ 65T6C",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65T6C/dp/B0H3Q1RHD7",
-      "current_price": 3499.99,
-      "original_price": 3999.0,
-      "discount": 12.5,
-      "difference": 499.01,
-      "criteria": [
-        "R$ 499.01 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81PghVbGE6L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1790987106.4028,
       "is_new": false
     },
@@ -26538,63 +26667,26 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791092624.886062,
+      "last_seen": 1791129079.98372,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
     {
-      "asin": "B0CGY57KKM",
-      "title": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
-      "link": "https://www.amazon.com.br/LEGO-Icons-10330-McLaren-Ayrton/dp/B0CGY57KKM",
-      "current_price": 415.89,
-      "original_price": 799.99,
-      "discount": 48.0,
-      "difference": 384.1,
+      "asin": "B0CL7YN4Q9",
+      "title": "Geladeira Electrolux Frost Free 490L Efficient com AutoSense Inverse Black Inox Look (IB7B) 127 V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Inverse/dp/B0CL7YN4Q9",
+      "current_price": 4199.0,
+      "original_price": 4629.47,
+      "discount": 9.3,
+      "difference": 430.47,
       "criteria": [
-        "48.0% OFF",
-        "R$ 384.1 desc."
+        "R$ 430.47 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81JnCaFLWkL._AC_UL210_SR210,210_.jpg",
-      "category": "[TOY_BUILDING_BLOCK]",
-      "last_seen": 1791092624.886062,
-      "discovery_ts": 1789999177.934523,
-      "is_new": false
-    },
-    {
-      "asin": "B0GY4H64Y1",
-      "title": "Dreame H60 GT, Aspirador Vertical Sem Fio Seco e Úmido, Sucção 21kPa, Manuseio Leve, 0 Emaranhados, Reclinável 180°, Limpeza com Escova Dupla, Lavagem Quente 90°C, Limpeza com Água Fresca, 220V-240V",
-      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Emaranhados-Reclin%C3%A1vel/dp/B0GY4H64Y1",
-      "current_price": 2698.99,
-      "original_price": 2999.0,
-      "discount": 10.0,
-      "difference": 300.01,
-      "criteria": [
-        "R$ 300.01 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61hkhmYnNKL._AC_UL210_SR210,210_.jpg",
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414kTl1cGAL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791092624.886062,
-      "discovery_ts": 1789498558.08297,
-      "is_new": false
-    },
-    {
-      "asin": "B0BT524YQB",
-      "title": "WAP Ventilador de Torre AIR SILENCE com 4 Ní­veis de Velocidade, Time de até 15 Horas e Desligamento Automático 127V",
-      "link": "https://www.amazon.com.br/WAP-AIR-SILENCE-Ventilador-Velocidades/dp/B0BT524YQB",
-      "current_price": 340.9,
-      "original_price": 599.9,
-      "discount": 43.2,
-      "difference": 259.0,
-      "criteria": [
-        "43.2% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+rCTOwewL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_FAN]",
-      "last_seen": 1791092624.886062,
-      "discovery_ts": 1790987106.4028,
+      "last_seen": 1791129079.98372,
+      "discovery_ts": 1791039118.615527,
       "is_new": false
     }
   ]
