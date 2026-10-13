@@ -1,5 +1,5 @@
 {
-  "last_check": "13/10/2026 20:49:52",
+  "last_check": "13/10/2026 23:58:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24297,6 +24297,10 @@
         {
           "price": 3399.0,
           "date": "2026-09-10T23:45:19.237103"
+        },
+        {
+          "price": 3099.0,
+          "date": "2026-10-13T23:58:47.652415"
         }
       ]
     },
@@ -24874,6 +24878,10 @@
         {
           "price": 2299.0,
           "date": "2026-09-15T18:55:58.082970"
+        },
+        {
+          "price": 2209.0,
+          "date": "2026-10-13T23:58:47.652415"
         }
       ]
     },
@@ -25217,6 +25225,10 @@
         {
           "price": 6399.0,
           "date": "2026-09-18T21:57:19.994649"
+        },
+        {
+          "price": 6332.0,
+          "date": "2026-10-13T23:58:47.652415"
         }
       ]
     },
@@ -26752,81 +26764,163 @@
           "date": "2026-10-13T20:49:52.370134"
         }
       ]
+    },
+    "B0HF7D9C2J": {
+      "discovery_date": "2026-10-13T23:58:47.652415",
+      "price_history": [
+        {
+          "price": 7029.0,
+          "date": "2026-10-13T23:58:47.652415"
+        }
+      ]
+    },
+    "B0FCG7D614": {
+      "discovery_date": "2026-10-13T23:58:47.652415",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-10-13T23:58:47.652415"
+        }
+      ]
+    },
+    "B0CLT37N72": {
+      "discovery_date": "2026-10-13T23:58:47.652415",
+      "price_history": [
+        {
+          "price": 299.99,
+          "date": "2026-10-13T23:58:47.652415"
+        }
+      ]
+    },
+    "B076BCQ58V": {
+      "discovery_date": "2026-10-13T23:58:47.652415",
+      "price_history": [
+        {
+          "price": 81.67,
+          "date": "2026-10-13T23:58:47.652415"
+        }
+      ]
+    },
+    "B00I7PK3GQ": {
+      "discovery_date": "2026-10-13T23:58:47.652415",
+      "price_history": [
+        {
+          "price": 569.99,
+          "date": "2026-10-13T23:58:47.652415"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DZK3VZVH",
-      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
-      "current_price": 5277.75,
-      "original_price": 9999.0,
-      "discount": 47.2,
-      "difference": 4721.25,
+      "asin": "B0HF7D9C2J",
+      "title": "Notebook Samsung Galaxy Book6 14\" Copilot+ PC, Windows 11 Home, Ultra 5, 16GB, 512GB SSD, 1.43 kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HF7D9C2J",
+      "current_price": 7029.0,
+      "original_price": 8199.0,
+      "discount": 14.3,
+      "difference": 1170.0,
       "criteria": [
-        "47.2% OFF",
-        "R$ 4721.25 desc."
+        "R$ 1170.0 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791924592.37014,
-      "discovery_ts": 1791924592.37014,
-      "is_new": true
-    },
-    {
-      "asin": "B0B8Z8B75C",
-      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 16GB Linux",
-      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-76Z8-Intel-gera%C3%A7%C3%A3o/dp/B0B8Z8B75C",
-      "current_price": 4499.0,
-      "original_price": 6599.0,
-      "discount": 31.8,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791924592.37014,
-      "discovery_ts": 1791924592.37014,
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791935927.652421,
       "is_new": true
     },
     {
-      "asin": "B0FQFPKB9D",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - M/G",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFPKB9D",
-      "current_price": 2299.0,
-      "original_price": 3299.0,
-      "discount": 30.3,
-      "difference": 1000.0,
+      "asin": "B00I7PK3GQ",
+      "title": "Lancôme La Vie Est Belle Eau de Parfum Feminino – Fragrância Floral Gourmand com Íris Nobre e Baunilha",
+      "link": "https://www.amazon.com.br/Perfume-Lanc%C3%B4me-Belle-Parfum-Feminino/dp/B00I7PK3GQ",
+      "current_price": 569.99,
+      "original_price": 1099.0,
+      "discount": 48.1,
+      "difference": 529.01,
       "criteria": [
-        "R$ 1000.0 desc."
+        "48.1% OFF",
+        "R$ 529.01 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791924592.37014,
-      "discovery_ts": 1791924592.37014,
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61KS24LVgXL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791935927.652421,
       "is_new": true
     },
     {
-      "asin": "B0FD4YKZ9C",
-      "title": "Ar-Condicionado Split HW Inverter Daikin Full 12.000 BTUs R-32 Só Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-Daikin-12-000/dp/B0FD4YKZ9C",
-      "current_price": 3308.98,
-      "original_price": 3619.0,
-      "discount": 8.6,
-      "difference": 310.02,
+      "asin": "B0CLT37N72",
+      "title": "Ventilador de teto Ventisol Fenix inverter controle remoto placa led integrada",
+      "link": "https://www.amazon.com.br/Ventilador-Ventisol-Inverter-Controle-Integrada/dp/B0CLT37N72",
+      "current_price": 299.99,
+      "original_price": 529.0,
+      "discount": 43.3,
+      "difference": 229.01,
       "criteria": [
-        "R$ 310.02 desc."
+        "43.3% OFF"
       ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51qtxtIsd4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791924592.37014,
-      "discovery_ts": 1791924592.37014,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qBivzjHmL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791935927.652421,
       "is_new": true
+    },
+    {
+      "asin": "B0FCG7D614",
+      "title": "Camisa Polo Corinthians Retrô Kalunga Masculina Preta",
+      "link": "https://www.amazon.com.br/Camisa-Corinthians-Retr%C3%B4-Kalunga-Masculina/dp/B0FCG7D614",
+      "current_price": 89.9,
+      "original_price": 219.99,
+      "discount": 59.1,
+      "difference": 130.09,
+      "criteria": [
+        "59.1% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KmkUQxeWL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791935927.652421,
+      "is_new": true
+    },
+    {
+      "asin": "B076BCQ58V",
+      "title": "Caixa Térmica 34L Mor",
+      "link": "https://www.amazon.com.br/Caixa-T%C3%A9rmica-Litros-Porta-Copos/dp/B076BCQ58V",
+      "current_price": 81.67,
+      "original_price": 169.9,
+      "discount": 51.9,
+      "difference": 88.23,
+      "criteria": [
+        "51.9% OFF"
+      ],
+      "badge": "51% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FQJHF195L._AC_UL210_SR210,210_.jpg",
+      "category": "[ICE_CHEST]",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791935927.652421,
+      "is_new": true
+    },
+    {
+      "asin": "B0DGMFW4VB",
+      "title": "Apple iPhone 16 Plus (256 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFW4VB",
+      "current_price": 24.99,
+      "original_price": 9299.0,
+      "discount": 99.7,
+      "difference": 9274.01,
+      "criteria": [
+        "99.7% OFF",
+        "R$ 9274.01 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1784994513.776849,
+      "is_new": false
     },
     {
       "asin": "B0GR1YNLC8",
@@ -26847,6 +26941,63 @@
       "is_new": false
     },
     {
+      "asin": "B0DSXZ4FZT",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1789768639.994649,
+      "is_new": false
+    },
+    {
+      "asin": "B0DZK3VZVH",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
+      "current_price": 5277.75,
+      "original_price": 9999.0,
+      "discount": 47.2,
+      "difference": 4721.25,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 4721.25 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1791924592.37014,
+      "discovery_ts": 1791924592.37014,
+      "is_new": false
+    },
+    {
+      "asin": "B0GMY41LM8",
+      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 12GB RAM + 12GB RAM Boost, Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
+      "current_price": 3099.0,
+      "original_price": 5999.0,
+      "discount": 48.3,
+      "difference": 2900.0,
+      "criteria": [
+        "48.3% OFF",
+        "R$ 2900.0 desc."
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1789083919.237103,
+      "is_new": false
+    },
+    {
       "asin": "B0F8LJSC9B",
       "title": "Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
       "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
@@ -26861,7 +27012,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -26884,21 +27035,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DGMFW4VB",
-      "title": "Apple iPhone 16 Plus (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFW4VB",
-      "current_price": 7099.0,
-      "original_price": 9299.0,
-      "discount": 23.7,
-      "difference": 2200.0,
+      "asin": "B0B8Z8B75C",
+      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 16GB Linux",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-76Z8-Intel-gera%C3%A7%C3%A3o/dp/B0B8Z8B75C",
+      "current_price": 4499.0,
+      "original_price": 6599.0,
+      "discount": 31.8,
+      "difference": 2100.0,
       "criteria": [
-        "R$ 2200.0 desc."
+        "R$ 2100.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1784994513.776849,
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791924592.370134,
       "is_new": false
     },
     {
@@ -26933,7 +27084,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1784812193.410006,
       "is_new": false
     },
@@ -26969,7 +27120,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -26987,7 +27138,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -27010,24 +27161,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFSTQHX",
-      "title": "Apple iPhone 16 (128 GB) – Verde-acinzentado",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Verde-acinzentado/dp/B0DJFSTQHX",
-      "current_price": 5065.39,
-      "original_price": 6799.0,
-      "discount": 25.5,
-      "difference": 1733.61,
-      "criteria": [
-        "R$ 1733.61 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1786721769.386069,
-      "is_new": false
-    },
-    {
       "asin": "B0DJFTCKNN",
       "title": "Apple iPhone 16 (128 GB) – Branco",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
@@ -27041,25 +27174,44 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1785277699.627439,
+      "is_new": false
+    },
+    {
+      "asin": "B0DKVCTTFN",
+      "title": "Samsung Ar-condicionado Split Digital Inverter Ultra Connect AI 12.000 BTUs Frio AR12DYFZAWKNAZ",
+      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Digital-Inverter-AR12DYFZAWKNAZ/dp/B0DKVCTTFN",
+      "current_price": 2209.0,
+      "original_price": 3939.0,
+      "discount": 43.9,
+      "difference": 1730.0,
+      "criteria": [
+        "43.9% OFF",
+        "R$ 1730.0 desc."
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CGLBYdeIL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
       "asin": "B0FQFKQ6J5",
       "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G",
       "link": "https://www.amazon.com.br/Apple-Cellular-alum%C3%ADnio-Bracelete-desportiva/dp/B0FQFKQ6J5",
-      "current_price": 3049.0,
+      "current_price": 2744.1,
       "original_price": 4299.0,
-      "discount": 29.1,
-      "difference": 1250.0,
+      "discount": 36.2,
+      "difference": 1554.9,
       "criteria": [
-        "R$ 1250.0 desc."
+        "R$ 1554.9 desc."
       ],
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41j8ZJViXfL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1791906368.791146,
       "is_new": false
     },
@@ -27095,26 +27247,8 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1787988377.926092,
-      "is_new": false
-    },
-    {
-      "asin": "B0H3CN14RK",
-      "title": "A&A TECH PC Gamer AMD Ryzen 7 5700X, RTX 5060 8GB, 32GB DDR4, SSD NVMe 1TB, Water Cooler 240mm ARGB, 6 Fans ARGB Sincronizados, WiFi, Bluetooth, Windows 11 Ativado – Alta Performance para Jogos",
-      "link": "https://www.amazon.com.br/Gamer-Ryzen-5700X-5060-Sincronizados/dp/B0H3CN14RK",
-      "current_price": 8999.9,
-      "original_price": 9999.9,
-      "discount": 10.0,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71dRM4m46PL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1791906368.791146,
       "is_new": false
     },
     {
@@ -27131,8 +27265,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1787355246.696526,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFPKB9D",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - M/G",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFPKB9D",
+      "current_price": 2299.0,
+      "original_price": 3299.0,
+      "discount": 30.3,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1791924592.37014,
+      "discovery_ts": 1791924592.37014,
       "is_new": false
     },
     {
@@ -27149,7 +27301,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1784990556.520456,
       "is_new": false
     },
@@ -27167,7 +27319,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27208,24 +27360,6 @@
       "is_new": false
     },
     {
-      "asin": "B082WGSGLL",
-      "title": "Computador Acer All In One C24-2YE13U5UNL-BR11 Intel Core i5-1334U de 13ª geração,16GB RAM 512 GB SSD, 23,8”, Full HD 120HZ, Webcam, Windows 11 Sem Teclado e Mouse",
-      "link": "https://www.amazon.com.br/Computador-Acer-C24-2YE13U5UNL-BR11-i5-1334U-gera%C3%A7%C3%A3o/dp/B082WGSGLL",
-      "current_price": 5199.0,
-      "original_price": 5799.0,
-      "discount": 10.3,
-      "difference": 600.0,
-      "criteria": [
-        "R$ 600.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61CaY3gbG8L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1791906368.791146,
-      "is_new": false
-    },
-    {
       "asin": "B0FQGMGVCT",
       "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
       "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
@@ -27239,7 +27373,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1791906368.791146,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -27280,6 +27414,24 @@
       "is_new": false
     },
     {
+      "asin": "B0HF7XV4MN",
+      "title": "Bicicleta Elétrica Urbana 750W para Adultos, Bike Elétrica para Cidade, 60V 20Ah, Autonomia 50km, Freios a Tambor e Suspensão Dupla – Ideal para Compras e Trabalho",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-Adultos-Autonomia-Suspens%C3%A3o/dp/B0HF7XV4MN",
+      "current_price": 4319.99,
+      "original_price": 4799.99,
+      "discount": 10.0,
+      "difference": 480.0,
+      "criteria": [
+        "R$ 480.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71TzKX8jWmL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
       "asin": "B0FW1DK8QL",
       "title": "Tablet Lenovo Idea Tab Plus 12.1\" 2.5K 90Hz - Octa-Core, 8GB RAM, 128GB, Wi-Fi 5, Android 15, Caneta e Case",
       "link": "https://www.amazon.com.br/Tablet-Lenovo-Octa-Core-AndroidTM-Acompanha/dp/B0FW1DK8QL",
@@ -27293,8 +27445,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61z4Hp0-gEL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1790123063.850972,
+      "is_new": false
+    },
+    {
+      "asin": "B0D4V3JMGB",
+      "title": "HCSTVCON Câmera PTZ 4K NDI 20X com Rastreamento Automático por IA, Saídas HDMI, USB, LAN POE para Igrejas, Eventos e Videoconferência, Compatível com OBS, Zoom, Skype",
+      "link": "https://www.amazon.com.br/HCSTVCON-Rastreamento-Autom%C3%A1tico-Videoconfer%C3%AAncia-Compat%C3%ADvel/dp/B0D4V3JMGB",
+      "current_price": 1979.08,
+      "original_price": 2399.0,
+      "discount": 17.5,
+      "difference": 419.92,
+      "criteria": [
+        "R$ 419.92 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DeG0-vznL._AC_UL210_SR210,210_.jpg",
+      "category": "[CAMCORDER]",
+      "last_seen": 1791935927.652421,
+      "discovery_ts": 1790777553.187889,
       "is_new": false
     },
     {
@@ -27316,6 +27486,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FD4YKZ9C",
+      "title": "Ar-Condicionado Split HW Inverter Daikin Full 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Inverter-Daikin-12-000/dp/B0FD4YKZ9C",
+      "current_price": 3308.98,
+      "original_price": 3619.0,
+      "discount": 8.6,
+      "difference": 310.02,
+      "criteria": [
+        "R$ 310.02 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51qtxtIsd4L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791924592.37014,
+      "discovery_ts": 1791924592.37014,
+      "is_new": false
+    },
+    {
       "asin": "B0CB1QS325",
       "title": "Samsung Galaxy Book3 360 Intel® Core™ i5-1335U, Windows 11 Home, 8 GB, 256 GB SSD, 13.3\" Full HD AMOLED, 1.16 kg*",
       "link": "https://www.amazon.com.br/Notebook-Galaxy-Windows-i5-1335U-AMOLED/dp/B0CB1QS325",
@@ -27329,62 +27517,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791924592.37014,
+      "last_seen": 1791935927.652421,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B0BTYCRJSS",
-      "title": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
-      "link": "https://www.amazon.com.br/soundcore-Bluetooth-Resist%C3%AAncia-Microfones-Personaliz%C3%A1vel/dp/B0BTYCRJSS",
-      "current_price": 146.0,
-      "original_price": 249.0,
-      "discount": 41.4,
-      "difference": 103.0,
-      "criteria": [
-        "41.4% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ljZu9+GXL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1791906368.791146,
-      "is_new": false
-    },
-    {
-      "asin": "B0GHP4NL1J",
-      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
-      "current_price": 30.9,
-      "original_price": 119.9,
-      "discount": 74.2,
-      "difference": 89.0,
-      "criteria": [
-        "74.2% OFF"
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1784433482.515947,
-      "is_new": false
-    },
-    {
-      "asin": "8551009834",
-      "title": "O massacre da família Hope",
-      "link": "https://www.amazon.com.br/massacre-fam%C3%ADlia-Hope-Riley-Sager/dp/8551009834",
-      "current_price": 40.77,
-      "original_price": 69.9,
-      "discount": 41.7,
-      "difference": 29.13,
-      "criteria": [
-        "41.7% OFF"
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/815bfY-u6-L._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1791906368.791146,
-      "discovery_ts": 1791906368.791146,
       "is_new": false
     }
   ]
