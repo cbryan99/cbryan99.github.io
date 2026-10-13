@@ -1,5 +1,5 @@
 {
-  "last_check": "12/10/2026 19:11:48",
+  "last_check": "13/10/2026 01:23:39",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4155,6 +4155,10 @@
         {
           "price": 4999.0,
           "date": "2026-08-14T13:51:40.166339"
+        },
+        {
+          "price": 5065.39,
+          "date": "2026-10-13T01:23:33.922112"
         }
       ]
     },
@@ -4547,6 +4551,10 @@
         {
           "price": 5887.78,
           "date": "2026-07-29T09:59:25.213328"
+        },
+        {
+          "price": 6015.39,
+          "date": "2026-10-13T01:23:33.922112"
         }
       ]
     },
@@ -23161,6 +23169,10 @@
         {
           "price": 2139.0,
           "date": "2026-10-12T19:11:48.472154"
+        },
+        {
+          "price": 2110.05,
+          "date": "2026-10-13T01:23:33.922112"
         }
       ]
     },
@@ -26551,79 +26563,142 @@
           "date": "2026-10-12T19:11:48.472154"
         }
       ]
+    },
+    "B0CP6CVJSG": {
+      "discovery_date": "2026-10-13T01:23:33.922112",
+      "price_history": [
+        {
+          "price": 4220.84,
+          "date": "2026-10-13T01:23:33.922112"
+        }
+      ]
+    },
+    "B0GR1YNLC8": {
+      "discovery_date": "2026-10-13T01:23:33.922112",
+      "price_history": [
+        {
+          "price": 19999.0,
+          "date": "2026-10-13T01:23:33.922112"
+        }
+      ]
+    },
+    "B0FRFJQ4Z4": {
+      "discovery_date": "2026-10-13T01:23:33.922112",
+      "price_history": [
+        {
+          "price": 21278.1,
+          "date": "2026-10-13T01:23:33.922112"
+        }
+      ]
+    },
+    "B0HC3HT2HS": {
+      "discovery_date": "2026-10-13T01:23:33.922112",
+      "price_history": [
+        {
+          "price": 6389.99,
+          "date": "2026-10-13T01:23:33.922112"
+        }
+      ]
+    },
+    "B0HF7XV4MN": {
+      "discovery_date": "2026-10-13T01:23:33.922112",
+      "price_history": [
+        {
+          "price": 4319.99,
+          "date": "2026-10-13T01:23:33.922112"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F1HP5JJM",
-      "title": "Smartphone Motorola Edge 60 Fusion 5G - 256GB 8GB RAM+8GB Ram Boost 50MP Sony AI Camera IP68 NFC - Rosa",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-60-Fusion/dp/B0F1HP5JJM",
-      "current_price": 1896.0,
-      "original_price": 2999.0,
-      "discount": 36.8,
-      "difference": 1103.0,
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
       "criteria": [
-        "R$ 1103.0 desc."
+        "R$ 5800.0 desc."
       ],
-      "badge": "36% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/615l8ldwyXL._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1791832308.472162,
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791854613.922118,
       "is_new": true
     },
     {
-      "asin": "B0FR5GNJDB",
-      "title": "Smartphone Motorola Moto g06-128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Laranja",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-g06-128GB-Camera-Bateria/dp/B0FR5GNJDB",
-      "current_price": 666.0,
-      "original_price": 999.0,
-      "discount": 33.3,
-      "difference": 333.0,
+      "asin": "B0CP6CVJSG",
+      "title": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
+      "current_price": 4220.84,
+      "original_price": 5999.0,
+      "discount": 29.6,
+      "difference": 1778.16,
       "criteria": [
-        "R$ 333.0 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51FCuOjQjWL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1791832308.472162,
-      "is_new": true
-    },
-    {
-      "asin": "B00DZIOMJ4",
-      "title": "Impressora Multifuncional HP Smart Tank 589 Tanque de Tinta Colorida Wi-Fi, USB - Alta Economia -Copiadora e Scanner (5D1A8A)",
-      "link": "https://www.amazon.com.br/Impressora-Multifuncional-HP-Tanque-Colorida/dp/B00DZIOMJ4",
-      "current_price": 778.05,
-      "original_price": 1099.0,
-      "discount": 29.2,
-      "difference": 320.95,
-      "criteria": [
-        "R$ 320.95 desc."
+        "R$ 1778.16 desc."
       ],
       "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51j9SOgYLqL._AC_UL210_SR210,210_.jpg",
-      "category": "[PRINTER]",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1791832308.472162,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791854613.922118,
       "is_new": true
     },
     {
-      "asin": "B0FH7LY3R4",
-      "title": "Roku Streaming Stick HD 2025 | Dispositivo de streaming para TV HD/FHD com controle remoto por comando de voz compatível com Alexa, Siri e Google",
-      "link": "https://www.amazon.com.br/Roku-Streaming-Dispositivo-streaming-compat%C3%ADvel/dp/B0FH7LY3R4",
-      "current_price": 219.9,
-      "original_price": 399.9,
-      "discount": 45.0,
-      "difference": 180.0,
+      "asin": "B0FRFJQ4Z4",
+      "title": "Máquina de marcação a laser de fibra DGHUNST Raycus 50W, gravadora de metal em aço inoxidável para marcação de metal (Raycus 50W)",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-marca%C3%A7%C3%A3o-Raycus-gravadora-inoxid%C3%A1vel/dp/B0FRFJQ4Z4",
+      "current_price": 21278.1,
+      "original_price": 22398.0,
+      "discount": 5.0,
+      "difference": 1119.9,
       "criteria": [
-        "45.0% OFF"
+        "R$ 1119.9 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NIAAVDxML._AC_UL210_SR210,210_.jpg",
-      "category": "[STANDALONE_STREAMING_MEDIA_PLAYER]",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1791832308.472162,
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Zo8zV2qiL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRINTER]",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791854613.922118,
+      "is_new": true
+    },
+    {
+      "asin": "B0HC3HT2HS",
+      "title": "Bicicleta Elétrica Adulto 1000W, 48V 20Ah, Bike Elétrica 32 MPH | Banco traseiro alongado",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-Adulto-1000W-20Ah/dp/B0HC3HT2HS",
+      "current_price": 6389.99,
+      "original_price": 7099.99,
+      "discount": 10.0,
+      "difference": 710.0,
+      "criteria": [
+        "R$ 710.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81njcbufCnL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791854613.922118,
+      "is_new": true
+    },
+    {
+      "asin": "B0HF7XV4MN",
+      "title": "Bicicleta Elétrica Urbana 750W para Adultos, Bike Elétrica para Cidade, 60V 20Ah, Autonomia 50km, Freios a Tambor e Suspensão Dupla – Ideal para Compras e Trabalho",
+      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-Adultos-Autonomia-Suspens%C3%A3o/dp/B0HF7XV4MN",
+      "current_price": 4319.99,
+      "original_price": 4799.99,
+      "discount": 10.0,
+      "difference": 480.0,
+      "criteria": [
+        "R$ 480.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71TzKX8jWmL._AC_UL210_SR210,210_.jpg",
+      "category": "[BICYCLE]",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791854613.922118,
       "is_new": true
     },
     {
@@ -26641,7 +26716,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -26659,8 +26734,26 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1788222077.894487,
+      "is_new": false
+    },
+    {
+      "asin": "B0GQWVYKZV",
+      "title": "Apple iPhone 17 de 256 GB — Lavanda",
+      "link": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQWVYKZV",
+      "current_price": 6015.39,
+      "original_price": 7999.0,
+      "discount": 24.8,
+      "difference": 1983.61,
+      "criteria": [
+        "R$ 1983.61 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1785319165.213328,
       "is_new": false
     },
     {
@@ -26677,8 +26770,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41k9Fkg0r7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1786349565.683197,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFTCKNN",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+      "current_price": 5065.39,
+      "original_price": 6799.0,
+      "discount": 25.5,
+      "difference": 1733.61,
+      "criteria": [
+        "R$ 1733.61 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1785277699.627439,
       "is_new": false
     },
     {
@@ -26695,7 +26806,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1786721769.386069,
       "is_new": false
     },
@@ -26713,8 +26824,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ifqvHPRCL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1790259419.974763,
+      "is_new": false
+    },
+    {
+      "asin": "B0F1HP5JJM",
+      "title": "Smartphone Motorola Edge 60 Fusion 5G - 256GB 8GB RAM+8GB Ram Boost 50MP Sony AI Camera IP68 NFC - Rosa",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-60-Fusion/dp/B0F1HP5JJM",
+      "current_price": 1896.0,
+      "original_price": 2999.0,
+      "discount": 36.8,
+      "difference": 1103.0,
+      "criteria": [
+        "R$ 1103.0 desc."
+      ],
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/615l8ldwyXL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791832308.472154,
       "is_new": false
     },
     {
@@ -26731,7 +26860,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -26749,7 +26878,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -26767,26 +26896,8 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1790869371.225401,
-      "is_new": false
-    },
-    {
-      "asin": "B0H1282J24",
-      "title": "JBL PartyBox Encore Essential 2, Caixa de Som Bluetooth - Preto | Som AI Sound Boost, Show de Luzes Dinâmico, Até 15 Horas de Reprodução, Entradas para Microfone e Instrumentos",
-      "link": "https://www.amazon.com.br/JBL-PartyBox-Encore-Essential-Bluetooth/dp/B0H1282J24",
-      "current_price": 1258.01,
-      "original_price": 1899.0,
-      "discount": 33.8,
-      "difference": 640.99,
-      "criteria": [
-        "R$ 640.99 desc."
-      ],
-      "badge": "33% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6157Cv5UEZL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1787000690.318426,
       "is_new": false
     },
     {
@@ -26803,7 +26914,7 @@
       "badge": "32% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Ar78y955L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1784417123.48503,
       "is_new": false
     },
@@ -26821,7 +26932,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51DCY2ooVtL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -26839,7 +26950,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -26847,36 +26958,18 @@
       "asin": "B0FQGMGVCT",
       "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
       "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
-      "current_price": 2139.0,
+      "current_price": 2110.05,
       "original_price": 2699.0,
-      "discount": 20.7,
-      "difference": 560.0,
+      "discount": 21.8,
+      "difference": 588.95,
       "criteria": [
-        "R$ 560.0 desc."
+        "R$ 588.95 desc."
       ],
-      "badge": "20% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1787625964.61514,
-      "is_new": false
-    },
-    {
-      "asin": "B0CP6CR795",
-      "title": "Apple iPhone 15 (128 GB) — Azul",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
-      "current_price": 4220.84,
-      "original_price": 4776.67,
-      "discount": 11.6,
-      "difference": 555.83,
-      "criteria": [
-        "R$ 555.83 desc."
-      ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1790959316.049343,
       "is_new": false
     },
     {
@@ -26893,8 +26986,44 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61qB6i9FOYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1790732878.594449,
+      "is_new": false
+    },
+    {
+      "asin": "B0FR5GNJDB",
+      "title": "Smartphone Motorola Moto g06-128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Laranja",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-g06-128GB-Camera-Bateria/dp/B0FR5GNJDB",
+      "current_price": 666.0,
+      "original_price": 999.0,
+      "discount": 33.3,
+      "difference": 333.0,
+      "criteria": [
+        "R$ 333.0 desc."
+      ],
+      "badge": "33% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51FCuOjQjWL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791832308.472154,
+      "is_new": false
+    },
+    {
+      "asin": "B00DZIOMJ4",
+      "title": "Impressora Multifuncional HP Smart Tank 589 Tanque de Tinta Colorida Wi-Fi, USB - Alta Economia -Copiadora e Scanner (5D1A8A)",
+      "link": "https://www.amazon.com.br/Impressora-Multifuncional-HP-Tanque-Colorida/dp/B00DZIOMJ4",
+      "current_price": 778.05,
+      "original_price": 1099.0,
+      "discount": 29.2,
+      "difference": 320.95,
+      "criteria": [
+        "R$ 320.95 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51j9SOgYLqL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRINTER]",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791832308.472154,
       "is_new": false
     },
     {
@@ -26911,26 +27040,26 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
     {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.5,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.5,
+      "asin": "B0FH7LY3R4",
+      "title": "Roku Streaming Stick HD 2025 | Dispositivo de streaming para TV HD/FHD com controle remoto por comando de voz compatível com Alexa, Siri e Google",
+      "link": "https://www.amazon.com.br/Roku-Streaming-Dispositivo-streaming-compat%C3%ADvel/dp/B0FH7LY3R4",
+      "current_price": 219.9,
+      "original_price": 399.9,
+      "discount": 45.0,
+      "difference": 180.0,
       "criteria": [
-        "46.7% OFF"
+        "45.0% OFF"
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1791832308.472162,
-      "discovery_ts": 1785128082.040921,
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NIAAVDxML._AC_UL210_SR210,210_.jpg",
+      "category": "[STANDALONE_STREAMING_MEDIA_PLAYER]",
+      "last_seen": 1791854613.922118,
+      "discovery_ts": 1791832308.472154,
       "is_new": false
     },
     {
@@ -26947,7 +27076,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1791832308.472162,
+      "last_seen": 1791854613.922118,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
