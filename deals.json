@@ -1,5 +1,5 @@
 {
-  "last_check": "14/10/2026 04:12:40",
+  "last_check": "14/10/2026 09:33:23",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22419,6 +22419,10 @@
         {
           "price": 579.99,
           "date": "2026-08-21T07:37:38.251791"
+        },
+        {
+          "price": 539.99,
+          "date": "2026-10-14T09:33:09.465640"
         }
       ]
     },
@@ -26258,6 +26262,10 @@
         {
           "price": 341.05,
           "date": "2026-10-01T08:47:52.579065"
+        },
+        {
+          "price": 307.0,
+          "date": "2026-10-14T09:33:09.465640"
         }
       ]
     },
@@ -26857,98 +26865,136 @@
           "date": "2026-10-14T04:12:24.432560"
         }
       ]
+    },
+    "B0DCZ9PRCP": {
+      "discovery_date": "2026-10-14T09:33:09.465640",
+      "price_history": [
+        {
+          "price": 1226.49,
+          "date": "2026-10-14T09:33:09.465640"
+        }
+      ]
+    },
+    "B08F9ZQ52X": {
+      "discovery_date": "2026-10-14T09:33:09.465640",
+      "price_history": [
+        {
+          "price": 629.9,
+          "date": "2026-10-14T09:33:09.465640"
+        }
+      ]
+    },
+    "B0FFTQV2KP": {
+      "discovery_date": "2026-10-14T09:33:09.465640",
+      "price_history": [
+        {
+          "price": 284.99,
+          "date": "2026-10-14T09:33:09.465640"
+        }
+      ]
+    },
+    "B0FCG5ZJDJ": {
+      "discovery_date": "2026-10-14T09:33:09.465640",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-10-14T09:33:09.465640"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FWDRRT8S",
-      "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0FWDRRT8S",
-      "current_price": 8950.0,
-      "original_price": 12499.0,
-      "discount": 28.4,
-      "difference": 3549.0,
+      "asin": "B08F9ZQ52X",
+      "title": "Idôle Lancôme - Perfume Feminino Eau de Parfum",
+      "link": "https://www.amazon.com.br/Id%C3%B4le-Lanc%C3%B4me-Perfume-Feminino-Parfum/dp/B08F9ZQ52X",
+      "current_price": 629.9,
+      "original_price": 1069.0,
+      "discount": 41.1,
+      "difference": 439.1,
       "criteria": [
-        "R$ 3549.0 desc."
+        "41.1% OFF",
+        "R$ 439.1 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MEDcXC5hL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
       "is_new": true
     },
     {
-      "asin": "B0F1YPNX2Y",
-      "title": "Monitor Dell UltraSharp 32\", 4K Uhd (3840 x 2160), 120 Hz, Ips, U3225qe | IPS Black, DisplayHDR 600, 3000:1 de contraste, Sensor de luz ambiente, Eye Comfort, Thunderbolt 4, 8 USB ports, Energy Star",
-      "link": "https://www.amazon.com.br/Monitor-com-Thunderbolt-Dell-UltraSharp/dp/B0F1YPNX2Y",
-      "current_price": 6814.4,
-      "original_price": 7869.0,
-      "discount": 13.4,
-      "difference": 1054.6,
+      "asin": "B0FFTQV2KP",
+      "title": "Tênis Mizuno Neo Vortex",
+      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B0FFTQV2KP",
+      "current_price": 284.99,
+      "original_price": 699.99,
+      "discount": 59.3,
+      "difference": 415.0,
       "criteria": [
-        "R$ 1054.6 desc."
+        "59.3% OFF",
+        "R$ 415.0 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71LRSq3IuqL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JgT1kYf4L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHOES]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
       "is_new": true
     },
     {
-      "asin": "B0DTMCLTKV",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
+      "asin": "B0DCZ9PRCP",
+      "title": "Amazfit T-Rex 3 Relógio Inteligente Robusto/Militar 48mm, GPS, Mapas Offline, Longa Vida da Bateria,328 Pés Resistente à Água, 170 Modos de Fitness/Desporto (preto)",
+      "link": "https://www.amazon.com.br/Amazfit-inteligente-rel%C3%B3gios-privacidade-esportivos/dp/B0DCZ9PRCP",
+      "current_price": 1226.49,
+      "original_price": 1559.0,
+      "discount": 21.3,
+      "difference": 332.51,
+      "criteria": [
+        "R$ 332.51 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71GtgMbKvKL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
+      "is_new": true
+    },
+    {
+      "asin": "B0FCG5ZJDJ",
+      "title": "Camisa Polo Corinthians Retrô Kalunga Masculina Preta",
+      "link": "https://www.amazon.com.br/Camisa-Corinthians-Retr%C3%B4-Kalunga-Masculina/dp/B0FCG5ZJDJ",
+      "current_price": 89.9,
+      "original_price": 219.99,
+      "discount": 59.1,
+      "difference": 130.09,
+      "criteria": [
+        "59.1% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KmkUQxeWL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSXZ4FZT",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
       "current_price": 6332.0,
-      "original_price": 6754.0,
-      "discount": 6.2,
-      "difference": 422.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
       "criteria": [
-        "R$ 422.0 desc."
+        "47.2% OFF",
+        "R$ 5667.0 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
-      "is_new": true
-    },
-    {
-      "asin": "B0FZMR7TWJ",
-      "title": "Ar-Condicionado Split Cassete 1 Via Inverter Gree G-Línea 18.000 BTUs R-32 Só Frio 220V Monofásico",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Cassete-Inverter-Gree-Monof%C3%A1sico/dp/B0FZMR7TWJ",
-      "current_price": 6039.99,
-      "original_price": 6399.0,
-      "discount": 5.6,
-      "difference": 359.01,
-      "criteria": [
-        "R$ 359.01 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-qMz-lr4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
-      "is_new": true
-    },
-    {
-      "asin": "B0DGMFW4VB",
-      "title": "Apple iPhone 16 Plus (256 GB) – Branco",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-256/dp/B0DGMFW4VB",
-      "current_price": 24.99,
-      "original_price": 9299.0,
-      "discount": 99.7,
-      "difference": 9274.01,
-      "criteria": [
-        "99.7% OFF",
-        "R$ 9274.01 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616ZS8HNbXL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1784994513.776849,
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1789768639.994649,
       "is_new": false
     },
     {
@@ -26971,22 +27017,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DSXZ4FZT",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
-      "current_price": 6332.0,
-      "original_price": 11999.0,
-      "discount": 47.2,
-      "difference": 5667.0,
+      "asin": "B0FWDRRT8S",
+      "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0FWDRRT8S",
+      "current_price": 8950.0,
+      "original_price": 12499.0,
+      "discount": 28.4,
+      "difference": 3549.0,
       "criteria": [
-        "47.2% OFF",
-        "R$ 5667.0 desc."
+        "R$ 3549.0 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1789768639.994649,
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1791951144.432568,
+      "discovery_ts": 1791951144.432568,
       "is_new": false
     },
     {
@@ -27023,7 +27068,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27095,7 +27140,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1785319165.213328,
       "is_new": false
     },
@@ -27113,7 +27158,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1785253019.20744,
       "is_new": false
     },
@@ -27131,7 +27176,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1785277699.627439,
       "is_new": false
     },
@@ -27150,7 +27195,7 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51CGLBYdeIL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -27168,26 +27213,8 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41j8ZJViXfL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1791906368.791146,
-      "is_new": false
-    },
-    {
-      "asin": "B0HF7D9C2J",
-      "title": "Notebook Samsung Galaxy Book6 14\" Copilot+ PC, Windows 11 Home, Ultra 5, 16GB, 512GB SSD, 1.43 kg",
-      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HF7D9C2J",
-      "current_price": 7029.0,
-      "original_price": 8199.0,
-      "discount": 14.3,
-      "difference": 1170.0,
-      "criteria": [
-        "R$ 1170.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1791935927.652421,
       "is_new": false
     },
     {
@@ -27209,6 +27236,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F1YPNX2Y",
+      "title": "Monitor Dell UltraSharp 32\", 4K Uhd (3840 x 2160), 120 Hz, Ips, U3225qe | IPS Black, DisplayHDR 600, 3000:1 de contraste, Sensor de luz ambiente, Eye Comfort, Thunderbolt 4, 8 USB ports, Energy Star",
+      "link": "https://www.amazon.com.br/Monitor-com-Thunderbolt-Dell-UltraSharp/dp/B0F1YPNX2Y",
+      "current_price": 6814.4,
+      "original_price": 7869.0,
+      "discount": 13.4,
+      "difference": 1054.6,
+      "criteria": [
+        "R$ 1054.6 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71LRSq3IuqL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1791951144.432568,
+      "discovery_ts": 1791951144.432568,
+      "is_new": false
+    },
+    {
       "asin": "B0FQFH5PJS",
       "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
       "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
@@ -27227,24 +27272,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H2NGMNB8",
-      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
-      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
-      "current_price": 6599.0,
-      "original_price": 7399.99,
-      "discount": 10.8,
-      "difference": 800.99,
-      "criteria": [
-        "R$ 800.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1784990556.520456,
-      "is_new": false
-    },
-    {
       "asin": "B0DBN6SGRN",
       "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
@@ -27258,7 +27285,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1785520954.30177,
       "is_new": false
     },
@@ -27330,7 +27357,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -27372,24 +27399,6 @@
       "is_new": false
     },
     {
-      "asin": "B0HF7XV4MN",
-      "title": "Bicicleta Elétrica Urbana 750W para Adultos, Bike Elétrica para Cidade, 60V 20Ah, Autonomia 50km, Freios a Tambor e Suspensão Dupla – Ideal para Compras e Trabalho",
-      "link": "https://www.amazon.com.br/Bicicleta-El%C3%A9trica-Adultos-Autonomia-Suspens%C3%A3o/dp/B0HF7XV4MN",
-      "current_price": 4319.99,
-      "original_price": 4799.99,
-      "discount": 10.0,
-      "difference": 480.0,
-      "criteria": [
-        "R$ 480.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71TzKX8jWmL._AC_UL210_SR210,210_.jpg",
-      "category": "[BICYCLE]",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1791854613.922112,
-      "is_new": false
-    },
-    {
       "asin": "B0FW1DK8QL",
       "title": "Tablet Lenovo Idea Tab Plus 12.1\" 2.5K 90Hz - Octa-Core, 8GB RAM, 128GB, Wi-Fi 5, Android 15, Caneta e Case",
       "link": "https://www.amazon.com.br/Tablet-Lenovo-Octa-Core-AndroidTM-Acompanha/dp/B0FW1DK8QL",
@@ -27403,26 +27412,62 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61z4Hp0-gEL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1790123063.850972,
       "is_new": false
     },
     {
-      "asin": "B0D4V3JMGB",
-      "title": "HCSTVCON Câmera PTZ 4K NDI 20X com Rastreamento Automático por IA, Saídas HDMI, USB, LAN POE para Igrejas, Eventos e Videoconferência, Compatível com OBS, Zoom, Skype",
-      "link": "https://www.amazon.com.br/HCSTVCON-Rastreamento-Autom%C3%A1tico-Videoconfer%C3%AAncia-Compat%C3%ADvel/dp/B0D4V3JMGB",
-      "current_price": 1979.08,
-      "original_price": 2399.0,
-      "discount": 17.5,
-      "difference": 419.92,
+      "asin": "B0DTMCLTKV",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
+      "current_price": 6332.0,
+      "original_price": 6754.0,
+      "discount": 6.2,
+      "difference": 422.0,
       "criteria": [
-        "R$ 419.92 desc."
+        "R$ 422.0 desc."
       ],
-      "badge": "17% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61DeG0-vznL._AC_UL210_SR210,210_.jpg",
-      "category": "[CAMCORDER]",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1790777553.187889,
+      "badge": "6% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791951144.432568,
+      "discovery_ts": 1791951144.432568,
+      "is_new": false
+    },
+    {
+      "asin": "B0FD41XC3P",
+      "title": "GameSir G7 Pro Controle Gamer Tri-Mode para Xbox, PC e Android Sem Fio 2.4G/Bluetooth e Com Fio Joystick Hall Effect + TMR 1000Hz Polling Rate Botões Macro Giroscópio Vibração 4 Motores Anti-Drift Controle Profissional - Branco",
+      "link": "https://www.amazon.com.br/GameSir-Pro-Controller-Windows-Gamepad/dp/B0FD41XC3P",
+      "current_price": 539.99,
+      "original_price": 899.0,
+      "discount": 39.9,
+      "difference": 359.01,
+      "criteria": [
+        "R$ 359.01 desc."
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/719XHbmvmBL._AC_UL210_SR210,210_.jpg",
+      "category": "🎮 Games & Lazer",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1787297858.251791,
+      "is_new": false
+    },
+    {
+      "asin": "B0FZMR7TWJ",
+      "title": "Ar-Condicionado Split Cassete 1 Via Inverter Gree G-Línea 18.000 BTUs R-32 Só Frio 220V Monofásico",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Cassete-Inverter-Gree-Monof%C3%A1sico/dp/B0FZMR7TWJ",
+      "current_price": 6039.99,
+      "original_price": 6399.0,
+      "discount": 5.6,
+      "difference": 359.01,
+      "criteria": [
+        "R$ 359.01 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-qMz-lr4L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791951144.432568,
+      "discovery_ts": 1791951144.432568,
       "is_new": false
     },
     {
@@ -27462,6 +27507,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DG5JXWB3",
+      "title": "Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly(Rosa)",
+      "link": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel/dp/B0DG5JXWB3",
+      "current_price": 307.0,
+      "original_price": 599.0,
+      "discount": 48.7,
+      "difference": 292.0,
+      "criteria": [
+        "48.7% OFF"
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61X65xNkLzL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1790844472.579065,
+      "is_new": false
+    },
+    {
       "asin": "B0CLT37N72",
       "title": "Ventilador de teto Ventisol Fenix inverter controle remoto placa led integrada",
       "link": "https://www.amazon.com.br/Ventilador-Ventisol-Inverter-Controle-Integrada/dp/B0CLT37N72",
@@ -27493,8 +27556,26 @@
       "badge": "59% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51KmkUQxeWL._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1791935927.652421,
+      "last_seen": 1791970389.465647,
       "discovery_ts": 1791935927.652421,
+      "is_new": false
+    },
+    {
+      "asin": "B0BTYCRJSS",
+      "title": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App para Academia, IPX5",
+      "link": "https://www.amazon.com.br/soundcore-Bluetooth-Resist%C3%AAncia-Microfones-Personaliz%C3%A1vel/dp/B0BTYCRJSS",
+      "current_price": 146.0,
+      "original_price": 249.0,
+      "discount": 41.4,
+      "difference": 103.0,
+      "criteria": [
+        "41.4% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ljZu9+GXL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791906368.791139,
       "is_new": false
     },
     {
@@ -27511,8 +27592,26 @@
       "badge": "51% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51FQJHF195L._AC_UL210_SR210,210_.jpg",
       "category": "[ICE_CHEST]",
-      "last_seen": 1791935927.652421,
-      "discovery_ts": 1791935927.652421,
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791935927.652415,
+      "is_new": false
+    },
+    {
+      "asin": "B0GHP4NL1J",
+      "title": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+      "link": "https://www.amazon.com.br/Rapunzel-Shampoo-T%C3%B4nico-Milk-Spray/dp/B0GHP4NL1J",
+      "current_price": 55.47,
+      "original_price": 119.9,
+      "discount": 53.7,
+      "difference": 64.43,
+      "criteria": [
+        "53.7% OFF"
+      ],
+      "badge": "53% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Cuidado Pessoal",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1784433482.515947,
       "is_new": false
     }
   ]
