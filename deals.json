@@ -1,5 +1,5 @@
 {
-  "last_check": "14/10/2026 18:52:46",
+  "last_check": "14/10/2026 22:00:19",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -7388,6 +7388,10 @@
         {
           "price": 17099.05,
           "date": "2026-07-31T12:19:17.771000"
+        },
+        {
+          "price": 17098.94,
+          "date": "2026-10-14T22:00:07.143488"
         }
       ]
     },
@@ -22333,6 +22337,10 @@
         {
           "price": 6399.0,
           "date": "2026-09-19T18:13:31.117686"
+        },
+        {
+          "price": 6332.0,
+          "date": "2026-10-14T22:00:07.143488"
         }
       ]
     },
@@ -23689,6 +23697,10 @@
         {
           "price": 3689.0,
           "date": "2026-10-12T19:11:48.472154"
+        },
+        {
+          "price": 4047.08,
+          "date": "2026-10-14T22:00:07.143488"
         }
       ]
     },
@@ -26962,105 +26974,85 @@
           "date": "2026-10-14T18:52:31.963430"
         }
       ]
+    },
+    "B0FQFJNSLK": {
+      "discovery_date": "2026-10-14T22:00:07.143488",
+      "price_history": [
+        {
+          "price": 2299.0,
+          "date": "2026-10-14T22:00:07.143488"
+        }
+      ]
+    },
+    "B0D95Z1W6K": {
+      "discovery_date": "2026-10-14T22:00:07.143488",
+      "price_history": [
+        {
+          "price": 3509.1,
+          "date": "2026-10-14T22:00:07.143488"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FQF9X69T",
-      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
-      "current_price": 3799.0,
-      "original_price": 5499.0,
-      "discount": 30.9,
-      "difference": 1700.0,
+      "asin": "B0FQFJNSLK",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 40 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJNSLK",
+      "current_price": 2299.0,
+      "original_price": 3299.0,
+      "discount": 30.3,
+      "difference": 1000.0,
       "criteria": [
-        "R$ 1700.0 desc."
+        "R$ 1000.0 desc."
       ],
       "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792003951.963436,
-      "discovery_ts": 1792003951.963436,
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1792015207.143496,
       "is_new": true
     },
     {
-      "asin": "B0GZLL5D74",
-      "title": "Smartphone Motorola Edge 70 PRO 5G 256GB 12GB RAM, 4 Cameras 50MP, Extreme AMOLED, Azul Escuro",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Cameras-Extreme-AMOLED/dp/B0GZLL5D74",
-      "current_price": 3149.0,
-      "original_price": 3699.0,
-      "discount": 14.9,
-      "difference": 550.0,
+      "asin": "B0D95Z1W6K",
+      "title": "Impressora 3D Creality K1C, nivelamento automático de velocidade rápida de 600 mm/s, impressoras 3D com câmera AI para impressão a 300 °C, impressão 3D em fibra de carbono 220 * 220 * 250 mm",
+      "link": "https://www.amazon.com.br/Impressora-Creality-K1C-nivelamento-impressoras/dp/B0D95Z1W6K",
+      "current_price": 3509.1,
+      "original_price": 3899.0,
+      "discount": 10.0,
+      "difference": 389.9,
       "criteria": [
-        "R$ 550.0 desc."
+        "R$ 389.9 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61QCeDQ0JaL._AC_UL210_SR210,210_.jpg",
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hxwx9P43L._AC_UL210_SR210,210_.jpg",
+      "category": "[3D_PRINTER]",
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1792015207.143496,
+      "is_new": true
+    },
+    {
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
+      "criteria": [
+        "R$ 5800.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
-      "discovery_ts": 1792003951.963436,
-      "is_new": true
-    },
-    {
-      "asin": "B0F51KRTX1",
-      "title": "Smartphone Motorola Edge 60 5G - 512GB 12GB RAM+12GB Ram Boost Tela Quad-Curve moto AI 50MP Sony Camera ultrarresistencia militar IP68 + IP69 - Azul Marinho",
-      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Quad-Curve-ultrarresistencia/dp/B0F51KRTX1",
-      "current_price": 1999.0,
-      "original_price": 2499.0,
-      "discount": 20.0,
-      "difference": 500.0,
-      "criteria": [
-        "R$ 500.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61fCuWd+6fL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
-      "discovery_ts": 1792003951.963436,
-      "is_new": true
-    },
-    {
-      "asin": "B0FWDRRT8S",
-      "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0FWDRRT8S",
-      "current_price": 4099.0,
-      "original_price": 12499.0,
-      "discount": 67.2,
-      "difference": 8400.0,
-      "criteria": [
-        "67.2% OFF",
-        "R$ 8400.0 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1791951144.432568,
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
-      "asin": "B0DSXZZH49",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
-      "current_price": 4289.0,
-      "original_price": 11999.0,
-      "discount": 64.3,
-      "difference": 7710.0,
-      "criteria": [
-        "64.3% OFF",
-        "R$ 7710.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1786799221.459366,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSXZ4FZT",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
+      "asin": "B0DSY663DK",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
       "current_price": 6332.0,
       "original_price": 11999.0,
       "discount": 47.2,
@@ -27070,10 +27062,10 @@
         "R$ 5667.0 desc."
       ],
       "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1789768639.994649,
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1787273955.560495,
       "is_new": false
     },
     {
@@ -27091,7 +27083,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27110,7 +27102,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27128,7 +27120,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1786366711.615938,
       "is_new": false
     },
@@ -27205,6 +27197,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FQF9X69T",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
+      "current_price": 3799.0,
+      "original_price": 5499.0,
+      "discount": 30.9,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792003951.963436,
+      "discovery_ts": 1792003951.963436,
+      "is_new": false
+    },
+    {
       "asin": "B0FQFKQ6J5",
       "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G",
       "link": "https://www.amazon.com.br/Apple-Cellular-alum%C3%ADnio-Bracelete-desportiva/dp/B0FQFKQ6J5",
@@ -27223,21 +27233,21 @@
       "is_new": false
     },
     {
-      "asin": "B082Y9F21N",
-      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
-      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
-      "current_price": 3689.0,
-      "original_price": 4780.0,
-      "discount": 22.8,
-      "difference": 1091.0,
+      "asin": "B0HF7D9C2J",
+      "title": "Notebook Samsung Galaxy Book6 14\" Copilot+ PC, Windows 11 Home, Ultra 5, 16GB, 512GB SSD, 1.43 kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HF7D9C2J",
+      "current_price": 7029.0,
+      "original_price": 8199.0,
+      "discount": 14.3,
+      "difference": 1170.0,
       "criteria": [
-        "R$ 1091.0 desc."
+        "R$ 1170.0 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
-      "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1792003951.963436,
-      "discovery_ts": 1787988377.926092,
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1791935927.652415,
       "is_new": false
     },
     {
@@ -27295,6 +27305,42 @@
       "is_new": false
     },
     {
+      "asin": "B0FJFMZHNR",
+      "title": "Valerion VisionMaster Pro2 Projetor Laser 4K, Contraste 15000:1, Zoom Óptico 0.9–1.5x, Google TV, 3000 Lúmens ISO, Multitarefa 2X, IMAX, HDR10+, Jogo 4ms Sem Lag, Google e Apple Home",
+      "link": "https://www.amazon.com.br/Valerion-VisionMaster-Projetor-Laser-Contraste/dp/B0FJFMZHNR",
+      "current_price": 17098.94,
+      "original_price": 17999.0,
+      "discount": 5.0,
+      "difference": 900.06,
+      "criteria": [
+        "R$ 900.06 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710G8sqHbTL._AC_UL210_SR210,210_.jpg",
+      "category": "[VIDEO_PROJECTOR]",
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1785500357.771,
+      "is_new": false
+    },
+    {
+      "asin": "B0H2NGMNB8",
+      "title": "Soundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio, Sincronia Sonora e Alexa integrada",
+      "link": "https://www.amazon.com.br/Soundbar-Samsung-HW-Q990H-Sincronia-integrada/dp/B0H2NGMNB8",
+      "current_price": 6599.0,
+      "original_price": 7399.99,
+      "discount": 10.8,
+      "difference": 800.99,
+      "criteria": [
+        "R$ 800.99 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31oTlWArj1L._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1784990556.520456,
+      "is_new": false
+    },
+    {
       "asin": "B0DBN2NR2Q",
       "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 127V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN2NR2Q",
@@ -27308,7 +27354,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1786415879.781815,
       "is_new": false
     },
@@ -27326,8 +27372,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1785520954.30177,
+      "is_new": false
+    },
+    {
+      "asin": "B082Y9F21N",
+      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
+      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
+      "current_price": 4047.08,
+      "original_price": 4780.0,
+      "discount": 15.3,
+      "difference": 732.92,
+      "criteria": [
+        "R$ 732.92 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
+      "category": "[GAS_SMOKE_FIRE_ALARM]",
+      "last_seen": 1792015207.143496,
+      "discovery_ts": 1787988377.926092,
       "is_new": false
     },
     {
@@ -27344,7 +27408,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27362,7 +27426,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -27380,7 +27444,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -27398,8 +27462,26 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791988716.157703,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1790959316.049343,
+      "is_new": false
+    },
+    {
+      "asin": "B0GZLL5D74",
+      "title": "Smartphone Motorola Edge 70 PRO 5G 256GB 12GB RAM, 4 Cameras 50MP, Extreme AMOLED, Azul Escuro",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Cameras-Extreme-AMOLED/dp/B0GZLL5D74",
+      "current_price": 3149.0,
+      "original_price": 3699.0,
+      "discount": 14.9,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61QCeDQ0JaL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792003951.963436,
+      "discovery_ts": 1792003951.963436,
       "is_new": false
     },
     {
@@ -27417,26 +27499,26 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61KS24LVgXL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1791935927.652415,
       "is_new": false
     },
     {
-      "asin": "B0BHNSVT37",
-      "title": "Lava & Seca 11 Kg Samsung Smartthings Inox Look com 12 Programas de Lavagem - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Smartthings-Programas-Lavagem/dp/B0BHNSVT37",
-      "current_price": 4179.05,
-      "original_price": 4699.0,
-      "discount": 11.1,
-      "difference": 519.95,
+      "asin": "B0F51KRTX1",
+      "title": "Smartphone Motorola Edge 60 5G - 512GB 12GB RAM+12GB Ram Boost Tela Quad-Curve moto AI 50MP Sony Camera ultrarresistencia militar IP68 + IP69 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Quad-Curve-ultrarresistencia/dp/B0F51KRTX1",
+      "current_price": 1999.0,
+      "original_price": 2499.0,
+      "discount": 20.0,
+      "difference": 500.0,
       "criteria": [
-        "R$ 519.95 desc."
+        "R$ 500.0 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41hqpPsERSL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1791988716.157703,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61fCuWd+6fL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792003951.963436,
+      "discovery_ts": 1792003951.963436,
       "is_new": false
     },
     {
@@ -27453,7 +27535,7 @@
       "badge": "9% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OWfzSMjsL._AC_UL210_SR210,210_.jpg",
       "category": "[DISHWASHER]",
-      "last_seen": 1791988716.157703,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -27474,24 +27556,6 @@
       "category": "[SHOES]",
       "last_seen": 1792003951.963436,
       "discovery_ts": 1791970389.465647,
-      "is_new": false
-    },
-    {
-      "asin": "B0FZMR7TWJ",
-      "title": "Ar-Condicionado Split Cassete 1 Via Inverter Gree G-Línea 18.000 BTUs R-32 Só Frio 220V Monofásico",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Cassete-Inverter-Gree-Monof%C3%A1sico/dp/B0FZMR7TWJ",
-      "current_price": 6039.99,
-      "original_price": 6399.0,
-      "discount": 5.6,
-      "difference": 359.01,
-      "criteria": [
-        "R$ 359.01 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-qMz-lr4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1791951144.43256,
       "is_new": false
     },
     {
@@ -27545,26 +27609,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B0CLT37N72",
-      "title": "Ventilador de teto Ventisol Fenix inverter controle remoto placa led integrada",
-      "link": "https://www.amazon.com.br/Ventilador-Ventisol-Inverter-Controle-Integrada/dp/B0CLT37N72",
-      "current_price": 299.99,
-      "original_price": 529.0,
-      "discount": 43.3,
-      "difference": 229.01,
-      "criteria": [
-        "43.3% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41qBivzjHmL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_FAN]",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1791935927.652415,
       "is_new": false
     },
     {
@@ -27581,7 +27627,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792003951.963436,
+      "last_seen": 1792015207.143496,
       "discovery_ts": 1785128082.040921,
       "is_new": false
     },
@@ -27601,24 +27647,6 @@
       "category": "[SHIRT]",
       "last_seen": 1792003951.963436,
       "discovery_ts": 1791970389.465647,
-      "is_new": false
-    },
-    {
-      "asin": "B0FFBPZCLM",
-      "title": "Perfume adidas UEFA Pro Player Eau de Toilette 100ml",
-      "link": "https://www.amazon.com.br/Perfume-adidas-Player-Toilette-100ml/dp/B0FFBPZCLM",
-      "current_price": 59.26,
-      "original_price": 149.99,
-      "discount": 60.5,
-      "difference": 90.73,
-      "criteria": [
-        "60.5% OFF"
-      ],
-      "badge": "60% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YNWT4pcCL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1791988716.157703,
-      "discovery_ts": 1791988716.157703,
       "is_new": false
     },
     {
