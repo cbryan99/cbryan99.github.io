@@ -1,5 +1,5 @@
 {
-  "last_check": "14/10/2026 09:33:23",
+  "last_check": "14/10/2026 14:38:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24809,6 +24809,10 @@
         {
           "price": 4354.0,
           "date": "2026-09-14T19:00:36.196250"
+        },
+        {
+          "price": 4265.8,
+          "date": "2026-10-14T14:38:36.157697"
         }
       ]
     },
@@ -26901,82 +26905,100 @@
           "date": "2026-10-14T09:33:09.465640"
         }
       ]
+    },
+    "B0FFBPZCLM": {
+      "discovery_date": "2026-10-14T14:38:36.157697",
+      "price_history": [
+        {
+          "price": 59.26,
+          "date": "2026-10-14T14:38:36.157697"
+        }
+      ]
+    },
+    "B0BHNSVT37": {
+      "discovery_date": "2026-10-14T14:38:36.157697",
+      "price_history": [
+        {
+          "price": 4179.05,
+          "date": "2026-10-14T14:38:36.157697"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B08F9ZQ52X",
-      "title": "Idôle Lancôme - Perfume Feminino Eau de Parfum",
-      "link": "https://www.amazon.com.br/Id%C3%B4le-Lanc%C3%B4me-Perfume-Feminino-Parfum/dp/B08F9ZQ52X",
-      "current_price": 629.9,
-      "original_price": 1069.0,
-      "discount": 41.1,
-      "difference": 439.1,
+      "asin": "B0BHNSVT37",
+      "title": "Lava & Seca 11 Kg Samsung Smartthings Inox Look com 12 Programas de Lavagem - 220V",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Smartthings-Programas-Lavagem/dp/B0BHNSVT37",
+      "current_price": 4179.05,
+      "original_price": 4699.0,
+      "discount": 11.1,
+      "difference": 519.95,
       "criteria": [
-        "41.1% OFF",
-        "R$ 439.1 desc."
+        "R$ 519.95 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MEDcXC5hL._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hqpPsERSL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1791988716.157703,
+      "is_new": true
+    },
+    {
+      "asin": "B0FFBPZCLM",
+      "title": "Perfume adidas UEFA Pro Player Eau de Toilette 100ml",
+      "link": "https://www.amazon.com.br/Perfume-adidas-Player-Toilette-100ml/dp/B0FFBPZCLM",
+      "current_price": 59.26,
+      "original_price": 149.99,
+      "discount": 60.5,
+      "difference": 90.73,
+      "criteria": [
+        "60.5% OFF"
+      ],
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YNWT4pcCL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1791970389.465647,
-      "discovery_ts": 1791970389.465647,
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1791988716.157703,
       "is_new": true
     },
     {
-      "asin": "B0FFTQV2KP",
-      "title": "Tênis Mizuno Neo Vortex",
-      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B0FFTQV2KP",
-      "current_price": 284.99,
-      "original_price": 699.99,
-      "discount": 59.3,
-      "difference": 415.0,
+      "asin": "B0FWDRRT8S",
+      "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0FWDRRT8S",
+      "current_price": 4099.0,
+      "original_price": 12499.0,
+      "discount": 67.2,
+      "difference": 8400.0,
       "criteria": [
-        "59.3% OFF",
-        "R$ 415.0 desc."
+        "67.2% OFF",
+        "R$ 8400.0 desc."
       ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61JgT1kYf4L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHOES]",
-      "last_seen": 1791970389.465647,
-      "discovery_ts": 1791970389.465647,
-      "is_new": true
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1791951144.432568,
+      "is_new": false
     },
     {
-      "asin": "B0DCZ9PRCP",
-      "title": "Amazfit T-Rex 3 Relógio Inteligente Robusto/Militar 48mm, GPS, Mapas Offline, Longa Vida da Bateria,328 Pés Resistente à Água, 170 Modos de Fitness/Desporto (preto)",
-      "link": "https://www.amazon.com.br/Amazfit-inteligente-rel%C3%B3gios-privacidade-esportivos/dp/B0DCZ9PRCP",
-      "current_price": 1226.49,
-      "original_price": 1559.0,
-      "discount": 21.3,
-      "difference": 332.51,
+      "asin": "B0DSXZZH49",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
+      "current_price": 4289.0,
+      "original_price": 11999.0,
+      "discount": 64.3,
+      "difference": 7710.0,
       "criteria": [
-        "R$ 332.51 desc."
+        "64.3% OFF",
+        "R$ 7710.0 desc."
       ],
-      "badge": "21% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71GtgMbKvKL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791970389.465647,
-      "discovery_ts": 1791970389.465647,
-      "is_new": true
-    },
-    {
-      "asin": "B0FCG5ZJDJ",
-      "title": "Camisa Polo Corinthians Retrô Kalunga Masculina Preta",
-      "link": "https://www.amazon.com.br/Camisa-Corinthians-Retr%C3%B4-Kalunga-Masculina/dp/B0FCG5ZJDJ",
-      "current_price": 89.9,
-      "original_price": 219.99,
-      "discount": 59.1,
-      "difference": 130.09,
-      "criteria": [
-        "59.1% OFF"
-      ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51KmkUQxeWL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1791970389.465647,
-      "discovery_ts": 1791970389.465647,
-      "is_new": true
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1786799221.459366,
+      "is_new": false
     },
     {
       "asin": "B0DSXZ4FZT",
@@ -26993,45 +27015,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791970389.465647,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1789768639.994649,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSXZZH49",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
-      "current_price": 6332.0,
-      "original_price": 11999.0,
-      "discount": 47.2,
-      "difference": 5667.0,
-      "criteria": [
-        "47.2% OFF",
-        "R$ 5667.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1786799221.459366,
-      "is_new": false
-    },
-    {
-      "asin": "B0FWDRRT8S",
-      "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0FWDRRT8S",
-      "current_price": 8950.0,
-      "original_price": 12499.0,
-      "discount": 28.4,
-      "difference": 3549.0,
-      "criteria": [
-        "R$ 3549.0 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
       "is_new": false
     },
     {
@@ -27049,7 +27034,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27068,26 +27053,8 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791970389.465647,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0HF7C47QY",
-      "title": "AWOL Aetherion Pro Projetor 4K, Laser RGB Triplo Ultra Curta Distancia, 2600 ISO Lumens, Google TV, Contraste 6000:1, Dolby Vision Gaming, Tela 200\", Uso Diurno Cinema em Casa",
-      "link": "https://www.amazon.com.br/Aetherion-Projetor-Triplo-Distancia-Contraste/dp/B0HF7C47QY",
-      "current_price": 17899.0,
-      "original_price": 19999.0,
-      "discount": 10.5,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61+ema21P2L._AC_UL210_SR210,210_.jpg",
-      "category": "[VIDEO_PROJECTOR]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791906368.791139,
       "is_new": false
     },
     {
@@ -27104,26 +27071,8 @@
       "badge": "31% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1791924592.370134,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGLZC96M",
-      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
-      "current_price": 6499.0,
-      "original_price": 8499.0,
-      "discount": 23.5,
-      "difference": 2000.0,
-      "criteria": [
-        "R$ 2000.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1784812193.410006,
       "is_new": false
     },
     {
@@ -27218,42 +27167,6 @@
       "is_new": false
     },
     {
-      "asin": "B082Y9F21N",
-      "title": "Acer Notebook Aspire 5 AMD Ryzen 5 5500U 16GB SSD 512GB 15.6\" Full HD Linux Preto Alimentação CA Compatível c/ Mouse USB - A515-45-R478",
-      "link": "https://www.amazon.com.br/Acer-Notebook-Aspire-Alimenta%C3%A7%C3%A3o-Compat%C3%ADvel/dp/B082Y9F21N",
-      "current_price": 3689.0,
-      "original_price": 4780.0,
-      "discount": 22.8,
-      "difference": 1091.0,
-      "criteria": [
-        "R$ 1091.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
-      "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1787988377.926092,
-      "is_new": false
-    },
-    {
-      "asin": "B0F1YPNX2Y",
-      "title": "Monitor Dell UltraSharp 32\", 4K Uhd (3840 x 2160), 120 Hz, Ips, U3225qe | IPS Black, DisplayHDR 600, 3000:1 de contraste, Sensor de luz ambiente, Eye Comfort, Thunderbolt 4, 8 USB ports, Energy Star",
-      "link": "https://www.amazon.com.br/Monitor-com-Thunderbolt-Dell-UltraSharp/dp/B0F1YPNX2Y",
-      "current_price": 6814.4,
-      "original_price": 7869.0,
-      "discount": 13.4,
-      "difference": 1054.6,
-      "criteria": [
-        "R$ 1054.6 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71LRSq3IuqL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
-      "is_new": false
-    },
-    {
       "asin": "B0FQFH5PJS",
       "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
       "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
@@ -27267,7 +27180,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -27285,26 +27198,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1791970389.465647,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1785520954.30177,
       "is_new": false
     },
     {
-      "asin": "B09QVC3PYG",
-      "title": "Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 549L Inox Look 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QVC3PYG",
-      "current_price": 6599.0,
-      "original_price": 7367.37,
-      "discount": 10.4,
-      "difference": 768.37,
+      "asin": "B0DGLXRFXB",
+      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
+      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
+      "current_price": 1259.1,
+      "original_price": 1999.0,
+      "discount": 37.0,
+      "difference": 739.9,
       "criteria": [
-        "R$ 768.37 desc."
+        "R$ 739.9 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1786542030.20045,
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1788133220.695808,
       "is_new": false
     },
     {
@@ -27321,26 +27234,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1790869371.225401,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1399.0,
-      "original_price": 1999.0,
-      "discount": 30.0,
-      "difference": 600.0,
-      "criteria": [
-        "R$ 600.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1788133220.695808,
       "is_new": false
     },
     {
@@ -27357,7 +27252,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1791970389.465647,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -27375,27 +27270,8 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1790959316.049343,
-      "is_new": false
-    },
-    {
-      "asin": "B00I7PK3GQ",
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Feminino – Fragrância Floral Gourmand com Íris Nobre e Baunilha",
-      "link": "https://www.amazon.com.br/Perfume-Lanc%C3%B4me-Belle-Parfum-Feminino/dp/B00I7PK3GQ",
-      "current_price": 569.99,
-      "original_price": 1099.0,
-      "discount": 48.1,
-      "difference": 529.01,
-      "criteria": [
-        "48.1% OFF",
-        "R$ 529.01 desc."
-      ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61KS24LVgXL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791935927.652415,
       "is_new": false
     },
     {
@@ -27417,21 +27293,77 @@
       "is_new": false
     },
     {
-      "asin": "B0DTMCLTKV",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
-      "current_price": 6332.0,
-      "original_price": 6754.0,
-      "discount": 6.2,
-      "difference": 422.0,
+      "asin": "B08F9ZQ52X",
+      "title": "Idôle Lancôme - Perfume Feminino Eau de Parfum",
+      "link": "https://www.amazon.com.br/Id%C3%B4le-Lanc%C3%B4me-Perfume-Feminino-Parfum/dp/B08F9ZQ52X",
+      "current_price": 629.9,
+      "original_price": 1069.0,
+      "discount": 41.1,
+      "difference": 439.1,
       "criteria": [
-        "R$ 422.0 desc."
+        "41.1% OFF",
+        "R$ 439.1 desc."
       ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MEDcXC5hL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
+      "is_new": false
+    },
+    {
+      "asin": "B09BBNL8MV",
+      "title": "Lava-Louças Electrolux 14 Serviços Inox com Função Higienizar Compras (LL14X) - 127V",
+      "link": "https://www.amazon.com.br/Lou%C3%A7as-Electrolux-Servi%C3%A7os-Fun%C3%A7%C3%A3o-Higienizar/dp/B09BBNL8MV",
+      "current_price": 4265.8,
+      "original_price": 4699.0,
+      "discount": 9.2,
+      "difference": 433.2,
+      "criteria": [
+        "R$ 433.2 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41OWfzSMjsL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0FFTQV2KP",
+      "title": "Tênis Mizuno Neo Vortex",
+      "link": "https://www.amazon.com.br/Mizuno-101141141-MIZUNO-NEO-VORTEX/dp/B0FFTQV2KP",
+      "current_price": 284.99,
+      "original_price": 699.99,
+      "discount": 59.3,
+      "difference": 415.0,
+      "criteria": [
+        "59.3% OFF",
+        "R$ 415.0 desc."
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JgT1kYf4L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHOES]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
+      "is_new": false
+    },
+    {
+      "asin": "B0FZMR7TWJ",
+      "title": "Ar-Condicionado Split Cassete 1 Via Inverter Gree G-Línea 18.000 BTUs R-32 Só Frio 220V Monofásico",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Cassete-Inverter-Gree-Monof%C3%A1sico/dp/B0FZMR7TWJ",
+      "current_price": 6039.99,
+      "original_price": 6399.0,
+      "discount": 5.6,
+      "difference": 359.01,
+      "criteria": [
+        "R$ 359.01 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-qMz-lr4L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1791951144.43256,
       "is_new": false
     },
     {
@@ -27453,21 +27385,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FZMR7TWJ",
-      "title": "Ar-Condicionado Split Cassete 1 Via Inverter Gree G-Línea 18.000 BTUs R-32 Só Frio 220V Monofásico",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Cassete-Inverter-Gree-Monof%C3%A1sico/dp/B0FZMR7TWJ",
-      "current_price": 6039.99,
-      "original_price": 6399.0,
-      "discount": 5.6,
-      "difference": 359.01,
+      "asin": "B0DCZ9PRCP",
+      "title": "Amazfit T-Rex 3 Relógio Inteligente Robusto/Militar 48mm, GPS, Mapas Offline, Longa Vida da Bateria,328 Pés Resistente à Água, 170 Modos de Fitness/Desporto (preto)",
+      "link": "https://www.amazon.com.br/Amazfit-inteligente-rel%C3%B3gios-privacidade-esportivos/dp/B0DCZ9PRCP",
+      "current_price": 1226.49,
+      "original_price": 1559.0,
+      "discount": 21.3,
+      "difference": 332.51,
       "criteria": [
-        "R$ 359.01 desc."
+        "R$ 332.51 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51-qMz-lr4L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791951144.432568,
-      "discovery_ts": 1791951144.432568,
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71GtgMbKvKL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
       "is_new": false
     },
     {
@@ -27484,7 +27416,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51qtxtIsd4L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1791924592.370134,
       "is_new": false
     },
@@ -27502,7 +27434,7 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1789060608.678055,
       "is_new": false
     },
@@ -27538,8 +27470,44 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41qBivzjHmL._AC_UL210_SR210,210_.jpg",
       "category": "[ELECTRIC_FAN]",
-      "last_seen": 1791951144.432568,
+      "last_seen": 1791988716.157703,
       "discovery_ts": 1791935927.652415,
+      "is_new": false
+    },
+    {
+      "asin": "B0CRTYZG5C",
+      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
+      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
+      "current_price": 196.5,
+      "original_price": 369.0,
+      "discount": 46.7,
+      "difference": 172.5,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1791988716.157703,
+      "discovery_ts": 1785128082.040921,
+      "is_new": false
+    },
+    {
+      "asin": "B0FCG5ZJDJ",
+      "title": "Camisa Polo Corinthians Retrô Kalunga Masculina Preta",
+      "link": "https://www.amazon.com.br/Camisa-Corinthians-Retr%C3%B4-Kalunga-Masculina/dp/B0FCG5ZJDJ",
+      "current_price": 89.9,
+      "original_price": 219.99,
+      "discount": 59.1,
+      "difference": 130.09,
+      "criteria": [
+        "59.1% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KmkUQxeWL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1791970389.465647,
+      "discovery_ts": 1791970389.465647,
       "is_new": false
     },
     {
