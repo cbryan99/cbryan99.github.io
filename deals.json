@@ -1,5 +1,5 @@
 {
-  "last_check": "15/10/2026 14:24:29",
+  "last_check": "15/10/2026 18:28:03",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -7850,6 +7850,10 @@
         {
           "price": 1639.99,
           "date": "2026-09-15T21:53:30.017806"
+        },
+        {
+          "price": 1599.0,
+          "date": "2026-10-15T18:27:58.026280"
         }
       ]
     },
@@ -18454,6 +18458,10 @@
         {
           "price": 4464.0,
           "date": "2026-08-11T19:41:26.868824"
+        },
+        {
+          "price": 4609.0,
+          "date": "2026-10-15T18:27:58.026280"
         }
       ]
     },
@@ -24793,6 +24801,10 @@
         {
           "price": 2089.05,
           "date": "2026-09-14T19:00:36.196250"
+        },
+        {
+          "price": 1896.11,
+          "date": "2026-10-15T18:27:58.026280"
         }
       ]
     },
@@ -26823,6 +26835,10 @@
         {
           "price": 7029.0,
           "date": "2026-10-13T23:58:47.652415"
+        },
+        {
+          "price": 7028.0,
+          "date": "2026-10-15T18:27:58.026280"
         }
       ]
     },
@@ -27050,26 +27066,62 @@
           "date": "2026-10-15T09:39:28.206467"
         }
       ]
+    },
+    "B0D6SBYCVH": {
+      "discovery_date": "2026-10-15T18:27:58.026280",
+      "price_history": [
+        {
+          "price": 4209.0,
+          "date": "2026-10-15T18:27:58.026280"
+        }
+      ]
+    },
+    "B0GL39RFGC": {
+      "discovery_date": "2026-10-15T18:27:58.026280",
+      "price_history": [
+        {
+          "price": 3599.0,
+          "date": "2026-10-15T18:27:58.026280"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GR1YNLC8",
-      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
-      "current_price": 19999.0,
-      "original_price": 25799.0,
-      "discount": 22.5,
-      "difference": 5800.0,
+      "asin": "B0D6SBYCVH",
+      "title": "Garmin Ciclocomputador com GPS Edge 1050 | Tela sensível ao toque 3,5, alertas de perigo na estrada, bateria de até 20h, Bluetooth, Ant Plus e WI-FI",
+      "link": "https://www.amazon.com.br/Ciclocomputador-com-Garmin-Edge-1050/dp/B0D6SBYCVH",
+      "current_price": 4209.0,
+      "original_price": 5439.0,
+      "discount": 22.6,
+      "difference": 1230.0,
       "criteria": [
-        "R$ 5800.0 desc."
+        "R$ 1230.0 desc."
       ],
       "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ym5F4JemL._AC_UL210_SR210,210_.jpg",
+      "category": "[GPS_OR_NAVIGATION_SYSTEM]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1792088878.026288,
+      "is_new": true
+    },
+    {
+      "asin": "B0GL39RFGC",
+      "title": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H, 8GB RAM, 256GB SSD, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-i5-13420H-83NSS00300/dp/B0GL39RFGC",
+      "current_price": 3599.0,
+      "original_price": 3899.0,
+      "discount": 7.7,
+      "difference": 300.0,
+      "criteria": [
+        "R$ 300.0 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erRBhgfDL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792057168.206475,
-      "discovery_ts": 1791854613.922112,
-      "is_new": false
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1792088878.026288,
+      "is_new": true
     },
     {
       "asin": "B0DSXZ4FZT",
@@ -27086,8 +27138,27 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1789768639.994649,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFH5PJS",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
+      "current_price": 18.77,
+      "original_price": 3299.0,
+      "discount": 99.4,
+      "difference": 3280.23,
+      "criteria": [
+        "99.4% OFF",
+        "R$ 3280.23 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1787355246.696526,
       "is_new": false
     },
     {
@@ -27105,7 +27176,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27124,7 +27195,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27142,8 +27213,44 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1786366711.615938,
+      "is_new": false
+    },
+    {
+      "asin": "B0B8Z8B75C",
+      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 16GB Linux",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-76Z8-Intel-gera%C3%A7%C3%A3o/dp/B0B8Z8B75C",
+      "current_price": 4499.0,
+      "original_price": 6599.0,
+      "discount": 31.8,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1791924592.370134,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGLZC96M",
+      "title": "Apple iPhone 16 Plus (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-Plus-128/dp/B0DGLZC96M",
+      "current_price": 6499.0,
+      "original_price": 8499.0,
+      "discount": 23.5,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HFgqx-bmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1784812193.410006,
       "is_new": false
     },
     {
@@ -27201,6 +27308,43 @@
       "is_new": false
     },
     {
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 1896.11,
+      "original_price": 3806.0,
+      "discount": 50.2,
+      "difference": 1909.89,
+      "criteria": [
+        "50.2% OFF",
+        "R$ 1909.89 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQF9X69T",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
+      "current_price": 3799.0,
+      "original_price": 5499.0,
+      "discount": 30.9,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1792003951.96343,
+      "is_new": false
+    },
+    {
       "asin": "B0FQFKQ6J5",
       "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G",
       "link": "https://www.amazon.com.br/Apple-Cellular-alum%C3%ADnio-Bracelete-desportiva/dp/B0FQFKQ6J5",
@@ -27216,6 +27360,42 @@
       "category": "[WEARABLE_COMPUTER]",
       "last_seen": 1792074250.885676,
       "discovery_ts": 1791906368.791146,
+      "is_new": false
+    },
+    {
+      "asin": "B0HF7D9C2J",
+      "title": "Notebook Samsung Galaxy Book6 14\" Copilot+ PC, Windows 11 Home, Ultra 5, 16GB, 512GB SSD, 1.43 kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HF7D9C2J",
+      "current_price": 7028.0,
+      "original_price": 8199.0,
+      "discount": 14.3,
+      "difference": 1171.0,
+      "criteria": [
+        "R$ 1171.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1791935927.652415,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFJNSLK",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 40 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJNSLK",
+      "current_price": 2299.0,
+      "original_price": 3299.0,
+      "discount": 30.3,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1792015207.143488,
       "is_new": false
     },
     {
@@ -27237,24 +27417,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2299.0,
-      "original_price": 3299.0,
-      "discount": 30.3,
-      "difference": 1000.0,
-      "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792057168.206475,
-      "discovery_ts": 1787355246.696526,
-      "is_new": false
-    },
-    {
       "asin": "B0FJFMZHNR",
       "title": "Valerion VisionMaster Pro2 Projetor Laser 4K, Contraste 15000:1, Zoom Óptico 0.9–1.5x, Google TV, 3000 Lúmens ISO, Multitarefa 2X, IMAX, HDR10+, Jogo 4ms Sem Lag, Google e Apple Home",
       "link": "https://www.amazon.com.br/Valerion-VisionMaster-Projetor-Laser-Contraste/dp/B0FJFMZHNR",
@@ -27268,7 +27430,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/710G8sqHbTL._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_PROJECTOR]",
-      "last_seen": 1792057168.206475,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1785500357.771,
       "is_new": false
     },
@@ -27304,7 +27466,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -27328,7 +27490,7 @@
     },
     {
       "asin": "B0FR6PC1FB",
-      "title": "Bundle Nintendo Switch OLED + Super Mario Bros. Wonder + 3MO NOS",
+      "title": "Bundle Nintendo Switch OLED + Super Mario Bros Wonder + 3 Meses de Assinatura Nintendo Switch Online",
       "link": "https://www.amazon.com.br/Bundle-Nintendo-Switch-Wonder-Assinatura/dp/B0FR6PC1FB",
       "current_price": 1999.94,
       "original_price": 2699.9,
@@ -27340,7 +27502,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27363,42 +27525,6 @@
       "is_new": false
     },
     {
-      "asin": "B07KXXFQ8J",
-      "title": "Cadeira de Escritório e Gamer DT3 Rhino, ergonomica e confortável revestimento DT3 Everpro™, Espuma injetada, estrutura reforçada em aço tubular, braços 4D+, Certificada NR-17. (Black)",
-      "link": "https://www.amazon.com.br/DT3-ergonomica-confort%C3%A1vel-revestimento-EverproTM/dp/B07KXXFQ8J",
-      "current_price": 2999.89,
-      "original_price": 3599.9,
-      "discount": 16.7,
-      "difference": 600.01,
-      "criteria": [
-        "R$ 600.01 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Pi-riKf4L._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1792057168.206475,
-      "discovery_ts": 1792057168.206475,
-      "is_new": false
-    },
-    {
-      "asin": "B08536419Y",
-      "title": "Cadeira Gamer DT3 Rhino Fabric, ergonomica e confortável em Tecido DT3 TechSoft™, espuma injetada, estrutura reforçada em aço, braços 4D+, suporta até 200kg e altura máx. de 2,00m (Cosmos)",
-      "link": "https://www.amazon.com.br/DT3-ergonomica-confort%C3%A1vel-TechSoftTM-estrutura/dp/B08536419Y",
-      "current_price": 2999.89,
-      "original_price": 3599.9,
-      "discount": 16.7,
-      "difference": 600.01,
-      "criteria": [
-        "R$ 600.01 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51LJEOqzCdL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1792057168.206475,
-      "discovery_ts": 1792057168.206475,
-      "is_new": false
-    },
-    {
       "asin": "B0DGLXRFXB",
       "title": "AirPods 4 com Cancelamento Ativo de Ruído",
       "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
@@ -27412,8 +27538,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1788133220.695808,
+      "is_new": false
+    },
+    {
+      "asin": "B0GM343N7Q",
+      "title": "Samsung Ar-condicionado Inverter WindFree AI Pro 24000 BTU QF 220V",
+      "link": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-24000/dp/B0GM343N7Q",
+      "current_price": 4609.0,
+      "original_price": 5199.0,
+      "discount": 11.3,
+      "difference": 590.0,
+      "criteria": [
+        "R$ 590.0 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Syumu+kTL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1786477286.868824,
       "is_new": false
     },
     {
@@ -27430,7 +27574,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -27472,6 +27616,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FH5NMXHK",
+      "title": "Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
+      "current_price": 1599.0,
+      "original_price": 1999.0,
+      "discount": 20.0,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1785547051.313967,
+      "is_new": false
+    },
+    {
       "asin": "B0DG5JXWB3",
       "title": "Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly(Rosa)",
       "link": "https://www.amazon.com.br/escrit%C3%B3rio-ergon%C3%B4mico-independente-respir%C3%A1vel-ajust%C3%A1vel/dp/B0DG5JXWB3",
@@ -27509,6 +27671,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CLT37N72",
+      "title": "Ventilador de teto Ventisol Fenix inverter controle remoto placa led integrada",
+      "link": "https://www.amazon.com.br/Ventilador-Ventisol-Inverter-Controle-Integrada/dp/B0CLT37N72",
+      "current_price": 299.99,
+      "original_price": 529.0,
+      "discount": 43.3,
+      "difference": 229.01,
+      "criteria": [
+        "43.3% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qBivzjHmL._AC_UL210_SR210,210_.jpg",
+      "category": "[ELECTRIC_FAN]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1791935927.652415,
+      "is_new": false
+    },
+    {
       "asin": "B0CRTYZG5C",
       "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
       "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
@@ -27522,26 +27702,8 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792074250.885676,
+      "last_seen": 1792088878.026288,
       "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
-      "asin": "B07JHH3WJB",
-      "title": "Creatina Monohidratada 100% Creapure Sem Sabor Pote 300g – Dux Human Health",
-      "link": "https://www.amazon.com.br/DUX-HUMAN-HEALTH-Monohidratada-Suplementa%C3%A7%C3%A3o/dp/B07JHH3WJB",
-      "current_price": 129.9,
-      "original_price": 282.21,
-      "discount": 54.0,
-      "difference": 152.31,
-      "criteria": [
-        "54.0% OFF"
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612UedWyQSL._AC_UL210_SR210,210_.jpg",
-      "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1792057168.206475,
-      "discovery_ts": 1792057168.206475,
       "is_new": false
     },
     {
@@ -27578,6 +27740,24 @@
       "category": "🧴 Cuidado Pessoal",
       "last_seen": 1792074250.885676,
       "discovery_ts": 1784433482.515947,
+      "is_new": false
+    },
+    {
+      "asin": "8551009834",
+      "title": "O massacre da família Hope",
+      "link": "https://www.amazon.com.br/massacre-fam%C3%ADlia-Hope-Riley-Sager/dp/8551009834",
+      "current_price": 40.77,
+      "original_price": 69.9,
+      "discount": 41.7,
+      "difference": 29.13,
+      "criteria": [
+        "41.7% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815bfY-u6-L._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1792088878.026288,
+      "discovery_ts": 1791906368.791139,
       "is_new": false
     }
   ]
