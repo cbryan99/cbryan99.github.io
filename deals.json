@@ -1,5 +1,5 @@
 {
-  "last_check": "16/10/2026 18:59:24",
+  "last_check": "16/10/2026 21:58:17",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2148,6 +2148,10 @@
         {
           "price": 3898.99,
           "date": "2026-07-30T21:40:45.241594"
+        },
+        {
+          "price": 3898.98,
+          "date": "2026-10-16T21:58:02.853965"
         }
       ]
     },
@@ -22789,6 +22793,10 @@
         {
           "price": 1908.99,
           "date": "2026-08-22T03:09:18.987282"
+        },
+        {
+          "price": 1778.96,
+          "date": "2026-10-16T21:58:02.853965"
         }
       ]
     },
@@ -27168,9 +27176,63 @@
           "date": "2026-10-16T15:35:01.846404"
         }
       ]
+    },
+    "B0CY74XGZM": {
+      "discovery_date": "2026-10-16T21:58:02.853965",
+      "price_history": [
+        {
+          "price": 1686.99,
+          "date": "2026-10-16T21:58:02.853965"
+        }
+      ]
+    },
+    "B0FQG8Y4V9": {
+      "discovery_date": "2026-10-16T21:58:02.853965",
+      "price_history": [
+        {
+          "price": 4099.0,
+          "date": "2026-10-16T21:58:02.853965"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQG8Y4V9",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio preto brilhante de 46 mm com Bracelete desportiva preta - M/G",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-brilhante-Bracelete-desportiva/dp/B0FQG8Y4V9",
+      "current_price": 4099.0,
+      "original_price": 5899.0,
+      "discount": 30.5,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cLXzfpQ9L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1792187882.853972,
+      "is_new": true
+    },
+    {
+      "asin": "B0CY74XGZM",
+      "title": "Ar Condicionado Janela Eletrônico Hisense com Wi-Fi 10.000 BTUs Frio R-32 AW-10CW2RVGU00-220V",
+      "link": "https://www.amazon.com.br/Condicionado-Hisense-Monof%C3%A1sico-Eletr%C3%B4nico-Aw-10cw2rvgu00-220v/dp/B0CY74XGZM",
+      "current_price": 1686.99,
+      "original_price": 2399.0,
+      "discount": 29.7,
+      "difference": 712.01,
+      "criteria": [
+        "R$ 712.01 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LWlcLoY8L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1792187882.853972,
+      "is_new": true
+    },
     {
       "asin": "B0FWDRRT8S",
       "title": "Apple 2025 iPad Pro de 11 polegadas (Wi-Fi, 256 GB) - Preto sideral (M5)",
@@ -27186,8 +27248,26 @@
       "badge": "34% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/518n2xv2PDL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1791951144.43256,
+      "is_new": false
+    },
+    {
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
+      "criteria": [
+        "R$ 5800.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
@@ -27205,7 +27285,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1789768639.994649,
       "is_new": false
     },
@@ -27229,6 +27309,44 @@
       "is_new": false
     },
     {
+      "asin": "B0GMY41LM8",
+      "title": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 12GB RAM + 12GB RAM Boost, Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-Edge-Crystals-Swarovski/dp/B0GMY41LM8",
+      "current_price": 3099.0,
+      "original_price": 5999.0,
+      "discount": 48.3,
+      "difference": 2900.0,
+      "criteria": [
+        "48.3% OFF",
+        "R$ 2900.0 desc."
+      ],
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1789083919.237103,
+      "is_new": false
+    },
+    {
+      "asin": "B0F8LJSC9B",
+      "title": "Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho",
+      "link": "https://www.amazon.com.br/Smartphone-Motorola-60-256GB-dobr%C3%A1vel-externa/dp/B0F8LJSC9B",
+      "current_price": 2999.0,
+      "original_price": 5499.0,
+      "discount": 45.5,
+      "difference": 2500.0,
+      "criteria": [
+        "45.5% OFF",
+        "R$ 2500.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1785712474.49735,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFVKKWT",
       "title": "Apple iPhone 16 (256 GB) – Rosa",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFVKKWT",
@@ -27242,26 +27360,8 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1786366711.615938,
-      "is_new": false
-    },
-    {
-      "asin": "B0B8Z8B75C",
-      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 16GB Linux",
-      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-76Z8-Intel-gera%C3%A7%C3%A3o/dp/B0B8Z8B75C",
-      "current_price": 4499.0,
-      "original_price": 6599.0,
-      "discount": 31.8,
-      "difference": 2100.0,
-      "criteria": [
-        "R$ 2100.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1791924592.370134,
       "is_new": false
     },
     {
@@ -27279,7 +27379,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1792131992.628407,
       "is_new": false
     },
@@ -27297,44 +27397,63 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61WSoXLl+gL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
     {
-      "asin": "B0FQF9X69T",
-      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
-      "current_price": 3799.0,
-      "original_price": 5499.0,
-      "discount": 30.9,
-      "difference": 1700.0,
+      "asin": "B0F9LH6V3F",
+      "title": "Ar Condicionado Janela Hisense 12000 Btus Frio Aw-12CR2RWGU00 220v",
+      "link": "https://www.amazon.com.br/condicionado-janela-Hisense-12000-aw-12cr2rwgu00/dp/B0F9LH6V3F",
+      "current_price": 1778.96,
+      "original_price": 3069.0,
+      "discount": 42.0,
+      "difference": 1290.04,
       "criteria": [
-        "R$ 1700.0 desc."
+        "42.0% OFF",
+        "R$ 1290.04 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1792003951.96343,
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vJ7phXIrL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1787368158.987282,
       "is_new": false
     },
     {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2299.0,
-      "original_price": 3299.0,
-      "discount": 30.3,
-      "difference": 1000.0,
+      "asin": "B0HF7D9C2J",
+      "title": "Notebook Samsung Galaxy Book6 14\" Copilot+ PC, Windows 11 Home, Ultra 5, 16GB, 512GB SSD, 1.43 kg",
+      "link": "https://www.amazon.com.br/Notebook-Samsung-Galaxy-Copilot-Windows/dp/B0HF7D9C2J",
+      "current_price": 7028.0,
+      "original_price": 8199.0,
+      "discount": 14.3,
+      "difference": 1171.0,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 1171.0 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1787355246.696526,
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1791935927.652415,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBP6G49",
+      "title": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8929-78-Freesync/dp/B0FPBP6G49",
+      "current_price": 3898.98,
+      "original_price": 4899.0,
+      "discount": 20.4,
+      "difference": 1000.02,
+      "criteria": [
+        "R$ 1000.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1785004672.586121,
       "is_new": false
     },
     {
@@ -27351,7 +27470,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1792040286.253886,
       "is_new": false
     },
@@ -27374,9 +27493,9 @@
       "is_new": false
     },
     {
-      "asin": "B0DBN6SGRN",
-      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
+      "asin": "B0DBN2NR2Q",
+      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 127V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN2NR2Q",
       "current_price": 2679.0,
       "original_price": 3472.63,
       "discount": 22.9,
@@ -27387,8 +27506,44 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1785520954.30177,
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1786415879.781815,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.88,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.12,
+      "criteria": [
+        "R$ 775.12 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGLXRFXB",
+      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
+      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
+      "current_price": 1259.1,
+      "original_price": 1999.0,
+      "discount": 37.0,
+      "difference": 739.9,
+      "criteria": [
+        "R$ 739.9 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1788133220.695808,
       "is_new": false
     },
     {
@@ -27405,7 +27560,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -27423,44 +27578,8 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1790869371.225401,
-      "is_new": false
-    },
-    {
-      "asin": "B0FL7GXSCV",
-      "title": "eufy C28 Robô Aspirador e Passa Pano, Rolo Esfregão Autolimpante em Tempo Real, 30 cm Cabelo 0 Enrolados, Estação de Lava e Seca com Alta Temperatura, Evita Obstáculos com IA e LiDAR, 15000 Pa, 127V",
-      "link": "https://www.amazon.com.br/eufy-omniRob%C3%B4-Aspirador-Esfreg%C3%A3o-HydroJet/dp/B0FL7GXSCV",
-      "current_price": 5669.0,
-      "original_price": 6299.09,
-      "discount": 10.0,
-      "difference": 630.09,
-      "criteria": [
-        "R$ 630.09 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ifqvHPRCL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1790259419.974763,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1399.0,
-      "original_price": 1999.0,
-      "discount": 30.0,
-      "difference": 600.0,
-      "criteria": [
-        "R$ 600.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1788133220.695808,
       "is_new": false
     },
     {
@@ -27477,7 +27596,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61Syumu+kTL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1786477286.868824,
       "is_new": false
     },
@@ -27495,100 +27614,44 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
     {
-      "asin": "B0DG32SNZ4",
-      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
-      "current_price": 279.9,
-      "original_price": 829.9,
-      "discount": 66.3,
-      "difference": 550.0,
+      "asin": "B0BHNSVT37",
+      "title": "Lava & Seca 11 Kg Samsung Smartthings Inox Look com 12 Programas de Lavagem - 220V",
+      "link": "https://www.amazon.com.br/Lava-Samsung-Smartthings-Programas-Lavagem/dp/B0BHNSVT37",
+      "current_price": 4179.05,
+      "original_price": 4699.0,
+      "discount": 11.1,
+      "difference": 519.95,
       "criteria": [
-        "66.3% OFF",
-        "R$ 550.0 desc."
+        "R$ 519.95 desc."
       ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1790417113.008513,
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hqpPsERSL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1791988716.157697,
       "is_new": false
     },
     {
-      "asin": "B00I7PK3GQ",
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Feminino – Fragrância Floral Gourmand com Íris Nobre e Baunilha",
-      "link": "https://www.amazon.com.br/Perfume-Lanc%C3%B4me-Belle-Parfum-Feminino/dp/B00I7PK3GQ",
-      "current_price": 569.99,
-      "original_price": 1099.0,
-      "discount": 48.1,
-      "difference": 529.01,
+      "asin": "B0CV4H7QRZ",
+      "title": "Cervejeira Imbera 569 Litros Porta De Vidro Full Black CCV355-220V",
+      "link": "https://www.amazon.com.br/Cervejeira-Imbera-Litros-Porta-Ccv355-220v/dp/B0CV4H7QRZ",
+      "current_price": 5079.03,
+      "original_price": 5399.0,
+      "discount": 5.9,
+      "difference": 319.97,
       "criteria": [
-        "48.1% OFF",
-        "R$ 529.01 desc."
+        "R$ 319.97 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61KS24LVgXL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1791935927.652415,
-      "is_new": false
-    },
-    {
-      "asin": "B0FH5NMXHK",
-      "title": "Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
-      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
-      "current_price": 1599.0,
-      "original_price": 1999.0,
-      "discount": 20.0,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1785547051.313967,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCSP9NS4",
-      "title": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Midea-Ecomaster/dp/B0FCSP9NS4",
-      "current_price": 1837.98,
-      "original_price": 2189.0,
-      "discount": 16.0,
-      "difference": 351.02,
-      "criteria": [
-        "R$ 351.02 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1792131992.628407,
-      "is_new": false
-    },
-    {
-      "asin": "B0HFXJRSYH",
-      "title": "Ar Condicionado Split Inverter 12000 BTUs Hisense Hi-Efficiency Frio AS-12TW2RLUHB00E - 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Hisense-Hi-Efficiency-AS-12TW2RLUHB00E/dp/B0HFXJRSYH",
-      "current_price": 1954.13,
-      "original_price": 2276.67,
-      "discount": 14.2,
-      "difference": 322.54,
-      "criteria": [
-        "R$ 322.54 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1792164901.846411,
+      "last_seen": 1792187882.853972,
+      "discovery_ts": 1792151091.921517,
       "is_new": false
     },
     {
@@ -27605,26 +27668,8 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51xhBW18BEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1789060608.678055,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRTYZG5C",
-      "title": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS | 45H, com Cancelamento de Ruído Adaptativo, Graves Poderosos, Estojo 2-em-1 com Suporte para Celular, IP54, Fone Gamer TWS",
-      "link": "https://www.amazon.com.br/soundcore-Cancelamento-Poderosos-Reprodu%C3%A7%C3%A3o-Bluetooth/dp/B0CRTYZG5C",
-      "current_price": 196.5,
-      "original_price": 369.0,
-      "discount": 46.7,
-      "difference": 172.5,
-      "criteria": [
-        "46.7% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51o-AcAQWgL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792164901.846411,
-      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -27641,7 +27686,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41OcWO275YL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Cuidado Pessoal",
-      "last_seen": 1792164901.846411,
+      "last_seen": 1792187882.853972,
       "discovery_ts": 1784433482.515947,
       "is_new": false
     }
