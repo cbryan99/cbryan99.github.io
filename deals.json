@@ -1,5 +1,5 @@
 {
-  "last_check": "17/10/2026 20:17:07",
+  "last_check": "17/10/2026 22:25:08",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -812,6 +812,10 @@
         {
           "price": 4749.0,
           "date": "2026-09-27T06:48:05.164583"
+        },
+        {
+          "price": 4399.0,
+          "date": "2026-10-17T22:25:04.329818"
         }
       ]
     },
@@ -7832,6 +7836,10 @@
         {
           "price": 1916.0,
           "date": "2026-07-31T21:49:18.629136"
+        },
+        {
+          "price": 1999.0,
+          "date": "2026-10-17T22:25:04.329818"
         }
       ]
     },
@@ -27341,43 +27349,34 @@
           "date": "2026-10-17T20:16:54.176833"
         }
       ]
+    },
+    "B0FQFH6261": {
+      "discovery_date": "2026-10-17T22:25:04.329818",
+      "price_history": [
+        {
+          "price": 4099.0,
+          "date": "2026-10-17T22:25:04.329818"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F2VWYJ11",
-      "title": "Cadeira de Escritório DT3 Ergonomie FT, Revestimento  Mesh Polytex™; Apoio cabeça profissional 4D, Apoio de braço 5D 360º, Apoio de pé dobrável, ajuste de altura no encosto, certificada NR-17(Black)",
-      "link": "https://www.amazon.com.br/Escrit%C3%B3rio-DT3-Ergonomie-Revestimento-Mesh-profissional/dp/B0F2VWYJ11",
-      "current_price": 2399.9,
-      "original_price": 3399.9,
-      "discount": 29.4,
-      "difference": 1000.0,
+      "asin": "B0FQFH6261",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio preto brilhante de 46 mm com Bracelete desportiva preta - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-brilhante-Bracelete-desportiva/dp/B0FQFH6261",
+      "current_price": 4099.0,
+      "original_price": 5899.0,
+      "discount": 30.5,
+      "difference": 1800.0,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 1800.0 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71-wT5y2-AL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1792268214.176839,
-      "discovery_ts": 1792268214.176839,
-      "is_new": true
-    },
-    {
-      "asin": "B0F9LH32GC",
-      "title": "Refrigerador side by side PHILCO frost free prf613id eco inverter 513l inox 127v",
-      "link": "https://www.amazon.com.br/Refrigerador-PHILCO-frost-prf613id-inverter/dp/B0F9LH32GC",
-      "current_price": 5968.99,
-      "original_price": 6449.0,
-      "discount": 7.4,
-      "difference": 480.01,
-      "criteria": [
-        "R$ 480.01 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/419ssHCBi1L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792268214.176839,
-      "discovery_ts": 1792268214.176839,
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cLXzfpQ9L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1792275904.329825,
       "is_new": true
     },
     {
@@ -27432,7 +27431,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1791924592.370134,
       "is_new": false
     },
@@ -27451,8 +27450,26 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792259884.468406,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1789083919.237103,
+      "is_new": false
+    },
+    {
+      "asin": "B0CPFBBHP4",
+      "title": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos com Visão por IA e Laser LiDAR,Ideal para Pets, 220v",
+      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
+      "current_price": 4399.0,
+      "original_price": 6999.0,
+      "discount": 37.1,
+      "difference": 2600.0,
+      "criteria": [
+        "R$ 2600.0 desc."
+      ],
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1784564480.506233,
       "is_new": false
     },
     {
@@ -27470,7 +27487,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27493,6 +27510,24 @@
       "is_new": false
     },
     {
+      "asin": "B0B8Z8B75C",
+      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 16GB Linux",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-76Z8-Intel-gera%C3%A7%C3%A3o/dp/B0B8Z8B75C",
+      "current_price": 4499.0,
+      "original_price": 6599.0,
+      "discount": 31.8,
+      "difference": 2100.0,
+      "criteria": [
+        "R$ 2100.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61P+B9M---L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1791924592.370134,
+      "is_new": false
+    },
+    {
       "asin": "B0HCXKT67F",
       "title": "Ar Condicionado Split Midea Inverter Lite 12000 Btu R32 Frio 42ebvcb12m5 Branco 220v",
       "link": "https://www.amazon.com.br/Condicionado-Midea-Inverter-42ebvcb12m5-Branco/dp/B0HCXKT67F",
@@ -27507,7 +27542,7 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1792131992.628407,
       "is_new": false
     },
@@ -27525,7 +27560,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61WSoXLl+gL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -27543,7 +27578,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41KyuokqWLL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1792259884.468399,
       "is_new": false
     },
@@ -27634,8 +27669,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1787355246.696526,
+      "is_new": false
+    },
+    {
+      "asin": "B0F2VWYJ11",
+      "title": "Cadeira de Escritório DT3 Ergonomie FT, Revestimento  Mesh Polytex™; Apoio cabeça profissional 4D, Apoio de braço 5D 360º, Apoio de pé dobrável, ajuste de altura no encosto, certificada NR-17(Black)",
+      "link": "https://www.amazon.com.br/Escrit%C3%B3rio-DT3-Ergonomie-Revestimento-Mesh-profissional/dp/B0F2VWYJ11",
+      "current_price": 2399.9,
+      "original_price": 3399.9,
+      "discount": 29.4,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-wT5y2-AL._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1792268214.176839,
+      "discovery_ts": 1792268214.176839,
       "is_new": false
     },
     {
@@ -27657,24 +27710,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GR11CQ84",
-      "title": "Monitor Samsung Odyssey OLED G9 49\", DQHD, 240Hz, 0.03ms, ajuste de altura, G-sync, FreeSync Premium Pro, DP, HDMI, Micro HDMI, prata",
-      "link": "https://www.amazon.com.br/Monitor-Samsung-Odyssey-FreeSync-Premium/dp/B0GR11CQ84",
-      "current_price": 8549.0,
-      "original_price": 9499.0,
-      "discount": 10.0,
-      "difference": 950.0,
-      "criteria": [
-        "R$ 950.0 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51oGhLrTfhL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1792252148.744438,
-      "discovery_ts": 1784477560.307231,
-      "is_new": false
-    },
-    {
       "asin": "B08DMTXRHC",
       "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 127V - WD3S1443BB1",
       "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B08DMTXRHC",
@@ -27688,7 +27723,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792252148.744438,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1792240071.4291,
       "is_new": false
     },
@@ -27724,8 +27759,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792259884.468406,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1784464310.552537,
+      "is_new": false
+    },
+    {
+      "asin": "B09QVC3PYG",
+      "title": "Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 549L Inox Look 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QVC3PYG",
+      "current_price": 6599.0,
+      "original_price": 7367.37,
+      "discount": 10.4,
+      "difference": 768.37,
+      "criteria": [
+        "R$ 768.37 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1786542030.20045,
       "is_new": false
     },
     {
@@ -27742,7 +27795,7 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YpwUlKoFL._AC_UL210_SR210,210_.jpg",
       "category": "[GAS_SMOKE_FIRE_ALARM]",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1787988377.926092,
       "is_new": false
     },
@@ -27760,7 +27813,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27783,24 +27836,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FL7GXSCV",
-      "title": "eufy C28 Robô Aspirador e Passa Pano, Rolo Esfregão Autolimpante em Tempo Real, 30 cm Cabelo 0 Enrolados, Estação de Lava e Seca com Alta Temperatura, Evita Obstáculos com IA e LiDAR, 15000 Pa, 127V",
-      "link": "https://www.amazon.com.br/eufy-omniRob%C3%B4-Aspirador-Esfreg%C3%A3o-HydroJet/dp/B0FL7GXSCV",
-      "current_price": 5669.0,
-      "original_price": 6299.09,
-      "discount": 10.0,
-      "difference": 630.09,
-      "criteria": [
-        "R$ 630.09 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ifqvHPRCL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792252148.744438,
-      "discovery_ts": 1790259419.974763,
-      "is_new": false
-    },
-    {
       "asin": "B0DGLXRFXB",
       "title": "AirPods 4 com Cancelamento Ativo de Ruído",
       "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
@@ -27814,7 +27849,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792259884.468406,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -27873,21 +27908,39 @@
       "is_new": false
     },
     {
-      "asin": "B0CHYWX5BZ",
-      "title": "Fogão 5 Bocas Preto com Mesa de Inox Dako Magister Bivolt",
-      "link": "https://www.amazon.com.br/Fog%C3%A3o-Bocas-Dako-Magister-Bivolt/dp/B0CHYWX5BZ",
-      "current_price": 1727.2,
-      "original_price": 2149.0,
-      "discount": 19.6,
-      "difference": 421.8,
+      "asin": "B0F9LH32GC",
+      "title": "Refrigerador side by side PHILCO frost free prf613id eco inverter 513l inox 127v",
+      "link": "https://www.amazon.com.br/Refrigerador-PHILCO-frost-prf613id-inverter/dp/B0F9LH32GC",
+      "current_price": 5968.99,
+      "original_price": 6449.0,
+      "discount": 7.4,
+      "difference": 480.01,
       "criteria": [
-        "R$ 421.8 desc."
+        "R$ 480.01 desc."
       ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51cmn61mD3L._AC_UL210_SR210,210_.jpg",
-      "category": "[RANGE]",
-      "last_seen": 1792252148.744438,
-      "discovery_ts": 1792252148.744438,
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419ssHCBi1L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792268214.176839,
+      "discovery_ts": 1792268214.176839,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH5NMXHK",
+      "title": "Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort 1.4, 3 USB 5 Gbps",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-25-320Hz/dp/B0FH5NMXHK",
+      "current_price": 1599.0,
+      "original_price": 1999.0,
+      "discount": 20.0,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1785547051.313967,
       "is_new": false
     },
     {
@@ -27904,7 +27957,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1792131992.628407,
       "is_new": false
     },
@@ -27922,26 +27975,26 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792268214.176839,
+      "last_seen": 1792275904.329825,
       "discovery_ts": 1792151091.921517,
       "is_new": false
     },
     {
-      "asin": "B0FG9H4NR4",
-      "title": "Aparador de Pelos Philips Multigroom 3000 Series, 10 em 1, Barbeador Elétrico para Rosto, Cabeça e Corpo, MG3931/15",
-      "link": "https://www.amazon.com.br/Philips-Autoafi%C3%A1veis-Configura%C3%A7%C3%B5es-Comprimento-MG3931/dp/B0FG9H4NR4",
-      "current_price": 149.0,
-      "original_price": 289.9,
-      "discount": 48.6,
-      "difference": 140.9,
+      "asin": "B0F2KBZ7WQ",
+      "title": "Monitor Gamer Alienware 27\", Qhd (2560 x 1440), 180 Hz, Fast Ips, Aw2725dm | VESA DisplayHDR 400, Tempo de Resposta 1 ms, Brilho de 400 nits, Contraste de 1000:1, USB 5 Gbps, HDMI 2.1",
+      "link": "https://www.amazon.com.br/Monitor-Gamer-Alienware-27-QHD/dp/B0F2KBZ7WQ",
+      "current_price": 1999.0,
+      "original_price": 2299.0,
+      "discount": 13.0,
+      "difference": 300.0,
       "criteria": [
-        "48.6% OFF"
+        "R$ 300.0 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71ilMif2TEL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRIC_SHAVER]",
-      "last_seen": 1792252148.744438,
-      "discovery_ts": 1792226785.614568,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TzFdwa3-L._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1792275904.329825,
+      "discovery_ts": 1785534558.629136,
       "is_new": false
     },
     {
