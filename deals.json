@@ -1,5 +1,5 @@
 {
-  "last_check": "18/10/2026 16:28:53",
+  "last_check": "18/10/2026 18:49:08",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23875,6 +23875,10 @@
         {
           "price": 3999.0,
           "date": "2026-08-31T07:37:15.986265"
+        },
+        {
+          "price": 3799.0,
+          "date": "2026-10-18T18:49:08.379563"
         }
       ]
     },
@@ -27451,25 +27455,61 @@
           "date": "2026-10-18T16:28:51.024104"
         }
       ]
+    },
+    "B0H3C64TRB": {
+      "discovery_date": "2026-10-18T18:49:08.379563",
+      "price_history": [
+        {
+          "price": 16599.0,
+          "date": "2026-10-18T18:49:08.379563"
+        }
+      ]
+    },
+    "B0F2WLTJLK": {
+      "discovery_date": "2026-10-18T18:49:08.379563",
+      "price_history": [
+        {
+          "price": 2399.9,
+          "date": "2026-10-18T18:49:08.379563"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0HJ6PZ3QW",
-      "title": "Ar Condicionado Split Hi-Efficiency Hisense 36000 BTUs Frio Inverter Wi-Fi",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Hi-Efficiency-Hisense-Inverter/dp/B0HJ6PZ3QW",
-      "current_price": 6104.99,
-      "original_price": 6479.0,
-      "discount": 5.8,
-      "difference": 374.01,
+      "asin": "B0H3C64TRB",
+      "title": "Geladeira French Door RF 70H com Dispenser de Água e Gelo Inox 664L (220, Volts)",
+      "link": "https://www.amazon.com.br/Geladeira-French-Door-Dispenser-Volts/dp/B0H3C64TRB",
+      "current_price": 16599.0,
+      "original_price": 17999.0,
+      "discount": 7.8,
+      "difference": 1400.0,
       "criteria": [
-        "R$ 374.01 desc."
+        "R$ 1400.0 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31lIO0-KKOL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792340931.024112,
-      "discovery_ts": 1792340931.024112,
+      "last_seen": 1792349348.37957,
+      "discovery_ts": 1792349348.37957,
+      "is_new": true
+    },
+    {
+      "asin": "B0F2WLTJLK",
+      "title": "Cadeira de Escritório DT3 Ergonomie FT em Mesh Polytex™; Suporte lombar SpineSync, Encosto 5 pontos ajuste de altura, Apoio cabeça 4D, Apoio braço 5D 360º, Apoio de pé dobrável, certificada.",
+      "link": "https://www.amazon.com.br/Escrit%C3%B3rio-DT3-Ergonomie-Revestimento-Mesh-profissional/dp/B0F2WLTJLK",
+      "current_price": 2399.9,
+      "original_price": 3399.9,
+      "discount": 29.4,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZhvH2SC+L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1792349348.37957,
+      "discovery_ts": 1792349348.37957,
       "is_new": true
     },
     {
@@ -27505,7 +27545,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1791854613.922112,
       "is_new": false
     },
@@ -27543,7 +27583,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27562,7 +27602,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27580,7 +27620,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61WSoXLl+gL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -27617,8 +27657,26 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1792131992.628407,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFJ1T12",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio preto brilhante de 42 mm com Bracelete desportiva preta - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-brilhante-Bracelete-desportiva/dp/B0FQFJ1T12",
+      "current_price": 3799.0,
+      "original_price": 5499.0,
+      "discount": 30.9,
+      "difference": 1700.0,
+      "criteria": [
+        "R$ 1700.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51o4a4XxXOL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792349348.37957,
+      "discovery_ts": 1788161835.986265,
       "is_new": false
     },
     {
@@ -27671,7 +27729,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71vjj5fwUsL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792328639.895354,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1791935927.652415,
       "is_new": false
     },
@@ -27689,7 +27747,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1785004672.586121,
       "is_new": false
     },
@@ -27707,7 +27765,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -27761,7 +27819,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51oGhLrTfhL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1792328639.895354,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1784477560.307231,
       "is_new": false
     },
@@ -27815,7 +27873,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -27851,7 +27909,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27887,7 +27945,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -27905,8 +27963,45 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1787625964.61514,
+      "is_new": false
+    },
+    {
+      "asin": "B0DG32SNZ4",
+      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
+      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
+      "current_price": 279.9,
+      "original_price": 829.9,
+      "discount": 66.3,
+      "difference": 550.0,
+      "criteria": [
+        "66.3% OFF",
+        "R$ 550.0 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792349348.37957,
+      "discovery_ts": 1790417113.008513,
+      "is_new": false
+    },
+    {
+      "asin": "B087ZPNG6K",
+      "title": "Fogão 5 Bocas de Piso Brastemp Mesa de Vidro Bivolt Preto BFS5VCE",
+      "link": "https://www.amazon.com.br/Fog%C3%A3o-Brastemp-Bocas-Vidro-Turbo/dp/B087ZPNG6K",
+      "current_price": 2036.86,
+      "original_price": 2577.2,
+      "discount": 21.0,
+      "difference": 540.34,
+      "criteria": [
+        "R$ 540.34 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513SBLVXUHL._AC_UL210_SR210,210_.jpg",
+      "category": "[RANGE]",
+      "last_seen": 1792349348.37957,
+      "discovery_ts": 1792240071.4291,
       "is_new": false
     },
     {
@@ -27977,8 +28072,26 @@
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792340931.024112,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1791951144.43256,
+      "is_new": false
+    },
+    {
+      "asin": "B0HJ6PZ3QW",
+      "title": "Ar Condicionado Split Hi-Efficiency Hisense 36000 BTUs Frio Inverter Wi-Fi",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Hi-Efficiency-Hisense-Inverter/dp/B0HJ6PZ3QW",
+      "current_price": 6104.99,
+      "original_price": 6479.0,
+      "discount": 5.8,
+      "difference": 374.01,
+      "criteria": [
+        "R$ 374.01 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792340931.024112,
+      "discovery_ts": 1792340931.024112,
       "is_new": false
     },
     {
@@ -27995,7 +28108,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792328639.895354,
+      "last_seen": 1792349348.37957,
       "discovery_ts": 1792131992.628407,
       "is_new": false
     },
