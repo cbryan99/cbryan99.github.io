@@ -1,5 +1,5 @@
 {
-  "last_check": "19/10/2026 13:02:41",
+  "last_check": "19/10/2026 19:15:53",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2642,6 +2642,10 @@
         {
           "price": 8998.97,
           "date": "2026-08-27T09:33:42.097431"
+        },
+        {
+          "price": 8918.96,
+          "date": "2026-10-19T19:15:38.770363"
         }
       ]
     },
@@ -24003,6 +24007,10 @@
         {
           "price": 5499.0,
           "date": "2026-09-02T05:43:47.078928"
+        },
+        {
+          "price": 5418.99,
+          "date": "2026-10-19T19:15:38.770363"
         }
       ]
     },
@@ -27567,80 +27575,160 @@
           "date": "2026-10-19T13:02:23.690207"
         }
       ]
+    },
+    "B0HF1N8QGR": {
+      "discovery_date": "2026-10-19T19:15:38.770363",
+      "price_history": [
+        {
+          "price": 149.9,
+          "date": "2026-10-19T19:15:38.770363"
+        }
+      ]
+    },
+    "B0HLTSNZDW": {
+      "discovery_date": "2026-10-19T19:15:38.770363",
+      "price_history": [
+        {
+          "price": 2399.0,
+          "date": "2026-10-19T19:15:38.770363"
+        }
+      ]
+    },
+    "B0H8QMW6TK": {
+      "discovery_date": "2026-10-19T19:15:38.770363",
+      "price_history": [
+        {
+          "price": 2009.9,
+          "date": "2026-10-19T19:15:38.770363"
+        }
+      ]
+    },
+    "B081DK3H36": {
+      "discovery_date": "2026-10-19T19:15:38.770363",
+      "price_history": [
+        {
+          "price": 4058.99,
+          "date": "2026-10-19T19:15:38.770363"
+        }
+      ]
+    },
+    "B0DZJWTY2T": {
+      "discovery_date": "2026-10-19T19:15:38.770363",
+      "price_history": [
+        {
+          "price": 5999.98,
+          "date": "2026-10-19T19:15:38.770363"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FCRJ3SYJ",
-      "title": "DREAME Aspirador Vertical Sem Fio a Seco e Úmido H12 Pro Plus, Limpador de Piso Inteligente para Pisos Duros, Limpeza de Borda a Borda em uma Só Passada e Secagem Automática com Ar Quente 220-240V",
-      "link": "https://www.amazon.com.br/DREAME-Aspirador-H12-Inteligente-Autom%C3%A1tica/dp/B0FCRJ3SYJ",
-      "current_price": 2289.0,
-      "original_price": 3250.0,
-      "discount": 29.6,
-      "difference": 961.0,
+      "asin": "B081DK3H36",
+      "title": "Ar Condicionado Split Hi Wall Gree G-Top Auto Inverter 24.000 Btus Frio 220v",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Gree-Inverter-24-000/dp/B081DK3H36",
+      "current_price": 4058.99,
+      "original_price": 4799.0,
+      "discount": 15.4,
+      "difference": 740.01,
       "criteria": [
-        "R$ 961.0 desc."
+        "R$ 740.01 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61FHoBUqChL._AC_UL210_SR210,210_.jpg",
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51s2uYsvnUL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792414943.690215,
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792437338.77037,
       "is_new": true
     },
     {
-      "asin": "B0FPQ1C614",
-      "title": "Celular Samsung Galaxy A17 5G, 256GB, 8GB, 50MP Tela 6.7\" - Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPQ1C614",
-      "current_price": 1410.0,
-      "original_price": 1849.0,
-      "discount": 23.7,
-      "difference": 439.0,
+      "asin": "B0DZJWTY2T",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi + Cellular, 256 GB) - Cinzento sideral (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-polegadas-Wi-Fi-Cellular/dp/B0DZJWTY2T",
+      "current_price": 5999.98,
+      "original_price": 6666.66,
+      "discount": 10.0,
+      "difference": 666.68,
       "criteria": [
-        "R$ 439.0 desc."
+        "R$ 666.68 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792414943.690215,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792437338.77037,
       "is_new": true
     },
     {
-      "asin": "B0D2RKV4JL",
-      "title": "Camiseta Puma Essentials No. 1 Logo Masculina",
-      "link": "https://www.amazon.com.br/Camiseta-Puma-Essentials-Logo-Masculina/dp/B0D2RKV4JL",
-      "current_price": 59.9,
-      "original_price": 109.99,
-      "discount": 45.5,
-      "difference": 50.09,
+      "asin": "B0HLTSNZDW",
+      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
+      "current_price": 2399.0,
+      "original_price": 2799.0,
+      "discount": 14.3,
+      "difference": 400.0,
       "criteria": [
-        "45.5% OFF"
+        "R$ 400.0 desc."
       ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/515WuKHnXdL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792414943.690215,
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792437338.77037,
       "is_new": true
     },
     {
-      "asin": "B0GR1YNLC8",
-      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
-      "current_price": 285.5,
-      "original_price": 25799.0,
-      "discount": 98.9,
-      "difference": 25513.5,
+      "asin": "B0H8QMW6TK",
+      "title": "Ar Condicionado Split 9000 BTUs LG Dual Inverter Compact + IA Frio S3NQ09AAQAC.EB2GAM1-220V",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Compact-S3NQ09AAQAC-EB2GAM1-220V/dp/B0H8QMW6TK",
+      "current_price": 2009.9,
+      "original_price": 2321.11,
+      "discount": 13.4,
+      "difference": 311.21,
       "criteria": [
-        "98.9% OFF",
-        "R$ 25513.5 desc."
+        "R$ 311.21 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1791854613.922112,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51k0eKKvj7L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792437338.77037,
+      "is_new": true
+    },
+    {
+      "asin": "B0HF1N8QGR",
+      "title": "Stanley Garrafa Térmica Quick Flip Frost 710ml",
+      "link": "https://www.amazon.com.br/Stanley-Garrafa-T%C3%A9rmica-Quick-Frost/dp/B0HF1N8QGR",
+      "current_price": 149.9,
+      "original_price": 269.0,
+      "discount": 44.3,
+      "difference": 119.1,
+      "criteria": [
+        "44.3% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41lDoNkNEcL._AC_UL210_SR210,210_.jpg",
+      "category": "[CAMPING_EQUIPMENT]",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792437338.77037,
+      "is_new": true
+    },
+    {
+      "asin": "B0FXM57JL9",
+      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": 8918.96,
+      "original_price": 12999.0,
+      "discount": 31.4,
+      "difference": 4080.04,
+      "criteria": [
+        "R$ 4080.04 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1785169875.641153,
       "is_new": false
     },
     {
@@ -27658,7 +27746,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27677,26 +27765,26 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
-      "asin": "B0FXMBWGGM",
-      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
-      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
-      "current_price": 3880.0,
-      "original_price": 5999.0,
-      "discount": 35.3,
-      "difference": 2119.0,
+      "asin": "B0FXM4S78T",
+      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
+      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
+      "current_price": 5418.99,
+      "original_price": 7499.0,
+      "discount": 27.7,
+      "difference": 2080.01,
       "criteria": [
-        "R$ 2119.0 desc."
+        "R$ 2080.01 desc."
       ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1789412436.19625,
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
@@ -27714,63 +27802,8 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1792131992.628407,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJ1RD8SH",
-      "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos, 240W RMS - Branca",
-      "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Branca/dp/B0DJ1RD8SH",
-      "current_price": 2503.0,
-      "original_price": 3899.0,
-      "discount": 35.8,
-      "difference": 1396.0,
-      "criteria": [
-        "R$ 1396.0 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71l7ChSNehL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792240071.4291,
-      "is_new": false
-    },
-    {
-      "asin": "B0D6SBYCVH",
-      "title": "Garmin Ciclocomputador com GPS Edge 1050 | Tela sensível ao toque 3,5, alertas de perigo na estrada, bateria de até 20h, Bluetooth, Ant Plus e WI-FI",
-      "link": "https://www.amazon.com.br/Ciclocomputador-com-Garmin-Edge-1050/dp/B0D6SBYCVH",
-      "current_price": 4209.0,
-      "original_price": 5439.0,
-      "discount": 22.6,
-      "difference": 1230.0,
-      "criteria": [
-        "R$ 1230.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ym5F4JemL._AC_UL210_SR210,210_.jpg",
-      "category": "[GPS_OR_NAVIGATION_SYSTEM]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792088878.02628,
-      "is_new": false
-    },
-    {
-      "asin": "B0CRMCC6W8",
-      "title": "Monitor Gamer Curvo 32\" Redragon Tassos QHD 170Hz VA 1ms MPRT G-Sync FreeSync GM32H2Q",
-      "link": "https://www.amazon.com.br/Monitor-Redragon-Tassos-G-Sync-Freesync/dp/B0CRMCC6W8",
-      "current_price": 1009.1,
-      "original_price": 2109.38,
-      "discount": 52.2,
-      "difference": 1100.28,
-      "criteria": [
-        "52.2% OFF",
-        "R$ 1100.28 desc."
-      ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/517o7ILPEFL._AC_UL210_SR210,210_.jpg",
-      "category": "[MONITOR]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792390098.164272,
       "is_new": false
     },
     {
@@ -27787,8 +27820,44 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1787355246.696526,
+      "is_new": false
+    },
+    {
+      "asin": "B0DBN6SGRN",
+      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
+      "current_price": 2679.0,
+      "original_price": 3472.63,
+      "discount": 22.9,
+      "difference": 793.63,
+      "criteria": [
+        "R$ 793.63 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1785520954.30177,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBQQ4TN",
+      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
+      "current_price": 2423.88,
+      "original_price": 3199.0,
+      "discount": 24.2,
+      "difference": 775.12,
+      "criteria": [
+        "R$ 775.12 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1784464310.552537,
       "is_new": false
     },
     {
@@ -27805,7 +27874,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -27823,7 +27892,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -27841,7 +27910,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27859,63 +27928,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1787625964.61514,
-      "is_new": false
-    },
-    {
-      "asin": "B0DTMCLTKV",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
-      "current_price": 6199.0,
-      "original_price": 6754.0,
-      "discount": 8.2,
-      "difference": 555.0,
-      "criteria": [
-        "R$ 555.0 desc."
-      ],
-      "badge": "6% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1791951144.43256,
-      "is_new": false
-    },
-    {
-      "asin": "B0DG32SNZ4",
-      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
-      "current_price": 279.9,
-      "original_price": 829.9,
-      "discount": 66.3,
-      "difference": 550.0,
-      "criteria": [
-        "66.3% OFF",
-        "R$ 550.0 desc."
-      ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1790417113.008513,
-      "is_new": false
-    },
-    {
-      "asin": "B087ZPNG6K",
-      "title": "Fogão 5 Bocas de Piso Brastemp Mesa de Vidro Bivolt Preto BFS5VCE",
-      "link": "https://www.amazon.com.br/Fog%C3%A3o-Brastemp-Bocas-Vidro-Turbo/dp/B087ZPNG6K",
-      "current_price": 2036.86,
-      "original_price": 2577.2,
-      "discount": 21.0,
-      "difference": 540.34,
-      "criteria": [
-        "R$ 540.34 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/513SBLVXUHL._AC_UL210_SR210,210_.jpg",
-      "category": "[RANGE]",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792240071.4291,
       "is_new": false
     },
     {
@@ -27932,8 +27946,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1785547051.313967,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPQ1C614",
+      "title": "Celular Samsung Galaxy A17 5G, 256GB, 8GB, 50MP Tela 6.7\" - Cinza",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPQ1C614",
+      "current_price": 1410.0,
+      "original_price": 1849.0,
+      "discount": 23.7,
+      "difference": 439.0,
+      "criteria": [
+        "R$ 439.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792414943.690207,
       "is_new": false
     },
     {
@@ -27950,26 +27982,44 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792414943.690215,
+      "last_seen": 1792437338.77037,
       "discovery_ts": 1792131992.628407,
       "is_new": false
     },
     {
-      "asin": "B0HFXJRSYH",
-      "title": "Ar Condicionado Split Inverter 12000 BTUs Hisense Hi-Efficiency Frio AS-12TW2RLUHB00E - 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Hisense-Hi-Efficiency-AS-12TW2RLUHB00E/dp/B0HFXJRSYH",
-      "current_price": 1954.13,
-      "original_price": 2276.67,
-      "discount": 14.2,
-      "difference": 322.54,
+      "asin": "B0CV4H7QRZ",
+      "title": "Cervejeira Imbera 569 Litros Porta De Vidro Full Black CCV355-220V",
+      "link": "https://www.amazon.com.br/Cervejeira-Imbera-Litros-Porta-Ccv355-220v/dp/B0CV4H7QRZ",
+      "current_price": 5079.03,
+      "original_price": 5399.0,
+      "discount": 5.9,
+      "difference": 319.97,
       "criteria": [
-        "R$ 322.54 desc."
+        "R$ 319.97 desc."
       ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792414943.690215,
-      "discovery_ts": 1792164901.846404,
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792151091.921517,
+      "is_new": false
+    },
+    {
+      "asin": "B0D2RKV4JL",
+      "title": "Camiseta Puma Essentials No. 1 Logo Masculina",
+      "link": "https://www.amazon.com.br/Camiseta-Puma-Essentials-Logo-Masculina/dp/B0D2RKV4JL",
+      "current_price": 59.9,
+      "original_price": 109.99,
+      "discount": 45.5,
+      "difference": 50.09,
+      "criteria": [
+        "45.5% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/515WuKHnXdL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1792437338.77037,
+      "discovery_ts": 1792414943.690215,
       "is_new": false
     }
   ]
