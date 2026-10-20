@@ -1,5 +1,5 @@
 {
-  "last_check": "20/10/2026 11:55:12",
+  "last_check": "20/10/2026 16:11:50",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -27679,9 +27679,90 @@
           "date": "2026-10-20T06:20:49.509939"
         }
       ]
+    },
+    "B0BM4Q7F13": {
+      "discovery_date": "2026-10-20T16:11:44.597571",
+      "price_history": [
+        {
+          "price": 79.89,
+          "date": "2026-10-20T16:11:44.597571"
+        }
+      ]
+    },
+    "B07Y1NTK1Z": {
+      "discovery_date": "2026-10-20T16:11:44.597571",
+      "price_history": [
+        {
+          "price": 114.99,
+          "date": "2026-10-20T16:11:44.597571"
+        }
+      ]
+    },
+    "B0CMV2ZSZ6": {
+      "discovery_date": "2026-10-20T16:11:44.597571",
+      "price_history": [
+        {
+          "price": 4118.99,
+          "date": "2026-10-20T16:11:44.597571"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CMV2ZSZ6",
+      "title": "Ar-condicionado Split HW Inverter Fujitsu Airstage Essencial 24.000 BTUs R-32 Quente/Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Inverter-Fujitsu-Airstage-Essencial/dp/B0CMV2ZSZ6",
+      "current_price": 4118.99,
+      "original_price": 4599.0,
+      "discount": 10.4,
+      "difference": 480.01,
+      "criteria": [
+        "R$ 480.01 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51OW4Gm4MIL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792512704.597578,
+      "is_new": true
+    },
+    {
+      "asin": "B07Y1NTK1Z",
+      "title": "Wella Professionals Oil Reflections Light Óleo Capilar 100 ml (Packaging May Vary)",
+      "link": "https://www.amazon.com.br/Wella-Professionals-Oil-Reflections-Light/dp/B07Y1NTK1Z",
+      "current_price": 114.99,
+      "original_price": 209.0,
+      "discount": 45.0,
+      "difference": 94.01,
+      "criteria": [
+        "45.0% OFF"
+      ],
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Edpw7VSIL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792512704.597578,
+      "is_new": true
+    },
+    {
+      "asin": "B0BM4Q7F13",
+      "title": "Máscara de Tratamento Invigo Nutri-Enrich Wella Professionals 150 ml",
+      "link": "https://www.amazon.com.br/Wella-Invigo-Nutri-M%C3%A1scara-150ml/dp/B0BM4Q7F13",
+      "current_price": 79.89,
+      "original_price": 146.0,
+      "discount": 45.3,
+      "difference": 66.11,
+      "criteria": [
+        "45.3% OFF"
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51y7NaUm7-L._AC_UL210_SR210,210_.jpg",
+      "category": "[BEAUTY]",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792512704.597578,
+      "is_new": true
+    },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
@@ -27702,6 +27783,25 @@
       "is_new": false
     },
     {
+      "asin": "B0DZK3VZVH",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
+      "current_price": 359.09,
+      "original_price": 9999.0,
+      "discount": 96.4,
+      "difference": 9639.91,
+      "criteria": [
+        "96.4% OFF",
+        "R$ 9639.91 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1791924592.370134,
+      "is_new": false
+    },
+    {
       "asin": "B0DSY6L19S",
       "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
@@ -27716,27 +27816,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792477249.509947,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1792328639.895348,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZK3VZVH",
-      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
-      "current_price": 5227.74,
-      "original_price": 9999.0,
-      "discount": 47.7,
-      "difference": 4771.26,
-      "criteria": [
-        "47.7% OFF",
-        "R$ 4771.26 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1791924592.370134,
       "is_new": false
     },
     {
@@ -27773,7 +27854,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -27791,7 +27872,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612Y9xpss-L._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792477249.509947,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1792477249.509947,
       "is_new": false
     },
@@ -27810,45 +27891,26 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
     {
-      "asin": "B0HCXKT67F",
-      "title": "Ar Condicionado Split Midea Inverter Lite 12000 Btu R32 Frio 42ebvcb12m5 Branco 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Midea-Inverter-42ebvcb12m5-Branco/dp/B0HCXKT67F",
-      "current_price": 1851.08,
-      "original_price": 3929.0,
-      "discount": 52.9,
-      "difference": 2077.92,
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3880.0,
+      "original_price": 5999.0,
+      "discount": 35.3,
+      "difference": 2119.0,
       "criteria": [
-        "52.9% OFF",
-        "R$ 2077.92 desc."
+        "R$ 2119.0 desc."
       ],
-      "badge": "52% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1792131992.628407,
-      "is_new": false
-    },
-    {
-      "asin": "B0GF2FZ5K2",
-      "title": "Creality Official K2 Combo Impressora 3D - 600mm/s Alta Velocidade, Impressão CFS de 16 Cores, Câmeras AI Duplas, Ultra-Silenciosa, Volume de Construção 260x260x260mm",
-      "link": "https://www.amazon.com.br/Creality-Official-K2-Combo-Impressora/dp/B0GF2FZ5K2",
-      "current_price": 5556.0,
-      "original_price": 7564.0,
-      "discount": 26.5,
-      "difference": 2008.0,
-      "criteria": [
-        "R$ 2008.0 desc."
-      ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61XuUV1NEGL._AC_UL210_SR210,210_.jpg",
-      "category": "[3D_PRINTER]",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1792297443.465829,
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -27901,7 +27963,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -27924,21 +27986,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2299.0,
-      "original_price": 3299.0,
-      "discount": 30.3,
-      "difference": 1000.0,
+      "asin": "B0H5FWG458",
+      "title": "Smart TV LG QNED Mini Led AI 4K QNED70 85 polegadas 2026",
+      "link": "https://www.amazon.com.br/Smart-LG-QNED-QNED70-polegadas/dp/B0H5FWG458",
+      "current_price": 7652.74,
+      "original_price": 8498.98,
+      "discount": 10.0,
+      "difference": 846.24,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 846.24 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1787355246.696526,
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/610h4spIUmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792328639.895348,
       "is_new": false
     },
     {
@@ -27975,26 +28037,8 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1790156779.821624,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSBKQPZ9",
-      "title": "Creality Hi Combo Impressora 3D multicolorida com CFS, alta velocidade de 500 mm/s, nivelamento automático, leitura automática do filamento, extrusora sem entupimentos, 95% pré-montada, 26x26x30cm",
-      "link": "https://www.amazon.com.br/Creality-Combo-multicolorida-nivelamento-entupimentos/dp/B0DSBKQPZ9",
-      "current_price": 3819.0,
-      "original_price": 4599.0,
-      "discount": 17.0,
-      "difference": 780.0,
-      "criteria": [
-        "R$ 780.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612Cv8TLjcL._AC_UL210_SR210,210_.jpg",
-      "category": "[3D_PRINTER]",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1792477249.509947,
       "is_new": false
     },
     {
@@ -28011,7 +28055,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792477249.509947,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -28029,7 +28073,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -28065,7 +28109,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28083,7 +28127,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -28101,7 +28145,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28138,7 +28182,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41PFGtbuR6L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1792226785.61456,
       "is_new": false
     },
@@ -28161,6 +28205,24 @@
       "is_new": false
     },
     {
+      "asin": "B0HJ6PZ3QW",
+      "title": "Ar Condicionado Split Hi-Efficiency Hisense 36000 BTUs Frio Inverter Wi-Fi",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Hi-Efficiency-Hisense-Inverter/dp/B0HJ6PZ3QW",
+      "current_price": 6104.99,
+      "original_price": 6479.0,
+      "discount": 5.8,
+      "difference": 374.01,
+      "criteria": [
+        "R$ 374.01 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792340931.024104,
+      "is_new": false
+    },
+    {
       "asin": "B0FCSP9NS4",
       "title": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
       "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Midea-Ecomaster/dp/B0FCSP9NS4",
@@ -28176,24 +28238,6 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1792497308.281793,
       "discovery_ts": 1792131992.628407,
-      "is_new": false
-    },
-    {
-      "asin": "B0HFXJRSYH",
-      "title": "Ar Condicionado Split Inverter 12000 BTUs Hisense Hi-Efficiency Frio AS-12TW2RLUHB00E - 220V",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Hisense-Hi-Efficiency-AS-12TW2RLUHB00E/dp/B0HFXJRSYH",
-      "current_price": 1954.13,
-      "original_price": 2276.67,
-      "discount": 14.2,
-      "difference": 322.54,
-      "criteria": [
-        "R$ 322.54 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1792164901.846404,
       "is_new": false
     },
     {
@@ -28228,7 +28272,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51k0eKKvj7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792497308.281793,
+      "last_seen": 1792512704.597578,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28246,8 +28290,8 @@
       "badge": "43% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/411ri7xcuKL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1792477249.509947,
-      "discovery_ts": 1792477249.509947,
+      "last_seen": 1792512704.597578,
+      "discovery_ts": 1792477249.509939,
       "is_new": false
     }
   ]
