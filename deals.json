@@ -1,5 +1,5 @@
 {
-  "last_check": "20/10/2026 01:27:20",
+  "last_check": "20/10/2026 06:20:54",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -19818,6 +19818,10 @@
         {
           "price": 5799.0,
           "date": "2026-08-12T18:33:58.816864"
+        },
+        {
+          "price": 5499.0,
+          "date": "2026-10-20T06:20:49.509939"
         }
       ]
     },
@@ -26888,6 +26892,10 @@
         {
           "price": 5277.75,
           "date": "2026-10-13T20:49:52.370134"
+        },
+        {
+          "price": 5227.74,
+          "date": "2026-10-20T06:20:49.509939"
         }
       ]
     },
@@ -27422,6 +27430,10 @@
         {
           "price": 5779.9,
           "date": "2026-10-18T04:24:03.465829"
+        },
+        {
+          "price": 5556.0,
+          "date": "2026-10-20T06:20:49.509939"
         }
       ]
     },
@@ -27640,9 +27652,109 @@
           "date": "2026-10-19T19:15:38.770363"
         }
       ]
+    },
+    "B0FQHP7CDV": {
+      "discovery_date": "2026-10-20T06:20:49.509939",
+      "price_history": [
+        {
+          "price": 7776.67,
+          "date": "2026-10-20T06:20:49.509939"
+        }
+      ]
+    },
+    "B0DSBKQPZ9": {
+      "discovery_date": "2026-10-20T06:20:49.509939",
+      "price_history": [
+        {
+          "price": 3819.0,
+          "date": "2026-10-20T06:20:49.509939"
+        }
+      ]
+    },
+    "B0BM4RSB3R": {
+      "discovery_date": "2026-10-20T06:20:49.509939",
+      "price_history": [
+        {
+          "price": 156.74,
+          "date": "2026-10-20T06:20:49.509939"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQHP7CDV",
+      "title": "Apple Watch Ultra 3 GPS + Cellular, Caixa em titânio natural de 49 mm com Loop Alpine azul‑claro ‑ M",
+      "link": "https://www.amazon.com.br/Apple-Cellular-tit%C3%A2nio-natural-azul%E2%80%91claro/dp/B0FQHP7CDV",
+      "current_price": 7776.67,
+      "original_price": 10499.0,
+      "discount": 25.9,
+      "difference": 2722.33,
+      "criteria": [
+        "R$ 2722.33 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612Y9xpss-L._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792477249.509947,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSBKQPZ9",
+      "title": "Creality Hi Combo Impressora 3D multicolorida com CFS, alta velocidade de 500 mm/s, nivelamento automático, leitura automática do filamento, extrusora sem entupimentos, 95% pré-montada, 26x26x30cm",
+      "link": "https://www.amazon.com.br/Creality-Combo-multicolorida-nivelamento-entupimentos/dp/B0DSBKQPZ9",
+      "current_price": 3819.0,
+      "original_price": 4599.0,
+      "discount": 17.0,
+      "difference": 780.0,
+      "criteria": [
+        "R$ 780.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612Cv8TLjcL._AC_UL210_SR210,210_.jpg",
+      "category": "[3D_PRINTER]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792477249.509947,
+      "is_new": true
+    },
+    {
+      "asin": "B0BM4RSB3R",
+      "title": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
+      "link": "https://www.amazon.com.br/Wella-Invigo-Nutri-M%C3%A1scara-500ml/dp/B0BM4RSB3R",
+      "current_price": 156.74,
+      "original_price": 278.0,
+      "discount": 43.6,
+      "difference": 121.26,
+      "criteria": [
+        "43.6% OFF"
+      ],
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/411ri7xcuKL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792477249.509947,
+      "is_new": true
+    },
+    {
+      "asin": "B0DZJWTY2T",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi + Cellular, 256 GB) - Cinzento sideral (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-polegadas-Wi-Fi-Cellular/dp/B0DZJWTY2T",
+      "current_price": 359.09,
+      "original_price": 6666.66,
+      "discount": 94.6,
+      "difference": 6307.57,
+      "criteria": [
+        "94.6% OFF",
+        "R$ 6307.57 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792437338.770363,
+      "is_new": false
+    },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
@@ -27662,21 +27774,41 @@
       "is_new": false
     },
     {
-      "asin": "B0FXM57JL9",
-      "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": 8918.96,
-      "original_price": 12999.0,
-      "discount": 31.4,
-      "difference": 4080.04,
+      "asin": "B0DSY6L19S",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
       "criteria": [
-        "R$ 4080.04 desc."
+        "47.2% OFF",
+        "R$ 5667.0 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1785169875.641153,
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792328639.895348,
+      "is_new": false
+    },
+    {
+      "asin": "B0DZK3VZVH",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
+      "current_price": 5227.74,
+      "original_price": 9999.0,
+      "discount": 47.7,
+      "difference": 4771.26,
+      "criteria": [
+        "47.7% OFF",
+        "R$ 4771.26 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1791924592.370134,
       "is_new": false
     },
     {
@@ -27694,7 +27826,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27713,7 +27845,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -27732,26 +27864,8 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1785712474.49735,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXM4S78T",
-      "title": "DREAME L40 Ultra AE Robô Aspirador e Mopa, Sucção 19.000Pa, Caixa de Poeira Autoesvaziável, Mopa Flexível com Lavagem Automática 75°C, Amigo dos Pets, App/Voz(Alexa/Google/Siri), 127v",
-      "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
-      "current_price": 5418.99,
-      "original_price": 7499.0,
-      "discount": 27.7,
-      "difference": 2080.01,
-      "criteria": [
-        "R$ 2080.01 desc."
-      ],
-      "badge": "27% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
@@ -27769,8 +27883,26 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1792131992.628407,
+      "is_new": false
+    },
+    {
+      "asin": "B0GF2FZ5K2",
+      "title": "Creality Official K2 Combo Impressora 3D - 600mm/s Alta Velocidade, Impressão CFS de 16 Cores, Câmeras AI Duplas, Ultra-Silenciosa, Volume de Construção 260x260x260mm",
+      "link": "https://www.amazon.com.br/Creality-Official-K2-Combo-Impressora/dp/B0GF2FZ5K2",
+      "current_price": 5556.0,
+      "original_price": 7564.0,
+      "discount": 26.5,
+      "difference": 2008.0,
+      "criteria": [
+        "R$ 2008.0 desc."
+      ],
+      "badge": "26% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61XuUV1NEGL._AC_UL210_SR210,210_.jpg",
+      "category": "[3D_PRINTER]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792297443.465829,
       "is_new": false
     },
     {
@@ -27792,6 +27924,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJ1RD8SH",
+      "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos, 240W RMS - Branca",
+      "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Branca/dp/B0DJ1RD8SH",
+      "current_price": 2503.0,
+      "original_price": 3899.0,
+      "discount": 35.8,
+      "difference": 1396.0,
+      "criteria": [
+        "R$ 1396.0 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71l7ChSNehL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792240071.4291,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -27805,8 +27955,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBP6G49",
+      "title": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8929-78-Freesync/dp/B0FPBP6G49",
+      "current_price": 3898.98,
+      "original_price": 4899.0,
+      "discount": 20.4,
+      "difference": 1000.02,
+      "criteria": [
+        "R$ 1000.02 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1785004672.586121,
       "is_new": false
     },
     {
@@ -27823,26 +27991,8 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1787355246.696526,
-      "is_new": false
-    },
-    {
-      "asin": "B0H5FWG458",
-      "title": "Smart TV LG QNED Mini Led AI 4K QNED70 85 polegadas 2026",
-      "link": "https://www.amazon.com.br/Smart-LG-QNED-QNED70-polegadas/dp/B0H5FWG458",
-      "current_price": 7652.74,
-      "original_price": 8498.98,
-      "discount": 10.0,
-      "difference": 846.24,
-      "criteria": [
-        "R$ 846.24 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/610h4spIUmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1792328639.895348,
       "is_new": false
     },
     {
@@ -27860,7 +28010,7 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
@@ -27878,26 +28028,8 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B081DK3H36",
-      "title": "Ar Condicionado Split Hi Wall Gree G-Top Auto Inverter 24.000 Btus Frio 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Gree-Inverter-24-000/dp/B081DK3H36",
-      "current_price": 4058.99,
-      "original_price": 4799.0,
-      "discount": 15.4,
-      "difference": 740.01,
-      "criteria": [
-        "R$ 740.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51s2uYsvnUL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -27955,42 +28087,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DZJWTY2T",
-      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi + Cellular, 256 GB) - Cinzento sideral (M3)",
-      "link": "https://www.amazon.com.br/Apple-2025-polegadas-Wi-Fi-Cellular/dp/B0DZJWTY2T",
-      "current_price": 5999.98,
-      "original_price": 6666.66,
-      "discount": 10.0,
-      "difference": 666.68,
-      "criteria": [
-        "R$ 666.68 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1792437338.770363,
-      "is_new": false
-    },
-    {
-      "asin": "B0FL7GXSCV",
-      "title": "eufy C28 Robô Aspirador e Passa Pano, Rolo Esfregão Autolimpante em Tempo Real, 30 cm Cabelo 0 Enrolados, Estação de Lava e Seca com Alta Temperatura, Evita Obstáculos com IA e LiDAR, 15000 Pa, 127V",
-      "link": "https://www.amazon.com.br/eufy-omniRob%C3%B4-Aspirador-Esfreg%C3%A3o-HydroJet/dp/B0FL7GXSCV",
-      "current_price": 5669.0,
-      "original_price": 6299.09,
-      "discount": 10.0,
-      "difference": 630.09,
-      "criteria": [
-        "R$ 630.09 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ifqvHPRCL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1790259419.974763,
-      "is_new": false
-    },
-    {
       "asin": "B0FQGMGVCT",
       "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
       "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
@@ -28004,7 +28100,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28027,21 +28123,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FPQ1C614",
-      "title": "Celular Samsung Galaxy A17 5G, 256GB, 8GB, 50MP Tela 6.7\" - Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPQ1C614",
-      "current_price": 1410.0,
-      "original_price": 1849.0,
-      "discount": 23.7,
-      "difference": 439.0,
+      "asin": "B0DJFS7GXV",
+      "title": "Apple iPhone 16 (512 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
+      "current_price": 5499.0,
+      "original_price": 5999.0,
+      "discount": 8.3,
+      "difference": 500.0,
       "criteria": [
-        "R$ 439.0 desc."
+        "R$ 500.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1792414943.690207,
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1786559638.816864,
       "is_new": false
     },
     {
@@ -28063,24 +28159,6 @@
       "is_new": false
     },
     {
-      "asin": "B0HLTSNZDW",
-      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
-      "current_price": 2399.0,
-      "original_price": 2799.0,
-      "discount": 14.3,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
-      "discovery_ts": 1792437338.770363,
-      "is_new": false
-    },
-    {
       "asin": "B0FCSP9NS4",
       "title": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
       "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Midea-Ecomaster/dp/B0FCSP9NS4",
@@ -28094,8 +28172,26 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1792131992.628407,
+      "is_new": false
+    },
+    {
+      "asin": "B0HFXJRSYH",
+      "title": "Ar Condicionado Split Inverter 12000 BTUs Hisense Hi-Efficiency Frio AS-12TW2RLUHB00E - 220V",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Hisense-Hi-Efficiency-AS-12TW2RLUHB00E/dp/B0HFXJRSYH",
+      "current_price": 1954.13,
+      "original_price": 2276.67,
+      "discount": 14.2,
+      "difference": 322.54,
+      "criteria": [
+        "R$ 322.54 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51E14uqqwOL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792477249.509947,
+      "discovery_ts": 1792164901.846404,
       "is_new": false
     },
     {
@@ -28112,7 +28208,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51k0eKKvj7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792459634.948762,
+      "last_seen": 1792477249.509947,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
