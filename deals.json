@@ -1,5 +1,5 @@
 {
-  "last_check": "19/10/2026 22:55:08",
+  "last_check": "20/10/2026 01:27:20",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -23634,6 +23634,10 @@
         {
           "price": 13099.0,
           "date": "2026-09-29T19:04:21.971561"
+        },
+        {
+          "price": 12999.0,
+          "date": "2026-10-20T01:27:14.948755"
         }
       ]
     },
@@ -24573,6 +24577,10 @@
         {
           "price": 3121.09,
           "date": "2026-09-12T01:13:19.222088"
+        },
+        {
+          "price": 2961.99,
+          "date": "2026-10-20T01:27:14.948755"
         }
       ]
     },
@@ -25708,6 +25716,10 @@
         {
           "price": 399.0,
           "date": "2026-09-23T09:46:19.821624"
+        },
+        {
+          "price": 419.0,
+          "date": "2026-10-20T01:27:14.948755"
         }
       ]
     },
@@ -27632,6 +27644,24 @@
   },
   "data": [
     {
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
+      "criteria": [
+        "R$ 5800.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792459634.948762,
+      "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
       "asin": "B0FXM57JL9",
       "title": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
       "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
@@ -27664,7 +27694,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27683,7 +27713,7 @@
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1789016418.844032,
       "is_new": false
     },
@@ -27702,7 +27732,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27739,8 +27769,26 @@
       "badge": "52% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51+HydOKbWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1792131992.628407,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 12999.0,
+      "original_price": 14999.0,
+      "discount": 13.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792459634.948762,
+      "discovery_ts": 1787860684.198484,
       "is_new": false
     },
     {
@@ -27757,7 +27805,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -27775,7 +27823,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792437338.77037,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -27798,21 +27846,22 @@
       "is_new": false
     },
     {
-      "asin": "B0DBN6SGRN",
-      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
-      "current_price": 2679.0,
-      "original_price": 3472.63,
-      "discount": 22.9,
-      "difference": 793.63,
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 419.0,
+      "original_price": 1199.9,
+      "discount": 65.1,
+      "difference": 780.9,
       "criteria": [
-        "R$ 793.63 desc."
+        "65.1% OFF",
+        "R$ 780.9 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1792437338.77037,
-      "discovery_ts": 1785520954.30177,
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1792459634.948762,
+      "discovery_ts": 1790156779.821624,
       "is_new": false
     },
     {
@@ -27829,7 +27878,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792437338.77037,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1784464310.552537,
       "is_new": false
     },
@@ -27865,7 +27914,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792437338.77037,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -27883,7 +27932,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -27901,7 +27950,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JwTVae3+L._AC_UL210_SR210,210_.jpg",
       "category": "[VIDEO_GAME_CONSOLE]",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1790869371.225401,
       "is_new": false
     },
@@ -27955,8 +28004,26 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792437338.77037,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1787625964.61514,
+      "is_new": false
+    },
+    {
+      "asin": "B0DVZQ8Z8S",
+      "title": "Ar-Condicionado Split HW Philco PAC24FI 24.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Philco-PAC24FI-24-000/dp/B0DVZQ8Z8S",
+      "current_price": 2961.99,
+      "original_price": 3499.0,
+      "discount": 15.3,
+      "difference": 537.01,
+      "criteria": [
+        "R$ 537.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792459634.948762,
+      "discovery_ts": 1789175599.222088,
       "is_new": false
     },
     {
@@ -27991,7 +28058,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/6106dbww1XL._AC_UL210_SR210,210_.jpg",
       "category": "[MONITOR]",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1785547051.313967,
       "is_new": false
     },
@@ -28027,26 +28094,8 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1792131992.628407,
-      "is_new": false
-    },
-    {
-      "asin": "B0CV4H7QRZ",
-      "title": "Cervejeira Imbera 569 Litros Porta De Vidro Full Black CCV355-220V",
-      "link": "https://www.amazon.com.br/Cervejeira-Imbera-Litros-Porta-Ccv355-220v/dp/B0CV4H7QRZ",
-      "current_price": 5079.03,
-      "original_price": 5399.0,
-      "discount": 5.9,
-      "difference": 319.97,
-      "criteria": [
-        "R$ 319.97 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792437338.77037,
-      "discovery_ts": 1792151091.921517,
       "is_new": false
     },
     {
@@ -28063,7 +28112,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51k0eKKvj7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28081,26 +28130,8 @@
       "badge": "44% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41lDoNkNEcL._AC_UL210_SR210,210_.jpg",
       "category": "[CAMPING_EQUIPMENT]",
-      "last_seen": 1792450508.508843,
+      "last_seen": 1792459634.948762,
       "discovery_ts": 1792437338.770363,
-      "is_new": false
-    },
-    {
-      "asin": "B0D2RKV4JL",
-      "title": "Camiseta Puma Essentials No. 1 Logo Masculina",
-      "link": "https://www.amazon.com.br/Camiseta-Puma-Essentials-Logo-Masculina/dp/B0D2RKV4JL",
-      "current_price": 59.9,
-      "original_price": 109.99,
-      "discount": 45.5,
-      "difference": 50.09,
-      "criteria": [
-        "45.5% OFF"
-      ],
-      "badge": "45% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/515WuKHnXdL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1792437338.77037,
-      "discovery_ts": 1792414943.690215,
       "is_new": false
     }
   ]
