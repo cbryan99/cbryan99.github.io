@@ -1,5 +1,5 @@
 {
-  "last_check": "20/10/2026 23:08:48",
+  "last_check": "21/10/2026 01:31:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -27750,9 +27750,91 @@
           "date": "2026-10-20T20:01:08.589559"
         }
       ]
+    },
+    "B0H34VM48S": {
+      "discovery_date": "2026-10-21T01:31:56.389859",
+      "price_history": [
+        {
+          "price": 2841.05,
+          "date": "2026-10-21T01:31:56.389859"
+        }
+      ]
+    },
+    "B0FQFLZ5RB": {
+      "discovery_date": "2026-10-21T01:31:56.389859",
+      "price_history": [
+        {
+          "price": 2599.0,
+          "date": "2026-10-21T01:31:56.389859"
+        }
+      ]
+    },
+    "B0G5Z2F4JN": {
+      "discovery_date": "2026-10-21T01:31:56.389859",
+      "price_history": [
+        {
+          "price": 319.9,
+          "date": "2026-10-21T01:31:56.389859"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQFLZ5RB",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - M/G",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFLZ5RB",
+      "current_price": 2599.0,
+      "original_price": 3699.0,
+      "discount": 29.7,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792546316.389869,
+      "discovery_ts": 1792546316.389869,
+      "is_new": true
+    },
+    {
+      "asin": "B0H34VM48S",
+      "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34VM48S",
+      "current_price": 2841.05,
+      "original_price": 3465.0,
+      "discount": 18.0,
+      "difference": 623.95,
+      "criteria": [
+        "R$ 623.95 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792546316.389869,
+      "discovery_ts": 1792546316.389869,
+      "is_new": true
+    },
+    {
+      "asin": "B0G5Z2F4JN",
+      "title": "Tenis New Balance 550 Feminino",
+      "link": "https://www.amazon.com.br/Tenis-New-Balance-Feminino-Branco/dp/B0G5Z2F4JN",
+      "current_price": 319.9,
+      "original_price": 899.99,
+      "discount": 64.5,
+      "difference": 580.09,
+      "criteria": [
+        "64.5% OFF",
+        "R$ 580.09 desc."
+      ],
+      "badge": "64% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nd65vENUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHOES]",
+      "last_seen": 1792546316.389869,
+      "discovery_ts": 1792546316.389869,
+      "is_new": true
+    },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
@@ -27824,7 +27906,7 @@
       "badge": "48% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61LyzNkloEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1789083919.237103,
       "is_new": false
     },
@@ -27843,7 +27925,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61G1x4+IXTL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1785712474.49735,
       "is_new": false
     },
@@ -27879,7 +27961,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -27971,7 +28053,7 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
@@ -28025,7 +28107,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28043,7 +28125,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28079,7 +28161,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81j7QkksKEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28097,7 +28179,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28115,8 +28197,8 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/616aA6gdf+L._AC_UL210_SR210,210_.jpg",
       "category": "[CAMERA_DIGITAL]",
-      "last_seen": 1792526468.589566,
-      "discovery_ts": 1792526468.589566,
+      "last_seen": 1792546316.389869,
+      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -28133,7 +28215,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1792414943.690207,
       "is_new": false
     },
@@ -28151,7 +28233,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28174,6 +28256,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CV4H7QRZ",
+      "title": "Cervejeira Imbera 569 Litros Porta De Vidro Full Black CCV355-220V",
+      "link": "https://www.amazon.com.br/Cervejeira-Imbera-Litros-Porta-Ccv355-220v/dp/B0CV4H7QRZ",
+      "current_price": 5079.03,
+      "original_price": 5399.0,
+      "discount": 5.9,
+      "difference": 319.97,
+      "criteria": [
+        "R$ 319.97 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792546316.389869,
+      "discovery_ts": 1792151091.921517,
+      "is_new": false
+    },
+    {
       "asin": "B0H8QMW6TK",
       "title": "Ar Condicionado Split 9000 BTUs LG Dual Inverter Compact + IA Frio S3NQ09AAQAC.EB2GAM1-220V",
       "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Compact-S3NQ09AAQAC-EB2GAM1-220V/dp/B0H8QMW6TK",
@@ -28187,7 +28287,7 @@
       "badge": "13% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51k0eKKvj7L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792537712.738693,
+      "last_seen": 1792546316.389869,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
