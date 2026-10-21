@@ -1,5 +1,5 @@
 {
-  "last_check": "21/10/2026 20:46:38",
+  "last_check": "21/10/2026 23:42:57",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26588,6 +26588,10 @@
         {
           "price": 4220.84,
           "date": "2026-10-12T19:11:48.472154"
+        },
+        {
+          "price": 4199.0,
+          "date": "2026-10-21T23:42:49.385329"
         }
       ]
     },
@@ -27842,9 +27846,90 @@
           "date": "2026-10-21T20:46:32.203351"
         }
       ]
+    },
+    "B0FQFJGQCB": {
+      "discovery_date": "2026-10-21T23:42:49.385329",
+      "price_history": [
+        {
+          "price": 2599.0,
+          "date": "2026-10-21T23:42:49.385329"
+        }
+      ]
+    },
+    "B07BK5WHD3": {
+      "discovery_date": "2026-10-21T23:42:49.385329",
+      "price_history": [
+        {
+          "price": 250.52,
+          "date": "2026-10-21T23:42:49.385329"
+        }
+      ]
+    },
+    "B0DGM4T4H8": {
+      "discovery_date": "2026-10-21T23:42:49.385329",
+      "price_history": [
+        {
+          "price": 1129.0,
+          "date": "2026-10-21T23:42:49.385329"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FQFJGQCB",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
+      "current_price": 2599.0,
+      "original_price": 3699.0,
+      "discount": 29.7,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
+      "is_new": true
+    },
+    {
+      "asin": "B0DGM4T4H8",
+      "title": "Apple AirPods 4",
+      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
+      "current_price": 1129.0,
+      "original_price": 1499.0,
+      "discount": 24.7,
+      "difference": 370.0,
+      "criteria": [
+        "R$ 370.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
+      "is_new": true
+    },
+    {
+      "asin": "B07BK5WHD3",
+      "title": "Dream Fitness EX 450 - Bicicleta Ergométrica Vertical, Chumbo, Único",
+      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Vertical-Dream-EX450/dp/B07BK5WHD3",
+      "current_price": 250.52,
+      "original_price": 499.0,
+      "discount": 49.8,
+      "difference": 248.48,
+      "criteria": [
+        "49.8% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Qmjq0yHsL._AC_UL210_SR210,210_.jpg",
+      "category": "[STATIONARY_BICYCLE]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
+      "is_new": true
+    },
     {
       "asin": "B0F9LJM3VR",
       "title": "PHILCO Refrigerador side by side frost free prf613id eco inverter 513l inox 220v",
@@ -27862,63 +27947,7 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1792615592.203359,
       "discovery_ts": 1792615592.203359,
-      "is_new": true
-    },
-    {
-      "asin": "B0DBR1N89F",
-      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
-      "current_price": 549.9,
-      "original_price": 1199.0,
-      "discount": 54.1,
-      "difference": 649.1,
-      "criteria": [
-        "54.1% OFF",
-        "R$ 649.1 desc."
-      ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792615592.203359,
-      "is_new": true
-    },
-    {
-      "asin": "B0GV5W8Q8H",
-      "title": "BLACK+DECKER JOGO DE PANELAS 10 PEÇAS CERAMIC LINE - CORPO COM REVESTIMENTO CERÂMICO ANTIADERENTE COM ACABAMENTO GREY GRADIENT, BASE COMPATÍVEL COM INDUÇÃO",
-      "link": "https://www.amazon.com.br/BLACK-DECKER-PANELAS-PE%C3%87AS-CERAMIC/dp/B0GV5W8Q8H",
-      "current_price": 297.57,
-      "original_price": 599.0,
-      "discount": 50.3,
-      "difference": 301.43,
-      "criteria": [
-        "50.3% OFF",
-        "R$ 301.43 desc."
-      ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71L0EgolA0L._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKWARE_SET]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792615592.203359,
-      "is_new": true
-    },
-    {
-      "asin": "B0GW48RBS7",
-      "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-      "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
-      "current_price": 102.37,
-      "original_price": 189.9,
-      "discount": 46.1,
-      "difference": 87.53,
-      "criteria": [
-        "46.1% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
-      "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792615592.203359,
-      "is_new": true
+      "is_new": false
     },
     {
       "asin": "B0DZK3VZVH",
@@ -27935,7 +27964,7 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1791924592.370134,
       "is_new": false
     },
@@ -27971,7 +28000,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
@@ -27991,42 +28020,6 @@
       "category": "[WEARABLE_COMPUTER]",
       "last_seen": 1792615592.203359,
       "discovery_ts": 1792003951.96343,
-      "is_new": false
-    },
-    {
-      "asin": "B0H3C64TRB",
-      "title": "Geladeira French Door RF 70H com Dispenser de Água e Gelo Inox 664L (220, Volts)",
-      "link": "https://www.amazon.com.br/Geladeira-French-Door-Dispenser-Volts/dp/B0H3C64TRB",
-      "current_price": 16599.0,
-      "original_price": 17999.0,
-      "discount": 7.8,
-      "difference": 1400.0,
-      "criteria": [
-        "R$ 1400.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31lIO0-KKOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792349348.379563,
-      "is_new": false
-    },
-    {
-      "asin": "B0DJ1RD8SH",
-      "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos, 240W RMS - Branca",
-      "link": "https://www.amazon.com.br/Caixa-Bluetooth-JBL-Partybox-Branca/dp/B0DJ1RD8SH",
-      "current_price": 2503.0,
-      "original_price": 3899.0,
-      "discount": 35.8,
-      "difference": 1396.0,
-      "criteria": [
-        "R$ 1396.0 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71l7ChSNehL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792240071.4291,
       "is_new": false
     },
     {
@@ -28061,7 +28054,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -28079,7 +28072,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -28099,6 +28092,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792615592.203359,
       "discovery_ts": 1789192309.214638,
+      "is_new": false
+    },
+    {
+      "asin": "B09QVC3PYG",
+      "title": "Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 549L Inox Look 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QVC3PYG",
+      "current_price": 6599.0,
+      "original_price": 7367.37,
+      "discount": 10.4,
+      "difference": 768.37,
+      "criteria": [
+        "R$ 768.37 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1786542030.20045,
       "is_new": false
     },
     {
@@ -28133,8 +28144,27 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1792437338.770363,
+      "is_new": false
+    },
+    {
+      "asin": "B0DBR1N89F",
+      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
+      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
+      "current_price": 549.9,
+      "original_price": 1199.0,
+      "discount": 54.1,
+      "difference": 649.1,
+      "criteria": [
+        "54.1% OFF",
+        "R$ 649.1 desc."
+      ],
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792615592.203359,
       "is_new": false
     },
     {
@@ -28169,26 +28199,8 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1787625964.61514,
-      "is_new": false
-    },
-    {
-      "asin": "B0HBYYN84S",
-      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYYN84S",
-      "current_price": 2499.0,
-      "original_price": 3049.0,
-      "discount": 18.0,
-      "difference": 550.0,
-      "criteria": [
-        "R$ 550.0 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -28205,7 +28217,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -28223,7 +28235,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81j7QkksKEL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28241,8 +28253,26 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6CR795",
+      "title": "Apple iPhone 15 (128 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
+      "current_price": 4199.0,
+      "original_price": 4698.89,
+      "discount": 10.6,
+      "difference": 499.89,
+      "criteria": [
+        "R$ 499.89 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1790959316.049343,
       "is_new": false
     },
     {
@@ -28260,8 +28290,26 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1785724793.221697,
+      "is_new": false
+    },
+    {
+      "asin": "B0HLTSNZDW",
+      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
+      "current_price": 2399.0,
+      "original_price": 2869.0,
+      "discount": 16.4,
+      "difference": 470.0,
+      "criteria": [
+        "R$ 470.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -28278,26 +28326,8 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1792414943.690207,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCSP9NS4",
-      "title": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Midea-Ecomaster/dp/B0FCSP9NS4",
-      "current_price": 1837.98,
-      "original_price": 2189.0,
-      "discount": 16.0,
-      "difference": 351.02,
-      "criteria": [
-        "R$ 351.02 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792131992.628407,
       "is_new": false
     },
     {
@@ -28314,44 +28344,45 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792626169.385338,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
     {
-      "asin": "B0CV4H7QRZ",
-      "title": "Cervejeira Imbera 569 Litros Porta De Vidro Full Black CCV355-220V",
-      "link": "https://www.amazon.com.br/Cervejeira-Imbera-Litros-Porta-Ccv355-220v/dp/B0CV4H7QRZ",
-      "current_price": 5079.03,
-      "original_price": 5399.0,
-      "discount": 5.9,
-      "difference": 319.97,
+      "asin": "B0GV5W8Q8H",
+      "title": "Jogo de Panelas BLACK+DECKER 10 Peças Ceramic Line - Cinza Gradiente | Revestimento Antiaderente em Cerâmica, Compatível com Fogão de Indução, Tampa de Vidro e Utensílios de Silicone",
+      "link": "https://www.amazon.com.br/BLACK-DECKER-PANELAS-PE%C3%87AS-CERAMIC/dp/B0GV5W8Q8H",
+      "current_price": 297.57,
+      "original_price": 599.0,
+      "discount": 50.3,
+      "difference": 301.43,
       "criteria": [
-        "R$ 319.97 desc."
+        "50.3% OFF",
+        "R$ 301.43 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/410BIcnJiKL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792151091.921517,
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71L0EgolA0L._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKWARE_SET]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792615592.203351,
       "is_new": false
     },
     {
-      "asin": "B0DHL63KWK",
-      "title": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "link": "https://www.amazon.com.br/Ouvido-JBL-Bluetooth-Auricular-Resistente/dp/B0DHL63KWK",
-      "current_price": 234.99,
-      "original_price": 466.66,
-      "discount": 49.6,
-      "difference": 231.67,
+      "asin": "B0GW48RBS7",
+      "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+      "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
+      "current_price": 102.37,
+      "original_price": 189.9,
+      "discount": 46.1,
+      "difference": 87.53,
       "criteria": [
-        "49.6% OFF"
+        "46.1% OFF"
       ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792603321.864953,
-      "discovery_ts": 1792526468.589566,
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
+      "category": "[INCONTINENCE_PROTECTOR]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792615592.203351,
       "is_new": false
     }
   ]
