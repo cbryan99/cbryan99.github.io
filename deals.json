@@ -1,5 +1,5 @@
 {
-  "last_check": "21/10/2026 17:22:13",
+  "last_check": "21/10/2026 20:46:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -24631,6 +24631,10 @@
         {
           "price": 3189.99,
           "date": "2026-10-02T16:41:56.049343"
+        },
+        {
+          "price": 3249.95,
+          "date": "2026-10-21T20:46:32.203351"
         }
       ]
     },
@@ -24706,6 +24710,10 @@
         {
           "price": 4099.0,
           "date": "2026-09-27T17:15:01.083727"
+        },
+        {
+          "price": 3759.0,
+          "date": "2026-10-21T20:46:32.203351"
         }
       ]
     },
@@ -26683,6 +26691,10 @@
         {
           "price": 5599.0,
           "date": "2026-10-03T05:32:49.072688"
+        },
+        {
+          "price": 4949.0,
+          "date": "2026-10-21T20:46:32.203351"
         }
       ]
     },
@@ -27794,9 +27806,120 @@
           "date": "2026-10-21T06:31:33.668248"
         }
       ]
+    },
+    "B0GW48RBS7": {
+      "discovery_date": "2026-10-21T20:46:32.203351",
+      "price_history": [
+        {
+          "price": 102.37,
+          "date": "2026-10-21T20:46:32.203351"
+        }
+      ]
+    },
+    "B0F9LJM3VR": {
+      "discovery_date": "2026-10-21T20:46:32.203351",
+      "price_history": [
+        {
+          "price": 5968.99,
+          "date": "2026-10-21T20:46:32.203351"
+        }
+      ]
+    },
+    "B0GV5W8Q8H": {
+      "discovery_date": "2026-10-21T20:46:32.203351",
+      "price_history": [
+        {
+          "price": 297.57,
+          "date": "2026-10-21T20:46:32.203351"
+        }
+      ]
+    },
+    "B0DBR1N89F": {
+      "discovery_date": "2026-10-21T20:46:32.203351",
+      "price_history": [
+        {
+          "price": 549.9,
+          "date": "2026-10-21T20:46:32.203351"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0F9LJM3VR",
+      "title": "PHILCO Refrigerador side by side frost free prf613id eco inverter 513l inox 220v",
+      "link": "https://www.amazon.com.br/PHILCO-Refrigerador-frost-prf613id-inverter/dp/B0F9LJM3VR",
+      "current_price": 5968.99,
+      "original_price": 11249.0,
+      "discount": 46.9,
+      "difference": 5280.01,
+      "criteria": [
+        "46.9% OFF",
+        "R$ 5280.01 desc."
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41hRpyllR0L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792615592.203359,
+      "is_new": true
+    },
+    {
+      "asin": "B0DBR1N89F",
+      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
+      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
+      "current_price": 549.9,
+      "original_price": 1199.0,
+      "discount": 54.1,
+      "difference": 649.1,
+      "criteria": [
+        "54.1% OFF",
+        "R$ 649.1 desc."
+      ],
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792615592.203359,
+      "is_new": true
+    },
+    {
+      "asin": "B0GV5W8Q8H",
+      "title": "BLACK+DECKER JOGO DE PANELAS 10 PEÇAS CERAMIC LINE - CORPO COM REVESTIMENTO CERÂMICO ANTIADERENTE COM ACABAMENTO GREY GRADIENT, BASE COMPATÍVEL COM INDUÇÃO",
+      "link": "https://www.amazon.com.br/BLACK-DECKER-PANELAS-PE%C3%87AS-CERAMIC/dp/B0GV5W8Q8H",
+      "current_price": 297.57,
+      "original_price": 599.0,
+      "discount": 50.3,
+      "difference": 301.43,
+      "criteria": [
+        "50.3% OFF",
+        "R$ 301.43 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71L0EgolA0L._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKWARE_SET]",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792615592.203359,
+      "is_new": true
+    },
+    {
+      "asin": "B0GW48RBS7",
+      "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+      "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
+      "current_price": 102.37,
+      "original_price": 189.9,
+      "discount": 46.1,
+      "difference": 87.53,
+      "criteria": [
+        "46.1% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
+      "category": "[INCONTINENCE_PROTECTOR]",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792615592.203359,
+      "is_new": true
+    },
     {
       "asin": "B0DZK3VZVH",
       "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
@@ -27817,6 +27940,24 @@
       "is_new": false
     },
     {
+      "asin": "B0FXM57JL9",
+      "title": "DREAME X50 Ultra Complete Robô Aspirador, 20.000Pa, Obstáculos 6cm, 127V | SideReach e MopExtend, DuoBrush antienrosco, mopas auto-removíveis, desvio de obstáculos por IA, modo pet",
+      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+      "current_price": 8918.96,
+      "original_price": 12999.0,
+      "discount": 31.4,
+      "difference": 4080.04,
+      "criteria": [
+        "R$ 4080.04 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1785169875.641153,
+      "is_new": false
+    },
+    {
       "asin": "B0FXM4S78T",
       "title": "DREAME L40 Ultra AE Robô Aspirador e Passa Pano, 19.000Pa, PowerDock 8 em 1, Lavagem da Mopa a 75°C, MopExtend, TriCut 3.0, Autoesvaziamento 100 Dias, Dosagem Automática, Amigo dos Pets, 127V",
       "link": "https://www.amazon.com.br/DREAME-L40-Ultra-AE-Autoesvazi%C3%A1vel/dp/B0FXM4S78T",
@@ -27830,26 +27971,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792585150.731048,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
-      "asin": "B0GF2FZ5K2",
-      "title": "Creality Official K2 Combo Impressora 3D - 600mm/s Alta Velocidade, Impressão CFS de 16 Cores, Câmeras AI Duplas, Ultra-Silenciosa, Volume de Construção 260x260x260mm",
-      "link": "https://www.amazon.com.br/Creality-Official-K2-Combo-Impressora/dp/B0GF2FZ5K2",
-      "current_price": 5556.0,
-      "original_price": 7564.0,
-      "discount": 26.5,
-      "difference": 2008.0,
+      "asin": "B0FQF9X69T",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
+      "current_price": 3799.0,
+      "original_price": 5499.0,
+      "discount": 30.9,
+      "difference": 1700.0,
       "criteria": [
-        "R$ 2008.0 desc."
+        "R$ 1700.0 desc."
       ],
-      "badge": "26% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61XuUV1NEGL._AC_UL210_SR210,210_.jpg",
-      "category": "[3D_PRINTER]",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1792297443.465829,
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1792003951.96343,
       "is_new": false
     },
     {
@@ -27889,6 +28030,24 @@
       "is_new": false
     },
     {
+      "asin": "B0HBYBFFFM",
+      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBFFFM",
+      "current_price": 4949.0,
+      "original_price": 6299.0,
+      "discount": 21.4,
+      "difference": 1350.0,
+      "criteria": [
+        "R$ 1350.0 desc."
+      ],
+      "badge": "21% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1791005569.072688,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -27902,7 +28061,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -27920,62 +28079,44 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
     {
-      "asin": "B0FQFH5PJS",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
-      "current_price": 2299.0,
-      "original_price": 3299.0,
-      "discount": 30.3,
-      "difference": 1000.0,
+      "asin": "B0FL4VDVCV",
+      "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
+      "current_price": 3249.95,
+      "original_price": 4099.0,
+      "discount": 20.7,
+      "difference": 849.05,
       "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1787355246.696526,
-      "is_new": false
-    },
-    {
-      "asin": "B0DBN2NR2Q",
-      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 127V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN2NR2Q",
-      "current_price": 2679.0,
-      "original_price": 3472.63,
-      "discount": 22.9,
-      "difference": 793.63,
-      "criteria": [
-        "R$ 793.63 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1786415879.781815,
-      "is_new": false
-    },
-    {
-      "asin": "B0GY4H64Y1",
-      "title": "DREAME H60 GT Aspirador Seco e Úmido, 21kPa, Reclinável 180°, 220V | TangleCut antienrosco, escova de borda dupla, lavagem e secagem a 90°C, água fresca contínua, 35 min de autonomia",
-      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Reclin%C3%A1vel-antienrosco/dp/B0GY4H64Y1",
-      "current_price": 2618.99,
-      "original_price": 3299.0,
-      "discount": 20.6,
-      "difference": 680.01,
-      "criteria": [
-        "R$ 680.01 desc."
+        "R$ 849.05 desc."
       ],
       "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xF9EnxyoL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1789498558.08297,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81uh513gz+L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1789192309.214638,
+      "is_new": false
+    },
+    {
+      "asin": "B0HBYBB54N",
+      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBB54N",
+      "current_price": 3759.0,
+      "original_price": 4499.0,
+      "discount": 16.4,
+      "difference": 740.0,
+      "criteria": [
+        "R$ 740.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792615592.203359,
+      "discovery_ts": 1789219145.198038,
       "is_new": false
     },
     {
@@ -28010,7 +28151,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1788133220.695808,
       "is_new": false
     },
@@ -28028,7 +28169,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28064,7 +28205,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -28100,7 +28241,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28119,7 +28260,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1785724793.221697,
       "is_new": false
     },
@@ -28137,26 +28278,8 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1792414943.690207,
-      "is_new": false
-    },
-    {
-      "asin": "B0HLTSNZDW",
-      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
-      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
-      "current_price": 2399.0,
-      "original_price": 2799.0,
-      "discount": 14.3,
-      "difference": 400.0,
-      "criteria": [
-        "R$ 400.0 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -28191,7 +28314,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792603321.864953,
+      "last_seen": 1792615592.203359,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
@@ -28229,42 +28352,6 @@
       "category": "[HEADPHONES]",
       "last_seen": 1792603321.864953,
       "discovery_ts": 1792526468.589566,
-      "is_new": false
-    },
-    {
-      "asin": "B0BM4RSB3R",
-      "title": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
-      "link": "https://www.amazon.com.br/Wella-Invigo-Nutri-M%C3%A1scara-500ml/dp/B0BM4RSB3R",
-      "current_price": 156.74,
-      "original_price": 278.0,
-      "discount": 43.6,
-      "difference": 121.26,
-      "criteria": [
-        "43.6% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/411ri7xcuKL._AC_UL210_SR210,210_.jpg",
-      "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1792477249.509939,
-      "is_new": false
-    },
-    {
-      "asin": "B081QW8VZQ",
-      "title": "Garoto Cacau Em Pó 200G",
-      "link": "https://www.amazon.com.br/Cacau-em-P%C3%B3-Garoto-200g/dp/B081QW8VZQ",
-      "current_price": 24.65,
-      "original_price": 49.29,
-      "discount": 50.0,
-      "difference": 24.64,
-      "criteria": [
-        "50.0% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81LpxrSI+VL._AC_UL210_SR210,210_.jpg",
-      "category": "[BAKING_CHOCOLATE]",
-      "last_seen": 1792585150.731048,
-      "discovery_ts": 1792564293.668248,
       "is_new": false
     }
   ]
