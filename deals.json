@@ -1,5 +1,5 @@
 {
-  "last_check": "22/10/2026 20:51:30",
+  "last_check": "22/10/2026 23:49:00",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -2428,6 +2428,10 @@
         {
           "price": 2159.29,
           "date": "2026-09-28T15:54:08.628745"
+        },
+        {
+          "price": 2079.29,
+          "date": "2026-10-22T23:49:00.255058"
         }
       ]
     },
@@ -27939,9 +27943,36 @@
           "date": "2026-10-22T17:49:27.956879"
         }
       ]
+    },
+    "B0FPDV86FF": {
+      "discovery_date": "2026-10-22T23:49:00.255058",
+      "price_history": [
+        {
+          "price": 6933.99,
+          "date": "2026-10-22T23:49:00.255058"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FPDV86FF",
+      "title": "Smart TV TCL 85 Polegadas QLED 4K P7K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision 85P7K",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-Vision/dp/B0FPDV86FF",
+      "current_price": 6933.99,
+      "original_price": 7299.0,
+      "discount": 5.0,
+      "difference": 365.01,
+      "criteria": [
+        "R$ 365.01 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815T-NJf-4L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1792712940.255067,
+      "is_new": true
+    },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
@@ -27956,8 +27987,27 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPRN2K78",
+      "title": "JBL, Barra de Som, BAR 1000 MK2, Soundbar, 7.1.4 Canais, Dolby Atmos - Preta",
+      "link": "https://www.amazon.com.br/JBL-Soundbar-7-1-4-Canais-Subwoofer/dp/B0FPRN2K78",
+      "current_price": 3999.9,
+      "original_price": 6799.0,
+      "discount": 41.2,
+      "difference": 2799.1,
+      "criteria": [
+        "41.2% OFF",
+        "R$ 2799.1 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -27974,7 +28024,7 @@
       "badge": "35% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1789412436.19625,
       "is_new": false
     },
@@ -27992,7 +28042,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
@@ -28012,6 +28062,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792691367.956885,
       "discovery_ts": 1792691367.956885,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6CVJSG",
+      "title": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
+      "current_price": 4199.0,
+      "original_price": 5999.0,
+      "discount": 30.0,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
@@ -28047,8 +28115,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0FL4N5RG6",
+      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
+      "current_price": 4399.99,
+      "original_price": 5699.0,
+      "discount": 22.8,
+      "difference": 1299.01,
+      "criteria": [
+        "R$ 1299.01 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bREGVqLPL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1790974927.152782,
       "is_new": false
     },
     {
@@ -28067,6 +28153,24 @@
       "category": "[WEARABLE_COMPUTER]",
       "last_seen": 1792691367.956885,
       "discovery_ts": 1792691367.956885,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFKQ6J5",
+      "title": "Apple Watch SE 3 GPS + Cellular, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G",
+      "link": "https://www.amazon.com.br/Apple-Cellular-alum%C3%ADnio-Bracelete-desportiva/dp/B0FQFKQ6J5",
+      "current_price": 3049.0,
+      "original_price": 4299.0,
+      "discount": 29.1,
+      "difference": 1250.0,
+      "criteria": [
+        "R$ 1250.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j8ZJViXfL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1791906368.791139,
       "is_new": false
     },
     {
@@ -28138,7 +28242,7 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
@@ -28156,7 +28260,7 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61JbwD1lxnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1790294536.677303,
       "is_new": false
     },
@@ -28174,7 +28278,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1786491945.120891,
       "is_new": false
     },
@@ -28195,6 +28299,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792702290.397039,
       "discovery_ts": 1792634138.289993,
+      "is_new": false
+    },
+    {
+      "asin": "B0GY4H64Y1",
+      "title": "DREAME H60 GT Aspirador Seco e Úmido, 21kPa, Reclinável 180°, 220V | TangleCut antienrosco, escova de borda dupla, lavagem e secagem a 90°C, água fresca contínua, 35 min de autonomia",
+      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Reclin%C3%A1vel-antienrosco/dp/B0GY4H64Y1",
+      "current_price": 2618.99,
+      "original_price": 3299.0,
+      "discount": 20.6,
+      "difference": 680.01,
+      "criteria": [
+        "R$ 680.01 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61xF9EnxyoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1789498558.08297,
       "is_new": false
     },
     {
@@ -28229,7 +28351,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792691367.956885,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28283,7 +28405,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28320,7 +28442,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1785724793.221697,
       "is_new": false
     },
@@ -28374,8 +28496,26 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792691367.956885,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1792414943.690207,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXFFSVYM",
+      "title": "DREAME D15 Plus Robô Aspirador e Mopa, 13.000Pa, Autoesvaziamento, 127V | Smart Pathfinder, mapeamento multipisos, Carpet Boost, autonomia de 300 min, Alexa, Siri e Google Home",
+      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
+      "current_price": 2079.29,
+      "original_price": 2499.0,
+      "discount": 16.8,
+      "difference": 419.71,
+      "criteria": [
+        "R$ 419.71 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792712940.255067,
+      "discovery_ts": 1785128082.040921,
       "is_new": false
     },
     {
@@ -28410,7 +28550,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
@@ -28482,7 +28622,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792702290.397039,
+      "last_seen": 1792712940.255067,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     }
