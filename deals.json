@@ -1,5 +1,5 @@
 {
-  "last_check": "22/10/2026 01:55:38",
+  "last_check": "22/10/2026 07:00:34",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -27895,101 +27895,99 @@
           "date": "2026-10-22T01:55:38.289993"
         }
       ]
+    },
+    "B0DYQFSGXD": {
+      "discovery_date": "2026-10-22T07:00:18.957299",
+      "price_history": [
+        {
+          "price": 331.04,
+          "date": "2026-10-22T07:00:18.957299"
+        }
+      ]
+    },
+    "B0GT2FP8RC": {
+      "discovery_date": "2026-10-22T07:00:18.957299",
+      "price_history": [
+        {
+          "price": 3415.88,
+          "date": "2026-10-22T07:00:18.957299"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FPPJF4Y7",
-      "title": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza | 128GB, 4GB, 50MP, Tela 6.7\"",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPJF4Y7",
-      "current_price": 999.0,
-      "original_price": 1699.0,
-      "discount": 41.2,
-      "difference": 700.0,
-      "criteria": [
-        "41.2% OFF",
-        "R$ 700.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792634138.29,
-      "discovery_ts": 1792634138.29,
-      "is_new": true
-    },
-    {
-      "asin": "B0DYQGQZ8D",
-      "title": "Fischer Air Fryer Smart 8L Preto 127V 37010-104681",
-      "link": "https://www.amazon.com.br/Fischer-Fryer-Smart-Preto-37010-104681/dp/B0DYQGQZ8D",
-      "current_price": 318.04,
+      "asin": "B0DYQFSGXD",
+      "title": "Fischer Air Fryer Smart 8L Preto 220V 37010-104682",
+      "link": "https://www.amazon.com.br/Fischer-Fryer-Smart-Preto-37010-104682/dp/B0DYQFSGXD",
+      "current_price": 331.04,
       "original_price": 899.0,
-      "discount": 64.6,
-      "difference": 580.96,
+      "discount": 63.2,
+      "difference": 567.96,
       "criteria": [
-        "64.6% OFF",
-        "R$ 580.96 desc."
+        "63.2% OFF",
+        "R$ 567.96 desc."
       ],
-      "badge": "64% off",
+      "badge": "63% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71AKOUnMbKL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792634138.29,
-      "discovery_ts": 1792634138.29,
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792652418.957308,
       "is_new": true
     },
     {
-      "asin": "B0F9LJM3VR",
-      "title": "PHILCO Refrigerador side by side frost free prf613id eco inverter 513l inox 220v",
-      "link": "https://www.amazon.com.br/PHILCO-Refrigerador-frost-prf613id-inverter/dp/B0F9LJM3VR",
-      "current_price": 5968.99,
-      "original_price": 11249.0,
-      "discount": 46.9,
-      "difference": 5280.01,
+      "asin": "B0GT2FP8RC",
+      "title": "Electrolux Cafeteira Espresso com Moedor de Grãos Integrado, Café em Pó e Sache Saida de Vapor independente Aquecimento de Xícaras Estilo Barista Expert ECM90 220V Preto Fosco",
+      "link": "https://www.amazon.com.br/Electrolux-Cafeteira-Integrado-independente-Aquecimento/dp/B0GT2FP8RC",
+      "current_price": 3415.88,
+      "original_price": 3795.42,
+      "discount": 10.0,
+      "difference": 379.54,
       "criteria": [
-        "46.9% OFF",
-        "R$ 5280.01 desc."
+        "R$ 379.54 desc."
       ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41hRpyllR0L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792615592.203359,
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51hB95yozLL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792652418.957308,
+      "is_new": true
+    },
+    {
+      "asin": "B0FPRN2K78",
+      "title": "JBL, Barra de Som, BAR 1000 MK2, Soundbar, 7.1.4 Canais, Dolby Atmos - Preta",
+      "link": "https://www.amazon.com.br/JBL-Soundbar-7-1-4-Canais-Subwoofer/dp/B0FPRN2K78",
+      "current_price": 3999.9,
+      "original_price": 6799.0,
+      "discount": 41.2,
+      "difference": 2799.1,
+      "criteria": [
+        "41.2% OFF",
+        "R$ 2799.1 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
-      "asin": "B0DZK3VZVH",
-      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
-      "current_price": 5227.74,
-      "original_price": 9999.0,
-      "discount": 47.7,
-      "difference": 4771.26,
+      "asin": "B0FXMBWGGM",
+      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
+      "current_price": 3880.0,
+      "original_price": 5999.0,
+      "discount": 35.3,
+      "difference": 2119.0,
       "criteria": [
-        "47.7% OFF",
-        "R$ 4771.26 desc."
+        "R$ 2119.0 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1791924592.370134,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXM57JL9",
-      "title": "DREAME X50 Ultra Complete Robô Aspirador, 20.000Pa, Obstáculos 6cm, 127V | SideReach e MopExtend, DuoBrush antienrosco, mopas auto-removíveis, desvio de obstáculos por IA, modo pet",
-      "link": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
-      "current_price": 8918.96,
-      "original_price": 12999.0,
-      "discount": 31.4,
-      "difference": 4080.04,
-      "criteria": [
-        "R$ 4080.04 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61vH6J9IR8L._AC_UL210_SR210,210_.jpg",
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1785169875.641153,
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -28047,21 +28045,22 @@
       "is_new": false
     },
     {
-      "asin": "B0FQF9X69T",
-      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
-      "current_price": 3799.0,
-      "original_price": 5499.0,
-      "discount": 30.9,
-      "difference": 1700.0,
+      "asin": "B0FQFJGQCB",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
+      "current_price": 2017.12,
+      "original_price": 3699.0,
+      "discount": 45.5,
+      "difference": 1681.88,
       "criteria": [
-        "R$ 1700.0 desc."
+        "45.5% OFF",
+        "R$ 1681.88 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792003951.96343,
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792626169.385338,
       "is_new": false
     },
     {
@@ -28078,7 +28077,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28096,26 +28095,8 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQFJGQCB",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
-      "current_price": 2599.0,
-      "original_price": 3699.0,
-      "discount": 29.7,
-      "difference": 1100.0,
-      "criteria": [
-        "R$ 1100.0 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
       "is_new": false
     },
     {
@@ -28137,39 +28118,59 @@
       "is_new": false
     },
     {
-      "asin": "B0FL4VDVCV",
-      "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
-      "current_price": 3249.95,
-      "original_price": 4099.0,
-      "discount": 20.7,
-      "difference": 849.05,
+      "asin": "B0F2WLTJLK",
+      "title": "Cadeira de Escritório DT3 Ergonomie FT em Mesh Polytex™; Suporte lombar SpineSync, Encosto 5 pontos ajuste de altura, Apoio cabeça 4D, Apoio braço 5D 360º, Apoio de pé dobrável, certificada.",
+      "link": "https://www.amazon.com.br/Escrit%C3%B3rio-DT3-Ergonomie-Revestimento-Mesh-profissional/dp/B0F2WLTJLK",
+      "current_price": 2399.9,
+      "original_price": 3399.9,
+      "discount": 29.4,
+      "difference": 1000.0,
       "criteria": [
-        "R$ 849.05 desc."
+        "R$ 1000.0 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81uh513gz+L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1789192309.214638,
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZhvH2SC+L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792349348.379563,
       "is_new": false
     },
     {
-      "asin": "B09QVC3PYG",
-      "title": "Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 549L Inox Look 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QVC3PYG",
-      "current_price": 6599.0,
-      "original_price": 7367.37,
-      "discount": 10.4,
-      "difference": 768.37,
+      "asin": "B0DGLXRFXB",
+      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
+      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
+      "current_price": 1189.15,
+      "original_price": 1999.0,
+      "discount": 40.5,
+      "difference": 809.85,
       "criteria": [
-        "R$ 768.37 desc."
+        "40.5% OFF",
+        "R$ 809.85 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1786542030.20045,
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1788133220.695808,
+      "is_new": false
+    },
+    {
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 419.0,
+      "original_price": 1199.9,
+      "discount": 65.1,
+      "difference": 780.9,
+      "criteria": [
+        "65.1% OFF",
+        "R$ 780.9 desc."
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1790156779.821624,
       "is_new": false
     },
     {
@@ -28186,8 +28187,27 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1789219145.198038,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPPJF4Y7",
+      "title": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza | 128GB, 4GB, 50MP, Tela 6.7\"",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPJF4Y7",
+      "current_price": 999.0,
+      "original_price": 1699.0,
+      "discount": 41.2,
+      "difference": 700.0,
+      "criteria": [
+        "41.2% OFF",
+        "R$ 700.0 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792634138.289993,
       "is_new": false
     },
     {
@@ -28204,45 +28224,45 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
-      "asin": "B0DBR1N89F",
-      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
-      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
-      "current_price": 549.9,
-      "original_price": 1199.0,
-      "discount": 54.1,
-      "difference": 649.1,
+      "asin": "B07KXXFQ8J",
+      "title": "Cadeira de Escritório e Gamer DT3 Rhino, ergonomica e confortável revestimento DT3 Everpro™, Espuma injetada, estrutura reforçada em aço tubular, braços 4D+, Certificada NR-17. (Black)",
+      "link": "https://www.amazon.com.br/DT3-ergonomica-confort%C3%A1vel-revestimento-EverproTM/dp/B07KXXFQ8J",
+      "current_price": 2999.89,
+      "original_price": 3599.9,
+      "discount": 16.7,
+      "difference": 600.01,
       "criteria": [
-        "54.1% OFF",
-        "R$ 649.1 desc."
+        "R$ 600.01 desc."
       ],
-      "badge": "54% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1792615592.203359,
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Pi-riKf4L._AC_UL210_SR210,210_.jpg",
+      "category": "[CHAIR]",
+      "last_seen": 1792652418.957308,
+      "discovery_ts": 1792057168.206467,
       "is_new": false
     },
     {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1399.0,
-      "original_price": 1999.0,
-      "discount": 30.0,
-      "difference": 600.0,
+      "asin": "B0DYQGQZ8D",
+      "title": "Fischer Air Fryer Smart 8L Preto 127V 37010-104681",
+      "link": "https://www.amazon.com.br/Fischer-Fryer-Smart-Preto-37010-104681/dp/B0DYQGQZ8D",
+      "current_price": 318.04,
+      "original_price": 899.0,
+      "discount": 64.6,
+      "difference": 580.96,
       "criteria": [
-        "R$ 600.0 desc."
+        "64.6% OFF",
+        "R$ 580.96 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792615592.203359,
-      "discovery_ts": 1788133220.695808,
+      "badge": "64% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AKOUnMbKL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1792634138.29,
       "is_new": false
     },
     {
@@ -28259,7 +28279,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1787625964.61514,
       "is_new": false
     },
@@ -28300,24 +28320,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GVP7Q8TX",
-      "title": "Hisense Smart TV 4K Hi-QLED 43\" Polegadas 43Q6QVV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
-      "link": "https://www.amazon.com.br/Hisense-Smart-Hi-QLED-Polegadas-43Q6QVV/dp/B0GVP7Q8TX",
-      "current_price": 1677.5,
-      "original_price": 2199.0,
-      "discount": 23.7,
-      "difference": 521.5,
-      "criteria": [
-        "R$ 521.5 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81j7QkksKEL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792526468.589559,
-      "is_new": false
-    },
-    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -28331,7 +28333,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28349,7 +28351,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1790959316.049343,
       "is_new": false
     },
@@ -28368,7 +28370,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1785724793.221697,
       "is_new": false
     },
@@ -28386,44 +28388,8 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1792437338.770363,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPQ1C614",
-      "title": "Celular Samsung Galaxy A17 5G, 256GB, 8GB, 50MP Tela 6.7\" - Cinza",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPQ1C614",
-      "current_price": 1410.0,
-      "original_price": 1849.0,
-      "discount": 23.7,
-      "difference": 439.0,
-      "criteria": [
-        "R$ 439.0 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792414943.690207,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGM4T4H8",
-      "title": "Apple AirPods 4",
-      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
-      "current_price": 1129.0,
-      "original_price": 1499.0,
-      "discount": 24.7,
-      "difference": 370.0,
-      "criteria": [
-        "R$ 370.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
       "is_new": false
     },
     {
@@ -28440,7 +28406,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
@@ -28464,24 +28430,6 @@
       "is_new": false
     },
     {
-      "asin": "B07BK5WHD3",
-      "title": "Dream Fitness EX 450 - Bicicleta Ergométrica Vertical, Chumbo, Único",
-      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Vertical-Dream-EX450/dp/B07BK5WHD3",
-      "current_price": 250.52,
-      "original_price": 499.0,
-      "discount": 49.8,
-      "difference": 248.48,
-      "criteria": [
-        "49.8% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Qmjq0yHsL._AC_UL210_SR210,210_.jpg",
-      "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
-      "is_new": false
-    },
-    {
       "asin": "B0GW48RBS7",
       "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
       "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
@@ -28495,7 +28443,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792634138.29,
+      "last_seen": 1792652418.957308,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     }
