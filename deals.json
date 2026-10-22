@@ -1,5 +1,5 @@
 {
-  "last_check": "21/10/2026 23:42:57",
+  "last_check": "22/10/2026 01:55:38",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -26798,6 +26798,10 @@
         {
           "price": 4220.84,
           "date": "2026-10-13T01:23:33.922112"
+        },
+        {
+          "price": 4199.0,
+          "date": "2026-10-22T01:55:38.289993"
         }
       ]
     },
@@ -27873,61 +27877,63 @@
           "date": "2026-10-21T23:42:49.385329"
         }
       ]
+    },
+    "B0FPPJF4Y7": {
+      "discovery_date": "2026-10-22T01:55:38.289993",
+      "price_history": [
+        {
+          "price": 999.0,
+          "date": "2026-10-22T01:55:38.289993"
+        }
+      ]
+    },
+    "B0DYQGQZ8D": {
+      "discovery_date": "2026-10-22T01:55:38.289993",
+      "price_history": [
+        {
+          "price": 318.04,
+          "date": "2026-10-22T01:55:38.289993"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0FQFJGQCB",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
-      "current_price": 2599.0,
-      "original_price": 3699.0,
-      "discount": 29.7,
-      "difference": 1100.0,
+      "asin": "B0FPPJF4Y7",
+      "title": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza | 128GB, 4GB, 50MP, Tela 6.7\"",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPJF4Y7",
+      "current_price": 999.0,
+      "original_price": 1699.0,
+      "discount": 41.2,
+      "difference": 700.0,
       "criteria": [
-        "R$ 1100.0 desc."
+        "41.2% OFF",
+        "R$ 700.0 desc."
       ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
-      "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1792634138.29,
       "is_new": true
     },
     {
-      "asin": "B0DGM4T4H8",
-      "title": "Apple AirPods 4",
-      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
-      "current_price": 1129.0,
-      "original_price": 1499.0,
-      "discount": 24.7,
-      "difference": 370.0,
+      "asin": "B0DYQGQZ8D",
+      "title": "Fischer Air Fryer Smart 8L Preto 127V 37010-104681",
+      "link": "https://www.amazon.com.br/Fischer-Fryer-Smart-Preto-37010-104681/dp/B0DYQGQZ8D",
+      "current_price": 318.04,
+      "original_price": 899.0,
+      "discount": 64.6,
+      "difference": 580.96,
       "criteria": [
-        "R$ 370.0 desc."
+        "64.6% OFF",
+        "R$ 580.96 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
-      "is_new": true
-    },
-    {
-      "asin": "B07BK5WHD3",
-      "title": "Dream Fitness EX 450 - Bicicleta Ergométrica Vertical, Chumbo, Único",
-      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Vertical-Dream-EX450/dp/B07BK5WHD3",
-      "current_price": 250.52,
-      "original_price": 499.0,
-      "discount": 49.8,
-      "difference": 248.48,
-      "criteria": [
-        "49.8% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Qmjq0yHsL._AC_UL210_SR210,210_.jpg",
-      "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792626169.385338,
-      "discovery_ts": 1792626169.385338,
+      "badge": "64% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71AKOUnMbKL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1792634138.29,
       "is_new": true
     },
     {
@@ -28000,8 +28006,44 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 12999.0,
+      "original_price": 14999.0,
+      "discount": 13.3,
+      "difference": 2000.0,
+      "criteria": [
+        "R$ 2000.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1787860684.198484,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6CVJSG",
+      "title": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
+      "current_price": 4199.0,
+      "original_price": 5999.0,
+      "discount": 30.0,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
@@ -28036,7 +28078,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792615592.203359,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28054,8 +28096,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQFJGQCB",
+      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
+      "current_price": 2599.0,
+      "original_price": 3699.0,
+      "discount": 29.7,
+      "difference": 1100.0,
+      "criteria": [
+        "R$ 1100.0 desc."
+      ],
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
+      "category": "[WEARABLE_COMPUTER]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
       "is_new": false
     },
     {
@@ -28072,7 +28132,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -28204,6 +28264,24 @@
       "is_new": false
     },
     {
+      "asin": "B0HBYYN84S",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYYN84S",
+      "current_price": 2499.0,
+      "original_price": 3049.0,
+      "discount": 18.0,
+      "difference": 550.0,
+      "criteria": [
+        "R$ 550.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792634138.29,
+      "discovery_ts": 1792526468.589559,
+      "is_new": false
+    },
+    {
       "asin": "B0DVZQ8Z8S",
       "title": "Ar-Condicionado Split HW Philco PAC24FI 24.000 BTUs R-32 Só Frio 220V",
       "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Philco-PAC24FI-24-000/dp/B0DVZQ8Z8S",
@@ -28217,7 +28295,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1789175599.222088,
       "is_new": false
     },
@@ -28253,7 +28331,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28290,7 +28368,7 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1785724793.221697,
       "is_new": false
     },
@@ -28308,7 +28386,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28331,6 +28409,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DGM4T4H8",
+      "title": "Apple AirPods 4",
+      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
+      "current_price": 1129.0,
+      "original_price": 1499.0,
+      "discount": 24.7,
+      "difference": 370.0,
+      "criteria": [
+        "R$ 370.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
+      "is_new": false
+    },
+    {
       "asin": "B0H34VM48S",
       "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
       "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34VM48S",
@@ -28344,7 +28440,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
@@ -28363,8 +28459,26 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71L0EgolA0L._AC_UL210_SR210,210_.jpg",
       "category": "[COOKWARE_SET]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1792615592.203351,
+      "is_new": false
+    },
+    {
+      "asin": "B07BK5WHD3",
+      "title": "Dream Fitness EX 450 - Bicicleta Ergométrica Vertical, Chumbo, Único",
+      "link": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Vertical-Dream-EX450/dp/B07BK5WHD3",
+      "current_price": 250.52,
+      "original_price": 499.0,
+      "discount": 49.8,
+      "difference": 248.48,
+      "criteria": [
+        "49.8% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Qmjq0yHsL._AC_UL210_SR210,210_.jpg",
+      "category": "[STATIONARY_BICYCLE]",
+      "last_seen": 1792626169.385338,
+      "discovery_ts": 1792626169.385338,
       "is_new": false
     },
     {
@@ -28381,7 +28495,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792626169.385338,
+      "last_seen": 1792634138.29,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     }
