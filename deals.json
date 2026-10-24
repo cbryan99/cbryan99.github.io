@@ -1,5 +1,5 @@
 {
-  "last_check": "24/10/2026 06:33:19",
+  "last_check": "24/10/2026 11:33:17",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1885,6 +1885,10 @@
         {
           "price": 1919.19,
           "date": "2026-07-29T20:51:16.509219"
+        },
+        {
+          "price": 1919.0,
+          "date": "2026-10-24T11:33:05.611532"
         }
       ]
     },
@@ -28101,79 +28105,161 @@
           "date": "2026-10-24T06:33:09.515244"
         }
       ]
+    },
+    "B0DBMMH3JY": {
+      "discovery_date": "2026-10-24T11:33:05.611532",
+      "price_history": [
+        {
+          "price": 2849.0,
+          "date": "2026-10-24T11:33:05.611532"
+        }
+      ]
+    },
+    "B0H32MYJTZ": {
+      "discovery_date": "2026-10-24T11:33:05.611532",
+      "price_history": [
+        {
+          "price": 3196.23,
+          "date": "2026-10-24T11:33:05.611532"
+        }
+      ]
+    },
+    "B0B3JL4VLZ": {
+      "discovery_date": "2026-10-24T11:33:05.611532",
+      "price_history": [
+        {
+          "price": 89.9,
+          "date": "2026-10-24T11:33:05.611532"
+        }
+      ]
+    },
+    "B08VNPDGZL": {
+      "discovery_date": "2026-10-24T11:33:05.611532",
+      "price_history": [
+        {
+          "price": 290.79,
+          "date": "2026-10-24T11:33:05.611532"
+        }
+      ]
+    },
+    "B0756KXRLB": {
+      "discovery_date": "2026-10-24T11:33:05.611532",
+      "price_history": [
+        {
+          "price": 242.25,
+          "date": "2026-10-24T11:33:05.611532"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B00D4AJMQ6",
-      "title": "Câmera Digital Canon R100 18-45 IS STM",
-      "link": "https://www.amazon.com.br/C%C3%A2mera-Digital-Canon-R100-18-45/dp/B00D4AJMQ6",
-      "current_price": 3346.32,
+      "asin": "B0DBMMH3JY",
+      "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
+      "current_price": 2849.0,
+      "original_price": 3788.42,
+      "discount": 24.8,
+      "difference": 939.42,
+      "criteria": [
+        "R$ 939.42 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
+      "category": "[SMALL_HOME_APPLIANCES]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792841585.611539,
+      "is_new": true
+    },
+    {
+      "asin": "B0H32MYJTZ",
+      "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 220V - WD3S1443BB2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B0H32MYJTZ",
+      "current_price": 3196.23,
       "original_price": 3999.0,
-      "discount": 16.3,
-      "difference": 652.68,
+      "discount": 20.1,
+      "difference": 802.77,
       "criteria": [
-        "R$ 652.68 desc."
+        "R$ 802.77 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61R390jU45L._AC_UL210_SR210,210_.jpg",
-      "category": "[CAMERA_DIGITAL]",
-      "last_seen": 1792823589.515251,
-      "discovery_ts": 1792823589.515251,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792841585.611539,
       "is_new": true
     },
     {
-      "asin": "B0GZL99PNJ",
-      "title": "Conjunto Sala de Jantar Mesa e 6 Cadeiras Fênix Carraro (Dourada)",
-      "link": "https://www.amazon.com.br/Conjunto-Cadeiras-F%C3%AAnix-Carraro-Dourada/dp/B0GZL99PNJ",
-      "current_price": 1479.99,
-      "original_price": 1912.49,
-      "discount": 22.6,
-      "difference": 432.5,
+      "asin": "B0756KXRLB",
+      "title": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 127V",
+      "link": "https://www.amazon.com.br/Aspirador-Inox-Monof%C3%A1sico-1400W-Wap/dp/B0756KXRLB",
+      "current_price": 242.25,
+      "original_price": 599.9,
+      "discount": 59.6,
+      "difference": 357.65,
       "criteria": [
-        "R$ 432.5 desc."
+        "59.6% OFF",
+        "R$ 357.65 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61nMd75DFLL._AC_UL210_SR210,210_.jpg",
-      "category": "[FURNITURE]",
-      "last_seen": 1792823589.515251,
-      "discovery_ts": 1792823589.515251,
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792841585.611539,
       "is_new": true
     },
     {
-      "asin": "B07YD7FVKX",
-      "title": "Champagne Francês Branco Grand Brut Perrier-Jouët Garrafa 750ml",
-      "link": "https://www.amazon.com.br/Champagne-Perrier-Jou%C3%ABt-Grand-Brut-750/dp/B07YD7FVKX",
-      "current_price": 398.91,
-      "original_price": 709.9,
-      "discount": 43.8,
-      "difference": 310.99,
+      "asin": "B08VNPDGZL",
+      "title": "Concha y Toro Amelia Chardonnay 750ml",
+      "link": "https://www.amazon.com.br/Concha-Toro-CHILENO-AMELIA-CHARDONNAY/dp/B08VNPDGZL",
+      "current_price": 290.79,
+      "original_price": 549.9,
+      "discount": 47.1,
+      "difference": 259.11,
       "criteria": [
-        "43.8% OFF",
-        "R$ 310.99 desc."
+        "47.1% OFF"
       ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FGpKpYHBL._AC_UL210_SR210,210_.jpg",
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LhZvHYMCL._AC_UL210_SR210,210_.jpg",
       "category": "[WINE]",
-      "last_seen": 1792823589.515251,
-      "discovery_ts": 1792823589.515251,
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792841585.611539,
+      "is_new": true
+    },
+    {
+      "asin": "B0B3JL4VLZ",
+      "title": "Tangle Teezer - Escova de cabelo desembaraçadora The Wet Detangler para texturas grossas a crespas. Ideal para o uso em fios úmidos Cor: Mango Pink",
+      "link": "https://www.amazon.com.br/desembara%C3%A7adora-Detangler-texturas-grossas-crespas/dp/B0B3JL4VLZ",
+      "current_price": 89.9,
+      "original_price": 160.0,
+      "discount": 43.8,
+      "difference": 70.1,
+      "criteria": [
+        "43.8% OFF"
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71-GRdfmBdL._AC_UL210_SR210,210_.jpg",
+      "category": "[HAIR_BRUSH]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792841585.611539,
       "is_new": true
     },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
       "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
-      "current_price": 19999.0,
+      "current_price": 91.47,
       "original_price": 25799.0,
-      "discount": 22.5,
-      "difference": 5800.0,
+      "discount": 99.6,
+      "difference": 25707.53,
       "criteria": [
-        "R$ 5800.0 desc."
+        "99.6% OFF",
+        "R$ 25707.53 desc."
       ],
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792806547.749207,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1791854613.922112,
       "is_new": false
     },
@@ -28210,26 +28296,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1788327827.078928,
       "is_new": false
     },
     {
-      "asin": "B0CP6BZHK3",
-      "title": "Apple iPhone 15 (256 GB) — Azul",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
-      "current_price": 4887.78,
-      "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
+      "asin": "B0GXF8NXKX",
+      "title": "DREAME X60 Max Ultra Complete Robô Aspirador e Passa Pano, Sucção 35kPa, Ultrafino 7,95 cm, Transpõe Obstáculos de 8 cm, Desvio de 280 Obstáculos, Autoesvaziamento e Autolimpeza,127V",
+      "link": "https://www.amazon.com.br/X60-Max-Ultra-Complete-Autoesvaziamento/dp/B0GXF8NXKX",
+      "current_price": 12999.0,
+      "original_price": 14999.0,
+      "discount": 13.3,
+      "difference": 2000.0,
       "criteria": [
-        "R$ 1911.22 desc."
+        "R$ 2000.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1792691367.956879,
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71yAGUpbcoL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1787860684.198484,
       "is_new": false
     },
     {
@@ -28288,24 +28374,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FL4N5RG6",
-      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
-      "current_price": 4399.99,
-      "original_price": 5699.0,
-      "discount": 22.8,
-      "difference": 1299.01,
-      "criteria": [
-        "R$ 1299.01 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bREGVqLPL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1790974927.152782,
-      "is_new": false
-    },
-    {
       "asin": "B0F9LH6V3F",
       "title": "Ar Condicionado Janela Hisense 12000 Btus Frio Aw-12CR2RWGU00 220v",
       "link": "https://www.amazon.com.br/condicionado-janela-Hisense-12000-aw-12cr2rwgu00/dp/B0F9LH6V3F",
@@ -28320,26 +28388,8 @@
       "badge": "42% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71vJ7phXIrL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792806547.749207,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1787368158.987282,
-      "is_new": false
-    },
-    {
-      "asin": "B0B625GC45",
-      "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PW Branca 11/7kg - 220V",
-      "link": "https://www.amazon.com.br/Lava-Samsung-Branca-Programas-Lavagem/dp/B0B625GC45",
-      "current_price": 3419.05,
-      "original_price": 4618.9,
-      "discount": 26.0,
-      "difference": 1199.85,
-      "criteria": [
-        "R$ 1199.85 desc."
-      ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1785460545.090896,
       "is_new": false
     },
     {
@@ -28397,22 +28447,21 @@
       "is_new": false
     },
     {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1189.15,
-      "original_price": 1999.0,
-      "discount": 40.5,
-      "difference": 809.85,
+      "asin": "B0FL4VDVCV",
+      "title": "Hisense Smart TV UHD 4K HI-QLED 65\" Polegadas 65Q6QV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-65Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4VDVCV",
+      "current_price": 3249.95,
+      "original_price": 4099.0,
+      "discount": 20.7,
+      "difference": 849.05,
       "criteria": [
-        "40.5% OFF",
-        "R$ 809.85 desc."
+        "R$ 849.05 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792823589.515251,
-      "discovery_ts": 1788133220.695808,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81uh513gz+L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1789192309.214638,
       "is_new": false
     },
     {
@@ -28448,7 +28497,7 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792806547.749207,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
@@ -28468,42 +28517,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792823589.515251,
       "discovery_ts": 1790294536.677303,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPBQQ4TN",
-      "title": "PHILIPS, Smart TV Ambilight 55\" 4K, Titan OS, 55PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
-      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-55PUG8100-78-Bluetooth/dp/B0FPBQQ4TN",
-      "current_price": 2423.88,
-      "original_price": 3199.0,
-      "discount": 24.2,
-      "difference": 775.12,
-      "criteria": [
-        "R$ 775.12 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61HN+7ldJnL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1784464310.552537,
-      "is_new": false
-    },
-    {
-      "asin": "B081DK3H36",
-      "title": "Ar Condicionado Split Hi Wall Gree G-Top Auto Inverter 24.000 Btus Frio 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Gree-Inverter-24-000/dp/B081DK3H36",
-      "current_price": 4058.99,
-      "original_price": 4799.0,
-      "discount": 15.4,
-      "difference": 740.01,
-      "criteria": [
-        "R$ 740.01 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51s2uYsvnUL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -28544,6 +28557,78 @@
       "is_new": false
     },
     {
+      "asin": "B0DZJWTY2T",
+      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi + Cellular, 256 GB) - Cinzento sideral (M3)",
+      "link": "https://www.amazon.com.br/Apple-2025-polegadas-Wi-Fi-Cellular/dp/B0DZJWTY2T",
+      "current_price": 5999.98,
+      "original_price": 6666.66,
+      "discount": 10.0,
+      "difference": 666.68,
+      "criteria": [
+        "R$ 666.68 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792437338.770363,
+      "is_new": false
+    },
+    {
+      "asin": "B00D4AJMQ6",
+      "title": "Câmera Digital Canon R100 18-45 IS STM",
+      "link": "https://www.amazon.com.br/C%C3%A2mera-Digital-Canon-R100-18-45/dp/B00D4AJMQ6",
+      "current_price": 3346.32,
+      "original_price": 3999.0,
+      "discount": 16.3,
+      "difference": 652.68,
+      "criteria": [
+        "R$ 652.68 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61R390jU45L._AC_UL210_SR210,210_.jpg",
+      "category": "[CAMERA_DIGITAL]",
+      "last_seen": 1792823589.515251,
+      "discovery_ts": 1792823589.515251,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGLXRFXB",
+      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
+      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
+      "current_price": 1399.0,
+      "original_price": 1999.0,
+      "discount": 30.0,
+      "difference": 600.0,
+      "criteria": [
+        "R$ 600.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1788133220.695808,
+      "is_new": false
+    },
+    {
+      "asin": "B0H2DR1SGP",
+      "title": "DREAME L40 robô aspirador e passa pano inteligente, sucção Vormax de 13000 Pa, sistema DuoScrub, elevação automática do mop de 7mm, limpeza de carpetes, alcance o inalcançável, bateria 5200mAh, Bivolt",
+      "link": "https://www.amazon.com.br/L40-aspirador-inteligente-autom%C3%A1tica-inalcan%C3%A7%C3%A1vel/dp/B0H2DR1SGP",
+      "current_price": 1919.0,
+      "original_price": 2499.0,
+      "discount": 23.2,
+      "difference": 580.0,
+      "criteria": [
+        "R$ 580.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erDHtCfqL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1784920643.156706,
+      "is_new": false
+    },
+    {
       "asin": "B0FQGMGVCT",
       "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
       "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
@@ -28575,45 +28660,8 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1792526468.589559,
-      "is_new": false
-    },
-    {
-      "asin": "B0DG32SNZ4",
-      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
-      "current_price": 279.9,
-      "original_price": 829.9,
-      "discount": 66.3,
-      "difference": 550.0,
-      "criteria": [
-        "66.3% OFF",
-        "R$ 550.0 desc."
-      ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1790417113.008513,
-      "is_new": false
-    },
-    {
-      "asin": "B0H2N8RJWX",
-      "title": "Soundbar Série Q HW-Q600H 3.1.2 canais Subwoofer 2026",
-      "link": "https://www.amazon.com.br/Soundbar-S%C3%A9rie-HW-Q600H-canais-Subwoofer/dp/B0H2N8RJWX",
-      "current_price": 2199.0,
-      "original_price": 2699.99,
-      "discount": 18.6,
-      "difference": 500.99,
-      "criteria": [
-        "R$ 500.99 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31Up7eXoPuL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1792806547.749207,
       "is_new": false
     },
     {
@@ -28630,7 +28678,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28667,44 +28715,44 @@
       "badge": "53% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61e-Y4AgNzL._AC_UL210_SR210,210_.jpg",
       "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1785724793.221697,
       "is_new": false
     },
     {
-      "asin": "B075FFGG5C",
-      "title": "Bike Spinning 800ic Schwinn Ble Lcd Hr Colorido Res Mag Suporta 150k - GY006",
-      "link": "https://www.amazon.com.br/Spinning-Schwinn-Colorido-Suporta-Wellness/dp/B075FFGG5C",
-      "current_price": 8339.82,
-      "original_price": 8778.76,
-      "discount": 5.0,
-      "difference": 438.94,
+      "asin": "B0FPQ1C614",
+      "title": "Celular Samsung Galaxy A17 5G, 256GB, 8GB, 50MP Tela 6.7\" - Cinza",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPQ1C614",
+      "current_price": 1410.0,
+      "original_price": 1849.0,
+      "discount": 23.7,
+      "difference": 439.0,
       "criteria": [
-        "R$ 438.94 desc."
+        "R$ 439.0 desc."
       ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51kLDBJLxIL._AC_UL210_SR210,210_.jpg",
-      "category": "[STATIONARY_BICYCLE]",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1792806547.749207,
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792414943.690207,
       "is_new": false
     },
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Mopa, 13.000Pa, Autoesvaziamento, 127V | Smart Pathfinder, mapeamento multipisos, Carpet Boost, autonomia de 300 min, Alexa, Siri e Google Home",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": 2079.29,
-      "original_price": 2499.0,
-      "discount": 16.8,
-      "difference": 419.71,
+      "asin": "B0GZL99PNJ",
+      "title": "Conjunto Sala de Jantar Mesa e 6 Cadeiras Fênix Carraro (Dourada)",
+      "link": "https://www.amazon.com.br/Conjunto-Cadeiras-F%C3%AAnix-Carraro-Dourada/dp/B0GZL99PNJ",
+      "current_price": 1479.99,
+      "original_price": 1912.49,
+      "discount": 22.6,
+      "difference": 432.5,
       "criteria": [
-        "R$ 419.71 desc."
+        "R$ 432.5 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1785128082.040921,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nMd75DFLL._AC_UL210_SR210,210_.jpg",
+      "category": "[FURNITURE]",
+      "last_seen": 1792823589.515251,
+      "discovery_ts": 1792823589.515251,
       "is_new": false
     },
     {
@@ -28739,26 +28787,27 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1792546316.389859,
       "is_new": false
     },
     {
-      "asin": "B0DMQKNPR8",
-      "title": "Impressora 3D Bambu Lab A1 Mini - A1M, Bivolt",
-      "link": "https://www.amazon.com.br/Impressora-Bambu-Lab-A1-Mini/dp/B0DMQKNPR8",
-      "current_price": 1899.0,
-      "original_price": 2229.0,
-      "discount": 14.8,
-      "difference": 330.0,
+      "asin": "B07YD7FVKX",
+      "title": "Champagne Francês Branco Grand Brut Perrier-Jouët Garrafa 750ml",
+      "link": "https://www.amazon.com.br/Champagne-Perrier-Jou%C3%ABt-Grand-Brut-750/dp/B07YD7FVKX",
+      "current_price": 398.91,
+      "original_price": 709.9,
+      "discount": 43.8,
+      "difference": 310.99,
       "criteria": [
-        "R$ 330.0 desc."
+        "43.8% OFF",
+        "R$ 310.99 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51N8KRKnqwL._AC_UL210_SR210,210_.jpg",
-      "category": "[3D_PRINTER]",
-      "last_seen": 1792806547.749207,
-      "discovery_ts": 1792776564.475409,
+      "badge": "43% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FGpKpYHBL._AC_UL210_SR210,210_.jpg",
+      "category": "[WINE]",
+      "last_seen": 1792823589.515251,
+      "discovery_ts": 1792823589.515251,
       "is_new": false
     },
     {
@@ -28777,6 +28826,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792823589.515251,
       "discovery_ts": 1792088878.02628,
+      "is_new": false
+    },
+    {
+      "asin": "B0DHL63KWK",
+      "title": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
+      "link": "https://www.amazon.com.br/Ouvido-JBL-Bluetooth-Auricular-Resistente/dp/B0DHL63KWK",
+      "current_price": 234.99,
+      "original_price": 466.66,
+      "discount": 49.6,
+      "difference": 231.67,
+      "criteria": [
+        "49.6% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792841585.611539,
+      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -28829,7 +28896,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792823589.515251,
+      "last_seen": 1792841585.611539,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     }
