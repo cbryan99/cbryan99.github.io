@@ -1,5 +1,5 @@
 {
-  "last_check": "25/10/2026 05:02:43",
+  "last_check": "25/10/2026 09:45:13",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -28231,61 +28231,90 @@
           "date": "2026-10-25T05:02:29.779002"
         }
       ]
+    },
+    "B0BQ7KJ9NV": {
+      "discovery_date": "2026-10-25T09:45:05.891712",
+      "price_history": [
+        {
+          "price": 1174.9,
+          "date": "2026-10-25T09:45:05.891712"
+        }
+      ]
+    },
+    "B06XY7N4T6": {
+      "discovery_date": "2026-10-25T09:45:05.891712",
+      "price_history": [
+        {
+          "price": 599.9,
+          "date": "2026-10-25T09:45:05.891712"
+        }
+      ]
+    },
+    "B0G3YGYW4Z": {
+      "discovery_date": "2026-10-25T09:45:05.891712",
+      "price_history": [
+        {
+          "price": 32.5,
+          "date": "2026-10-25T09:45:05.891712"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BSKZ1W8Z",
-      "title": "Monitor Gamer Curvo ASUS TUF 34\"\", WQHD, 250Hz, 0.5ms, Fast VA, FreeSync Premium, Altura Ajustável, Som Integrado, Preto - VG34WQML5A",
-      "link": "https://www.amazon.com.br/Monitor-ASUS-FreeSync-Ajust%C3%A1vel-Integrado/dp/B0BSKZ1W8Z",
-      "current_price": 2049.98,
-      "original_price": 3333.32,
-      "discount": 38.5,
-      "difference": 1283.34,
+      "asin": "B0BQ7KJ9NV",
+      "title": "Monitor UHD Samsung 32\", 4K, HDMI, Display Port, Freesync, Preto, Série UJ59",
+      "link": "https://www.amazon.com.br/Monitor-Samsung-Display-Freesync-Preto/dp/B0BQ7KJ9NV",
+      "current_price": 1174.9,
+      "original_price": 2099.0,
+      "discount": 44.0,
+      "difference": 924.1,
       "criteria": [
-        "R$ 1283.34 desc."
+        "44.0% OFF",
+        "R$ 924.1 desc."
       ],
-      "badge": "38% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51MW8Jvv1RL._AC_UL210_SR210,210_.jpg",
-      "category": "[AUDIO_OR_VIDEO]",
-      "last_seen": 1792904549.779011,
-      "discovery_ts": 1792904549.779011,
+      "badge": "44% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91XfEXGz9UL._AC_UL210_SR210,210_.jpg",
+      "category": "[MONITOR]",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792921505.89172,
       "is_new": true
     },
     {
-      "asin": "B0FRJC5D97",
-      "title": "Soundbar Samsung HW-B650F 3.1 canais, 370W, Bluetooth, Subwoofer sem fio, Dolby Audio",
-      "link": "https://www.amazon.com.br/Samsung-Soundbar-HW-B650F-Subwoof-incluso/dp/B0FRJC5D97",
-      "current_price": 1229.0,
-      "original_price": 1799.0,
-      "discount": 31.7,
-      "difference": 570.0,
+      "asin": "B06XY7N4T6",
+      "title": "Óculos de Sol Oakley Latch 0OO9265 926527",
+      "link": "https://www.amazon.com.br/Oakley-LATCH-OO9265-Tartaruga-Havana/dp/B06XY7N4T6",
+      "current_price": 599.9,
+      "original_price": 1020.0,
+      "discount": 41.2,
+      "difference": 420.1,
       "criteria": [
-        "R$ 570.0 desc."
+        "41.2% OFF",
+        "R$ 420.1 desc."
       ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31Cx8Z5IRdL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792904549.779011,
-      "discovery_ts": 1792904549.779011,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51N1TgI-JgL._AC_UL210_SR210,210_.jpg",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792921505.89172,
       "is_new": true
     },
     {
-      "asin": "B0H4HTY6NM",
-      "title": "Tênis FILA Impulser masculino",
-      "link": "https://www.amazon.com.br/Tenis-Impulser-Masculino-Flame-Scarlet/dp/B0H4HTY6NM",
-      "current_price": 149.9,
-      "original_price": 299.99,
-      "discount": 50.0,
-      "difference": 150.09,
+      "asin": "B0G3YGYW4Z",
+      "title": "Sérum Leave-in Cabelos Finos Elseve L'Oréal Paris Colágeno Encorpador 100ml | Injeção de massa, 7% de peptídeos, alta concentração de arginina, +61% de volume saudável, ação por 72h",
+      "link": "https://www.amazon.com.br/Collagen-Capilar-Cabelos-Pept%C3%ADdeos-Col%C3%A1geno/dp/B0G3YGYW4Z",
+      "current_price": 32.5,
+      "original_price": 55.09,
+      "discount": 41.0,
+      "difference": 22.59,
       "criteria": [
-        "50.0% OFF"
+        "41.0% OFF"
       ],
-      "badge": "50% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZAHiHms6L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHOES]",
-      "last_seen": 1792904549.779011,
-      "discovery_ts": 1792904549.779011,
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71fF+WE75FL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792921505.89172,
       "is_new": true
     },
     {
@@ -28305,24 +28334,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792904549.779011,
       "discovery_ts": 1791854613.922112,
-      "is_new": false
-    },
-    {
-      "asin": "B0FXMBWGGM",
-      "title": "Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
-      "link": "https://www.amazon.com.br/Dreame-D20-Ultra-esvaziamento-ultrass%C3%B4nica/dp/B0FXMBWGGM",
-      "current_price": 3880.0,
-      "original_price": 5999.0,
-      "discount": 35.3,
-      "difference": 2119.0,
-      "criteria": [
-        "R$ 2119.0 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61putSKYjhL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -28359,24 +28370,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1792904549.779011,
       "discovery_ts": 1792691367.956879,
-      "is_new": false
-    },
-    {
-      "asin": "B0CP6CJ8JG",
-      "title": "Apple iPhone 15 (256 GB) — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
-      "current_price": 4887.78,
-      "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
-      "criteria": [
-        "R$ 1911.22 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1784925723.942405,
       "is_new": false
     },
     {
@@ -28434,6 +28427,24 @@
       "is_new": false
     },
     {
+      "asin": "B0BSKZ1W8Z",
+      "title": "Monitor Gamer Curvo ASUS TUF 34\"\", WQHD, 250Hz, 0.5ms, Fast VA, FreeSync Premium, Altura Ajustável, Som Integrado, Preto - VG34WQML5A",
+      "link": "https://www.amazon.com.br/Monitor-ASUS-FreeSync-Ajust%C3%A1vel-Integrado/dp/B0BSKZ1W8Z",
+      "current_price": 2049.98,
+      "original_price": 3333.32,
+      "discount": 38.5,
+      "difference": 1283.34,
+      "criteria": [
+        "R$ 1283.34 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MW8Jvv1RL._AC_UL210_SR210,210_.jpg",
+      "category": "[AUDIO_OR_VIDEO]",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792904549.779002,
+      "is_new": false
+    },
+    {
       "asin": "B0FQFH5PJS",
       "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 40 mm com Bracelete desportiva luz das estrelas - P/M",
       "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-estrelas-Bracelete-desportiva/dp/B0FQFH5PJS",
@@ -28465,7 +28476,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1791924592.370134,
       "is_new": false
     },
@@ -28543,21 +28554,21 @@
       "is_new": false
     },
     {
-      "asin": "B0HBYBB54N",
-      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBB54N",
-      "current_price": 3759.0,
-      "original_price": 4499.0,
-      "discount": 16.4,
-      "difference": 740.0,
+      "asin": "B0HC8MK4NK",
+      "title": "Smart TV TCL 65 Polegadas SQD-Mini LED 4K C7L WiFi Bluetooth Google TV HDR10+ Ultra Slim 65C7L",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-SQD-Mini-Bluetooth-65C7L/dp/B0HC8MK4NK",
+      "current_price": 6220.98,
+      "original_price": 6999.0,
+      "discount": 11.1,
+      "difference": 778.02,
       "criteria": [
-        "R$ 740.0 desc."
+        "R$ 778.02 desc."
       ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61JbwD1lxnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1789219145.198038,
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1790294536.677303,
       "is_new": false
     },
     {
@@ -28574,7 +28585,7 @@
       "badge": "15% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51nFd-Cl1GL._AC_UL210_SR210,210_.jpg",
       "category": "[PRINTER]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792853419.345794,
       "is_new": false
     },
@@ -28616,6 +28627,25 @@
       "is_new": false
     },
     {
+      "asin": "B0DX88HMJV",
+      "title": "Kalkan Kit Simulador de Corrida G500 ProRacing Volante Pedais e Câmbio USB Force Feedback 3.2Nm 900° Compatível c/ PC, Xbox, PS4 - KLK00032",
+      "link": "https://www.amazon.com.br/Kalkan-ProRacing-Feedback-Volante-KLK00032/dp/B0DX88HMJV",
+      "current_price": 951.97,
+      "original_price": 1628.0,
+      "discount": 41.5,
+      "difference": 676.03,
+      "criteria": [
+        "41.5% OFF",
+        "R$ 676.03 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kZbsoy8tL._AC_UL210_SR210,210_.jpg",
+      "category": "🎮 Games & Lazer",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792390098.164272,
+      "is_new": false
+    },
+    {
       "asin": "B0DZJWTY2T",
       "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi + Cellular, 256 GB) - Cinzento sideral (M3)",
       "link": "https://www.amazon.com.br/Apple-2025-polegadas-Wi-Fi-Cellular/dp/B0DZJWTY2T",
@@ -28644,10 +28674,10 @@
       "criteria": [
         "R$ 652.68 desc."
       ],
-      "badge": "16% off",
+      "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61R390jU45L._AC_UL210_SR210,210_.jpg",
       "category": "[CAMERA_DIGITAL]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792823589.515244,
       "is_new": false
     },
@@ -28667,6 +28697,24 @@
       "category": "[HEADPHONES]",
       "last_seen": 1792904549.779011,
       "discovery_ts": 1788133220.695808,
+      "is_new": false
+    },
+    {
+      "asin": "B0FRJC5D97",
+      "title": "Soundbar Samsung HW-B650F 3.1 canais, 370W, Bluetooth, Subwoofer sem fio, Dolby Audio",
+      "link": "https://www.amazon.com.br/Samsung-Soundbar-HW-B650F-Subwoof-incluso/dp/B0FRJC5D97",
+      "current_price": 1229.0,
+      "original_price": 1799.0,
+      "discount": 31.7,
+      "difference": 570.0,
+      "criteria": [
+        "R$ 570.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Cx8Z5IRdL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792904549.779011,
       "is_new": false
     },
     {
@@ -28701,7 +28749,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28755,7 +28803,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792904549.779011,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28773,7 +28821,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792414943.690207,
       "is_new": false
     },
@@ -28781,18 +28829,36 @@
       "asin": "B0HC47DYZV",
       "title": "Samsung Smart TV 75\" Mini LED 4K M75H 26/2027, Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
       "link": "https://www.amazon.com.br/Samsung-Companion-Futebol-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HC47DYZV",
-      "current_price": 5326.86,
+      "current_price": 5292.3,
       "original_price": 5699.0,
-      "discount": 6.5,
-      "difference": 372.14,
+      "discount": 7.1,
+      "difference": 406.7,
       "criteria": [
-        "R$ 372.14 desc."
+        "R$ 406.7 desc."
       ],
       "badge": "6% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61ZU8EAWqUL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792863948.090946,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGM4T4H8",
+      "title": "Apple AirPods 4",
+      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
+      "current_price": 1129.0,
+      "original_price": 1499.0,
+      "discount": 24.7,
+      "difference": 370.0,
+      "criteria": [
+        "R$ 370.0 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792626169.385329,
       "is_new": false
     },
     {
@@ -28810,26 +28876,8 @@
       "badge": "59% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792904549.779011,
+      "last_seen": 1792921505.89172,
       "discovery_ts": 1792841585.611532,
-      "is_new": false
-    },
-    {
-      "asin": "B0FCSP9NS4",
-      "title": "Ar Condicionado 9000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
-      "link": "https://www.amazon.com.br/Condicionado-Split-Inverter-Midea-Ecomaster/dp/B0FCSP9NS4",
-      "current_price": 1837.98,
-      "original_price": 2189.0,
-      "discount": 16.0,
-      "difference": 351.02,
-      "criteria": [
-        "R$ 351.02 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51XHzWTiUPL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1792131992.628407,
       "is_new": false
     },
     {
@@ -28848,6 +28896,60 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1792904549.779011,
       "discovery_ts": 1792740208.584115,
+      "is_new": false
+    },
+    {
+      "asin": "B0H4HTY6NM",
+      "title": "Tênis FILA Impulser masculino",
+      "link": "https://www.amazon.com.br/Tenis-Impulser-Masculino-Flame-Scarlet/dp/B0H4HTY6NM",
+      "current_price": 149.9,
+      "original_price": 299.99,
+      "discount": 50.0,
+      "difference": 150.09,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZAHiHms6L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHOES]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792904549.779011,
+      "is_new": false
+    },
+    {
+      "asin": "B07Y1T5YZ2",
+      "title": "Óleo Capilar Oil Reflections Wella Professionals 100 ml",
+      "link": "https://www.amazon.com.br/Wella-%C3%93leo-de-brilho-100ml/dp/B07Y1T5YZ2",
+      "current_price": 111.49,
+      "original_price": 209.0,
+      "discount": 46.7,
+      "difference": 97.51,
+      "criteria": [
+        "46.7% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51H5LeywBBL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1789016418.844032,
+      "is_new": false
+    },
+    {
+      "asin": "B0GW48RBS7",
+      "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+      "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
+      "current_price": 102.37,
+      "original_price": 189.9,
+      "discount": 46.1,
+      "difference": 87.53,
+      "criteria": [
+        "46.1% OFF"
+      ],
+      "badge": "46% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
+      "category": "[INCONTINENCE_PROTECTOR]",
+      "last_seen": 1792921505.89172,
+      "discovery_ts": 1792615592.203351,
       "is_new": false
     }
   ]
