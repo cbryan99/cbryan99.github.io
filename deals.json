@@ -1,5 +1,5 @@
 {
-  "last_check": "25/10/2026 00:21:27",
+  "last_check": "25/10/2026 05:02:43",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -28204,63 +28204,107 @@
           "date": "2026-10-24T19:50:37.372033"
         }
       ]
+    },
+    "B0BSKZ1W8Z": {
+      "discovery_date": "2026-10-25T05:02:29.779002",
+      "price_history": [
+        {
+          "price": 2049.98,
+          "date": "2026-10-25T05:02:29.779002"
+        }
+      ]
+    },
+    "B0FRJC5D97": {
+      "discovery_date": "2026-10-25T05:02:29.779002",
+      "price_history": [
+        {
+          "price": 1229.0,
+          "date": "2026-10-25T05:02:29.779002"
+        }
+      ]
+    },
+    "B0H4HTY6NM": {
+      "discovery_date": "2026-10-25T05:02:29.779002",
+      "price_history": [
+        {
+          "price": 149.9,
+          "date": "2026-10-25T05:02:29.779002"
+        }
+      ]
     }
   },
   "data": [
     {
+      "asin": "B0BSKZ1W8Z",
+      "title": "Monitor Gamer Curvo ASUS TUF 34\"\", WQHD, 250Hz, 0.5ms, Fast VA, FreeSync Premium, Altura Ajustável, Som Integrado, Preto - VG34WQML5A",
+      "link": "https://www.amazon.com.br/Monitor-ASUS-FreeSync-Ajust%C3%A1vel-Integrado/dp/B0BSKZ1W8Z",
+      "current_price": 2049.98,
+      "original_price": 3333.32,
+      "discount": 38.5,
+      "difference": 1283.34,
+      "criteria": [
+        "R$ 1283.34 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MW8Jvv1RL._AC_UL210_SR210,210_.jpg",
+      "category": "[AUDIO_OR_VIDEO]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792904549.779011,
+      "is_new": true
+    },
+    {
+      "asin": "B0FRJC5D97",
+      "title": "Soundbar Samsung HW-B650F 3.1 canais, 370W, Bluetooth, Subwoofer sem fio, Dolby Audio",
+      "link": "https://www.amazon.com.br/Samsung-Soundbar-HW-B650F-Subwoof-incluso/dp/B0FRJC5D97",
+      "current_price": 1229.0,
+      "original_price": 1799.0,
+      "discount": 31.7,
+      "difference": 570.0,
+      "criteria": [
+        "R$ 570.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Cx8Z5IRdL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792904549.779011,
+      "is_new": true
+    },
+    {
+      "asin": "B0H4HTY6NM",
+      "title": "Tênis FILA Impulser masculino",
+      "link": "https://www.amazon.com.br/Tenis-Impulser-Masculino-Flame-Scarlet/dp/B0H4HTY6NM",
+      "current_price": 149.9,
+      "original_price": 299.99,
+      "discount": 50.0,
+      "difference": 150.09,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZAHiHms6L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHOES]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792904549.779011,
+      "is_new": true
+    },
+    {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
       "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
-      "current_price": 19999.0,
+      "current_price": 91.47,
       "original_price": 25799.0,
-      "discount": 22.5,
-      "difference": 5800.0,
+      "discount": 99.6,
+      "difference": 25707.53,
       "criteria": [
-        "R$ 5800.0 desc."
+        "99.6% OFF",
+        "R$ 25707.53 desc."
       ],
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792871437.372039,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1791854613.922112,
-      "is_new": false
-    },
-    {
-      "asin": "B0DZK3VZVH",
-      "title": "Apple 2025 iPad Air de 13 polegadas (Wi-Fi, 128 GB) - Luz das estrelas (M3)",
-      "link": "https://www.amazon.com.br/Apple-2025-iPad-polegadas-Wi-Fi/dp/B0DZK3VZVH",
-      "current_price": 5227.74,
-      "original_price": 9999.0,
-      "discount": 47.7,
-      "difference": 4771.26,
-      "criteria": [
-        "47.7% OFF",
-        "R$ 4771.26 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51q7uCdqy2L._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1791924592.370134,
-      "is_new": false
-    },
-    {
-      "asin": "B0FPRN2K78",
-      "title": "JBL, Barra de Som, BAR 1000 MK2, Soundbar, 7.1.4 Canais, Dolby Atmos - Preta",
-      "link": "https://www.amazon.com.br/JBL-Soundbar-7-1-4-Canais-Subwoofer/dp/B0FPRN2K78",
-      "current_price": 3999.9,
-      "original_price": 6799.0,
-      "discount": 41.2,
-      "difference": 2799.1,
-      "criteria": [
-        "41.2% OFF",
-        "R$ 2799.1 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51uDRDZZ+HL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1789016418.844032,
       "is_new": false
     },
     {
@@ -28295,8 +28339,26 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tlnwLfiML._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1788327827.078928,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6BZHK3",
+      "title": "Apple iPhone 15 (256 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
+      "current_price": 4887.78,
+      "original_price": 6799.0,
+      "discount": 28.1,
+      "difference": 1911.22,
+      "criteria": [
+        "R$ 1911.22 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792691367.956879,
       "is_new": false
     },
     {
@@ -28318,40 +28380,21 @@
       "is_new": false
     },
     {
-      "asin": "B0CP6BZHK3",
-      "title": "Apple iPhone 15 (256 GB) — Azul",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
-      "current_price": 4887.78,
-      "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
+      "asin": "B0FQF9X69T",
+      "title": "Apple Watch Series 11 GPS, Caixa em alumínio prateado de 42 mm com Bracelete desportiva roxo névoa - P/M",
+      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-prateado-Bracelete-desportiva/dp/B0FQF9X69T",
+      "current_price": 3799.0,
+      "original_price": 5499.0,
+      "discount": 30.9,
+      "difference": 1700.0,
       "criteria": [
-        "R$ 1911.22 desc."
+        "R$ 1700.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1792691367.956879,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQFJGQCB",
-      "title": "Apple Watch SE 3 GPS, Caixa em alumínio meia‑noite de 44 mm com Bracelete desportiva meia‑noite - P/M",
-      "link": "https://www.amazon.com.br/Apple-alum%C3%ADnio-meia%E2%80%91noite-Bracelete-desportiva/dp/B0FQFJGQCB",
-      "current_price": 2017.12,
-      "original_price": 3699.0,
-      "discount": 45.5,
-      "difference": 1681.88,
-      "criteria": [
-        "45.5% OFF",
-        "R$ 1681.88 desc."
-      ],
-      "badge": "29% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51+4V98kzgL._AC_UL210_SR210,210_.jpg",
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1792626169.385329,
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792003951.96343,
       "is_new": false
     },
     {
@@ -28368,7 +28411,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792871437.372039,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28386,26 +28429,8 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1785508894.413234,
-      "is_new": false
-    },
-    {
-      "asin": "B0DBMMH3JY",
-      "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
-      "current_price": 2679.0,
-      "original_price": 3788.42,
-      "discount": 29.3,
-      "difference": 1109.42,
-      "criteria": [
-        "R$ 1109.42 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SMALL_HOME_APPLIANCES]",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1792841585.611539,
       "is_new": false
     },
     {
@@ -28422,7 +28447,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792879869.257355,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -28445,20 +28470,38 @@
       "is_new": false
     },
     {
+      "asin": "B0DBMMH3JY",
+      "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
+      "current_price": 2849.0,
+      "original_price": 3788.42,
+      "discount": 24.8,
+      "difference": 939.42,
+      "criteria": [
+        "R$ 939.42 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
+      "category": "[SMALL_HOME_APPLIANCES]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792841585.611532,
+      "is_new": false
+    },
+    {
       "asin": "B08DMTXRHC",
       "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 127V - WD3S1443BB1",
       "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B08DMTXRHC",
-      "current_price": 3051.58,
+      "current_price": 3083.99,
       "original_price": 3999.0,
-      "discount": 23.7,
-      "difference": 947.42,
+      "discount": 22.9,
+      "difference": 915.01,
       "criteria": [
-        "R$ 947.42 desc."
+        "R$ 915.01 desc."
       ],
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792879869.257355,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1792240071.4291,
       "is_new": false
     },
@@ -28476,45 +28519,8 @@
       "badge": "11% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Fcvz5ageL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1789498558.08297,
-      "is_new": false
-    },
-    {
-      "asin": "B0FQGMGVCT",
-      "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
-      "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
-      "current_price": 1818.15,
-      "original_price": 2699.0,
-      "discount": 32.6,
-      "difference": 880.85,
-      "criteria": [
-        "R$ 880.85 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1787625964.61514,
-      "is_new": false
-    },
-    {
-      "asin": "B0DGLXRFXB",
-      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
-      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
-      "current_price": 1189.15,
-      "original_price": 1999.0,
-      "discount": 40.5,
-      "difference": 809.85,
-      "criteria": [
-        "40.5% OFF",
-        "R$ 809.85 desc."
-      ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792887685.042656,
-      "discovery_ts": 1788133220.695808,
       "is_new": false
     },
     {
@@ -28532,26 +28538,8 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1790156779.821624,
-      "is_new": false
-    },
-    {
-      "asin": "B081DJYD2B",
-      "title": "Ar Condicionado Split Hi Wall Inverter Gree G-Top Auto 24000 BTU/h Quente e Frio CB574N10400 – 220 Volts",
-      "link": "https://www.amazon.com.br/Condicionado-Inverter-Gree-Quente-CB574N11300/dp/B081DJYD2B",
-      "current_price": 4298.99,
-      "original_price": 5049.0,
-      "discount": 14.9,
-      "difference": 750.01,
-      "criteria": [
-        "R$ 750.01 desc."
-      ],
-      "badge": "14% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41I+CinAdHL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792871437.372039,
-      "discovery_ts": 1792871437.372039,
       "is_new": false
     },
     {
@@ -28591,6 +28579,25 @@
       "is_new": false
     },
     {
+      "asin": "B0FPPJF4Y7",
+      "title": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza | 128GB, 4GB, 50MP, Tela 6.7\"",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPJF4Y7",
+      "current_price": 999.0,
+      "original_price": 1699.0,
+      "discount": 41.2,
+      "difference": 700.0,
+      "criteria": [
+        "41.2% OFF",
+        "R$ 700.0 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792634138.289993,
+      "is_new": false
+    },
+    {
       "asin": "B0GY4H64Y1",
       "title": "DREAME H60 GT Aspirador Seco e Úmido, 21kPa, Reclinável 180°, 220V | TangleCut antienrosco, escova de borda dupla, lavagem e secagem a 90°C, água fresca contínua, 35 min de autonomia",
       "link": "https://www.amazon.com.br/H60-GT-Aspirador-Reclin%C3%A1vel-antienrosco/dp/B0GY4H64Y1",
@@ -28604,7 +28611,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61xF9EnxyoL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1789498558.08297,
       "is_new": false
     },
@@ -28622,7 +28629,7 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51tHkLkX55L._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28642,6 +28649,42 @@
       "category": "[CAMERA_DIGITAL]",
       "last_seen": 1792887685.042656,
       "discovery_ts": 1792823589.515244,
+      "is_new": false
+    },
+    {
+      "asin": "B0DGLXRFXB",
+      "title": "AirPods 4 com Cancelamento Ativo de Ruído",
+      "link": "https://www.amazon.com.br/AirPods-com-Cancelamento-Ativo-Ru%C3%ADdo/dp/B0DGLXRFXB",
+      "current_price": 1399.0,
+      "original_price": 1999.0,
+      "discount": 30.0,
+      "difference": 600.0,
+      "criteria": [
+        "R$ 600.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WMBnjyitL._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1788133220.695808,
+      "is_new": false
+    },
+    {
+      "asin": "B0FQGMGVCT",
+      "title": "Apple AirPods Pro 3 ​​​​​​​ | Cancelamento Ativo de Ruído até duas vezes melhor, Medição de frequência cardíaca, Tradução ao Vivo, Maior duração da bateria",
+      "link": "https://www.amazon.com.br/Apple-MFHP4BZ-A-AirPods-Pro/dp/B0FQGMGVCT",
+      "current_price": 2139.0,
+      "original_price": 2699.0,
+      "discount": 20.7,
+      "difference": 560.0,
+      "criteria": [
+        "R$ 560.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FBUBvUY1L._AC_UL210_SR210,210_.jpg",
+      "category": "[HEADPHONES]",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1787625964.61514,
       "is_new": false
     },
     {
@@ -28676,7 +28719,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31Up7eXoPuL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1792806547.749199,
       "is_new": false
     },
@@ -28694,44 +28737,26 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
     {
-      "asin": "B0H2X3RVG6",
-      "title": "Notebook ASUS Vivobook Go 15 Ryzen 5, 16 GB, 512 GB SSD, W11 Home, 15.6'' LED, Mixed Black - E1504FA-NJ1942W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Mixed/dp/B0H2X3RVG6",
-      "current_price": 4299.0,
-      "original_price": 4749.05,
-      "discount": 9.5,
-      "difference": 450.05,
+      "asin": "B0HLTSNZDW",
+      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
+      "current_price": 2399.0,
+      "original_price": 2869.0,
+      "discount": 16.4,
+      "difference": 470.0,
       "criteria": [
-        "R$ 450.05 desc."
+        "R$ 470.0 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71L--Wmhx+L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792871437.372039,
-      "discovery_ts": 1792776564.475409,
-      "is_new": false
-    },
-    {
-      "asin": "B09QL7J9Q8",
-      "title": "CÂMERA EOS T7+ COM LENTE EF-S 18-55",
-      "link": "https://www.amazon.com.br/C%C3%82MERA-EOS-LENTE-EF-S-18-55/dp/B09QL7J9Q8",
-      "current_price": 3156.85,
-      "original_price": 3599.0,
-      "discount": 12.3,
-      "difference": 442.15,
-      "criteria": [
-        "R$ 442.15 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/616aA6gdf+L._AC_UL210_SR210,210_.jpg",
-      "category": "[CAMERA_DIGITAL]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1792526468.589559,
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -28753,24 +28778,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GXFFSVYM",
-      "title": "DREAME D15 Plus Robô Aspirador e Mopa, 13.000Pa, Autoesvaziamento, 127V | Smart Pathfinder, mapeamento multipisos, Carpet Boost, autonomia de 300 min, Alexa, Siri e Google Home",
-      "link": "https://www.amazon.com.br/D15-Plus-Autoesvaziamento-Obst%C3%A1culos-Antienrosco/dp/B0GXFFSVYM",
-      "current_price": 2079.29,
-      "original_price": 2499.0,
-      "discount": 16.8,
-      "difference": 419.71,
-      "criteria": [
-        "R$ 419.71 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61N-ZmR2MxL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1785128082.040921,
-      "is_new": false
-    },
-    {
       "asin": "B0HC47DYZV",
       "title": "Samsung Smart TV 75\" Mini LED 4K M75H 26/2027, Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
       "link": "https://www.amazon.com.br/Samsung-Companion-Futebol-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0HC47DYZV",
@@ -28789,24 +28796,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DGM4T4H8",
-      "title": "Apple AirPods 4",
-      "link": "https://www.amazon.com.br/Apple-MXP63BZ-A-AirPods-4/dp/B0DGM4T4H8",
-      "current_price": 1129.0,
-      "original_price": 1499.0,
-      "discount": 24.7,
-      "difference": 370.0,
-      "criteria": [
-        "R$ 370.0 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/415J3RCvdKL._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1792871437.372039,
-      "discovery_ts": 1792626169.385329,
-      "is_new": false
-    },
-    {
       "asin": "B0756KXRLB",
       "title": "WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 127V",
       "link": "https://www.amazon.com.br/Aspirador-Inox-Monof%C3%A1sico-1400W-Wap/dp/B0756KXRLB",
@@ -28821,7 +28810,7 @@
       "badge": "59% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792887685.042656,
+      "last_seen": 1792904549.779011,
       "discovery_ts": 1792841585.611532,
       "is_new": false
     },
@@ -28844,39 +28833,21 @@
       "is_new": false
     },
     {
-      "asin": "B0H34VM48S",
-      "title": "Samsung Combo Galaxy A57 5G (256GB) - Cinza + Galaxy Watch8 BT 44mm - Grafite",
-      "link": "https://www.amazon.com.br/Samsung-Combo-Galaxy-A57-256GB/dp/B0H34VM48S",
-      "current_price": 2841.05,
-      "original_price": 3179.0,
-      "discount": 10.6,
-      "difference": 337.95,
+      "asin": "B0GTWY64G5",
+      "title": "Refrigerador Bottom Freezer Inverter Panasonic de 02 Portas Frost Free com 511 Litros Aço Escovado - NR-BB71PV7X (220V, Volts)",
+      "link": "https://www.amazon.com.br/Refrigerador-Freezer-Inverter-Panasonic-Escovado/dp/B0GTWY64G5",
+      "current_price": 5098.98,
+      "original_price": 5399.0,
+      "discount": 5.6,
+      "difference": 300.02,
       "criteria": [
-        "R$ 337.95 desc."
+        "R$ 300.02 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YIQ+39+VL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1792546316.389859,
-      "is_new": false
-    },
-    {
-      "asin": "B0GW48RBS7",
-      "title": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-      "link": "https://www.amazon.com.br/Fralda-Pampers-Confort-Tamanho-Unidades/dp/B0GW48RBS7",
-      "current_price": 1.24,
-      "original_price": 189.9,
-      "discount": 99.3,
-      "difference": 188.66,
-      "criteria": [
-        "99.3% OFF"
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
-      "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1792879869.257355,
-      "discovery_ts": 1792615592.203351,
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41QOMnddH8L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1792904549.779011,
+      "discovery_ts": 1792740208.584115,
       "is_new": false
     }
   ]
