@@ -1,5 +1,5 @@
 {
-  "last_check": "26/10/2026 17:01:09",
+  "last_check": "26/10/2026 21:36:24",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -28365,26 +28365,136 @@
           "date": "2026-10-26T17:00:57.262629"
         }
       ]
+    },
+    "B0GTNCMWRB": {
+      "discovery_date": "2026-10-26T21:36:24.893092",
+      "price_history": [
+        {
+          "price": 2239.0,
+          "date": "2026-10-26T21:36:24.893092"
+        }
+      ]
+    },
+    "B0BX4GZRKY": {
+      "discovery_date": "2026-10-26T21:36:24.893092",
+      "price_history": [
+        {
+          "price": 2209.47,
+          "date": "2026-10-26T21:36:24.893092"
+        }
+      ]
+    },
+    "B0GG69RS5R": {
+      "discovery_date": "2026-10-26T21:36:24.893092",
+      "price_history": [
+        {
+          "price": 3327.99,
+          "date": "2026-10-26T21:36:24.893092"
+        }
+      ]
+    },
+    "B0D344ZXQZ": {
+      "discovery_date": "2026-10-26T21:36:24.893092",
+      "price_history": [
+        {
+          "price": 399.0,
+          "date": "2026-10-26T21:36:24.893092"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0F85P7QB8",
-      "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - M1502YA-NJ655W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Silver/dp/B0F85P7QB8",
-      "current_price": 4490.0,
-      "original_price": 5499.0,
-      "discount": 18.3,
-      "difference": 1009.0,
+      "asin": "B0GG69RS5R",
+      "title": "Ar Condicionado Split Hi Wall Inverter Fujitsu Airstage Essencial 18000 BTU/h Frio ASKA18CPBA – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Inverter-Airstage-Essencial-ASKA18CPBA/dp/B0GG69RS5R",
+      "current_price": 3327.99,
+      "original_price": 3779.0,
+      "discount": 11.9,
+      "difference": 451.01,
       "criteria": [
-        "R$ 1009.0 desc."
+        "R$ 451.01 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793034057.262638,
-      "discovery_ts": 1793034057.262638,
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51OW4Gm4MIL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1793050584.893098,
       "is_new": true
+    },
+    {
+      "asin": "B0GTNCMWRB",
+      "title": "Ar Condicionado Hi Wall LG Dual Inverter Voice AI 9.000 Btus Quente e Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Voice-Quente/dp/B0GTNCMWRB",
+      "current_price": 2239.0,
+      "original_price": 2659.0,
+      "discount": 15.8,
+      "difference": 420.0,
+      "criteria": [
+        "R$ 420.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZQpeIrrBL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1793050584.893098,
+      "is_new": true
+    },
+    {
+      "asin": "B0D344ZXQZ",
+      "title": "JBL, Óculos Inteligentes, Soundgear Frames Round, Com Alto-Falantes - Ônix",
+      "link": "https://www.amazon.com.br/JBL-%C3%93culos-Soundgear-Frames-Round/dp/B0D344ZXQZ",
+      "current_price": 399.0,
+      "original_price": 799.0,
+      "discount": 50.1,
+      "difference": 400.0,
+      "criteria": [
+        "50.1% OFF",
+        "R$ 400.0 desc."
+      ],
+      "badge": "50% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZmbceMdDL._AC_UL210_SR210,210_.jpg",
+      "category": "👕 Moda & Acessórios",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1793050584.893098,
+      "is_new": true
+    },
+    {
+      "asin": "B0BX4GZRKY",
+      "title": "Ar Condicionado Consul Triple Inverter Economaxi Split Frio 12.000 Btu's Bivolt",
+      "link": "https://www.amazon.com.br/Condicionado-Triple-Inverter-Consul-CBK12CBXNA/dp/B0BX4GZRKY",
+      "current_price": 2209.47,
+      "original_price": 2599.0,
+      "discount": 15.0,
+      "difference": 389.53,
+      "criteria": [
+        "R$ 389.53 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cweXvGarL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1793050584.893098,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSY6L19S",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1792328639.895348,
+      "is_new": false
     },
     {
       "asin": "B0CPFBBHP4",
@@ -28421,6 +28531,24 @@
       "category": "[PRINTER]",
       "last_seen": 1793034057.262638,
       "discovery_ts": 1792853419.345794,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6BZHK3",
+      "title": "Apple iPhone 15 (256 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
+      "current_price": 4887.78,
+      "original_price": 6799.0,
+      "discount": 28.1,
+      "difference": 1911.22,
+      "criteria": [
+        "R$ 1911.22 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1792691367.956879,
       "is_new": false
     },
     {
@@ -28491,7 +28619,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -28511,6 +28639,24 @@
       "category": "[WASHER_DRYER_COMBINATION]",
       "last_seen": 1793034057.262638,
       "discovery_ts": 1785460545.090896,
+      "is_new": false
+    },
+    {
+      "asin": "B0F85P7QB8",
+      "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - M1502YA-NJ655W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Silver/dp/B0F85P7QB8",
+      "current_price": 4490.0,
+      "original_price": 5499.0,
+      "discount": 18.3,
+      "difference": 1009.0,
+      "criteria": [
+        "R$ 1009.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1793034057.262629,
       "is_new": false
     },
     {
@@ -28622,6 +28768,25 @@
       "is_new": false
     },
     {
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 419.0,
+      "original_price": 1199.9,
+      "discount": 65.1,
+      "difference": 780.9,
+      "criteria": [
+        "65.1% OFF",
+        "R$ 780.9 desc."
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1790156779.821624,
+      "is_new": false
+    },
+    {
       "asin": "B0HBYYN84S",
       "title": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
       "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYYN84S",
@@ -28635,7 +28800,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28658,6 +28823,24 @@
       "is_new": false
     },
     {
+      "asin": "B0H2N8RJWX",
+      "title": "Soundbar Série Q HW-Q600H 3.1.2 canais Subwoofer 2026",
+      "link": "https://www.amazon.com.br/Soundbar-S%C3%A9rie-HW-Q600H-canais-Subwoofer/dp/B0H2N8RJWX",
+      "current_price": 2199.0,
+      "original_price": 2699.99,
+      "discount": 18.6,
+      "difference": 500.99,
+      "criteria": [
+        "R$ 500.99 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Up7eXoPuL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1792806547.749199,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -28671,7 +28854,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28689,7 +28872,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1792437338.770363,
       "is_new": false
     },
@@ -28725,8 +28908,26 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1792414943.690207,
+      "is_new": false
+    },
+    {
+      "asin": "B0DTMCLTKV",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
+      "current_price": 6332.0,
+      "original_price": 6735.79,
+      "discount": 6.0,
+      "difference": 403.79,
+      "criteria": [
+        "R$ 403.79 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793050584.893098,
+      "discovery_ts": 1791951144.43256,
       "is_new": false
     },
     {
@@ -28744,7 +28945,7 @@
       "badge": "59% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1792841585.611532,
       "is_new": false
     },
@@ -28762,7 +28963,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     },
@@ -28780,7 +28981,7 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51JsUkgA+KL._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1793034057.262638,
+      "last_seen": 1793050584.893098,
       "discovery_ts": 1784607971.268491,
       "is_new": false
     },
