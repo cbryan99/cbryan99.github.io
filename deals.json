@@ -1,5 +1,5 @@
 {
-  "last_check": "26/10/2026 10:42:26",
+  "last_check": "26/10/2026 17:01:09",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -27563,6 +27563,10 @@
         {
           "price": 1585.21,
           "date": "2026-10-18T13:03:59.895348"
+        },
+        {
+          "price": 1397.69,
+          "date": "2026-10-26T17:00:57.262629"
         }
       ]
     },
@@ -28352,101 +28356,89 @@
           "date": "2026-10-26T10:42:10.723529"
         }
       ]
+    },
+    "B0F85P7QB8": {
+      "discovery_date": "2026-10-26T17:00:57.262629",
+      "price_history": [
+        {
+          "price": 4490.0,
+          "date": "2026-10-26T17:00:57.262629"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GWKD9BGS",
-      "title": "Cama de Casal Lunna 100% madeira Maciça Walnut",
-      "link": "https://www.amazon.com.br/Casal-Lunna-madeira-Maci%C3%A7a-Walnut/dp/B0GWKD9BGS",
-      "current_price": 1312.48,
-      "original_price": 2249.98,
-      "discount": 41.7,
-      "difference": 937.5,
+      "asin": "B0F85P7QB8",
+      "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - M1502YA-NJ655W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Silver/dp/B0F85P7QB8",
+      "current_price": 4490.0,
+      "original_price": 5499.0,
+      "discount": 18.3,
+      "difference": 1009.0,
       "criteria": [
-        "41.7% OFF",
-        "R$ 937.5 desc."
+        "R$ 1009.0 desc."
       ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71NlerE+CuL._AC_UL210_SR210,210_.jpg",
-      "category": "[BED]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1793011330.723536,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1793034057.262638,
       "is_new": true
     },
     {
-      "asin": "B00ELBQIKA",
-      "title": "Cadeira Gamer Profissional TGC12 Preta ThunderX3.",
-      "link": "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA",
-      "current_price": 998.99,
-      "original_price": 1931.0,
-      "discount": 48.3,
-      "difference": 932.01,
+      "asin": "B0CPFBBHP4",
+      "title": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos com Visão por IA e Laser LiDAR,Ideal para Pets, 220v",
+      "link": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
+      "current_price": 4399.0,
+      "original_price": 6999.0,
+      "discount": 37.1,
+      "difference": 2600.0,
       "criteria": [
-        "48.3% OFF",
-        "R$ 932.01 desc."
+        "R$ 2600.0 desc."
       ],
-      "badge": "48% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71VqjPlOJAL._AC_UL210_SR210,210_.jpg",
-      "category": "[CHAIR]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1793011330.723536,
-      "is_new": true
-    },
-    {
-      "asin": "B0DSWG15S6",
-      "title": "Buddemeyer Jogo de Cama King Damask Stripes 100% Algodão Kaki 4 pç | Cetim 300 Fios",
-      "link": "https://www.amazon.com.br/Buddemeyer-Damask-Stripes-Algod%C3%A3o-Penteado/dp/B0DSWG15S6",
-      "current_price": 471.96,
-      "original_price": 879.9,
-      "discount": 46.4,
-      "difference": 407.94,
-      "criteria": [
-        "46.4% OFF",
-        "R$ 407.94 desc."
-      ],
-      "badge": "46% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/410dXD8Qh3L._AC_UL210_SR210,210_.jpg",
-      "category": "[BED_LINEN_SET]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1793011330.723536,
-      "is_new": true
-    },
-    {
-      "asin": "B0DBJ9XDJX",
-      "title": "MONDIAL Serra Circular, Vermelho, 1500W, 220V - FSC-04",
-      "link": "https://www.amazon.com.br/Serra-Circular-Mondial-Vermelho-1500W/dp/B0DBJ9XDJX",
-      "current_price": 258.38,
-      "original_price": 549.9,
-      "discount": 53.0,
-      "difference": 291.52,
-      "criteria": [
-        "53.0% OFF"
-      ],
-      "badge": "53% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81iniN6dEyL._AC_UL210_SR210,210_.jpg",
-      "category": "[SAW]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1793011330.723536,
-      "is_new": true
-    },
-    {
-      "asin": "B0GY4H64Y1",
-      "title": "DREAME H60 GT Aspirador Seco e Úmido, 21kPa, Reclinável 180°, 220V | TangleCut antienrosco, escova de borda dupla, lavagem e secagem a 90°C, água fresca contínua, 35 min de autonomia",
-      "link": "https://www.amazon.com.br/H60-GT-Aspirador-Reclin%C3%A1vel-antienrosco/dp/B0GY4H64Y1",
-      "current_price": 217.18,
-      "original_price": 3299.0,
-      "discount": 93.4,
-      "difference": 3081.82,
-      "criteria": [
-        "93.4% OFF",
-        "R$ 3081.82 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61xF9EnxyoL._AC_UL210_SR210,210_.jpg",
+      "badge": "37% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ylrz9PRgL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1789498558.08297,
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1784564480.506233,
+      "is_new": false
+    },
+    {
+      "asin": "B08Q8HLWRC",
+      "title": "Impressora Multifuncional Epson EcoTank L14150 - Tanque de Tinta Colorida, formato até A3+ Wi-Fi, USB, Bivolt",
+      "link": "https://www.amazon.com.br/Impressora-Multifuncional-Epson-EcoTank-L14150/dp/B08Q8HLWRC",
+      "current_price": 2112.0,
+      "original_price": 4699.0,
+      "discount": 55.1,
+      "difference": 2587.0,
+      "criteria": [
+        "55.1% OFF",
+        "R$ 2587.0 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nFd-Cl1GL._AC_UL210_SR210,210_.jpg",
+      "category": "[PRINTER]",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1792853419.345794,
+      "is_new": false
+    },
+    {
+      "asin": "B0CP6CVJSG",
+      "title": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
+      "current_price": 4199.0,
+      "original_price": 5999.0,
+      "discount": 30.0,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
@@ -28463,7 +28455,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51W42HjNMoL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792003951.96343,
       "is_new": false
     },
@@ -28481,7 +28473,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28499,7 +28491,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -28517,7 +28509,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41TGRdhXAIL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1785460545.090896,
       "is_new": false
     },
@@ -28535,7 +28527,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -28553,7 +28545,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1787355246.696526,
       "is_new": false
     },
@@ -28571,7 +28563,7 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41H4AoY5xbL._AC_UL210_SR210,210_.jpg",
       "category": "[WEARABLE_COMPUTER]",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1791924592.370134,
       "is_new": false
     },
@@ -28589,26 +28581,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792240071.4291,
       "is_new": false
     },
     {
-      "asin": "B0DBMMH3JY",
-      "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
-      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
-      "current_price": 2849.0,
-      "original_price": 3788.42,
-      "discount": 24.8,
-      "difference": 939.42,
+      "asin": "B0FVPJHWZ5",
+      "title": "Electrolux Fogão 5 bocas Electrolux Branco Efficient Mesa Inox, PerfectCook e VaporBake® (FE5IW) Bivolt",
+      "link": "https://www.amazon.com.br/Electrolux-Efficient-PerfectCook-VaporBake%C2%AE-FE5IW/dp/B0FVPJHWZ5",
+      "current_price": 1397.69,
+      "original_price": 2199.0,
+      "discount": 36.4,
+      "difference": 801.31,
       "criteria": [
-        "R$ 939.42 desc."
+        "R$ 801.31 desc."
       ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SMALL_HOME_APPLIANCES]",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1792841585.611532,
+      "badge": "36% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QABiGJYSL._AC_UL210_SR210,210_.jpg",
+      "category": "[RANGE]",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1792328639.895348,
       "is_new": false
     },
     {
@@ -28625,81 +28617,8 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1785520954.30177,
-      "is_new": false
-    },
-    {
-      "asin": "B08R91NTHY",
-      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
-      "current_price": 419.0,
-      "original_price": 1199.9,
-      "discount": 65.1,
-      "difference": 780.9,
-      "criteria": [
-        "65.1% OFF",
-        "R$ 780.9 desc."
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1790156779.821624,
-      "is_new": false
-    },
-    {
-      "asin": "B08Q8HLWRC",
-      "title": "Impressora Multifuncional Epson EcoTank L14150 - Tanque de Tinta Colorida, formato até A3+ Wi-Fi, USB, Bivolt",
-      "link": "https://www.amazon.com.br/Impressora-Multifuncional-Epson-EcoTank-L14150/dp/B08Q8HLWRC",
-      "current_price": 3956.32,
-      "original_price": 4699.0,
-      "discount": 15.8,
-      "difference": 742.68,
-      "criteria": [
-        "R$ 742.68 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51nFd-Cl1GL._AC_UL210_SR210,210_.jpg",
-      "category": "[PRINTER]",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1792853419.345794,
-      "is_new": false
-    },
-    {
-      "asin": "B0HBYBB54N",
-      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBB54N",
-      "current_price": 3759.0,
-      "original_price": 4499.0,
-      "discount": 16.4,
-      "difference": 740.0,
-      "criteria": [
-        "R$ 740.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1789219145.198038,
-      "is_new": false
-    },
-    {
-      "asin": "B0FRJC5D97",
-      "title": "Soundbar Samsung HW-B650F 3.1 canais, 370W, Bluetooth, Subwoofer sem fio, Dolby Audio",
-      "link": "https://www.amazon.com.br/Samsung-Soundbar-HW-B650F-Subwoof-incluso/dp/B0FRJC5D97",
-      "current_price": 1229.0,
-      "original_price": 1799.0,
-      "discount": 31.7,
-      "difference": 570.0,
-      "criteria": [
-        "R$ 570.0 desc."
-      ],
-      "badge": "31% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31Cx8Z5IRdL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1792904549.779002,
       "is_new": false
     },
     {
@@ -28716,8 +28635,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792526468.589559,
+      "is_new": false
+    },
+    {
+      "asin": "B0DVZQ8Z8S",
+      "title": "Ar-Condicionado Split HW Philco PAC24FI 24.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-Philco-PAC24FI-24-000/dp/B0DVZQ8Z8S",
+      "current_price": 2961.99,
+      "original_price": 3499.0,
+      "discount": 15.3,
+      "difference": 537.01,
+      "criteria": [
+        "R$ 537.01 desc."
+      ],
+      "badge": "15% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m2qep82iL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1789175599.222088,
       "is_new": false
     },
     {
@@ -28734,8 +28671,26 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0HLTSNZDW",
+      "title": "Ar-Condicionado Split HW LG Dual Inverter +AI Voice 12.000 BTUs R-32 Só Frio 220V",
+      "link": "https://www.amazon.com.br/Ar-Condicionado-Split-LG-Inverter-12-000/dp/B0HLTSNZDW",
+      "current_price": 2399.0,
+      "original_price": 2869.0,
+      "discount": 16.4,
+      "difference": 470.0,
+      "criteria": [
+        "R$ 470.0 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51bnXPrPntL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1792437338.770363,
       "is_new": false
     },
     {
@@ -28752,8 +28707,8 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51n35U33LiL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1792990417.888064,
+      "last_seen": 1793034057.262638,
+      "discovery_ts": 1792990417.888055,
       "is_new": false
     },
     {
@@ -28770,7 +28725,7 @@
       "badge": "23% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61-i0SOp0eL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792414943.690207,
       "is_new": false
     },
@@ -28789,62 +28744,8 @@
       "badge": "59% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81vWLw7qFWL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792841585.611532,
-      "is_new": false
-    },
-    {
-      "asin": "B076BC9LTW",
-      "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca (RE31) Classe A 220 Volts",
-      "link": "https://www.amazon.com.br/Refrigerador-Degelo-Pr%C3%A1tico-Defrost-Electrolux/dp/B076BC9LTW",
-      "current_price": 1438.06,
-      "original_price": 1787.37,
-      "discount": 19.5,
-      "difference": 349.31,
-      "criteria": [
-        "R$ 349.31 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31Bxh2X5ZcL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1792990417.888064,
-      "discovery_ts": 1792990417.888064,
-      "is_new": false
-    },
-    {
-      "asin": "B0GTWY64G5",
-      "title": "Refrigerador Bottom Freezer Inverter Panasonic de 02 Portas Frost Free com 511 Litros Aço Escovado - NR-BB71PV7X (220V, Volts)",
-      "link": "https://www.amazon.com.br/Refrigerador-Freezer-Inverter-Panasonic-Escovado/dp/B0GTWY64G5",
-      "current_price": 5098.98,
-      "original_price": 5399.0,
-      "discount": 5.6,
-      "difference": 300.02,
-      "criteria": [
-        "R$ 300.02 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41QOMnddH8L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1792740208.584115,
-      "is_new": false
-    },
-    {
-      "asin": "B0DHL63KWK",
-      "title": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-      "link": "https://www.amazon.com.br/Ouvido-JBL-Bluetooth-Auricular-Resistente/dp/B0DHL63KWK",
-      "current_price": 234.99,
-      "original_price": 466.66,
-      "discount": 49.6,
-      "difference": 231.67,
-      "criteria": [
-        "49.6% OFF"
-      ],
-      "badge": "49% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
-      "category": "[HEADPHONES]",
-      "last_seen": 1793011330.723536,
-      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -28861,7 +28762,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     },
@@ -28879,7 +28780,7 @@
       "badge": "61% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51JsUkgA+KL._AC_UL210_SR210,210_.jpg",
       "category": "🛒 Supermercado & Bebidas",
-      "last_seen": 1793011330.723536,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1784607971.268491,
       "is_new": false
     },
@@ -28887,17 +28788,17 @@
       "asin": "B0G3YGYW4Z",
       "title": "Sérum Leave-in Cabelos Finos Elseve L'Oréal Paris Colágeno Encorpador 100ml | Injeção de massa, 7% de peptídeos, alta concentração de arginina, +61% de volume saudável, ação por 72h",
       "link": "https://www.amazon.com.br/Collagen-Capilar-Cabelos-Pept%C3%ADdeos-Col%C3%A1geno/dp/B0G3YGYW4Z",
-      "current_price": 32.5,
+      "current_price": 0.33,
       "original_price": 55.09,
-      "discount": 41.0,
-      "difference": 22.59,
+      "discount": 99.4,
+      "difference": 54.76,
       "criteria": [
-        "41.0% OFF"
+        "99.4% OFF"
       ],
       "badge": "41% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71fF+WE75FL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1792990417.888064,
+      "last_seen": 1793034057.262638,
       "discovery_ts": 1792921505.891712,
       "is_new": false
     }
