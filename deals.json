@@ -1,5 +1,5 @@
 {
-  "last_check": "27/10/2026 11:03:04",
+  "last_check": "27/10/2026 16:29:35",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4215,6 +4215,10 @@
         {
           "price": 5065.39,
           "date": "2026-10-13T01:23:33.922112"
+        },
+        {
+          "price": 5063.99,
+          "date": "2026-10-27T16:29:34.288276"
         }
       ]
     },
@@ -7740,6 +7744,10 @@
         {
           "price": 2459.0,
           "date": "2026-07-31T19:47:24.279413"
+        },
+        {
+          "price": 2499.0,
+          "date": "2026-10-27T16:29:34.288276"
         }
       ]
     },
@@ -18800,6 +18808,10 @@
         {
           "price": 3299.0,
           "date": "2026-08-11T23:45:45.120891"
+        },
+        {
+          "price": 3399.0,
+          "date": "2026-10-27T16:29:34.288276"
         }
       ]
     },
@@ -27347,6 +27359,10 @@
         {
           "price": 1686.99,
           "date": "2026-10-16T21:58:02.853965"
+        },
+        {
+          "price": 1665.56,
+          "date": "2026-10-27T16:29:34.288276"
         }
       ]
     },
@@ -28453,25 +28469,34 @@
           "date": "2026-10-27T11:02:48.735734"
         }
       ]
+    },
+    "B0HBCZS5RS": {
+      "discovery_date": "2026-10-27T16:29:34.288276",
+      "price_history": [
+        {
+          "price": 346.39,
+          "date": "2026-10-27T16:29:34.288276"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BGW34FPD",
-      "title": "Le Creuset Panela Marmita 26Cm Sig Nectar",
-      "link": "https://www.amazon.com.br/Panela-Marmita-Signature-Nectar-Creuset/dp/B0BGW34FPD",
-      "current_price": 1952.3,
-      "original_price": 2789.0,
-      "discount": 30.0,
-      "difference": 836.7,
+      "asin": "B0HBCZS5RS",
+      "title": "Câmera Inteligente 3MP IM4 Dual Full Color Intelbras",
+      "link": "https://www.amazon.com.br/C%C3%A2mera-Inteligente-3MP-IM4-Intelbras/dp/B0HBCZS5RS",
+      "current_price": 346.39,
+      "original_price": 599.0,
+      "discount": 42.2,
+      "difference": 252.61,
       "criteria": [
-        "R$ 836.7 desc."
+        "42.2% OFF"
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51joCvucEtL._AC_UL210_SR210,210_.jpg",
-      "category": "[DUTCH_OVENS]",
-      "last_seen": 1793098968.735741,
-      "discovery_ts": 1793098968.735741,
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-8G9WtheL._AC_UL210_SR210,210_.jpg",
+      "category": "[SECURITY_CAMERA]",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1793118574.288286,
       "is_new": true
     },
     {
@@ -28512,24 +28537,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CP6BZHK3",
-      "title": "Apple iPhone 15 (256 GB) — Azul",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
-      "current_price": 4887.78,
-      "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
-      "criteria": [
-        "R$ 1911.22 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1792691367.956879,
-      "is_new": false
-    },
-    {
       "asin": "B0CP6CVJSG",
       "title": "Apple iPhone 15 (128 GB) — Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
@@ -28543,8 +28550,26 @@
       "badge": "30% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793098968.735741,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFTCKNN",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+      "current_price": 5063.99,
+      "original_price": 6799.0,
+      "discount": 25.5,
+      "difference": 1735.01,
+      "criteria": [
+        "R$ 1735.01 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1785277699.627439,
       "is_new": false
     },
     {
@@ -28561,7 +28586,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28579,7 +28604,7 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793098968.735741,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1785508894.413234,
       "is_new": false
     },
@@ -28603,6 +28628,24 @@
       "is_new": false
     },
     {
+      "asin": "B0F85P7QB8",
+      "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - M1502YA-NJ655W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Silver/dp/B0F85P7QB8",
+      "current_price": 4490.0,
+      "original_price": 5499.0,
+      "discount": 18.3,
+      "difference": 1009.0,
+      "criteria": [
+        "R$ 1009.0 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1793034057.262629,
+      "is_new": false
+    },
+    {
       "asin": "B0F6CX2QK4",
       "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
       "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
@@ -28616,7 +28659,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -28642,18 +28685,36 @@
       "asin": "B08DMTXRHC",
       "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 127V - WD3S1443BB1",
       "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B08DMTXRHC",
-      "current_price": 3135.23,
+      "current_price": 3051.58,
       "original_price": 3999.0,
-      "discount": 21.6,
-      "difference": 863.77,
+      "discount": 23.7,
+      "difference": 947.42,
       "criteria": [
-        "R$ 863.77 desc."
+        "R$ 947.42 desc."
       ],
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1792240071.4291,
+      "is_new": false
+    },
+    {
+      "asin": "B0BGW34FPD",
+      "title": "Le Creuset Panela Marmita 26Cm Sig Nectar",
+      "link": "https://www.amazon.com.br/Panela-Marmita-Signature-Nectar-Creuset/dp/B0BGW34FPD",
+      "current_price": 1952.3,
+      "original_price": 2789.0,
+      "discount": 30.0,
+      "difference": 836.7,
+      "criteria": [
+        "R$ 836.7 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51joCvucEtL._AC_UL210_SR210,210_.jpg",
+      "category": "[DUTCH_OVENS]",
+      "last_seen": 1793098968.735741,
+      "discovery_ts": 1793098968.735741,
       "is_new": false
     },
     {
@@ -28676,21 +28737,39 @@
       "is_new": false
     },
     {
-      "asin": "B09QVC3PYG",
-      "title": "Geladeira Samsung RF49A Inverter Frost Free 3 Portas com Dispenser de Água 549L Inox Look 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QVC3PYG",
-      "current_price": 6599.0,
-      "original_price": 7367.37,
-      "discount": 10.4,
-      "difference": 768.37,
+      "asin": "B0CY74XGZM",
+      "title": "Ar Condicionado Janela Eletrônico Hisense com Wi-Fi 10.000 BTUs Frio R-32 AW-10CW2RVGU00-220V",
+      "link": "https://www.amazon.com.br/Condicionado-Hisense-Monof%C3%A1sico-Eletr%C3%B4nico-Aw-10cw2rvgu00-220v/dp/B0CY74XGZM",
+      "current_price": 1665.56,
+      "original_price": 2399.0,
+      "discount": 30.6,
+      "difference": 733.44,
       "criteria": [
-        "R$ 768.37 desc."
+        "R$ 733.44 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41qNRgRXfuL._AC_UL210_SR210,210_.jpg",
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LWlcLoY8L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1786542030.20045,
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1792187882.853965,
+      "is_new": false
+    },
+    {
+      "asin": "B0FPBR8V26",
+      "title": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-50PUG8100-78-Bluetooth/dp/B0FPBR8V26",
+      "current_price": 2188.98,
+      "original_price": 2899.0,
+      "discount": 24.5,
+      "difference": 710.02,
+      "criteria": [
+        "R$ 710.02 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hTC1qv92L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -28707,7 +28786,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81PghVbGE6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1790987106.4028,
       "is_new": false
     },
@@ -28730,6 +28809,25 @@
       "is_new": false
     },
     {
+      "asin": "B0DG32SNZ4",
+      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
+      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
+      "current_price": 279.9,
+      "original_price": 829.9,
+      "discount": 66.3,
+      "difference": 550.0,
+      "criteria": [
+        "66.3% OFF",
+        "R$ 550.0 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1790417113.008513,
+      "is_new": false
+    },
+    {
       "asin": "B0HBYYN84S",
       "title": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
       "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYYN84S",
@@ -28743,7 +28841,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -28761,7 +28859,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31Up7eXoPuL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1792806547.749199,
       "is_new": false
     },
@@ -28779,7 +28877,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793098968.735741,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28797,26 +28895,8 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793098968.735741,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1787230512.713835,
-      "is_new": false
-    },
-    {
-      "asin": "B0GTNCMWRB",
-      "title": "Ar Condicionado Hi Wall LG Dual Inverter Voice AI 9.000 Btus Quente e Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-Voice-Quente/dp/B0GTNCMWRB",
-      "current_price": 2180.81,
-      "original_price": 2659.0,
-      "discount": 18.0,
-      "difference": 478.19,
-      "criteria": [
-        "R$ 478.19 desc."
-      ],
-      "badge": "15% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51ZQpeIrrBL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1793050584.893098,
       "is_new": false
     },
     {
@@ -28835,6 +28915,42 @@
       "category": "[SPEAKERS]",
       "last_seen": 1793098968.735741,
       "discovery_ts": 1792990417.888055,
+      "is_new": false
+    },
+    {
+      "asin": "B081NL17WS",
+      "title": "Emma Colchão Queen Original 25 cm - 158x198 cm, Espuma Viscoelástica 3 Camadas, Conforto Superior, Suporte para Coluna, Alta Respirabilidade, Capa Lavável, 10 Anos de Garantia, 100 Noites de Teste",
+      "link": "https://www.amazon.com.br/Colch%C3%A3o-Emma-Original-Brasil-158x198/dp/B081NL17WS",
+      "current_price": 2499.0,
+      "original_price": 2899.0,
+      "discount": 13.8,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-2Hg2uyFL._AC_UL210_SR210,210_.jpg",
+      "category": "[MATTRESS]",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1785527244.279413,
+      "is_new": false
+    },
+    {
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3399.0,
+      "original_price": 3799.0,
+      "discount": 10.5,
+      "difference": 400.0,
+      "criteria": [
+        "R$ 400.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -28857,39 +28973,21 @@
       "is_new": false
     },
     {
-      "asin": "B0HF8X67WP",
-      "title": "Notebook ASUS Vivobook 15, Intel Core 5, 8 GB, 256 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - X1504MA-BQ300W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Silver/dp/B0HF8X67WP",
-      "current_price": 3998.0,
+      "asin": "B0HFNW6ZQY",
+      "title": "Geladeira Samsung Duplex RT42 Inox Bivolt 415L",
+      "link": "https://www.amazon.com.br/Geladeira-Samsung-Duplex-RT42-Bivolt/dp/B0HFNW6ZQY",
+      "current_price": 3989.0,
       "original_price": 4299.0,
-      "discount": 7.0,
-      "difference": 301.0,
+      "discount": 7.2,
+      "difference": 310.0,
       "criteria": [
-        "R$ 301.0 desc."
+        "R$ 310.0 desc."
       ],
       "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yFmZInYqL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1793079680.843659,
-      "is_new": false
-    },
-    {
-      "asin": "B0GL39RFGC",
-      "title": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H, 8GB RAM, 256GB SSD, Linux",
-      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-i5-13420H-83NSS00300/dp/B0GL39RFGC",
-      "current_price": 3598.9,
-      "original_price": 3899.0,
-      "discount": 7.7,
-      "difference": 300.1,
-      "criteria": [
-        "R$ 300.1 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61erRBhgfDL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1792088878.02628,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31LcHumdvBL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793118574.288286,
+      "discovery_ts": 1792297443.465829,
       "is_new": false
     },
     {
@@ -28924,26 +29022,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1793079680.843659,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1792526468.589559,
-      "is_new": false
-    },
-    {
-      "asin": "8535946055",
-      "title": "Grande sertão: veredas (Edição especial 70 anos)",
-      "link": "https://www.amazon.com.br/Grande-sert%C3%A3o-veredas-Edi%C3%A7%C3%A3o-especial/dp/8535946055",
-      "current_price": 121.45,
-      "original_price": 209.9,
-      "discount": 42.1,
-      "difference": 88.45,
-      "criteria": [
-        "42.1% OFF"
-      ],
-      "badge": "42% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91mSqSRWh9L._AC_UL210_SR210,210_.jpg",
-      "category": "[ABIS_BOOK]",
-      "last_seen": 1793079680.843659,
-      "discovery_ts": 1793079680.843659,
       "is_new": false
     },
     {
@@ -28960,7 +29040,7 @@
       "badge": "46% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71+tkckV3RL._AC_UL210_SR210,210_.jpg",
       "category": "[INCONTINENCE_PROTECTOR]",
-      "last_seen": 1793098968.735741,
+      "last_seen": 1793118574.288286,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     },
