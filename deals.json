@@ -1,5 +1,5 @@
 {
-  "last_check": "28/10/2026 00:12:30",
+  "last_check": "28/10/2026 05:48:25",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -25356,6 +25356,10 @@
         {
           "price": 2788.0,
           "date": "2026-09-18T09:42:16.471138"
+        },
+        {
+          "price": 2787.99,
+          "date": "2026-10-28T05:48:24.896238"
         }
       ]
     },
@@ -26272,6 +26276,10 @@
         {
           "price": 879.0,
           "date": "2026-09-29T06:58:19.027630"
+        },
+        {
+          "price": 939.0,
+          "date": "2026-10-28T05:48:24.896238"
         }
       ]
     },
@@ -27868,6 +27876,10 @@
         {
           "price": 234.99,
           "date": "2026-10-20T20:01:08.589559"
+        },
+        {
+          "price": 233.22,
+          "date": "2026-10-28T05:48:24.896238"
         }
       ]
     },
@@ -28522,9 +28534,90 @@
           "date": "2026-10-27T20:53:27.667205"
         }
       ]
+    },
+    "B0C6NG9M7H": {
+      "discovery_date": "2026-10-28T05:48:24.896238",
+      "price_history": [
+        {
+          "price": 6290.0,
+          "date": "2026-10-28T05:48:24.896238"
+        }
+      ]
+    },
+    "B0H85974N5": {
+      "discovery_date": "2026-10-28T05:48:24.896238",
+      "price_history": [
+        {
+          "price": 1476.14,
+          "date": "2026-10-28T05:48:24.896238"
+        }
+      ]
+    },
+    "B07X47VCQ8": {
+      "discovery_date": "2026-10-28T05:48:24.896238",
+      "price_history": [
+        {
+          "price": 4511.55,
+          "date": "2026-10-28T05:48:24.896238"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B07X47VCQ8",
+      "title": "Lava-Louças de Embutir Inox Panasonic NP-6M2FTKBRP 220V",
+      "link": "https://www.amazon.com.br/Lava-lou%C3%A7as-Embutir-Panasonic-Servi%C3%A7os-NP-6M2FTKBRP/dp/B07X47VCQ8",
+      "current_price": 4511.55,
+      "original_price": 6199.0,
+      "discount": 27.2,
+      "difference": 1687.45,
+      "criteria": [
+        "R$ 1687.45 desc."
+      ],
+      "badge": "27% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4182dmvCnTL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1793166504.896249,
+      "is_new": true
+    },
+    {
+      "asin": "B0H85974N5",
+      "title": "Celular Galaxy A27 5G 128GB, câmera tripla de 50MP - Preto",
+      "link": "https://www.amazon.com.br/Celular-Galaxy-128GB-c%C3%A2mera-tripla/dp/B0H85974N5",
+      "current_price": 1476.14,
+      "original_price": 2299.0,
+      "discount": 35.8,
+      "difference": 822.86,
+      "criteria": [
+        "R$ 822.86 desc."
+      ],
+      "badge": "35% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YHHhZKpJL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1793166504.896249,
+      "is_new": true
+    },
+    {
+      "asin": "B0C6NG9M7H",
+      "title": "Esteira Ergométrica Speedo TR4 c/Inclinação Eletrônica e Amortecimento - Motor DC 3.5HP até 16km/h",
+      "link": "https://www.amazon.com.br/Ergom%C3%A9trica-Speedo-Inclina%C3%A7%C3%A3o-Eletr%C3%B4nica-Amortecimento/dp/B0C6NG9M7H",
+      "current_price": 6290.0,
+      "original_price": 6990.0,
+      "discount": 10.0,
+      "difference": 700.0,
+      "criteria": [
+        "R$ 700.0 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41C1LvvtPRL._AC_UL210_SR210,210_.jpg",
+      "category": "[TREADMILL]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1793166504.896249,
+      "is_new": true
+    },
     {
       "asin": "B0GR1YNLC8",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
@@ -28539,26 +28632,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1791854613.922112,
       "is_new": false
     },
     {
-      "asin": "B0CP6CVJSG",
-      "title": "Apple iPhone 15 (128 GB) — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
-      "current_price": 4199.0,
-      "original_price": 5999.0,
-      "discount": 30.0,
-      "difference": 1800.0,
+      "asin": "B0CP6BZHK3",
+      "title": "Apple iPhone 15 (256 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
+      "current_price": 4887.78,
+      "original_price": 6799.0,
+      "discount": 28.1,
+      "difference": 1911.22,
       "criteria": [
-        "R$ 1800.0 desc."
+        "R$ 1911.22 desc."
       ],
-      "badge": "30% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1791854613.922112,
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1792691367.956879,
       "is_new": false
     },
     {
@@ -28593,7 +28686,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793134407.667211,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1786721769.386069,
       "is_new": false
     },
@@ -28629,7 +28722,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793134407.667211,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -28647,8 +28740,45 @@
       "badge": "27% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/516qpWn6k2L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1785508894.413234,
+      "is_new": false
+    },
+    {
+      "asin": "B0F9LH6V3F",
+      "title": "Ar Condicionado Janela Hisense 12000 Btus Frio Aw-12CR2RWGU00 220v",
+      "link": "https://www.amazon.com.br/condicionado-janela-Hisense-12000-aw-12cr2rwgu00/dp/B0F9LH6V3F",
+      "current_price": 1776.67,
+      "original_price": 3069.0,
+      "discount": 42.1,
+      "difference": 1292.33,
+      "criteria": [
+        "42.1% OFF",
+        "R$ 1292.33 desc."
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71vJ7phXIrL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1787368158.987282,
+      "is_new": false
+    },
+    {
+      "asin": "B0BSKZ1W8Z",
+      "title": "Monitor Gamer Curvo ASUS TUF 34\"\", WQHD, 250Hz, 0.5ms, Fast VA, FreeSync Premium, Altura Ajustável, Som Integrado, Preto - VG34WQML5A",
+      "link": "https://www.amazon.com.br/Monitor-ASUS-FreeSync-Ajust%C3%A1vel-Integrado/dp/B0BSKZ1W8Z",
+      "current_price": 2049.98,
+      "original_price": 3333.32,
+      "discount": 38.5,
+      "difference": 1283.34,
+      "criteria": [
+        "R$ 1283.34 desc."
+      ],
+      "badge": "38% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51MW8Jvv1RL._AC_UL210_SR210,210_.jpg",
+      "category": "[AUDIO_OR_VIDEO]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1792904549.779002,
       "is_new": false
     },
     {
@@ -28706,24 +28836,6 @@
       "is_new": false
     },
     {
-      "asin": "B0F6CX2QK4",
-      "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
-      "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
-      "current_price": 3999.0,
-      "original_price": 5000.0,
-      "discount": 20.0,
-      "difference": 1001.0,
-      "criteria": [
-        "R$ 1001.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1789048034.956824,
-      "is_new": false
-    },
-    {
       "asin": "B0DBMMH3JY",
       "title": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
@@ -28737,7 +28849,7 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
       "category": "[SMALL_HOME_APPLIANCES]",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1792841585.611532,
       "is_new": false
     },
@@ -28755,7 +28867,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61DaF2ouoXL._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1792240071.4291,
       "is_new": false
     },
@@ -28773,45 +28885,8 @@
       "badge": "29% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51iStJnARGL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1793134407.667205,
-      "is_new": false
-    },
-    {
-      "asin": "B08R91NTHY",
-      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
-      "current_price": 419.0,
-      "original_price": 1199.9,
-      "discount": 65.1,
-      "difference": 780.9,
-      "criteria": [
-        "65.1% OFF",
-        "R$ 780.9 desc."
-      ],
-      "badge": "65% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
-      "category": "[AIR_FRYER]",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1790156779.821624,
-      "is_new": false
-    },
-    {
-      "asin": "B0CW3RW688",
-      "title": "Ar-Condicionado Split Inverter II 24000 BTUs Elgin Eco com Wi-Fi Integrado High Wall Quente e Frio HJQI24C2WC/HJQE24C2CC 220V",
-      "link": "https://www.amazon.com.br/Ar-condicionado-Elgin-Integrado-Hjqi24c2wb-hjqe24c2cb/dp/B0CW3RW688",
-      "current_price": 3500.0,
-      "original_price": 4277.25,
-      "discount": 18.2,
-      "difference": 777.25,
-      "criteria": [
-        "R$ 777.25 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51sQEss71rL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1793134407.667211,
       "is_new": false
     },
     {
@@ -28833,21 +28908,22 @@
       "is_new": false
     },
     {
-      "asin": "B08GF7XGTB",
-      "title": "Cervejeira Metalfrio Beer Maxx 336 Litros VN28TP Inox - 127V",
-      "link": "https://www.amazon.com.br/Cervejeira-Vertical-Metalfrio-Viewer-VN28TP/dp/B08GF7XGTB",
-      "current_price": 5191.5,
-      "original_price": 5895.8,
-      "discount": 11.9,
-      "difference": 704.3,
+      "asin": "B0DBR1N89F",
+      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
+      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
+      "current_price": 549.9,
+      "original_price": 1199.0,
+      "discount": 54.1,
+      "difference": 649.1,
       "criteria": [
-        "R$ 704.3 desc."
+        "54.1% OFF",
+        "R$ 649.1 desc."
       ],
-      "badge": "11% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/516JzI1C5JL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1793134407.667211,
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1792615592.203351,
       "is_new": false
     },
     {
@@ -28882,26 +28958,8 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1792526468.589559,
-      "is_new": false
-    },
-    {
-      "asin": "B0H2N8RJWX",
-      "title": "Soundbar Série Q HW-Q600H 3.1.2 canais Subwoofer 2026",
-      "link": "https://www.amazon.com.br/Soundbar-S%C3%A9rie-HW-Q600H-canais-Subwoofer/dp/B0H2N8RJWX",
-      "current_price": 2199.0,
-      "original_price": 2699.99,
-      "discount": 18.6,
-      "difference": 500.99,
-      "criteria": [
-        "R$ 500.99 desc."
-      ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31Up7eXoPuL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1792806547.749199,
       "is_new": false
     },
     {
@@ -28918,7 +28976,7 @@
       "badge": "8% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -28941,21 +28999,21 @@
       "is_new": false
     },
     {
-      "asin": "B0HCPM49ZQ",
-      "title": "Geladeira Panasonic BB65GV7MC Frost Free Inverter 467L Diamond Glass Bivolt | Tecnologia Inverter",
-      "link": "https://www.amazon.com.br/Geladeira-Panasonic-BB65GV7MC-Inverter-Diamond/dp/B0HCPM49ZQ",
-      "current_price": 4996.0,
-      "original_price": 5446.0,
-      "discount": 8.3,
-      "difference": 450.0,
+      "asin": "B0D9KJHRXN",
+      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
+      "current_price": 939.0,
+      "original_price": 1399.0,
+      "discount": 32.9,
+      "difference": 460.0,
       "criteria": [
-        "R$ 450.0 desc."
+        "R$ 460.0 desc."
       ],
-      "badge": "8% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/312T2AU4KJL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793134407.667211,
-      "discovery_ts": 1793134407.667211,
+      "badge": "32% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1790665099.02763,
       "is_new": false
     },
     {
@@ -28972,8 +29030,26 @@
       "badge": "19% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51n35U33LiL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1793146342.27071,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1792990417.888055,
+      "is_new": false
+    },
+    {
+      "asin": "B0CN7B2LNK",
+      "title": "Geladeira LG GN-B392PX 2 Portas 395 Litros Preta Inox | Frost Free, Top Freezer Inverter -127 Volts",
+      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN7B2LNK",
+      "current_price": 2787.99,
+      "original_price": 3194.85,
+      "discount": 12.7,
+      "difference": 406.86,
+      "criteria": [
+        "R$ 406.86 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
+      "category": "[MAJOR_HOME_APPLIANCES]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1789724536.471138,
       "is_new": false
     },
     {
@@ -29017,17 +29093,17 @@
       "asin": "B0DHL63KWK",
       "title": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
       "link": "https://www.amazon.com.br/Ouvido-JBL-Bluetooth-Auricular-Resistente/dp/B0DHL63KWK",
-      "current_price": 234.99,
+      "current_price": 233.22,
       "original_price": 466.66,
-      "discount": 49.6,
-      "difference": 231.67,
+      "discount": 50.0,
+      "difference": 233.44,
       "criteria": [
-        "49.6% OFF"
+        "50.0% OFF"
       ],
-      "badge": "49% off",
+      "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1793134407.667211,
+      "last_seen": 1793166504.896249,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
@@ -29047,6 +29123,24 @@
       "category": "[INCONTINENCE_PROTECTOR]",
       "last_seen": 1793146342.27071,
       "discovery_ts": 1792615592.203351,
+      "is_new": false
+    },
+    {
+      "asin": "8535946055",
+      "title": "Grande sertão: veredas (Edição especial 70 anos)",
+      "link": "https://www.amazon.com.br/Grande-sert%C3%A3o-veredas-Edi%C3%A7%C3%A3o-especial/dp/8535946055",
+      "current_price": 121.45,
+      "original_price": 209.9,
+      "discount": 42.1,
+      "difference": 88.45,
+      "criteria": [
+        "42.1% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91mSqSRWh9L._AC_UL210_SR210,210_.jpg",
+      "category": "[ABIS_BOOK]",
+      "last_seen": 1793166504.896249,
+      "discovery_ts": 1793079680.843651,
       "is_new": false
     }
   ]
