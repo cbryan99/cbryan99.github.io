@@ -1,5 +1,5 @@
 {
-  "last_check": "29/10/2026 14:25:21",
+  "last_check": "29/10/2026 19:44:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -4051,6 +4051,10 @@
         {
           "price": 4999.0,
           "date": "2026-08-14T12:26:17.843412"
+        },
+        {
+          "price": 5084.99,
+          "date": "2026-10-29T19:44:59.965130"
         }
       ]
     },
@@ -27895,6 +27899,10 @@
         {
           "price": 1677.5,
           "date": "2026-10-20T20:01:08.589559"
+        },
+        {
+          "price": 1627.49,
+          "date": "2026-10-29T19:44:59.965130"
         }
       ]
     },
@@ -28661,61 +28669,115 @@
           "date": "2026-10-29T14:24:39.111739"
         }
       ]
+    },
+    "B081DK9F2P": {
+      "discovery_date": "2026-10-29T19:44:59.965130",
+      "price_history": [
+        {
+          "price": 1700.0,
+          "date": "2026-10-29T19:44:59.965130"
+        }
+      ]
+    },
+    "B0G3CY35DN": {
+      "discovery_date": "2026-10-29T19:44:59.965130",
+      "price_history": [
+        {
+          "price": 3134.05,
+          "date": "2026-10-29T19:44:59.965130"
+        }
+      ]
+    },
+    "B081DK6CQT": {
+      "discovery_date": "2026-10-29T19:44:59.965130",
+      "price_history": [
+        {
+          "price": 1600.0,
+          "date": "2026-10-29T19:44:59.965130"
+        }
+      ]
+    },
+    "B0H72LCZR8": {
+      "discovery_date": "2026-10-29T19:44:59.965130",
+      "price_history": [
+        {
+          "price": 1800.0,
+          "date": "2026-10-29T19:44:59.965130"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0B3Q1HNNT",
-      "title": "Geladeira Electrolux Multidoor Efficient Com Autosense, Inverter e Dispenser de Água e Gelo 540L Inox Look (IM8IS) 220V",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Multidoor-Efficient-Autosense/dp/B0B3Q1HNNT",
-      "current_price": 9199.0,
-      "original_price": 10199.0,
-      "discount": 9.8,
-      "difference": 1000.0,
+      "asin": "B081DK9F2P",
+      "title": "Gree Ar Condicionado Split Hi Wall Inverter Gree G-Side 12000 BTU/h Frio GWC12ATCXB-D6DNA3C – 220 Volts",
+      "link": "https://www.amazon.com.br/Gree-Condicionado-Inverter-G-Side-GWC12ATCXB-D6DNA3C/dp/B081DK9F2P",
+      "current_price": 1700.0,
+      "original_price": 2348.0,
+      "discount": 27.6,
+      "difference": 648.0,
       "criteria": [
-        "R$ 1000.0 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/4199K86sF2L._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793283879.111746,
-      "discovery_ts": 1793283879.111746,
-      "is_new": true
-    },
-    {
-      "asin": "B0GVPBY2HM",
-      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 8GB Linux",
-      "link": "https://www.amazon.com.br/Acer-Aspire-Notebook-Intel-Linux/dp/B0GVPBY2HM",
-      "current_price": 4099.9,
-      "original_price": 4899.0,
-      "discount": 16.3,
-      "difference": 799.1,
-      "criteria": [
-        "R$ 799.1 desc."
+        "R$ 648.0 desc."
       ],
       "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
-      "discovery_ts": 1793283879.111746,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51BMltGaZRL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793303099.965136,
       "is_new": true
     },
     {
-      "asin": "B0FTTJMGB4",
-      "title": "Geladeira Electrolux 1p 400l Ib6s Inox Bivolt",
-      "link": "https://www.amazon.com.br/Geladeira-Electrolux-400l-Ib6s-Bivolt/dp/B0FTTJMGB4",
-      "current_price": 3699.0,
-      "original_price": 4272.63,
-      "discount": 13.4,
-      "difference": 573.63,
+      "asin": "B0H72LCZR8",
+      "title": "TCL Ar Condicionado Split Inverter TCL BreezeIN AI 12000 BTU/h Frio TAC-12CTG3-INV - 220 Volts",
+      "link": "https://www.amazon.com.br/TCL-Condicionado-Inverter-BreezeIN-TAC-12CTG3-INV/dp/B0H72LCZR8",
+      "current_price": 1800.0,
+      "original_price": 2249.0,
+      "discount": 20.0,
+      "difference": 449.0,
       "criteria": [
-        "R$ 573.63 desc."
+        "R$ 449.0 desc."
       ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51i+F8pbJ9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793283879.111746,
-      "discovery_ts": 1793283879.111746,
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793303099.965136,
+      "is_new": true
+    },
+    {
+      "asin": "B081DK6CQT",
+      "title": "Ar Condicionado Split Hi Wall Gree G-Top Auto Inverter 9000 BTU/h Frio GWC09ATB-D6DNA1A/I – 220 Volts",
+      "link": "https://www.amazon.com.br/Condicionado-Split-Gree-Inverter-GWC09ATB-D6DNA1A/dp/B081DK6CQT",
+      "current_price": 1600.0,
+      "original_price": 1989.9,
+      "discount": 19.6,
+      "difference": 389.9,
+      "criteria": [
+        "R$ 389.9 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XYFecTsfL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793303099.965136,
+      "is_new": true
+    },
+    {
+      "asin": "B0G3CY35DN",
+      "title": "Notebook Lenovo IdeaPad Slim 3 15.3\" Luna Grey - Intel Core 3 100U, 8GB RAM, 256GB SSD, Windows 11",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-15IRU10-Windows/dp/B0G3CY35DN",
+      "current_price": 3134.05,
+      "original_price": 3499.0,
+      "discount": 10.4,
+      "difference": 364.95,
+      "criteria": [
+        "R$ 364.95 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ls0CGtwwL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793303099.965136,
       "is_new": true
     },
     {
@@ -28732,7 +28794,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1791854613.922112,
       "is_new": false
     },
@@ -28792,6 +28854,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DJFT8HZC",
+      "title": "Apple iPhone 16 (128 GB) – Rosa",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFT8HZC",
+      "current_price": 5084.99,
+      "original_price": 6799.0,
+      "discount": 25.2,
+      "difference": 1714.01,
+      "criteria": [
+        "R$ 1714.01 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1785269176.438674,
+      "is_new": false
+    },
+    {
       "asin": "B0BZ129NTZ",
       "title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
       "link": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
@@ -28823,7 +28903,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -28841,7 +28921,7 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1793034057.262629,
       "is_new": false
     },
@@ -28882,6 +28962,61 @@
       "is_new": false
     },
     {
+      "asin": "B0B3Q1HNNT",
+      "title": "Geladeira Electrolux Multidoor Efficient Com Autosense, Inverter e Dispenser de Água e Gelo 540L Inox Look (IM8IS) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Multidoor-Efficient-Autosense/dp/B0B3Q1HNNT",
+      "current_price": 9199.0,
+      "original_price": 10199.0,
+      "discount": 9.8,
+      "difference": 1000.0,
+      "criteria": [
+        "R$ 1000.0 desc."
+      ],
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4199K86sF2L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793283879.111746,
+      "discovery_ts": 1793283879.111746,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVPBY2HM",
+      "title": "Acer Aspire Go 15 Notebook 15.6\" Intel Core i7 8GB Linux",
+      "link": "https://www.amazon.com.br/Acer-Aspire-Notebook-Intel-Linux/dp/B0GVPBY2HM",
+      "current_price": 4099.9,
+      "original_price": 4899.0,
+      "discount": 16.3,
+      "difference": 799.1,
+      "criteria": [
+        "R$ 799.1 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793283879.111739,
+      "is_new": false
+    },
+    {
+      "asin": "B0DBR1N89F",
+      "title": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS Preto",
+      "link": "https://www.amazon.com.br/Caixa-PartyBox-PB-07-Bluetooth-Preto/dp/B0DBR1N89F",
+      "current_price": 549.9,
+      "original_price": 1199.0,
+      "discount": 54.1,
+      "difference": 649.1,
+      "criteria": [
+        "54.1% OFF",
+        "R$ 649.1 desc."
+      ],
+      "badge": "54% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1792615592.203351,
+      "is_new": false
+    },
+    {
       "asin": "B0H3Q1RHD7",
       "title": "Smart TV TCL 65 Polegadas QLED 4K T6C WiFi Bluetooth Google TV Tela HVA e HDR10+ 65T6C",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-65T6C/dp/B0H3Q1RHD7",
@@ -28895,7 +29030,7 @@
       "badge": "14% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81PghVbGE6L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1790987106.4028,
       "is_new": false
     },
@@ -28913,8 +29048,44 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1790959316.049343,
+      "is_new": false
+    },
+    {
+      "asin": "B0FTTJMGB4",
+      "title": "Geladeira Electrolux 1p 400l Ib6s Inox Bivolt",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-400l-Ib6s-Bivolt/dp/B0FTTJMGB4",
+      "current_price": 3699.0,
+      "original_price": 4272.63,
+      "discount": 13.4,
+      "difference": 573.63,
+      "criteria": [
+        "R$ 573.63 desc."
+      ],
+      "badge": "13% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1793283879.111739,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVP7Q8TX",
+      "title": "Hisense Smart TV 4K Hi-QLED 43\" Polegadas 43Q6QVV | Processador AI, HDR10+, HLG, Filmmaker Mode, Dolby Gaming, Dolby Atmos, MiraCast e Compatibilidade Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Smart-Hi-QLED-Polegadas-43Q6QVV/dp/B0GVP7Q8TX",
+      "current_price": 1627.49,
+      "original_price": 2199.0,
+      "discount": 26.0,
+      "difference": 571.51,
+      "criteria": [
+        "R$ 571.51 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81j7QkksKEL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -28972,6 +29143,24 @@
       "is_new": false
     },
     {
+      "asin": "B0GL39RFGC",
+      "title": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H, 8GB RAM, 256GB SSD, Linux",
+      "link": "https://www.amazon.com.br/Notebook-Lenovo-Ideapad-i5-13420H-83NSS00300/dp/B0GL39RFGC",
+      "current_price": 3598.9,
+      "original_price": 3899.0,
+      "discount": 7.7,
+      "difference": 300.1,
+      "criteria": [
+        "R$ 300.1 desc."
+      ],
+      "badge": "7% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61erRBhgfDL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793303099.965136,
+      "discovery_ts": 1792088878.02628,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFS7GXV",
       "title": "Apple iPhone 16 (512 GB) – Preto",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-512-GB/dp/B0DJFS7GXV",
@@ -28985,7 +29174,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793283879.111746,
+      "last_seen": 1793303099.965136,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     }
