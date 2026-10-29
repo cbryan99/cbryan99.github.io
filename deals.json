@@ -1,5 +1,5 @@
 {
-  "last_check": "29/10/2026 01:17:37",
+  "last_check": "29/10/2026 07:12:48",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22480,6 +22480,10 @@
         {
           "price": 3399.0,
           "date": "2026-08-29T13:17:40.160875"
+        },
+        {
+          "price": 3499.95,
+          "date": "2026-10-29T07:12:48.500867"
         }
       ]
     },
@@ -25975,6 +25979,10 @@
         {
           "price": 5669.0,
           "date": "2026-10-12T19:11:48.472154"
+        },
+        {
+          "price": 5385.0,
+          "date": "2026-10-29T07:12:48.500867"
         }
       ]
     },
@@ -28608,25 +28616,62 @@
           "date": "2026-10-29T01:17:35.282090"
         }
       ]
+    },
+    "B0CSK79LMB": {
+      "discovery_date": "2026-10-29T07:12:48.500867",
+      "price_history": [
+        {
+          "price": 1449.0,
+          "date": "2026-10-29T07:12:48.500867"
+        }
+      ]
+    },
+    "B0G2SZ3Z48": {
+      "discovery_date": "2026-10-29T07:12:48.500867",
+      "price_history": [
+        {
+          "price": 3649.95,
+          "date": "2026-10-29T07:12:48.500867"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DF8Q9WX4",
-      "title": "Cooktop de Indução 4 Bocas Preto com Zona Flexível Dako Diplomata 220V",
-      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Flex%C3%ADvel-Dako-Diplomata/dp/B0DF8Q9WX4",
-      "current_price": 1257.89,
-      "original_price": 1699.0,
-      "discount": 26.0,
-      "difference": 441.11,
+      "asin": "B0CSK79LMB",
+      "title": "TABLET TCL A1 PLUS - 128GB; 16GB de RAM*(6GB RAM+10GB Ramboost); Tela 12,2” | Processador SnapDragon OctaCore,16GB RAM Tela de 12,2\" 2,4K, 120HZ ; WIFI; Android 16; Com Capa",
+      "link": "https://www.amazon.com.br/TABLET-TCL-PLUS-Processador-SnapDragon/dp/B0CSK79LMB",
+      "current_price": 1449.0,
+      "original_price": 2499.0,
+      "discount": 42.0,
+      "difference": 1050.0,
       "criteria": [
-        "R$ 441.11 desc."
+        "42.0% OFF",
+        "R$ 1050.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41cQS1VyuZL._AC_UL210_SR210,210_.jpg",
-      "category": "[COOKTOP]",
-      "last_seen": 1793236655.282097,
-      "discovery_ts": 1793236655.282097,
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61yV06xWv5L._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1793257968.500875,
+      "is_new": true
+    },
+    {
+      "asin": "B0G2SZ3Z48",
+      "title": "Soundbar TCL com Subwoofer sem fio Bluetooth 7.1.4 Canais 860W RMS HDMI ARC Q85 Pro",
+      "link": "https://www.amazon.com.br/Caixa-Soundbar-TCL-Canais-Bivolt/dp/B0G2SZ3Z48",
+      "current_price": 3649.95,
+      "original_price": 3999.0,
+      "discount": 8.7,
+      "difference": 349.05,
+      "criteria": [
+        "R$ 349.05 desc."
+      ],
+      "badge": "8% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41aVotK+GKL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1793257968.500875,
       "is_new": true
     },
     {
@@ -28662,27 +28707,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1789768639.994649,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSY6G3QB",
-      "title": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0DSY6G3QB",
-      "current_price": 4221.0,
-      "original_price": 7999.0,
-      "discount": 47.2,
-      "difference": 3778.0,
-      "criteria": [
-        "47.2% OFF",
-        "R$ 3778.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/617jYhiUgCL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1787352315.632751,
       "is_new": false
     },
     {
@@ -28722,39 +28748,21 @@
       "is_new": false
     },
     {
-      "asin": "B0CP6CJ8JG",
-      "title": "Apple iPhone 15 (256 GB) — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
-      "current_price": 4887.78,
+      "asin": "B0DJFTCKNN",
+      "title": "Apple iPhone 16 (128 GB) – Branco",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+      "current_price": 5063.99,
       "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
+      "discount": 25.5,
+      "difference": 1735.01,
       "criteria": [
-        "R$ 1911.22 desc."
+        "R$ 1735.01 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1784925723.942405,
-      "is_new": false
-    },
-    {
-      "asin": "B0FV3QPDDD",
-      "title": "Lavadora Samsung Bespoke AI Laundry WF90F 20kg Inox",
-      "link": "https://www.amazon.com.br/Lavadora-Samsung-Bespoke-Laundry-WF90F/dp/B0FV3QPDDD",
-      "current_price": 10999.0,
-      "original_price": 12758.43,
-      "discount": 13.8,
-      "difference": 1759.43,
-      "criteria": [
-        "R$ 1759.43 desc."
-      ],
-      "badge": "13% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41KyuokqWLL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER]",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1792259884.468399,
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1785277699.627439,
       "is_new": false
     },
     {
@@ -28776,21 +28784,21 @@
       "is_new": false
     },
     {
-      "asin": "B0FL4N5RG6",
-      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
-      "current_price": 4349.95,
-      "original_price": 5699.0,
-      "discount": 23.7,
-      "difference": 1349.05,
+      "asin": "B0HBYBFFFM",
+      "title": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBFFFM",
+      "current_price": 4859.0,
+      "original_price": 6299.0,
+      "discount": 22.9,
+      "difference": 1440.0,
       "criteria": [
-        "R$ 1349.05 desc."
+        "R$ 1440.0 desc."
       ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bREGVqLPL._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1790974927.152782,
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1791005569.072688,
       "is_new": false
     },
     {
@@ -28843,7 +28851,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1789069591.933998,
       "is_new": false
     },
@@ -28897,8 +28905,26 @@
       "badge": "24% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51KPNZgowTL._AC_UL210_SR210,210_.jpg",
       "category": "[SMALL_HOME_APPLIANCES]",
-      "last_seen": 1793224130.234337,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1792841585.611532,
+      "is_new": false
+    },
+    {
+      "asin": "B0FL7GXSCV",
+      "title": "eufy C28 Robô Aspirador e Passa Pano, Rolo Esfregão Autolimpante em Tempo Real, 30 cm Cabelo 0 Enrolados, Estação de Lava e Seca com Alta Temperatura, Evita Obstáculos com IA e LiDAR, 15000 Pa, 127V",
+      "link": "https://www.amazon.com.br/eufy-omniRob%C3%B4-Aspirador-Esfreg%C3%A3o-HydroJet/dp/B0FL7GXSCV",
+      "current_price": 5385.0,
+      "original_price": 6299.0,
+      "discount": 14.5,
+      "difference": 914.0,
+      "criteria": [
+        "R$ 914.0 desc."
+      ],
+      "badge": "14% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ifqvHPRCL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1790259419.974763,
       "is_new": false
     },
     {
@@ -28920,6 +28946,43 @@
       "is_new": false
     },
     {
+      "asin": "B0GYQ2PLW3",
+      "title": "Smart TV TCL 55 Polegadas QD-Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 55A400M",
+      "link": "https://www.amazon.com.br/TCL-Polegadas-QD-Mini-Bluetooth-55A400M/dp/B0GYQ2PLW3",
+      "current_price": 3499.95,
+      "original_price": 4299.0,
+      "discount": 18.6,
+      "difference": 799.05,
+      "criteria": [
+        "R$ 799.05 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81YQ+AnOI9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1787282927.326266,
+      "is_new": false
+    },
+    {
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 419.0,
+      "original_price": 1199.9,
+      "discount": 65.1,
+      "difference": 780.9,
+      "criteria": [
+        "65.1% OFF",
+        "R$ 780.9 desc."
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1790156779.821624,
+      "is_new": false
+    },
+    {
       "asin": "B0H3QCCJ8M",
       "title": "Smart TV TCL 85 Polegadas QLED 4K P8L WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85P8L",
       "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85P8L/dp/B0H3QCCJ8M",
@@ -28935,24 +28998,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793236655.282097,
       "discovery_ts": 1789509210.017806,
-      "is_new": false
-    },
-    {
-      "asin": "B0HBYBB54N",
-      "title": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
-      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBB54N",
-      "current_price": 3759.0,
-      "original_price": 4499.0,
-      "discount": 16.4,
-      "difference": 740.0,
-      "criteria": [
-        "R$ 740.0 desc."
-      ],
-      "badge": "16% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1789219145.198038,
       "is_new": false
     },
     {
@@ -28974,21 +29019,39 @@
       "is_new": false
     },
     {
-      "asin": "B0GYQ3L2FT",
-      "title": "Smart TV TCL 65 Polegadas QD-Mini LED 4K A400M WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 65A400M",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-QD-Mini-Bluetooth-65A400M/dp/B0GYQ3L2FT",
-      "current_price": 4299.95,
-      "original_price": 4799.0,
-      "discount": 10.4,
-      "difference": 499.05,
+      "asin": "B0CP6CR795",
+      "title": "Apple iPhone 15 (128 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
+      "current_price": 4199.0,
+      "original_price": 4776.67,
+      "discount": 12.1,
+      "difference": 577.67,
       "criteria": [
-        "R$ 499.05 desc."
+        "R$ 577.67 desc."
       ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81rZkBQ31wL._AC_UL210_SR210,210_.jpg",
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1787230512.713835,
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1790959316.049343,
+      "is_new": false
+    },
+    {
+      "asin": "B0DF8Q9WX4",
+      "title": "Cooktop de Indução 4 Bocas Preto com Zona Flexível Dako Diplomata 220V",
+      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Flex%C3%ADvel-Dako-Diplomata/dp/B0DF8Q9WX4",
+      "current_price": 1257.89,
+      "original_price": 1699.0,
+      "discount": 26.0,
+      "difference": 441.11,
+      "criteria": [
+        "R$ 441.11 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cQS1VyuZL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKTOP]",
+      "last_seen": 1793236655.282097,
+      "discovery_ts": 1793236655.282097,
       "is_new": false
     },
     {
@@ -29023,7 +29086,7 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
       "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1789724536.471138,
       "is_new": false
     },
@@ -29059,26 +29122,26 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61qtEBsh2KL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1793208377.90917,
       "is_new": false
     },
     {
-      "asin": "B0F5X7CBMX",
-      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X7CBMX",
-      "current_price": 2698.0,
-      "original_price": 2999.99,
-      "discount": 10.1,
-      "difference": 301.99,
+      "asin": "B0FS2CVM1T",
+      "title": "Notebook ASUS Vivobook 15, Intel Core i5, 8 GB, 512 GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - X1504VA-NJ1741",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0FS2CVM1T",
+      "current_price": 3399.0,
+      "original_price": 3799.0,
+      "discount": 10.5,
+      "difference": 400.0,
       "criteria": [
-        "R$ 301.99 desc."
+        "R$ 400.0 desc."
       ],
       "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ovxIPny7L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
-      "discovery_ts": 1786382621.995871,
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1786491945.120891,
       "is_new": false
     },
     {
@@ -29095,7 +29158,7 @@
       "badge": "7% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71yFmZInYqL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793224130.234337,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1793079680.843651,
       "is_new": false
     },
@@ -29113,8 +29176,26 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1786559638.816864,
+      "is_new": false
+    },
+    {
+      "asin": "B0HBCZS5RS",
+      "title": "Câmera Inteligente 3MP IM4 Dual Full Color Intelbras",
+      "link": "https://www.amazon.com.br/C%C3%A2mera-Inteligente-3MP-IM4-Intelbras/dp/B0HBCZS5RS",
+      "current_price": 346.39,
+      "original_price": 599.0,
+      "discount": 42.2,
+      "difference": 252.61,
+      "criteria": [
+        "42.2% OFF"
+      ],
+      "badge": "42% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-8G9WtheL._AC_UL210_SR210,210_.jpg",
+      "category": "[SECURITY_CAMERA]",
+      "last_seen": 1793257968.500875,
+      "discovery_ts": 1793118574.288276,
       "is_new": false
     },
     {
@@ -29131,7 +29212,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/414+kOLlS5L._AC_UL210_SR210,210_.jpg",
       "category": "[HEADPHONES]",
-      "last_seen": 1793236655.282097,
+      "last_seen": 1793257968.500875,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     }
