@@ -1,5 +1,5 @@
 {
-  "last_check": "30/10/2026 16:11:40",
+  "last_check": "30/10/2026 20:50:11",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -25937,6 +25937,10 @@
         {
           "price": 3029.0,
           "date": "2026-09-28T01:35:15.564704"
+        },
+        {
+          "price": 2944.05,
+          "date": "2026-10-30T20:50:11.358899"
         }
       ]
     },
@@ -28818,44 +28822,81 @@
           "date": "2026-10-30T16:11:37.019767"
         }
       ]
+    },
+    "B0HGS88G4X": {
+      "discovery_date": "2026-10-30T20:50:11.358899",
+      "price_history": [
+        {
+          "price": 8799.0,
+          "date": "2026-10-30T20:50:11.358899"
+        }
+      ]
+    },
+    "B0CQ2XRTNQ": {
+      "discovery_date": "2026-10-30T20:50:11.358899",
+      "price_history": [
+        {
+          "price": 2939.9,
+          "date": "2026-10-30T20:50:11.358899"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0DD25JZ69",
-      "title": "Tech T-shirt Gola V Masculino Insider",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0DD25JZ69",
-      "current_price": 71.9,
-      "original_price": 169.0,
-      "discount": 57.5,
-      "difference": 97.1,
+      "asin": "B0HGS88G4X",
+      "title": "Notebook Gamer Acer Nitro V16 ANV16-I31-541M Intel® Core™ 5 210H 16GB RAM 512GB SSD RTX5060 Windows 11 Home 16\"",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV16-I31-541M-RTX5060-Windows/dp/B0HGS88G4X",
+      "current_price": 8799.0,
+      "original_price": 10999.0,
+      "discount": 20.0,
+      "difference": 2200.0,
       "criteria": [
-        "57.5% OFF"
+        "R$ 2200.0 desc."
       ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51BFCRvwXVL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793376697.019773,
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0zB2pkrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1793393411.358907,
       "is_new": true
     },
     {
-      "asin": "B0BHMGY76M",
-      "title": "Daily T-shirt Masculino",
-      "link": "https://www.amazon.com.br/Daily-T-shirt-Masculino-Preto-G/dp/B0BHMGY76M",
-      "current_price": 55.72,
-      "original_price": 139.0,
-      "discount": 59.9,
-      "difference": 83.28,
+      "asin": "B0CQ2XRTNQ",
+      "title": "Notebook ASUS VivoBook Go, 15 AMD Ryzen 5 7520U, 8 GB, 256 GB SSD, W11 Home Tela 15,6\" FHD, Mixed Black - E1504FA-NJ825W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-7520U/dp/B0CQ2XRTNQ",
+      "current_price": 2939.9,
+      "original_price": 4099.0,
+      "discount": 28.3,
+      "difference": 1159.1,
       "criteria": [
-        "59.9% OFF"
+        "R$ 1159.1 desc."
       ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41GniKsLDSL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793376697.019773,
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VxwPPv38L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1793393411.358907,
       "is_new": true
+    },
+    {
+      "asin": "B0DSXZ4FZT",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1789768639.994649,
+      "is_new": false
     },
     {
       "asin": "B0B8Z8LHKX",
@@ -28876,6 +28917,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CP6BZHK3",
+      "title": "Apple iPhone 15 (256 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6BZHK3",
+      "current_price": 4887.78,
+      "original_price": 6799.0,
+      "discount": 28.1,
+      "difference": 1911.22,
+      "criteria": [
+        "R$ 1911.22 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1792691367.956879,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFRYWK8",
       "title": "Apple iPhone 16 (128 GB) – Ultramarino",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Ultramarino/dp/B0DJFRYWK8",
@@ -28891,6 +28950,42 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793376697.019773,
       "discovery_ts": 1786697263.070354,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFTJ6LX",
+      "title": "Apple iPhone 16 (128 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
+      "current_price": 5109.99,
+      "original_price": 6799.0,
+      "discount": 24.8,
+      "difference": 1689.01,
+      "criteria": [
+        "R$ 1689.01 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1786332587.274524,
+      "is_new": false
+    },
+    {
+      "asin": "B0FL4N5RG6",
+      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
+      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
+      "current_price": 4349.95,
+      "original_price": 5699.0,
+      "discount": 23.7,
+      "difference": 1349.05,
+      "criteria": [
+        "R$ 1349.05 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bREGVqLPL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1790974927.152782,
       "is_new": false
     },
     {
@@ -28925,8 +29020,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0FH5R4M75",
+      "title": "Lava-Louças Electrolux 10 Serviços Inox com Programa Lava e Seca 50min 220v LS10E",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS10E/dp/B0FH5R4M75",
+      "current_price": 2944.05,
+      "original_price": 3999.0,
+      "discount": 26.4,
+      "difference": 1054.95,
+      "criteria": [
+        "R$ 1054.95 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41QS92VqjuL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1790207975.087487,
       "is_new": false
     },
     {
@@ -28961,7 +29074,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1792040286.253886,
       "is_new": false
     },
@@ -28984,6 +29097,61 @@
       "is_new": false
     },
     {
+      "asin": "B0DBN6SGRN",
+      "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
+      "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
+      "current_price": 2679.0,
+      "original_price": 3472.63,
+      "discount": 22.9,
+      "difference": 793.63,
+      "criteria": [
+        "R$ 793.63 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1785520954.30177,
+      "is_new": false
+    },
+    {
+      "asin": "B08R91NTHY",
+      "title": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+      "link": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+      "current_price": 419.0,
+      "original_price": 1199.9,
+      "discount": 65.1,
+      "difference": 780.9,
+      "criteria": [
+        "65.1% OFF",
+        "R$ 780.9 desc."
+      ],
+      "badge": "65% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
+      "category": "[AIR_FRYER]",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1790156779.821624,
+      "is_new": false
+    },
+    {
+      "asin": "B0CW3RW688",
+      "title": "Ar-Condicionado Split Inverter II 24000 BTUs Elgin Eco com Wi-Fi Integrado High Wall Quente e Frio HJQI24C2WC/HJQE24C2CC 220V",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Elgin-Integrado-Hjqi24c2wb-hjqe24c2cb/dp/B0CW3RW688",
+      "current_price": 3500.0,
+      "original_price": 4277.25,
+      "discount": 18.2,
+      "difference": 777.25,
+      "criteria": [
+        "R$ 777.25 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sQEss71rL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1793134407.667205,
+      "is_new": false
+    },
+    {
       "asin": "B0FTTJMGB4",
       "title": "Geladeira Electrolux 1p 400l Ib6s Inox Bivolt",
       "link": "https://www.amazon.com.br/Geladeira-Electrolux-400l-Ib6s-Bivolt/dp/B0FTTJMGB4",
@@ -28997,7 +29165,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1793283879.111739,
       "is_new": false
     },
@@ -29016,7 +29184,7 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     },
@@ -29052,8 +29220,26 @@
       "badge": "12% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
       "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1789724536.471138,
+      "is_new": false
+    },
+    {
+      "asin": "B0F5X7CBMX",
+      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8600F 2025",
+      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X7CBMX",
+      "current_price": 2698.0,
+      "original_price": 2999.99,
+      "discount": 10.1,
+      "difference": 301.99,
+      "criteria": [
+        "R$ 301.99 desc."
+      ],
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1786382621.995871,
       "is_new": false
     },
     {
@@ -29088,7 +29274,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -29106,7 +29292,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793393411.358907,
       "discovery_ts": 1793328950.708677,
       "is_new": false
     },
@@ -29126,6 +29312,42 @@
       "category": "❄️ Eletrodomésticos & Casa",
       "last_seen": 1793376697.019773,
       "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
+      "asin": "B0DD25JZ69",
+      "title": "Tech T-shirt Gola V Masculino Insider",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0DD25JZ69",
+      "current_price": 71.9,
+      "original_price": 169.0,
+      "discount": 57.5,
+      "difference": 97.1,
+      "criteria": [
+        "57.5% OFF"
+      ],
+      "badge": "57% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51BFCRvwXVL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1793376697.019773,
+      "discovery_ts": 1793376697.019773,
+      "is_new": false
+    },
+    {
+      "asin": "B0BHMGY76M",
+      "title": "Daily T-shirt Masculino",
+      "link": "https://www.amazon.com.br/Daily-T-shirt-Masculino-Preto-G/dp/B0BHMGY76M",
+      "current_price": 55.72,
+      "original_price": 139.0,
+      "discount": 59.9,
+      "difference": 83.28,
+      "criteria": [
+        "59.9% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41GniKsLDSL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1793376697.019767,
       "is_new": false
     }
   ]
