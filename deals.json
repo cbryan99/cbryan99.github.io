@@ -1,5 +1,5 @@
 {
-  "last_check": "31/10/2026 00:10:47",
+  "last_check": "31/10/2026 05:51:00",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -28857,25 +28857,116 @@
           "date": "2026-10-31T00:10:33.484838"
         }
       ]
+    },
+    "B0GX2Q4SBN": {
+      "discovery_date": "2026-10-31T05:50:59.616038",
+      "price_history": [
+        {
+          "price": 3149.9,
+          "date": "2026-10-31T05:50:59.616038"
+        }
+      ]
+    },
+    "B08DMTBXJ3": {
+      "discovery_date": "2026-10-31T05:50:59.616038",
+      "price_history": [
+        {
+          "price": 2634.12,
+          "date": "2026-10-31T05:50:59.616038"
+        }
+      ]
+    },
+    "B099ZJQXMF": {
+      "discovery_date": "2026-10-31T05:50:59.616038",
+      "price_history": [
+        {
+          "price": 455.0,
+          "date": "2026-10-31T05:50:59.616038"
+        }
+      ]
+    },
+    "B07D5G1KTB": {
+      "discovery_date": "2026-10-31T05:50:59.616038",
+      "price_history": [
+        {
+          "price": 2799.9,
+          "date": "2026-10-31T05:50:59.616038"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GNC5YF67",
-      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 12.000 Btus Quente e Frio 220v R-32",
-      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-12-000-Quente/dp/B0GNC5YF67",
-      "current_price": 2545.2,
-      "original_price": 3291.83,
-      "discount": 22.7,
-      "difference": 746.63,
+      "asin": "B08DMTBXJ3",
+      "title": "Lava e Seca Hisense 3S 12/8 kg Inverter Wi-Fi e Função Steam Branca 220V - WD3S1243BW2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Branca/dp/B08DMTBXJ3",
+      "current_price": 2634.12,
+      "original_price": 3499.0,
+      "discount": 24.7,
+      "difference": 864.88,
       "criteria": [
-        "R$ 746.63 desc."
+        "R$ 864.88 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51B8uCznCOL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793405433.484844,
-      "discovery_ts": 1793405433.484844,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tvFi0aBsL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793425859.616047,
+      "is_new": true
+    },
+    {
+      "asin": "B07D5G1KTB",
+      "title": "Cooktop Inox Square 4gx He Safe 60 Tramontina Inox",
+      "link": "https://www.amazon.com.br/Cooktop-Square-Safestop-94701-Tramontina/dp/B07D5G1KTB",
+      "current_price": 2799.9,
+      "original_price": 3399.9,
+      "discount": 17.6,
+      "difference": 600.0,
+      "criteria": [
+        "R$ 600.0 desc."
+      ],
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51SfqDNnLoL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKTOP]",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793425859.616047,
+      "is_new": true
+    },
+    {
+      "asin": "B0GX2Q4SBN",
+      "title": "Tablet Lenovo Idea Tab Pro, Processador Snapdragon 8s Gen 4, 8GB RAM, 256GB, Tela 13\" 3.5K 144Hz Wi‑Fi, Android 16, Caneta + Folio",
+      "link": "https://www.amazon.com.br/Tablet-Lenovo-Processador-Snapdragon-Android/dp/B0GX2Q4SBN",
+      "current_price": 3149.9,
+      "original_price": 3599.0,
+      "discount": 12.5,
+      "difference": 449.1,
+      "criteria": [
+        "R$ 449.1 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61lEptVpKFL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793425859.616047,
+      "is_new": true
+    },
+    {
+      "asin": "B099ZJQXMF",
+      "title": "Cafeteira Espresso Nespresso Essenza Mini Preta 127V",
+      "link": "https://www.amazon.com.br/Nespresso-Cafeteira-Espresso-compacta-autom%C3%A1tica/dp/B099ZJQXMF",
+      "current_price": 455.0,
+      "original_price": 829.0,
+      "discount": 45.1,
+      "difference": 374.0,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 374.0 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51QP72LhToL._AC_UL210_SR210,210_.jpg",
+      "category": "[COFFEE_MAKER]",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793425859.616047,
       "is_new": true
     },
     {
@@ -28894,6 +28985,25 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793405433.484844,
       "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
+      "asin": "B0DSY663DK",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1787273955.560495,
       "is_new": false
     },
     {
@@ -28988,6 +29098,24 @@
       "is_new": false
     },
     {
+      "asin": "B0CP6CVJSG",
+      "title": "Apple iPhone 15 (128 GB) — Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CVJSG",
+      "current_price": 4199.0,
+      "original_price": 5999.0,
+      "discount": 30.0,
+      "difference": 1800.0,
+      "criteria": [
+        "R$ 1800.0 desc."
+      ],
+      "badge": "30% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
+    {
       "asin": "B0DJFSTQHX",
       "title": "Apple iPhone 16 (128 GB) – Verde-acinzentado",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Verde-acinzentado/dp/B0DJFSTQHX",
@@ -29003,6 +29131,24 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793405433.484844,
       "discovery_ts": 1786721769.386069,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFRYWK8",
+      "title": "Apple iPhone 16 (128 GB) – Ultramarino",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Ultramarino/dp/B0DJFRYWK8",
+      "current_price": 5063.99,
+      "original_price": 6799.0,
+      "discount": 25.5,
+      "difference": 1735.01,
+      "criteria": [
+        "R$ 1735.01 desc."
+      ],
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1786697263.070354,
       "is_new": false
     },
     {
@@ -29025,24 +29171,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFTJ6LX",
-      "title": "Apple iPhone 16 (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
-      "current_price": 5109.99,
-      "original_price": 6799.0,
-      "discount": 24.8,
-      "difference": 1689.01,
-      "criteria": [
-        "R$ 1689.01 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -29058,24 +29186,6 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793405433.484844,
       "discovery_ts": 1784752600.373367,
-      "is_new": false
-    },
-    {
-      "asin": "B0FL4N5RG6",
-      "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
-      "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
-      "current_price": 4349.95,
-      "original_price": 5699.0,
-      "discount": 23.7,
-      "difference": 1349.05,
-      "criteria": [
-        "R$ 1349.05 desc."
-      ],
-      "badge": "23% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81bREGVqLPL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1790974927.152782,
       "is_new": false
     },
     {
@@ -29097,42 +29207,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CQ2XRTNQ",
-      "title": "Notebook ASUS VivoBook Go, 15 AMD Ryzen 5 7520U, 8 GB, 256 GB SSD, W11 Home Tela 15,6\" FHD, Mixed Black - E1504FA-NJ825W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-7520U/dp/B0CQ2XRTNQ",
-      "current_price": 2939.9,
-      "original_price": 4099.0,
-      "discount": 28.3,
-      "difference": 1159.1,
-      "criteria": [
-        "R$ 1159.1 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51VxwPPv38L._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1793393411.358907,
-      "is_new": false
-    },
-    {
-      "asin": "B0FH5R4M75",
-      "title": "Lava-Louças Electrolux 10 Serviços Inox com Programa Lava e Seca 50min 220v LS10E",
-      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS10E/dp/B0FH5R4M75",
-      "current_price": 2944.05,
-      "original_price": 3999.0,
-      "discount": 26.4,
-      "difference": 1054.95,
-      "criteria": [
-        "R$ 1054.95 desc."
-      ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41QS92VqjuL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1790207975.087487,
-      "is_new": false
-    },
-    {
       "asin": "B0FPBP6G49",
       "title": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
       "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8929-78-Freesync/dp/B0FPBP6G49",
@@ -29151,21 +29225,21 @@
       "is_new": false
     },
     {
-      "asin": "B0GQMVCQQ5",
-      "title": "Notebook Acer Aspire Go 15 Core i5 8GB 256GB SSD Linux AG15-71P-54PD | Tela de 15.6\" Full HD, processador Intel Core i5 13ª Geração, memória de 8GB DDR5, 256GB SSD NVMe, sistema Linux",
-      "link": "https://www.amazon.com.br/Acer-Aspire-Go-15-AG15-71P-54PD/dp/B0GQMVCQQ5",
-      "current_price": 3499.0,
-      "original_price": 4499.0,
-      "discount": 22.2,
-      "difference": 1000.0,
+      "asin": "B0DFQFZN5V",
+      "title": "Soundbar LG S90TY, Dolby Atmos, 5.1.3 Canais, 570W RMS | DTS:X, AI Room Calibration Pro, AI Sound Pro, WOW Orchestra",
+      "link": "https://www.amazon.com.br/Soundbar-LG-S90TY-Bluetooth-Calibration/dp/B0DFQFZN5V",
+      "current_price": 2299.0,
+      "original_price": 3199.2,
+      "discount": 28.1,
+      "difference": 900.2,
       "criteria": [
-        "R$ 1000.0 desc."
+        "R$ 900.2 desc."
       ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/712nW-3hYBL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1792040286.253886,
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31AkcRm364L._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1790974927.152782,
       "is_new": false
     },
     {
@@ -29206,21 +29280,21 @@
       "is_new": false
     },
     {
-      "asin": "B0CW3RW688",
-      "title": "Ar-Condicionado Split Inverter II 24000 BTUs Elgin Eco com Wi-Fi Integrado High Wall Quente e Frio HJQI24C2WC/HJQE24C2CC 220V",
-      "link": "https://www.amazon.com.br/Ar-condicionado-Elgin-Integrado-Hjqi24c2wb-hjqe24c2cb/dp/B0CW3RW688",
-      "current_price": 3500.0,
-      "original_price": 4277.25,
-      "discount": 18.2,
-      "difference": 777.25,
+      "asin": "B0GNC5YF67",
+      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 12.000 Btus Quente e Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-12-000-Quente/dp/B0GNC5YF67",
+      "current_price": 2545.2,
+      "original_price": 3291.83,
+      "discount": 22.7,
+      "difference": 746.63,
       "criteria": [
-        "R$ 777.25 desc."
+        "R$ 746.63 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51sQEss71rL._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51B8uCznCOL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1793134407.667205,
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1793405433.484844,
       "is_new": false
     },
     {
@@ -29237,8 +29311,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793405433.484844,
+      "last_seen": 1793425859.616047,
       "discovery_ts": 1793283879.111739,
+      "is_new": false
+    },
+    {
+      "asin": "B08GF7XGTB",
+      "title": "Cervejeira Metalfrio Beer Maxx 336 Litros VN28TP Inox - 127V",
+      "link": "https://www.amazon.com.br/Cervejeira-Vertical-Metalfrio-Viewer-VN28TP/dp/B08GF7XGTB",
+      "current_price": 5191.5,
+      "original_price": 5895.8,
+      "discount": 11.9,
+      "difference": 704.3,
+      "criteria": [
+        "R$ 704.3 desc."
+      ],
+      "badge": "11% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516JzI1C5JL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793134407.667205,
       "is_new": false
     },
     {
@@ -29274,26 +29366,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793405433.484844,
+      "last_seen": 1793425859.616047,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
-      "asin": "B0CN7B2LNK",
-      "title": "Geladeira LG GN-B392PX 2 Portas 395 Litros Preta Inox | Frost Free, Top Freezer Inverter -127 Volts",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN7B2LNK",
-      "current_price": 2787.99,
-      "original_price": 3194.85,
-      "discount": 12.7,
-      "difference": 406.86,
+      "asin": "B0DTMCLTKV",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
+      "current_price": 6332.0,
+      "original_price": 6735.79,
+      "discount": 6.0,
+      "difference": 403.79,
       "criteria": [
-        "R$ 406.86 desc."
+        "R$ 403.79 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1789724536.471138,
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1791951144.43256,
       "is_new": false
     },
     {
@@ -29328,7 +29420,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793405433.484844,
+      "last_seen": 1793425859.616047,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -29346,7 +29438,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793425859.616047,
       "discovery_ts": 1793328950.708677,
       "is_new": false
     },
@@ -29364,26 +29456,44 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793405433.484844,
+      "last_seen": 1793425859.616047,
       "discovery_ts": 1787218050.770928,
       "is_new": false
     },
     {
-      "asin": "B0BHMGY76M",
-      "title": "Daily T-shirt Masculino",
-      "link": "https://www.amazon.com.br/Daily-T-shirt-Masculino-Preto-G/dp/B0BHMGY76M",
-      "current_price": 55.72,
-      "original_price": 139.0,
-      "discount": 59.9,
-      "difference": 83.28,
+      "asin": "B0BHJK918B",
+      "title": "Tech T-shirt Gola V Masculino Insider",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BHJK918B",
+      "current_price": 84.91,
+      "original_price": 165.0,
+      "discount": 48.5,
+      "difference": 80.09,
       "criteria": [
-        "59.9% OFF"
+        "48.5% OFF"
       ],
-      "badge": "59% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41GniKsLDSL._AC_UL210_SR210,210_.jpg",
+      "badge": "48% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JgLC3ny+L._AC_UL210_SR210,210_.jpg",
       "category": "[SHIRT]",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1793376697.019767,
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1793352714.470305,
+      "is_new": false
+    },
+    {
+      "asin": "B0G3YGYW4Z",
+      "title": "Sérum Leave-in Cabelos Finos Elseve L'Oréal Paris Colágeno Encorpador 100ml | Injeção de massa, 7% de peptídeos, alta concentração de arginina, +61% de volume saudável, ação por 72h",
+      "link": "https://www.amazon.com.br/Collagen-Capilar-Cabelos-Pept%C3%ADdeos-Col%C3%A1geno/dp/B0G3YGYW4Z",
+      "current_price": 32.5,
+      "original_price": 55.09,
+      "discount": 41.0,
+      "difference": 22.59,
+      "criteria": [
+        "41.0% OFF"
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71fF+WE75FL._AC_UL210_SR210,210_.jpg",
+      "category": "🧴 Beleza & Cuidado Pessoal",
+      "last_seen": 1793425859.616047,
+      "discovery_ts": 1792921505.891712,
       "is_new": false
     }
   ]
