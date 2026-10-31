@@ -1,5 +1,5 @@
 {
-  "last_check": "30/10/2026 20:50:11",
+  "last_check": "31/10/2026 00:10:47",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1451,6 +1451,10 @@
         {
           "price": 3499.0,
           "date": "2026-08-28T04:05:21.982239"
+        },
+        {
+          "price": 3521.9,
+          "date": "2026-10-31T00:10:33.484838"
         }
       ]
     },
@@ -24985,6 +24989,10 @@
         {
           "price": 1896.11,
           "date": "2026-10-15T18:27:58.026280"
+        },
+        {
+          "price": 2089.05,
+          "date": "2026-10-31T00:10:33.484838"
         }
       ]
     },
@@ -28840,44 +28848,53 @@
           "date": "2026-10-30T20:50:11.358899"
         }
       ]
+    },
+    "B0GNC5YF67": {
+      "discovery_date": "2026-10-31T00:10:33.484838",
+      "price_history": [
+        {
+          "price": 2545.2,
+          "date": "2026-10-31T00:10:33.484838"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0HGS88G4X",
-      "title": "Notebook Gamer Acer Nitro V16 ANV16-I31-541M Intel® Core™ 5 210H 16GB RAM 512GB SSD RTX5060 Windows 11 Home 16\"",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV16-I31-541M-RTX5060-Windows/dp/B0HGS88G4X",
-      "current_price": 8799.0,
-      "original_price": 10999.0,
-      "discount": 20.0,
-      "difference": 2200.0,
+      "asin": "B0GNC5YF67",
+      "title": "Ar Condicionado Split Hi Wall LG Dual Voice AI Inverter 12.000 Btus Quente e Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Condicionado-LG-Inverter-12-000-Quente/dp/B0GNC5YF67",
+      "current_price": 2545.2,
+      "original_price": 3291.83,
+      "discount": 22.7,
+      "difference": 746.63,
       "criteria": [
-        "R$ 2200.0 desc."
+        "R$ 746.63 desc."
       ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0zB2pkrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1793393411.358907,
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51B8uCznCOL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1793405433.484844,
       "is_new": true
     },
     {
-      "asin": "B0CQ2XRTNQ",
-      "title": "Notebook ASUS VivoBook Go, 15 AMD Ryzen 5 7520U, 8 GB, 256 GB SSD, W11 Home Tela 15,6\" FHD, Mixed Black - E1504FA-NJ825W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-7520U/dp/B0CQ2XRTNQ",
-      "current_price": 2939.9,
-      "original_price": 4099.0,
-      "discount": 28.3,
-      "difference": 1159.1,
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
       "criteria": [
-        "R$ 1159.1 desc."
+        "R$ 5800.0 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51VxwPPv38L._AC_UL210_SR210,210_.jpg",
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
-      "discovery_ts": 1793393411.358907,
-      "is_new": true
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1791854613.922112,
+      "is_new": false
     },
     {
       "asin": "B0DSXZ4FZT",
@@ -28894,8 +28911,44 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1789768639.994649,
+      "is_new": false
+    },
+    {
+      "asin": "B0C2JNW62Y",
+      "title": "Geladeira Samsung Side by Side RS60 628 Litros Inox Look 127V RS60T5200S9/AZ",
+      "link": "https://www.amazon.com.br/Geladeira-Samsung-Side-Litros-RS60T5200S9/dp/B0C2JNW62Y",
+      "current_price": 8279.0,
+      "original_price": 11999.0,
+      "discount": 31.0,
+      "difference": 3720.0,
+      "criteria": [
+        "R$ 3720.0 desc."
+      ],
+      "badge": "31% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qG7JUJ7JL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1786489133.209908,
+      "is_new": false
+    },
+    {
+      "asin": "B0HGS88G4X",
+      "title": "Notebook Gamer Acer Nitro V16 ANV16-I31-541M Intel® Core™ 5 210H 16GB RAM 512GB SSD RTX5060 Windows 11 Home 16\"",
+      "link": "https://www.amazon.com.br/Notebook-Acer-ANV16-I31-541M-RTX5060-Windows/dp/B0HGS88G4X",
+      "current_price": 8799.0,
+      "original_price": 10999.0,
+      "discount": 20.0,
+      "difference": 2200.0,
+      "criteria": [
+        "R$ 2200.0 desc."
+      ],
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0zB2pkrL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1793393411.358899,
       "is_new": false
     },
     {
@@ -28912,7 +28965,7 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61WSoXLl+gL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1784595805.500833,
       "is_new": false
     },
@@ -28930,26 +28983,45 @@
       "badge": "28% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1792691367.956879,
       "is_new": false
     },
     {
-      "asin": "B0DJFRYWK8",
-      "title": "Apple iPhone 16 (128 GB) – Ultramarino",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Ultramarino/dp/B0DJFRYWK8",
-      "current_price": 5063.99,
+      "asin": "B0DJFSTQHX",
+      "title": "Apple iPhone 16 (128 GB) – Verde-acinzentado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-Verde-acinzentado/dp/B0DJFSTQHX",
+      "current_price": 5063.98,
       "original_price": 6799.0,
       "discount": 25.5,
-      "difference": 1735.01,
+      "difference": 1735.02,
       "criteria": [
-        "R$ 1735.01 desc."
+        "R$ 1735.02 desc."
       ],
       "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1786697263.070354,
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1786721769.386069,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 2089.05,
+      "original_price": 3806.0,
+      "discount": 45.1,
+      "difference": 1716.95,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 1716.95 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1789412436.19625,
       "is_new": false
     },
     {
@@ -28971,6 +29043,24 @@
       "is_new": false
     },
     {
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": 3521.9,
+      "original_price": 4899.0,
+      "discount": 28.1,
+      "difference": 1377.1,
+      "criteria": [
+        "R$ 1377.1 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1784752600.373367,
+      "is_new": false
+    },
+    {
       "asin": "B0FL4N5RG6",
       "title": "Hisense Smart TV UHD 4K Hi-QLED 75\" Polegadas 75Q6QV com HDR10+, Dolby Atmos, Sports Mode, Game Mode Plus e Compatível com Alexa",
       "link": "https://www.amazon.com.br/Hisense-Polegadas-75Q6QV-Sports-Compat%C3%ADvel/dp/B0FL4N5RG6",
@@ -28989,24 +29079,6 @@
       "is_new": false
     },
     {
-      "asin": "B0HCPNDK21",
-      "title": "Geladeira Panasonic NR-BB65GV7BC Frost Free Inverter 467L Black Glass Bivolt",
-      "link": "https://www.amazon.com.br/Geladeira-Panasonic-NR-BB65GV7BC-Inverter-Bivolt/dp/B0HCPNDK21",
-      "current_price": 4996.0,
-      "original_price": 6199.0,
-      "discount": 19.4,
-      "difference": 1203.0,
-      "criteria": [
-        "R$ 1203.0 desc."
-      ],
-      "badge": "19% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31MGeDBQ3QL._AC_UL210_SR210,210_.jpg",
-      "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1789016418.844032,
-      "is_new": false
-    },
-    {
       "asin": "B0F4M66XWL",
       "title": "Notebook ASUS Vivobook 15, Intel Core i5, 16 GB, 512 GB SSD W11 Home, 15.6'' FHD, Quiet Blue -X1504VA-NJ1745W",
       "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-X1504VA-NJ1745W/dp/B0F4M66XWL",
@@ -29020,8 +29092,26 @@
       "badge": "21% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71XsKNBgSeL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1789069591.933998,
+      "is_new": false
+    },
+    {
+      "asin": "B0CQ2XRTNQ",
+      "title": "Notebook ASUS VivoBook Go, 15 AMD Ryzen 5 7520U, 8 GB, 256 GB SSD, W11 Home Tela 15,6\" FHD, Mixed Black - E1504FA-NJ825W",
+      "link": "https://www.amazon.com.br/Notebook-ASUS-VivoBook-RYZEN-7520U/dp/B0CQ2XRTNQ",
+      "current_price": 2939.9,
+      "original_price": 4099.0,
+      "discount": 28.3,
+      "difference": 1159.1,
+      "criteria": [
+        "R$ 1159.1 desc."
+      ],
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51VxwPPv38L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793393411.358907,
+      "discovery_ts": 1793393411.358907,
       "is_new": false
     },
     {
@@ -29043,21 +29133,21 @@
       "is_new": false
     },
     {
-      "asin": "B0F85P7QB8",
-      "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 16 GB, 512 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - M1502YA-NJ655W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Ryzen-Silver/dp/B0F85P7QB8",
-      "current_price": 4490.0,
-      "original_price": 5499.0,
-      "discount": 18.3,
-      "difference": 1009.0,
+      "asin": "B0FPBP6G49",
+      "title": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
+      "link": "https://www.amazon.com.br/PHILIPS-Ambilight-65PUG8929-78-Freesync/dp/B0FPBP6G49",
+      "current_price": 3898.98,
+      "original_price": 4899.0,
+      "discount": 20.4,
+      "difference": 1000.02,
       "criteria": [
-        "R$ 1009.0 desc."
+        "R$ 1000.02 desc."
       ],
-      "badge": "18% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71dlu8CRgdL._AC_UL210_SR210,210_.jpg",
+      "badge": "20% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F+cUtLJGL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793034057.262629,
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1785004672.586121,
       "is_new": false
     },
     {
@@ -29079,24 +29169,6 @@
       "is_new": false
     },
     {
-      "asin": "B0H85974N5",
-      "title": "Celular Galaxy A27 5G 128GB, câmera tripla de 50MP - Preto",
-      "link": "https://www.amazon.com.br/Celular-Galaxy-128GB-c%C3%A2mera-tripla/dp/B0H85974N5",
-      "current_price": 1476.14,
-      "original_price": 2299.0,
-      "discount": 35.8,
-      "difference": 822.86,
-      "criteria": [
-        "R$ 822.86 desc."
-      ],
-      "badge": "35% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51YHHhZKpJL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793166504.896238,
-      "is_new": false
-    },
-    {
       "asin": "B0DBN6SGRN",
       "title": "Samsung Lavadora Digital Inverter WW11T Branca 11kg 220V",
       "link": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-Branca/dp/B0DBN6SGRN",
@@ -29110,7 +29182,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51zR5gKW01L._AC_UL210_SR210,210_.jpg",
       "category": "[WASHER]",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1785520954.30177,
       "is_new": false
     },
@@ -29129,7 +29201,7 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1790156779.821624,
       "is_new": false
     },
@@ -29165,7 +29237,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1793283879.111739,
       "is_new": false
     },
@@ -29184,26 +29256,26 @@
       "badge": "54% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/919ZDa78WjL._AC_UL210_SR210,210_.jpg",
       "category": "[SPEAKERS]",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1792615592.203351,
       "is_new": false
     },
     {
-      "asin": "B0CP6CR795",
-      "title": "Apple iPhone 15 (128 GB) — Azul",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
-      "current_price": 4199.0,
-      "original_price": 4776.67,
-      "discount": 12.1,
-      "difference": 577.67,
+      "asin": "B0HBYYN84S",
+      "title": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+      "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYYN84S",
+      "current_price": 2499.0,
+      "original_price": 3049.0,
+      "discount": 18.0,
+      "difference": 550.0,
       "criteria": [
-        "R$ 577.67 desc."
+        "R$ 550.0 desc."
       ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1790959316.049343,
+      "last_seen": 1793405433.484844,
+      "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
@@ -29238,26 +29310,8 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1786382621.995871,
-      "is_new": false
-    },
-    {
-      "asin": "B0HF8X67WP",
-      "title": "Notebook ASUS Vivobook 15, Intel Core 5, 8 GB, 256 GB SSD, W11 Home, 15.6'' FHD, Cool Silver - X1504MA-BQ300W",
-      "link": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-Intel-Silver/dp/B0HF8X67WP",
-      "current_price": 3998.0,
-      "original_price": 4299.0,
-      "discount": 7.0,
-      "difference": 301.0,
-      "criteria": [
-        "R$ 301.0 desc."
-      ],
-      "badge": "7% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71yFmZInYqL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793079680.843651,
       "is_new": false
     },
     {
@@ -29274,7 +29328,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793393411.358907,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -29310,26 +29364,8 @@
       "badge": "Oferta Amazon",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793376697.019773,
+      "last_seen": 1793405433.484844,
       "discovery_ts": 1787218050.770928,
-      "is_new": false
-    },
-    {
-      "asin": "B0DD25JZ69",
-      "title": "Tech T-shirt Gola V Masculino Insider",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Carmenere/dp/B0DD25JZ69",
-      "current_price": 71.9,
-      "original_price": 169.0,
-      "discount": 57.5,
-      "difference": 97.1,
-      "criteria": [
-        "57.5% OFF"
-      ],
-      "badge": "57% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51BFCRvwXVL._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1793376697.019773,
-      "discovery_ts": 1793376697.019773,
       "is_new": false
     },
     {
