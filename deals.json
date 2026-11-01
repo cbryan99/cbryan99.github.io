@@ -1,5 +1,5 @@
 {
-  "last_check": "01/11/2026 16:12:09",
+  "last_check": "01/11/2026 20:31:59",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -28269,6 +28269,10 @@
         {
           "price": 3196.23,
           "date": "2026-10-24T11:33:05.611532"
+        },
+        {
+          "price": 3363.53,
+          "date": "2026-11-01T20:31:59.480857"
         }
       ]
     },
@@ -29021,44 +29025,81 @@
           "date": "2026-11-01T16:11:59.627449"
         }
       ]
+    },
+    "B08293MH76": {
+      "discovery_date": "2026-11-01T20:31:59.480857",
+      "price_history": [
+        {
+          "price": 5499.0,
+          "date": "2026-11-01T20:31:59.480857"
+        }
+      ]
+    },
+    "B0BHJKWWZ2": {
+      "discovery_date": "2026-11-01T20:31:59.480857",
+      "price_history": [
+        {
+          "price": 64.37,
+          "date": "2026-11-01T20:31:59.480857"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0BHJNL76T",
-      "title": "Tech T-shirt Gola V Masculino Insider",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BHJNL76T",
-      "current_price": 68.16,
-      "original_price": 165.0,
-      "discount": 58.7,
-      "difference": 96.84,
+      "asin": "B08293MH76",
+      "title": "Notebook Acer Aspire 16 Core Ultra 5 16GB 1TB SSD Win 11 A16-71M-51UQ | Tela de 16\" WUXGA IPS, processador Intel Core Ultra 5, memória de 16GB LPDDR5, 1TB SSD NVMe, sistema Windows 11 com IA",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-A16-71M-51UQ-Intel-Windows/dp/B08293MH76",
+      "current_price": 5499.0,
+      "original_price": 6066.1,
+      "discount": 9.3,
+      "difference": 567.1,
       "criteria": [
-        "58.7% OFF"
+        "R$ 567.1 desc."
       ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51hss67Tm8L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1793549519.627456,
-      "discovery_ts": 1793549519.627456,
+      "badge": "9% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71M8uYwVc9L._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793565119.480864,
       "is_new": true
     },
     {
-      "asin": "B0HB7MSL2K",
-      "title": "La Roche-Posay Effaclar Concentrado Gel de Limpeza Facial Profunda Antioleosidade 300g",
-      "link": "https://www.amazon.com.br/Roche-Posay-Effaclar-Concentrado-Profunda-Antioleosidade/dp/B0HB7MSL2K",
-      "current_price": 64.41,
-      "original_price": 121.9,
-      "discount": 47.2,
-      "difference": 57.49,
+      "asin": "B0BHJKWWZ2",
+      "title": "Tech T-shirt Gola V Masculino Insider",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-White/dp/B0BHJKWWZ2",
+      "current_price": 64.37,
+      "original_price": 165.0,
+      "discount": 61.0,
+      "difference": 100.63,
       "criteria": [
-        "47.2% OFF"
+        "61.0% OFF"
+      ],
+      "badge": "60% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513SIWDxlVL._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793565119.480864,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSY6L19S",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
       ],
       "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41E+81rtwuL._AC_UL210_SR210,210_.jpg",
-      "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1793549519.627456,
-      "discovery_ts": 1793549519.627456,
-      "is_new": true
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1792328639.895348,
+      "is_new": false
     },
     {
       "asin": "B0DSXZ4FZT",
@@ -29093,7 +29134,7 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1785269176.438674,
       "is_new": false
     },
@@ -29111,7 +29152,7 @@
       "badge": "16% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31DhYnOQs0L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1790820251.380572,
       "is_new": false
     },
@@ -29129,7 +29170,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -29170,6 +29211,42 @@
       "is_new": false
     },
     {
+      "asin": "B0C9KHZZ9M",
+      "title": "Refrigerador Philco PRF535ID Side By Side 434 Litros 220V",
+      "link": "https://www.amazon.com.br/Refrigerador-Geladeira-Side-Philco-PRF535ID/dp/B0C9KHZZ9M",
+      "current_price": 3798.9,
+      "original_price": 4640.0,
+      "discount": 18.1,
+      "difference": 841.1,
+      "criteria": [
+        "R$ 841.1 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xTfeRIWaL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793525022.338753,
+      "is_new": false
+    },
+    {
+      "asin": "B0CW3RW688",
+      "title": "Ar-Condicionado Split Inverter II 24000 BTUs Elgin Eco com Wi-Fi Integrado High Wall Quente e Frio HJQI24C2WC/HJQE24C2CC 220V",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Elgin-Integrado-Hjqi24c2wb-hjqe24c2cb/dp/B0CW3RW688",
+      "current_price": 3500.0,
+      "original_price": 4277.25,
+      "discount": 18.2,
+      "difference": 777.25,
+      "criteria": [
+        "R$ 777.25 desc."
+      ],
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sQEss71rL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793134407.667205,
+      "is_new": false
+    },
+    {
       "asin": "B0FTTJMGB4",
       "title": "Geladeira Electrolux 1p 400l Ib6s Inox Bivolt",
       "link": "https://www.amazon.com.br/Geladeira-Electrolux-400l-Ib6s-Bivolt/dp/B0FTTJMGB4",
@@ -29183,8 +29260,45 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1793283879.111739,
+      "is_new": false
+    },
+    {
+      "asin": "B0H32MYJTZ",
+      "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 220V - WD3S1443BB2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B0H32MYJTZ",
+      "current_price": 3363.53,
+      "original_price": 3999.0,
+      "discount": 15.9,
+      "difference": 635.47,
+      "criteria": [
+        "R$ 635.47 desc."
+      ],
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71A2P6J7HjL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1792841585.611532,
+      "is_new": false
+    },
+    {
+      "asin": "B0DG32SNZ4",
+      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
+      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
+      "current_price": 279.9,
+      "original_price": 829.9,
+      "discount": 66.3,
+      "difference": 550.0,
+      "criteria": [
+        "66.3% OFF",
+        "R$ 550.0 desc."
+      ],
+      "badge": "66% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
+      "category": "[SPEAKERS]",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1790417113.008513,
       "is_new": false
     },
     {
@@ -29242,6 +29356,24 @@
       "is_new": false
     },
     {
+      "asin": "B07FN1MZBH",
+      "title": "Controle sem fio PlayStation Dualshock 4™ - Preto",
+      "link": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH",
+      "current_price": 209.99,
+      "original_price": 349.9,
+      "discount": 40.0,
+      "difference": 139.91,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
+      "category": "🎮 Games & Lazer",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793328950.708677,
+      "is_new": false
+    },
+    {
       "asin": "B094X2N4HV",
       "title": "Electrolux Aspirador pó vertical 2 em 1 1450W HEPA STK15 Cinza Urban 127V | Com fio, portátil de mão, potente, cabo de 6m e capacidade de 1,6L para limpeza prática, maior alcance e facilidade diária.",
       "link": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
@@ -29255,8 +29387,26 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1787218050.770928,
+      "is_new": false
+    },
+    {
+      "asin": "B0BHJNL76T",
+      "title": "Tech T-shirt Gola V Masculino Insider",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BHJNL76T",
+      "current_price": 68.16,
+      "original_price": 165.0,
+      "discount": 58.7,
+      "difference": 96.84,
+      "criteria": [
+        "58.7% OFF"
+      ],
+      "badge": "58% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51hss67Tm8L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1793549519.627456,
+      "discovery_ts": 1793549519.627456,
       "is_new": false
     },
     {
@@ -29273,7 +29423,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LaMFJ0d4L._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1793525022.338753,
       "is_new": false
     },
@@ -29291,8 +29441,26 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71p4HyifokL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_SERUM]",
-      "last_seen": 1793549519.627456,
+      "last_seen": 1793565119.480864,
       "discovery_ts": 1793525022.338753,
+      "is_new": false
+    },
+    {
+      "asin": "B0HB7MSL2K",
+      "title": "La Roche-Posay Effaclar Concentrado Gel de Limpeza Facial Profunda Antioleosidade 300g",
+      "link": "https://www.amazon.com.br/Roche-Posay-Effaclar-Concentrado-Profunda-Antioleosidade/dp/B0HB7MSL2K",
+      "current_price": 64.41,
+      "original_price": 121.9,
+      "discount": 47.2,
+      "difference": 57.49,
+      "criteria": [
+        "47.2% OFF"
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41E+81rtwuL._AC_UL210_SR210,210_.jpg",
+      "category": "[SKIN_CLEANING_AGENT]",
+      "last_seen": 1793565119.480864,
+      "discovery_ts": 1793549519.627449,
       "is_new": false
     },
     {
