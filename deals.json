@@ -1,5 +1,5 @@
 {
-  "last_check": "31/10/2026 23:18:40",
+  "last_check": "01/11/2026 02:19:52",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -22970,6 +22970,10 @@
         {
           "price": 5599.0,
           "date": "2026-08-22T11:15:55.257924"
+        },
+        {
+          "price": 5455.42,
+          "date": "2026-11-01T02:19:30.638731"
         }
       ]
     },
@@ -28933,9 +28937,54 @@
           "date": "2026-10-31T20:03:32.768132"
         }
       ]
+    },
+    "B0CW976R89": {
+      "discovery_date": "2026-11-01T02:19:30.638731",
+      "price_history": [
+        {
+          "price": 200.84,
+          "date": "2026-11-01T02:19:30.638731"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0CW976R89",
+      "title": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Prata, DS1100V, Elsys",
+      "link": "https://www.amazon.com.br/Fechadura-Digital-Sobrepor-Abertura-Elsys/dp/B0CW976R89",
+      "current_price": 200.84,
+      "original_price": 499.0,
+      "discount": 59.8,
+      "difference": 298.16,
+      "criteria": [
+        "59.8% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519JmdzFSBL._AC_UL210_SR210,210_.jpg",
+      "category": "[LOCK]",
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1793499570.638739,
+      "is_new": true
+    },
+    {
+      "asin": "B0GR1YNLC8",
+      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+      "current_price": 19999.0,
+      "original_price": 25799.0,
+      "discount": 22.5,
+      "difference": 5800.0,
+      "criteria": [
+        "R$ 5800.0 desc."
+      ],
+      "badge": "22% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1791854613.922112,
+      "is_new": false
+    },
     {
       "asin": "B0GR1ZCS1N",
       "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Preto-espacial",
@@ -28955,24 +29004,6 @@
       "is_new": false
     },
     {
-      "asin": "B0GR1YNLC8",
-      "title": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
-      "link": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
-      "current_price": 19999.0,
-      "original_price": 25799.0,
-      "discount": 22.5,
-      "difference": 5800.0,
-      "criteria": [
-        "R$ 5800.0 desc."
-      ],
-      "badge": "22% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41BacKrHsxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1791854613.922112,
-      "is_new": false
-    },
-    {
       "asin": "B0DSXZZH49",
       "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
@@ -28987,45 +29018,26 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1786799221.459366,
       "is_new": false
     },
     {
-      "asin": "B0DSY6L19S",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
-      "current_price": 6332.0,
-      "original_price": 11999.0,
-      "discount": 47.2,
-      "difference": 5667.0,
+      "asin": "B0DJFRHR1G",
+      "title": "Apple iPhone 16 (256 GB) – Verde-acinzentado",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-Verde-acinzentado/dp/B0DJFRHR1G",
+      "current_price": 5455.42,
+      "original_price": 7599.0,
+      "discount": 28.2,
+      "difference": 2143.58,
       "criteria": [
-        "47.2% OFF",
-        "R$ 5667.0 desc."
+        "R$ 2143.58 desc."
       ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
+      "badge": "28% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kMdztVHLL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1792328639.895348,
-      "is_new": false
-    },
-    {
-      "asin": "B0HGS88G4X",
-      "title": "Notebook Gamer Acer Nitro V16 ANV16-I31-541M Intel® Core™ 5 210H 16GB RAM 512GB SSD RTX5060 Windows 11 Home 16\"",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV16-I31-541M-RTX5060-Windows/dp/B0HGS88G4X",
-      "current_price": 8799.0,
-      "original_price": 10999.0,
-      "discount": 20.0,
-      "difference": 2200.0,
-      "criteria": [
-        "R$ 2200.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0zB2pkrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1793393411.358899,
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1787397355.257924,
       "is_new": false
     },
     {
@@ -29047,24 +29059,6 @@
       "is_new": false
     },
     {
-      "asin": "B0CP6CJ8JG",
-      "title": "Apple iPhone 15 (256 GB) — Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-15-256-GB/dp/B0CP6CJ8JG",
-      "current_price": 4887.78,
-      "original_price": 6799.0,
-      "discount": 28.1,
-      "difference": 1911.22,
-      "criteria": [
-        "R$ 1911.22 desc."
-      ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/416MG51rNgL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1784925723.942405,
-      "is_new": false
-    },
-    {
       "asin": "B0DJFTCKNN",
       "title": "Apple iPhone 16 (128 GB) – Branco",
       "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
@@ -29083,24 +29077,6 @@
       "is_new": false
     },
     {
-      "asin": "B0DJFTJ6LX",
-      "title": "Apple iPhone 16 (128 GB) – Preto",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
-      "current_price": 5109.99,
-      "original_price": 6799.0,
-      "discount": 24.8,
-      "difference": 1689.01,
-      "criteria": [
-        "R$ 1689.01 desc."
-      ],
-      "badge": "24% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1786332587.274524,
-      "is_new": false
-    },
-    {
       "asin": "B0HBYBFFFM",
       "title": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
       "link": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBFFFM",
@@ -29114,7 +29090,7 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1791005569.072688,
       "is_new": false
     },
@@ -29137,25 +29113,6 @@
       "is_new": false
     },
     {
-      "asin": "B0FRBXPKZF",
-      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Branca com Programa Lava & Seca 50 min (LB08E) 127V",
-      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LB08E/dp/B0FRBXPKZF",
-      "current_price": 1799.0,
-      "original_price": 3099.0,
-      "discount": 41.9,
-      "difference": 1300.0,
-      "criteria": [
-        "41.9% OFF",
-        "R$ 1300.0 desc."
-      ],
-      "badge": "41% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41R+fa1V8LL._AC_UL210_SR210,210_.jpg",
-      "category": "[DISHWASHER]",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1793352714.470305,
-      "is_new": false
-    },
-    {
       "asin": "B0F6CX2QK4",
       "title": "Notebook HP 256R G9 Intel Core i5 13º Geração. Memoria RAM 16GB. SSD 256GB. Tela de 15,6\" LCD. Windows 11 - Home SL - Cinza Escuro. Bivolt. (BQ9L2AT#AK4)",
       "link": "https://www.amazon.com.br/Notebook-HP-Gera%C3%A7%C3%A3o-Memoria-Windows/dp/B0F6CX2QK4",
@@ -29169,7 +29126,7 @@
       "badge": "20% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71rq8UFkcvL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1789048034.956824,
       "is_new": false
     },
@@ -29187,8 +29144,26 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51B8uCznCOL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793477012.768141,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793405433.484844,
+      "is_new": false
+    },
+    {
+      "asin": "B08DMTBXJ3",
+      "title": "Lava e Seca Hisense 3S 12/8 kg Inverter Wi-Fi e Função Steam Branca 220V - WD3S1243BW2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Branca/dp/B08DMTBXJ3",
+      "current_price": 2634.12,
+      "original_price": 3499.0,
+      "discount": 24.7,
+      "difference": 864.88,
+      "criteria": [
+        "R$ 864.88 desc."
+      ],
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tvFi0aBsL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1793425859.616038,
       "is_new": false
     },
     {
@@ -29205,7 +29180,7 @@
       "badge": "35% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51YHHhZKpJL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793166504.896238,
       "is_new": false
     },
@@ -29242,26 +29217,8 @@
       "badge": "65% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/612gXC9waVL._AC_UL210_SR210,210_.jpg",
       "category": "[AIR_FRYER]",
-      "last_seen": 1793477012.768141,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1790156779.821624,
-      "is_new": false
-    },
-    {
-      "asin": "B0H3QCCJ8M",
-      "title": "Smart TV TCL 85 Polegadas QLED 4K P8L WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85P8L",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85P8L/dp/B0H3QCCJ8M",
-      "current_price": 7549.9,
-      "original_price": 8299.0,
-      "discount": 9.0,
-      "difference": 749.1,
-      "criteria": [
-        "R$ 749.1 desc."
-      ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1789509210.017806,
       "is_new": false
     },
     {
@@ -29278,26 +29235,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793283879.111739,
       "is_new": false
     },
     {
-      "asin": "B08DP41GZ8",
-      "title": "Lava e Seca Hisense 11Kg WD1I1141BT2 Compacta Fit e Função Steam Inverter Titânio",
-      "link": "https://www.amazon.com.br/Hisense-WD1I1141BT2-Compacta-Inverter-Tit%C3%A2nio/dp/B08DP41GZ8",
-      "current_price": 2689.9,
-      "original_price": 3399.0,
-      "discount": 20.9,
-      "difference": 709.1,
+      "asin": "B0CP6CR795",
+      "title": "Apple iPhone 15 (128 GB) — Azul",
+      "link": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
+      "current_price": 4199.0,
+      "original_price": 4776.67,
+      "discount": 12.1,
+      "difference": 577.67,
       "criteria": [
-        "R$ 709.1 desc."
+        "R$ 577.67 desc."
       ],
-      "badge": "Oferta Amazon",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41ZU0uw8DSL._AC_UL210_SR210,210_.jpg",
-      "category": "[WASHER_DRYER_COMBINATION]",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1793477012.768141,
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1790959316.049343,
       "is_new": false
     },
     {
@@ -29332,26 +29289,26 @@
       "badge": "18% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51Sg1BAA14L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1792526468.589559,
       "is_new": false
     },
     {
-      "asin": "B0D9KJHRXN",
-      "title": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-      "link": "https://www.amazon.com.br/Soundbar-LG-S40T-Bluetooth-Interface/dp/B0D9KJHRXN",
-      "current_price": 939.0,
-      "original_price": 1399.0,
-      "discount": 32.9,
-      "difference": 460.0,
+      "asin": "B0DF8Q9WX4",
+      "title": "Cooktop de Indução 4 Bocas Preto com Zona Flexível Dako Diplomata 220V",
+      "link": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Flex%C3%ADvel-Dako-Diplomata/dp/B0DF8Q9WX4",
+      "current_price": 1257.89,
+      "original_price": 1699.0,
+      "discount": 26.0,
+      "difference": 441.11,
       "criteria": [
-        "R$ 460.0 desc."
+        "R$ 441.11 desc."
       ],
-      "badge": "32% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71E+8TlqHUL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1790665099.02763,
+      "badge": "25% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cQS1VyuZL._AC_UL210_SR210,210_.jpg",
+      "category": "[COOKTOP]",
+      "last_seen": 1793499570.638739,
+      "discovery_ts": 1793236655.28209,
       "is_new": false
     },
     {
@@ -29369,26 +29326,8 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51QP72LhToL._AC_UL210_SR210,210_.jpg",
       "category": "[COFFEE_MAKER]",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793425859.616038,
-      "is_new": false
-    },
-    {
-      "asin": "B0F5X7CBMX",
-      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X7CBMX",
-      "current_price": 2698.0,
-      "original_price": 2999.99,
-      "discount": 10.1,
-      "difference": 301.99,
-      "criteria": [
-        "R$ 301.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793477012.768141,
-      "discovery_ts": 1786382621.995871,
       "is_new": false
     },
     {
@@ -29405,7 +29344,7 @@
       "badge": "5% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1786559638.816864,
       "is_new": false
     },
@@ -29423,7 +29362,7 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51N4f4GFW4L._AC_UL210_SR210,210_.jpg",
       "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1793477012.768141,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793352714.470305,
       "is_new": false
     },
@@ -29441,7 +29380,7 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
       "category": "🎮 Games & Lazer",
-      "last_seen": 1793488708.813623,
+      "last_seen": 1793499570.638739,
       "discovery_ts": 1793328950.708677,
       "is_new": false
     },
