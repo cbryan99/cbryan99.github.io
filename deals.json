@@ -1,5 +1,5 @@
 {
-  "last_check": "02/11/2026 03:55:27",
+  "last_check": "02/11/2026 11:56:56",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1455,6 +1455,10 @@
         {
           "price": 3521.9,
           "date": "2026-10-31T00:10:33.484838"
+        },
+        {
+          "price": 3475.0,
+          "date": "2026-11-02T11:56:28.120880"
         }
       ]
     },
@@ -29070,49 +29074,121 @@
           "date": "2026-11-02T03:55:15.913310"
         }
       ]
+    },
+    "B0BHKLB12W": {
+      "discovery_date": "2026-11-02T11:56:28.120880",
+      "price_history": [
+        {
+          "price": 82.53,
+          "date": "2026-11-02T11:56:28.120880"
+        }
+      ]
+    },
+    "B0CSK9X8BQ": {
+      "discovery_date": "2026-11-02T11:56:28.120880",
+      "price_history": [
+        {
+          "price": 1825.91,
+          "date": "2026-11-02T11:56:28.120880"
+        }
+      ]
+    },
+    "B0CC6YVPMV": {
+      "discovery_date": "2026-11-02T11:56:28.120880",
+      "price_history": [
+        {
+          "price": 2969.0,
+          "date": "2026-11-02T11:56:28.120880"
+        }
+      ]
+    },
+    "B0CMQZFC11": {
+      "discovery_date": "2026-11-02T11:56:28.120880",
+      "price_history": [
+        {
+          "price": 2301.8,
+          "date": "2026-11-02T11:56:28.120880"
+        }
+      ]
     }
   },
   "data": [
     {
-      "asin": "B0GSX6YQFG",
-      "title": "Toyster - Paris Mágica - Quebra-cabeça 1000 Peças - Game Office",
-      "link": "https://www.amazon.com.br/Toyster-Paris-M%C3%A1gica-Quebra-cabe%C3%A7a-Office/dp/B0GSX6YQFG",
-      "current_price": 35.52,
-      "original_price": 94.9,
-      "discount": 62.6,
-      "difference": 59.38,
+      "asin": "B0CSK9X8BQ",
+      "title": "Tablet TCL A1 Plus 128GB, 16GB RAM (6GB + 10GB), Tela 12.2\" 2.4K 120Hz, Bateria 8000mAh, Android 16, Snapdragon - Com Capa Teclado e Caneta T Pen",
+      "link": "https://www.amazon.com.br/TCL-Bateria-8000mAh-Android-Snapdragon/dp/B0CSK9X8BQ",
+      "current_price": 1825.91,
+      "original_price": 2207.9,
+      "discount": 17.3,
+      "difference": 381.99,
       "criteria": [
-        "62.6% OFF"
+        "R$ 381.99 desc."
       ],
-      "badge": "62% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iZjMp6NoL._AC_UL210_SR210,210_.jpg",
-      "category": "[PUZZLES]",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793591715.913318,
+      "badge": "17% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/713+kxvzgwL._AC_UL210_SR210,210_.jpg",
+      "category": "[TABLET_COMPUTER]",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793620588.120888,
       "is_new": true
     },
     {
-      "asin": "B0F6YRLJS8",
-      "title": "Steck, Interruptor 4X2\" 3 Módulos Touch Branco Wi-Fi, Ambiente Conectado, SINT3B1",
-      "link": "https://www.amazon.com.br/Steck-Interruptor-M%C3%B3dulos-Ambiente-Conectado/dp/B0F6YRLJS8",
-      "current_price": 72.11,
-      "original_price": 129.9,
-      "discount": 44.5,
-      "difference": 57.79,
+      "asin": "B0CC6YVPMV",
+      "title": "Colchão King Luuna Original Macio 26cm, bloqueio de movimento, 10 Anos",
+      "link": "https://www.amazon.com.br/Luuna-Original-193x203cm-viscoel%C3%A1stica-ensacadas/dp/B0CC6YVPMV",
+      "current_price": 2969.0,
+      "original_price": 3299.0,
+      "discount": 10.0,
+      "difference": 330.0,
       "criteria": [
-        "44.5% OFF"
+        "R$ 330.0 desc."
       ],
-      "badge": "44% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31yIQdY2NzL._AC_UL210_SR210,210_.jpg",
-      "category": "[ELECTRONIC_SWITCH]",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793591715.913318,
+      "badge": "10% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jyNdtH41L._AC_UL210_SR210,210_.jpg",
+      "category": "[MATTRESS]",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793620588.120888,
       "is_new": true
     },
     {
-      "asin": "B0DSY6L19S",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Azul",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY6L19S",
+      "asin": "B0CMQZFC11",
+      "title": "Ar Condicionado Split Hi Wall Fujitsu Inverter Airstage Essencial 12.000 Btus Frio 220v R-32",
+      "link": "https://www.amazon.com.br/Ar-condicionado-Inverter-Fujitsu-Airstage-Essencial/dp/B0CMQZFC11",
+      "current_price": 2301.8,
+      "original_price": 2630.62,
+      "discount": 12.5,
+      "difference": 328.82,
+      "criteria": [
+        "R$ 328.82 desc."
+      ],
+      "badge": "12% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51lhFzGXTVL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793620588.120888,
+      "is_new": true
+    },
+    {
+      "asin": "B0BHKLB12W",
+      "title": "Tech T-shirt Gola V Masculino Insider",
+      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Preto/dp/B0BHKLB12W",
+      "current_price": 82.53,
+      "original_price": 165.0,
+      "discount": 50.0,
+      "difference": 82.47,
+      "criteria": [
+        "50.0% OFF"
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51JgLC3ny+L._AC_UL210_SR210,210_.jpg",
+      "category": "[SHIRT]",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793620588.120888,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSXZ4FZT",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
       "current_price": 6332.0,
       "original_price": 11999.0,
       "discount": 47.2,
@@ -29122,47 +29198,10 @@
         "R$ 5667.0 desc."
       ],
       "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61cQ33z3-uL._AC_UL210_SR210,210_.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61OvA9ijsYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1792328639.895348,
-      "is_new": false
-    },
-    {
-      "asin": "B0DSY663DK",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Prata",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSY663DK",
-      "current_price": 6332.0,
-      "original_price": 11999.0,
-      "discount": 47.2,
-      "difference": 5667.0,
-      "criteria": [
-        "47.2% OFF",
-        "R$ 5667.0 desc."
-      ],
-      "badge": "47% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61YXJdHicxL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1787273955.560495,
-      "is_new": false
-    },
-    {
-      "asin": "B0HGS88G4X",
-      "title": "Notebook Gamer Acer Nitro V16 ANV16-I31-541M Intel® Core™ 5 210H 16GB RAM 512GB SSD RTX5060 Windows 11 Home 16\"",
-      "link": "https://www.amazon.com.br/Notebook-Acer-ANV16-I31-541M-RTX5060-Windows/dp/B0HGS88G4X",
-      "current_price": 8799.0,
-      "original_price": 10999.0,
-      "discount": 20.0,
-      "difference": 2200.0,
-      "criteria": [
-        "R$ 2200.0 desc."
-      ],
-      "badge": "20% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51B0zB2pkrL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793393411.358899,
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1789768639.994649,
       "is_new": false
     },
     {
@@ -29179,26 +29218,26 @@
       "badge": "25% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q3GA4-J9L._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1786697263.070354,
       "is_new": false
     },
     {
-      "asin": "B0DJFT8HZC",
-      "title": "Apple iPhone 16 (128 GB) – Rosa",
-      "link": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFT8HZC",
-      "current_price": 5084.99,
-      "original_price": 6799.0,
-      "discount": 25.2,
-      "difference": 1714.01,
+      "asin": "B0B8MCB6KK",
+      "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
+      "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
+      "current_price": 3475.0,
+      "original_price": 4899.0,
+      "discount": 29.1,
+      "difference": 1424.0,
       "criteria": [
-        "R$ 1714.01 desc."
+        "R$ 1424.0 desc."
       ],
-      "badge": "25% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL210_SR210,210_.jpg",
+      "badge": "29% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51m1lv0+KCL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1785269176.438674,
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1784752600.373367,
       "is_new": false
     },
     {
@@ -29215,7 +29254,7 @@
       "badge": "38% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51MW8Jvv1RL._AC_UL210_SR210,210_.jpg",
       "category": "[AUDIO_OR_VIDEO]",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1792904549.779002,
       "is_new": false
     },
@@ -29233,44 +29272,44 @@
       "badge": "22% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51B8uCznCOL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793577082.457549,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793405433.484844,
       "is_new": false
     },
     {
-      "asin": "B0DFQFZN5V",
-      "title": "Soundbar LG S90TY, Dolby Atmos, 5.1.3 Canais, 570W RMS | DTS:X, AI Room Calibration Pro, AI Sound Pro, WOW Orchestra",
-      "link": "https://www.amazon.com.br/Soundbar-LG-S90TY-Bluetooth-Calibration/dp/B0DFQFZN5V",
-      "current_price": 2299.0,
-      "original_price": 3199.2,
-      "discount": 28.1,
-      "difference": 900.2,
+      "asin": "B08DMTBXJ3",
+      "title": "Lava e Seca Hisense 3S 12/8 kg Inverter Wi-Fi e Função Steam Branca 220V - WD3S1243BW2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Branca/dp/B08DMTBXJ3",
+      "current_price": 2634.12,
+      "original_price": 3499.0,
+      "discount": 24.7,
+      "difference": 864.88,
       "criteria": [
-        "R$ 900.2 desc."
+        "R$ 864.88 desc."
       ],
-      "badge": "28% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/31AkcRm364L._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1790974927.152782,
+      "badge": "24% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tvFi0aBsL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793425859.616038,
       "is_new": false
     },
     {
-      "asin": "B0H3QCCJ8M",
-      "title": "Smart TV TCL 85 Polegadas QLED 4K P8L WiFi Bluetooth Google TV HDR10+ 144 Hz VRR 85P8L",
-      "link": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-85P8L/dp/B0H3QCCJ8M",
-      "current_price": 7549.9,
-      "original_price": 8299.0,
-      "discount": 9.0,
-      "difference": 749.1,
+      "asin": "B0C9KHZZ9M",
+      "title": "Refrigerador Philco PRF535ID Side By Side 434 Litros 220V",
+      "link": "https://www.amazon.com.br/Refrigerador-Geladeira-Side-Philco-PRF535ID/dp/B0C9KHZZ9M",
+      "current_price": 3798.9,
+      "original_price": 4640.0,
+      "discount": 18.1,
+      "difference": 841.1,
       "criteria": [
-        "R$ 749.1 desc."
+        "R$ 841.1 desc."
       ],
-      "badge": "9% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91X-aKz1piL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1789509210.017806,
+      "badge": "18% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xTfeRIWaL._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1793525022.338753,
       "is_new": false
     },
     {
@@ -29287,27 +29326,26 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793283879.111739,
       "is_new": false
     },
     {
-      "asin": "B0DG32SNZ4",
-      "title": "MONDIAL Caixa de Som Party Box, Luzes Multicores, Bluetooth, 350W RMS, TWS - PBX-350",
-      "link": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4",
-      "current_price": 279.9,
-      "original_price": 829.9,
-      "discount": 66.3,
-      "difference": 550.0,
+      "asin": "B0H32MYJTZ",
+      "title": "Lava e Seca Hisense 3S 14/9 kg Inverter Wi-Fi e Função Steam Black Noir 220V - WD3S1443BB2",
+      "link": "https://www.amazon.com.br/Hisense-Inverter-Wi-Fi-Fun%C3%A7%C3%A3o-Steam/dp/B0H32MYJTZ",
+      "current_price": 3363.53,
+      "original_price": 3999.0,
+      "discount": 15.9,
+      "difference": 635.47,
       "criteria": [
-        "66.3% OFF",
-        "R$ 550.0 desc."
+        "R$ 635.47 desc."
       ],
-      "badge": "66% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/9107aJ29QTL._AC_UL210_SR210,210_.jpg",
-      "category": "[SPEAKERS]",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1790417113.008513,
+      "badge": "Oferta Amazon",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71A2P6J7HjL._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER_DRYER_COMBINATION]",
+      "last_seen": 1793620588.120888,
+      "discovery_ts": 1792841585.611532,
       "is_new": false
     },
     {
@@ -29324,62 +29362,8 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1786763207.777179,
-      "is_new": false
-    },
-    {
-      "asin": "B0CN7B2LNK",
-      "title": "Geladeira LG GN-B392PX 2 Portas 395 Litros Preta Inox | Frost Free, Top Freezer Inverter -127 Volts",
-      "link": "https://www.amazon.com.br/Geladeira-LG-Inverter-Freezer-GN-B392PXG/dp/B0CN7B2LNK",
-      "current_price": 2787.99,
-      "original_price": 3194.85,
-      "discount": 12.7,
-      "difference": 406.86,
-      "criteria": [
-        "R$ 406.86 desc."
-      ],
-      "badge": "12% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/315+lj351CL._AC_UL210_SR210,210_.jpg",
-      "category": "[MAJOR_HOME_APPLIANCES]",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1789724536.471138,
-      "is_new": false
-    },
-    {
-      "asin": "B0DTMCLTKV",
-      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
-      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
-      "current_price": 6332.0,
-      "original_price": 6735.79,
-      "discount": 6.0,
-      "difference": 403.79,
-      "criteria": [
-        "R$ 403.79 desc."
-      ],
-      "badge": "5% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793577082.457549,
-      "discovery_ts": 1791951144.43256,
-      "is_new": false
-    },
-    {
-      "asin": "B0F5X7CBMX",
-      "title": "Samsung Smart TV 55\" Crystal UHD 4K U8600F 2025",
-      "link": "https://www.amazon.com.br/Samsung-Smart-Crystal-U8600F-2025/dp/B0F5X7CBMX",
-      "current_price": 2698.0,
-      "original_price": 2999.99,
-      "discount": 10.1,
-      "difference": 301.99,
-      "criteria": [
-        "R$ 301.99 desc."
-      ],
-      "badge": "10% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
-      "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1786382621.995871,
       "is_new": false
     },
     {
@@ -29396,26 +29380,8 @@
       "badge": "49% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51N4f4GFW4L._AC_UL210_SR210,210_.jpg",
       "category": "[NUTRITIONAL_SUPPLEMENT]",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793352714.470305,
-      "is_new": false
-    },
-    {
-      "asin": "B07FN1MZBH",
-      "title": "Controle sem fio PlayStation Dualshock 4™ - Preto",
-      "link": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH",
-      "current_price": 209.99,
-      "original_price": 349.9,
-      "discount": 40.0,
-      "difference": 139.91,
-      "criteria": [
-        "40.0% OFF"
-      ],
-      "badge": "39% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
-      "category": "🎮 Games & Lazer",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793328950.708677,
       "is_new": false
     },
     {
@@ -29432,26 +29398,8 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31RDw6Caq9L._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1787218050.770928,
-      "is_new": false
-    },
-    {
-      "asin": "B0BHJNL76T",
-      "title": "Tech T-shirt Gola V Masculino Insider",
-      "link": "https://www.amazon.com.br/Tech-T-shirt-Gola-Masculino-Marinho/dp/B0BHJNL76T",
-      "current_price": 68.16,
-      "original_price": 165.0,
-      "discount": 58.7,
-      "difference": 96.84,
-      "criteria": [
-        "58.7% OFF"
-      ],
-      "badge": "58% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51hss67Tm8L._AC_UL210_SR210,210_.jpg",
-      "category": "[SHIRT]",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793549519.627449,
       "is_new": false
     },
     {
@@ -29468,7 +29416,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LaMFJ0d4L._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793525022.338753,
       "is_new": false
     },
@@ -29486,7 +29434,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71p4HyifokL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_SERUM]",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793525022.338753,
       "is_new": false
     },
@@ -29504,26 +29452,8 @@
       "badge": "47% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41E+81rtwuL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CLEANING_AGENT]",
-      "last_seen": 1793591715.913318,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1793549519.627449,
-      "is_new": false
-    },
-    {
-      "asin": "B0FH2X3WTR",
-      "title": "Asmodee, Exploding Kittens: Proibidão, Jogo de Cartas para 2 a 5 Jogadores | Para Jogadores Acima de 18 Anos, Partidas de 15 Minutos, Party Game Competitivo para Adultos, Jogue com os Amigos",
-      "link": "https://www.amazon.com.br/Asmodee-Exploding-Kittens-Proibid%C3%A3o-jogadores/dp/B0FH2X3WTR",
-      "current_price": 67.92,
-      "original_price": 119.99,
-      "discount": 43.4,
-      "difference": 52.07,
-      "criteria": [
-        "43.4% OFF"
-      ],
-      "badge": "43% off",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71boCXCE6TL._AC_UL210_SR210,210_.jpg",
-      "category": "[TABLETOP_GAME]",
-      "last_seen": 1793591715.913318,
-      "discovery_ts": 1793577082.457539,
       "is_new": false
     },
     {
@@ -29540,7 +29470,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61MNgKAQcrL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1793577082.457549,
+      "last_seen": 1793620588.120888,
       "discovery_ts": 1785050714.261271,
       "is_new": false
     }
