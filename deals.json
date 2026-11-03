@@ -1,5 +1,5 @@
 {
-  "last_check": "02/11/2026 21:23:40",
+  "last_check": "03/11/2026 02:59:21",
   "history": {
     "B0FV3JZ618": {
       "discovery_date": "2026-07-18T23:25:23.485030",
@@ -1756,6 +1756,10 @@
         {
           "price": 5599.0,
           "date": "2026-08-21T13:54:54.456651"
+        },
+        {
+          "price": 5776.67,
+          "date": "2026-11-03T02:59:21.411612"
         }
       ]
     },
@@ -26293,6 +26297,10 @@
         {
           "price": 1788.0,
           "date": "2026-09-27T23:05:37.054459"
+        },
+        {
+          "price": 1652.0,
+          "date": "2026-11-03T02:59:21.411612"
         }
       ]
     },
@@ -29114,9 +29122,82 @@
           "date": "2026-11-02T11:56:28.120880"
         }
       ]
+    },
+    "B0B8Q6VLRB": {
+      "discovery_date": "2026-11-03T02:59:21.411612",
+      "price_history": [
+        {
+          "price": 59.9,
+          "date": "2026-11-03T02:59:21.411612"
+        }
+      ]
+    },
+    "B0FHTBXQ93": {
+      "discovery_date": "2026-11-03T02:59:21.411612",
+      "price_history": [
+        {
+          "price": 2699.0,
+          "date": "2026-11-03T02:59:21.411612"
+        }
+      ]
     }
   },
   "data": [
+    {
+      "asin": "B0FHTBXQ93",
+      "title": "Máquina de Lavar Electrolux Expert, 18Kg, Preta, Tripla Filtragem, Jatos Poderosos, LEB18",
+      "link": "https://www.amazon.com.br/M%C3%A1quina-Electrolux-Filtragem-Poderosos-LEB18/dp/B0FHTBXQ93",
+      "current_price": 2699.0,
+      "original_price": 3549.0,
+      "discount": 24.0,
+      "difference": 850.0,
+      "criteria": [
+        "R$ 850.0 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Tv1lExs7L._AC_UL210_SR210,210_.jpg",
+      "category": "[WASHER]",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1793674761.41162,
+      "is_new": true
+    },
+    {
+      "asin": "B0B8Q6VLRB",
+      "title": "Protetor Solar Facial EUCERIN FPS 70",
+      "link": "https://www.amazon.com.br/Protetor-Facial-Eucerin-Control-Tinted/dp/B0B8Q6VLRB",
+      "current_price": 59.9,
+      "original_price": 99.9,
+      "discount": 40.0,
+      "difference": 40.0,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "40% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61784UndFHL._AC_UL210_SR210,210_.jpg",
+      "category": "[SUNSCREEN]",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1793674761.41162,
+      "is_new": true
+    },
+    {
+      "asin": "B0DSXZZH49",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Cinza",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZZH49",
+      "current_price": 6332.0,
+      "original_price": 11999.0,
+      "discount": 47.2,
+      "difference": 5667.0,
+      "criteria": [
+        "47.2% OFF",
+        "R$ 5667.0 desc."
+      ],
+      "badge": "47% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/613hjN2-QnL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1786799221.459366,
+      "is_new": false
+    },
     {
       "asin": "B0DSXZ4FZT",
       "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
@@ -29150,8 +29231,26 @@
       "badge": "39% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61eUOIh87pL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1789775662.257893,
+      "is_new": false
+    },
+    {
+      "asin": "B0DJFSKVZ5",
+      "title": "Apple iPhone 16 (256 GB) – Preto",
+      "link": "https://www.amazon.com.br/Apple-iPhone-16-256-GB/dp/B0DJFSKVZ5",
+      "current_price": 5776.67,
+      "original_price": 7599.0,
+      "discount": 24.0,
+      "difference": 1822.33,
+      "criteria": [
+        "R$ 1822.33 desc."
+      ],
+      "badge": "23% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1784846418.539129,
       "is_new": false
     },
     {
@@ -29173,6 +29272,44 @@
       "is_new": false
     },
     {
+      "asin": "B0GVW8464B",
+      "title": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+      "link": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+      "current_price": 2089.05,
+      "original_price": 3806.0,
+      "discount": 45.1,
+      "difference": 1716.95,
+      "criteria": [
+        "45.1% OFF",
+        "R$ 1716.95 desc."
+      ],
+      "badge": "45% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sHm9G9XL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1789412436.19625,
+      "is_new": false
+    },
+    {
+      "asin": "B0GVT85MNH",
+      "title": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Verde)",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-C%C3%A2mera/dp/B0GVT85MNH",
+      "current_price": 1652.0,
+      "original_price": 3299.0,
+      "discount": 49.9,
+      "difference": 1647.0,
+      "criteria": [
+        "49.9% OFF",
+        "R$ 1647.0 desc."
+      ],
+      "badge": "49% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51nJuNN5hPL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1790550337.054459,
+      "is_new": false
+    },
+    {
       "asin": "B0B8MCB6KK",
       "title": "Notebook Acer Aspire Go 15 AG15-71P-5939 Intel core I5 13ª Geração 8GB RAM 256GB SSD Full HD TN Windows 11 Home",
       "link": "https://www.amazon.com.br/Notebook-Aspire-AG15-71P-5939-Gera%C3%A7%C3%A3o-Windows/dp/B0B8MCB6KK",
@@ -29188,6 +29325,43 @@
       "category": "💻 Eletrônicos & Informática",
       "last_seen": 1793654604.265223,
       "discovery_ts": 1784752600.373367,
+      "is_new": false
+    },
+    {
+      "asin": "B0FRBXPKZF",
+      "title": "Electrolux Lava-Louça Electrolux 8 Serviços Branca com Programa Lava & Seca 50 min (LB08E) 127V",
+      "link": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LB08E/dp/B0FRBXPKZF",
+      "current_price": 1799.0,
+      "original_price": 3099.0,
+      "discount": 41.9,
+      "difference": 1300.0,
+      "criteria": [
+        "41.9% OFF",
+        "R$ 1300.0 desc."
+      ],
+      "badge": "41% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41R+fa1V8LL._AC_UL210_SR210,210_.jpg",
+      "category": "[DISHWASHER]",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1793352714.470305,
+      "is_new": false
+    },
+    {
+      "asin": "B0B3PJXDMN",
+      "title": "Geladeira Electrolux Multidoor Efficient Com Autosense e Inverter 590L Black Inox Look (IM8B) 220V",
+      "link": "https://www.amazon.com.br/Geladeira-Electrolux-Multidoor-Efficient-Autosense/dp/B0B3PJXDMN",
+      "current_price": 6299.0,
+      "original_price": 7577.89,
+      "discount": 16.9,
+      "difference": 1278.89,
+      "criteria": [
+        "R$ 1278.89 desc."
+      ],
+      "badge": "16% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31DhYnOQs0L._AC_UL210_SR210,210_.jpg",
+      "category": "❄️ Eletrodomésticos & Casa",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1790820251.380572,
       "is_new": false
     },
     {
@@ -29240,7 +29414,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41R+BErnAmL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1793283879.111739,
       "is_new": false
     },
@@ -29276,7 +29450,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319xY36QjcL._AC_UL210_SR210,210_.jpg",
       "category": "❄️ Eletrodomésticos & Casa",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1786763207.777179,
       "is_new": false
     },
@@ -29299,6 +29473,24 @@
       "is_new": false
     },
     {
+      "asin": "B0DTMCLTKV",
+      "title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Qu%C3%A1drupla-Tit%C3%A2nio-Jetblack/dp/B0DTMCLTKV",
+      "current_price": 6332.0,
+      "original_price": 6735.79,
+      "discount": 6.0,
+      "difference": 403.79,
+      "criteria": [
+        "R$ 403.79 desc."
+      ],
+      "badge": "5% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41dv7LltRmL._AC_UL210_SR210,210_.jpg",
+      "category": "💻 Eletrônicos & Informática",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1791951144.43256,
+      "is_new": false
+    },
+    {
       "asin": "B0CSK9X8BQ",
       "title": "Tablet TCL A1 Plus 128GB, 16GB RAM (6GB + 10GB), Tela 12.2\" 2.4K 120Hz, Bateria 8000mAh, Android 16, Snapdragon - Com Capa Teclado e Caneta T Pen",
       "link": "https://www.amazon.com.br/TCL-Bateria-8000mAh-Android-Snapdragon/dp/B0CSK9X8BQ",
@@ -29312,7 +29504,7 @@
       "badge": "17% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/713+kxvzgwL._AC_UL210_SR210,210_.jpg",
       "category": "[TABLET_COMPUTER]",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1793620588.12088,
       "is_new": false
     },
@@ -29330,8 +29522,26 @@
       "badge": "10% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71iGUDQvOYL._AC_UL210_SR210,210_.jpg",
       "category": "💻 Eletrônicos & Informática",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1786382621.995871,
+      "is_new": false
+    },
+    {
+      "asin": "B0CW976R89",
+      "title": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Prata, DS1100V, Elsys",
+      "link": "https://www.amazon.com.br/Fechadura-Digital-Sobrepor-Abertura-Elsys/dp/B0CW976R89",
+      "current_price": 200.84,
+      "original_price": 499.0,
+      "discount": 59.8,
+      "difference": 298.16,
+      "criteria": [
+        "59.8% OFF"
+      ],
+      "badge": "59% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519JmdzFSBL._AC_UL210_SR210,210_.jpg",
+      "category": "[LOCK]",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1793499570.638731,
       "is_new": false
     },
     {
@@ -29350,6 +29560,24 @@
       "category": "[NUTRITIONAL_SUPPLEMENT]",
       "last_seen": 1793654604.265223,
       "discovery_ts": 1793352714.470305,
+      "is_new": false
+    },
+    {
+      "asin": "B07FN1MZBH",
+      "title": "Controle sem fio PlayStation Dualshock 4™ - Preto",
+      "link": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH",
+      "current_price": 209.99,
+      "original_price": 349.9,
+      "discount": 40.0,
+      "difference": 139.91,
+      "criteria": [
+        "40.0% OFF"
+      ],
+      "badge": "39% off",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kwdPH8+xL._AC_UL210_SR210,210_.jpg",
+      "category": "🎮 Games & Lazer",
+      "last_seen": 1793674761.41162,
+      "discovery_ts": 1793328950.708677,
       "is_new": false
     },
     {
@@ -29384,7 +29612,7 @@
       "badge": "40% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41LaMFJ0d4L._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_CARE_PRODUCT]",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1793525022.338753,
       "is_new": false
     },
@@ -29402,7 +29630,7 @@
       "badge": "50% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/71p4HyifokL._AC_UL210_SR210,210_.jpg",
       "category": "[SKIN_SERUM]",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1793525022.338753,
       "is_new": false
     },
@@ -29438,7 +29666,7 @@
       "badge": "45% off",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61MNgKAQcrL._AC_UL210_SR210,210_.jpg",
       "category": "🧴 Beleza & Cuidado Pessoal",
-      "last_seen": 1793654604.265223,
+      "last_seen": 1793674761.41162,
       "discovery_ts": 1785050714.261271,
       "is_new": false
     }
